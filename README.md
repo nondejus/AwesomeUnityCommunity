@@ -44,6 +44,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [Tips and Tricks](#tips-and-tricks)
   - [Tutorials](#tutorials)
   - [Books](#books)
+  - [Blogs](#blogs)
 - [Projects](#projects)
   - [Games](#games)
 - [Contributing](#contributing)
@@ -75,10 +76,9 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples. (Redirects to DAQRI website.)
 * [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "ARCore SDK for Unity.")
-* [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 
 ## Virtual Reality
-* [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "A productive VR Toolkit for rapidly building VR solutions in Unity3d.")
+* [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "A productive VR Toolkit for rapidly building VR solutions in Unity3d.") :thumbsup:
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk "") - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS. (https://developers.google.com/vr/unity)
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR "A virtual reality interaction system for unity based on physics.")
@@ -93,6 +93,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Camera
 
 * [Pixel Perfect Retro Camera](https://github.com/wolv-interactive/Pixel-Perfect-Retro-Camera "Pixel perfect retro camera system for Unity")
+* [UnityEquiCam](https://github.com/bodhid/UnityEquiCam "") - Realtime 360° ( equirectangular ) panorama Camera for Unity.
 * [UFPS (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera, controllers, and other effects for use in FPS games.
 
 ## Physics
@@ -122,6 +123,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Input
 
+* [TouchUIWatcher](https://github.com/Syy9/TouchUIWatcher "") - Unity GameView Touch UI Watcher.
 * [TouchScript](https://github.com/TouchScript/TouchScript "Complete multi-touch solution for Unity: iOS, Android, Windows, TUIO.")
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer "Gestures and input handling made sane for Unity.")
 * [TouchKit](https://github.com/prime31/TouchKit "Steering, obstacle avoidance and path following behaviors for the Unity Game Engine.") - Makes it easy to recognize gestures and other touch input.
@@ -145,10 +147,13 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Networking
 
+* [Xavier](https://github.com/adrenak/Xavier "") - A Networking solution for Unity based on Telepathy.
 * [Networker](https://github.com/MarkioE/Networker "A simple to use TCP and UDP networking library for .NET. Compatible with Unity.")
 * [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
 * [Photon Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
+* [basic_multiplayer_unity](https://github.com/manlaig/basic_multiplayer_unity) - Fast-Paced UDP Client-Server implementation.
+
 
 ## Scripting
 
@@ -181,6 +186,17 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Page curl effect for Unity3D](https://github.com/Dandarawy/Unity3DBookPageCurl "Page curl effect for Unity3D Github Page")
 * [Lowpoly Water Shader](https://github.com/danielzeller/Lowpoly-Water-Unity "Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.")
 * [Unity Volume Sampler](https://github.com/MarkioE/Networker "Mesh volume sampler with voxelizer & 3D poisson disk sampling for Unity.")
+* [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog "") - Volumetric fog implementation in Unity.
+* [fun-frag-shaders](https://github.com/makitsune/fun-frag-shaders "") - Fun fragment shaders you can use in Unity.
+* [Sprite Glow](https://github.com/Elringus/SpriteGlow "A sprite glow effect for Unity game engine.")
+* [Hatching Shader](https://github.com/nkihrk/HatchingShader "")
+* [KinoContour](https://github.com/keijiro/KinoContour "") - Contour line filter for Unity
+* [UnityToonShader](https://github.com/IronWarrior/UnityToonShader "") - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
+* [SG-HDRP-Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
+* [unity-2d-water](https://github.com/Brajanowski/unity-2d-water "") - Simple water in Unity for 2D platform games.
+* [psx_retroshader](https://github.com/dsoft20/psx_retroshader "") - Shader that "emulates" the rendering style of ps1.
+* [unity-volume-sampler](https://github.com/mattatz/unity-volume-sampler "") - Mesh volume sampler with voxelizer & 3D poisson disk sampling for Unity.
+* [fluviofx](https://github.com/thinksquirrel/fluviofx "") - Fluid dynamics for Unity's VFX graph.
 
 ## Plugins
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d")
@@ -199,6 +215,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
 * [LeanTween](https://www.assetstore.unity3d.com/en/#!/content/3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 * [XTween](https://github.com/Toki-Labs/XTween "Tweener for Unity")
+* [ReMotion](https://github.com/neuecc/ReMotion "Hyper Fast Reactive Tween Engine for Unity") - Hyper Fast Reactive Tween Engine for Unity.
+
 
 ## UI
 
@@ -212,6 +230,11 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [TMP_RectVisualizer](https://github.com/baba-s/TMP_RectVisualizer "The size of Text and TextMesh Pro can be visualized on game screen.")
 * [uGUI-Hypertext](https://github.com/setchi/uGUI-Hypertext "Hypertext for uGUI.")
 * [Scatterplot_Standalone](https://github.com/PrinzEugn/Scatterplot_Standalone "3D scatterplot in Unity")
+* [NotchSolution](https://github.com/5argon/NotchSolution "A set of tools to fight with notched/cutout phones for Unity uGUI") - A set of tools to fight with notched/cutout phones for Unity uGUI
+* [iPhoneX Overlay](https://github.com/ianwaldrop/iPhoneX-overlay "Unity Editor utility which masks the game view with the shape of an iPhone X.") - Unity Editor utility which masks the game view with the shape of an iPhone X.
+* [unity-sprite-cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
+
+
 
 ## Audio
 
@@ -228,7 +251,17 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [UnityIconCustomizer](https://github.com/makoto-unity/UnityIconCustomizer "You can customize your app icon with this. Like adding version number, 'BETA' and so on.")
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.")
 * [ReorderableListExample](https://github.com/valyard/ReorderableListExample "Example project for UnityEditorInternal.ReorderableList in Unity 4.5")
+* [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
+* [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile "")
 * [AutoIconBuilder](https://github.com/negipoyoc/UnityAutoIconBuilder "")
+* [UnityIconCustomizer](https://github.com/makoto-unity/UnityIconCustomizer "") - You can customize your app icon with this. Like adding version number, 'BETA' and so on.
+* [uShaderTemplate](https://github.com/hecomi/uShaderTemplate "Unity editor extension to generate shaders from template files.") - Unity editor extension to generate shaders from template files.
+* [UnityPackageTemplate](https://github.com/iBicha/UnityPackageTemplate "") - A template for creating Unity packages.
+* [UnityIniFiles](https://github.com/iBicha/UnityIniFiles "") - A very naive implementation to import .ini configuration files into Unity.
+* [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension "") - Git extension for Unity Package Manager (UPM).
+* [doors-plus-lite](https://github.com/AlexanderAmeye/doors-plus-lite "") - A basic door script for the Unity3D game engine.
+
+
 
 ## Tools
 
@@ -250,6 +283,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "Google Play Games plugin for Unity.")
 * [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.")
 * [NewtonUnityPlugin](https://github.com/svenberra/NewtonUnityPlugin "A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.")
+* [Permission Plugin for Unity](https://github.com/hiyorin/PermissionPlugin-for-Unity "A set of tools for Unity to allow handling Permission for Android and iOS.") - A set of tools for Unity to allow handling Permission for Android and iOS.
+* [Google SignIn Plugin for Unity](https://github.com/hiyorin/GoogleSigninPlugin-for-Unity "A set of tools for Unity to allow handling Google Sign-in for Android and iOS.") - A set of tools for Unity to allow handling Google Sign-in for Android and iOS.
+* [Memory Info Plugin for Unity](https://github.com/hiyorin/MemoryInfoPlugin-for-Unity "A set of tools for Unity to allow handling memory info for Android and iOS.") - A set of tools for Unity to allow handling memory info for Android and iOS.
+* [System Volume Plugin for Unity](https://github.com/hiyorin/SystemVolumePlugin-for-Unity "A set of tools for Unity to allow handling system volume for Android and iOS") - A set of tools for Unity to allow handling system volume for Android and iOS.
 
 ## Misc.
 
@@ -269,6 +306,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [AssetStudio](https://github.com/RaduMC/AssetStudio "AssetStudio is an independent tool for exploring, extracting and exporting assets.")
 * [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit "Procedural generation library for Unity")
 * [Harmony](https://github.com/pardeike/Harmony "A library for patching, replacing and decorating .NET and Mono methods during runtime")
+* [Screen Shooter](https://github.com/PhannGor/Screen-Shooter "A simple tool for creating screenshots at any resolution within the Unity Editor.")
 
 ## Visual Scripting
 
@@ -298,6 +336,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 --
 
+## Blogs
+
+--
+
 ## Tutorials
 
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
@@ -311,6 +353,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
+* [Character Customization Tutorial](https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial) - This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
 
 # Projects
 
