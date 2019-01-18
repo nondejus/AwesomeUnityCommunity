@@ -506,15 +506,21 @@ I hope all of you find this helpful. Let's go with the contents.
 
 # Best Practices
 
---
+* [Good coding practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) - Trello board with good coding practices in Unity.
+* [Reddit's Unity Best Practices](https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/) - Reddit's thread with best practices collected by Unity developers.
+* [unity-good-practices](https://github.com/futurice/unity-good-practices) - Github repository with Unity best practices.
+* [unity-good-practices ](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - Gamasutra article with 50 tips and best practices.
+* [Unity3D Official Best Practices](https://unity3d.com/es/learn/tutorials/s/best-practices) - Unity's official page for best practices.
 
 # Shortcuts
 
---
+* [Unity Editor Hotkeys](https://docs.unity3d.com/Manual/UnityHotkeys.html) - Unity manual's page with editor hotkeys.
+* [Raywenderlich.com Unity Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2017/12/UnityCheatSheet.pdf) - Cheatsheet with some common problems when developing with Unity.
+* [Cheatografy Cheatsheet](https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/) - Hotkeys for Unity editor.
 
 # People to follow
 
---
+Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.com/keijiro)
 
 # Communities
 
@@ -524,11 +530,14 @@ I hope all of you find this helpful. Let's go with the contents.
 
 ## Forums
 
---
+* [/r/Unity3D](https://www.reddit.com/r/Unity3D/ "") - Reddit forum focused in 3D Unity projects.
+* [/r/Unity2D](https://www.reddit.com/r/Unity2D/ "") - Reddit forum focused in 2D Unity projects.
+* [Unity Forum](https://forum.unity.com/ "") - Unity3D Official Forum.
 
 ## Groups
 
---
+* [Unity Connect](https://connect.unity.com/ "") - Unity official's marketplace for work showcase, job hunting and contact with other developers.
+* [Unity User Groups](https://unity3d.com/es/community/user-groups "") - Unity user groups around the globe. Find yours.
 
 # :clap: Contributors to this repository 
 
