@@ -435,6 +435,8 @@ I hope all of you find this helpful. Let's go with the contents.
 ## Visual Scripting
 
 * [Playmaker (Paid)](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
+* [Bolt (Paid with Free edition)](https://ludiq.io/bolt) - Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. 
+
 
 # Resources
 
