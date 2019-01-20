@@ -3,17 +3,18 @@
 		<img width="500" src="awesome-unity.png" alt="Awesome Unity">
 	</div>
   <br>
+	<div>
+		<h1>Awesome Unity</h1>
+		<p>A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
+
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
+		</p>
+	</div>
+<br>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge.svg" alt="Awesome">
 	</a>
 </div>
-
-Awesome Unity
-=============
-
-A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
-
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
