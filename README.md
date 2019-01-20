@@ -65,7 +65,17 @@ I hope all of you find this helpful. Let's go with the contents.
   - [Blogs](#blogs)
 - [Projects](#projects)
   - [Games](#games)
+- [Best Practices](#best-practices)
+- [Shortcuts](#shortcuts)
+- [People to Follow](#people-to-follow)
+- [Communities](#communities)
+  - [Chat Servers](#chat-servers)
+  - [Forums](#forums)
+  - [Groups](#groups)
+- [Frequently Asked Questions (FAQ)](#faq)
+- [Contributors to this repository](#contributors)
 - [Contributing](#contributing)
+- [To be done](#to-be-done)
 
 # :bookmark: Categories
 
@@ -95,7 +105,7 @@ I hope all of you find this helpful. Let's go with the contents.
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation "Character Animation in Unity 3D using Deep Learning and Artificial Intelligence") - Character Animation in Unity 3D using Deep Learning and Artificial Intelligence.
 * [Boner2D](https://github.com/playemgames/Boner2D "Free Open Source 2D Animation Tools for Unity") - Free Open Source 2D Animation Tools for Unity.
 * [PuppetTest](https://github.com/keijiro/PuppetTest "An experiment in procedural dance animation") - An experiment in procedural dance animation.
-
+* [EasyMotionRecorder](https://github.com/duo-inc/EasyMotionRecorder "") 
 
 ## Augmented Reality
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
@@ -111,7 +121,9 @@ I hope all of you find this helpful. Let's go with the contents.
 * [MoonMotion](https://github.com/MoonMotionProject/MoonMotion "Free and open source toolkit for VR locomotion.")
 * [VRTeleportationTourTemplate](https://github.com/wotakuro/VRTeleportationTourTemplate "")
 * [NatCam-VR-Cardboard](https://github.com/olokobayusuf/NatCam-VR-Cardboard "") - A Google Cardboard VR project using the rear camera preview. Powered by NatCam 1.2.
-* [steamvr_unity_plugin](https://github.com/ValveSoftware/steamvr_unity_plugin "") - Steam VR plugin for Unity.
+* [SteamVR Unity Plugin](https://github.com/ValveSoftware/steamvr_unity_plugin "") - Steam VR plugin for Unity.
+* [SteamVR Unity Toolkit](https://github.com/WildStyle69/SteamVR_Unity_Toolkit "") - A collection of useful scripts and prefabs for building SteamVR titles in Unity 5.
+
 
 ## Mixed Reality
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "Microsoft Mixed Reality Toolkit Github Page")
@@ -135,6 +147,7 @@ I hope all of you find this helpful. Let's go with the contents.
 * [PlatformerRails](https://github.com/FriendSea/PlatformerRails "Character Controller for 2.5D Platformer on Unity") - Character Controller for 2.5D Platformer on Unity.
 * [Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters "") - Unity Standard Asset Controllers.
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController "") - Unity custom character controller.
+* [Unity3d_ThirdPersonController](https://github.com/Arjunxxxl/Unity3d_ThirdPersonController "") - Unity3d Third Person Controller.
 
 ## Frameworks
 
@@ -197,6 +210,9 @@ I hope all of you find this helpful. Let's go with the contents.
 * [basic_multiplayer_unity](https://github.com/manlaig/basic_multiplayer_unity) - Fast-Paced UDP Client-Server implementation.
 * [ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - A free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine.
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
+* [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - Socket.io client for Unity.
+* [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
+* [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
 
 
 ## Scripting
@@ -261,6 +277,10 @@ I hope all of you find this helpful. Let's go with the contents.
 * [UnitySpriteShaders](https://github.com/traggett/UnitySpriteShaders "") - An Uber Shader for rendering Sprites in Unity.
 * [unityglitch](https://github.com/staffantan/unityglitch "") - Glitch post-processing shader for Unity3D.
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [Unity-HologramShield](https://github.com/paulgswanson/Unity-HologramShield "") - An hologram shield shader for Unity.
+* [GPU Particles](https://github.com/Robert-K/gpu-particles "") - A GPU Particle System for Unity.
+* [Unity NextGenSprites](https://github.com/paulgswanson/UNity-NextGenSprites "")
+
 
 ## Plugins
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d") - Github plugin for Unity3d
@@ -292,6 +312,8 @@ I hope all of you find this helpful. Let's go with the contents.
 * [UI Shapes Kit](https://github.com/thisotherthing/ui-shapes-kit "Procedural shapes for Unity UI.")
 * [Shapes2D](https://github.com/all-iver/shapes2d "Make simple art assets quickly in Unity.")
 * [ShapeRenderer](https://github.com/epezent/ShapeRenderer "")
+* [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity "") - A flexible UI framework for Unity.
+* [CandyCoded](https://github.com/CandyCoded/CandyCoded "") - Custom Unity Components that are delightful.
 * [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.")
 * [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
@@ -419,6 +441,7 @@ I hope all of you find this helpful. Let's go with the contents.
 * [fo-dicom](https://github.com/fo-dicom/fo-dicom "") - Fellow Oak DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity.
 * [UnityPlayground](https://github.com/Unity-Technologies/UnityPlayground "") - A collection of simple scripts to create 2D physics game, intended for giving workshops to a young audience.
 * [UnityPack](https://github.com/HearthSim/UnityPack "") - Python deserialization library for Unity3D Asset format.
+* [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
 
 
 
@@ -480,6 +503,7 @@ I hope all of you find this helpful. Let's go with the contents.
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 * [Character Customization Tutorial](https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial) - This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
+* [Roll-A-Ball-ECS-style](https://github.com/KptEmreU/Roll-A-Ball-ECS-style) - Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
 
 ## Other references
 * [Unity3D Github Page](https://github.com/Unity-Technologies "Unity3D Github Page")
@@ -505,6 +529,8 @@ I hope all of you find this helpful. Let's go with the contents.
 * [Phaserbeak](https://github.com/DarrenTsung/laserbeak) - Fast-paced, local-multiplayer party game. Controls are simple to pick-up, but hard to master and every round features a different mechanic.
 * [FPS Sample Project](https://github.com/Unity-Technologies/FPSSample "A first person multiplayer shooter example project in Unity") - A first person multiplayer shooter example project in Unity.
 * [PokemonUnity](https://github.com/PokemonUnity/PokemonUnity "") - A framework to build Pokémon RPG games. Uses Unity 2017.41f1.
+* [TheItch](https://github.com/Dayn9/TheItch "") - The Itch is a 2D platformer developed with Unity C# about using your heartrate to overcome obstacles.
+* [SpaceShooterECS](https://github.com/UnityTechnologies/SpaceShooterECS "") - The ECS project originally developed with Intel for GDC 2018.
 
 # Best Practices
 
@@ -541,13 +567,14 @@ Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.
 * [Unity Connect](https://connect.unity.com/ "") - Unity official's marketplace for work showcase, job hunting and contact with other developers.
 * [Unity User Groups](https://unity3d.com/es/community/user-groups "") - Unity user groups around the globe. Find yours.
 
-# :clap: Contributors to this repository 
-
-:guardsman: [@agarcialeon](https://github.com/agarcialeon) -  Owner of the repository
 
 # :question: Frequently Asked Questions (FAQ) 
 
 --
+
+# :clap: Contributors to this repository 
+
+:guardsman: [@agarcialeon](https://github.com/agarcialeon) -  Owner of the repository
 
 # Contributing
 
