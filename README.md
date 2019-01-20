@@ -1,4 +1,14 @@
-Awesome Unity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+<div align="center">
+	<div>
+		<img width="500" src="awesome-unity.png" alt="Awesome Unity">
+	</div>
+  <br>
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome">
+	</a>
+</div>
+
+Awesome Unity
 =============
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
@@ -21,11 +31,21 @@ Another point is the categorization of the resources provided here. Since some o
 
 I hope all of you find this helpful. Let's go with the contents.
 
+# Key to Icons
+
+Free resources: :free:
+Paid resources: :moneybag:
+<!-- 
+:cool: 
+:new:
+-->
+
 # :bookmark_tabs: Table of contents (TOC)
 
 - [Categories](#categories)
   - [2D](#2d)
   - [AI](#ai)
+  - [Audio](#audio)
   - [Animation](#animation)
   - [Augmented Reality](#augmented-reality)
   - [Virtual Reality](#virtual-reality)
@@ -46,7 +66,6 @@ I hope all of you find this helpful. Let's go with the contents.
   - [Effects & Shaders](#effects-shaders)
   - [Tweening](#tweening)
   - [UI](#ui)
-  - [Audio](#audio)
   - [Utilities](#utilities)
   - [Tools](#tools)
   - [Databases](#databases)
@@ -60,9 +79,14 @@ I hope all of you find this helpful. Let's go with the contents.
   - [Visual Scripting](#visual-scripting)
 - [Resources](#resources)
   - [Tips and Tricks](#tips-and-tricks)
-  - [Tutorials](#tutorials)
   - [Books](#books)
   - [Blogs](#blogs)
+  - [Videos](#videos)
+    - [Youtube Channels](#youtube-channels)
+    - [Unity Official Sessions](#unity-official-sessions)
+  - [Tutorials](#tutorials)
+  - [Other References](#other-references)
+- [Recommended Asset Store Packages](#recommended-asset-store-packages) 
 - [Projects](#projects)
   - [Games](#games)
 - [Best Practices](#best-practices)
@@ -98,6 +122,11 @@ I hope all of you find this helpful. Let's go with the contents.
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
 
+## Audio
+
+* [Reaktion](https://github.com/keijiro/Reaktion "Audio reactive animation toolkit for Unity.")
+* [Unity-NodeSynthesizer](https://github.com/rngtm/Unity-NodeSynthesizer "") - Nose-Based Synthesizer on UnityEditor.
+* [Unity-Synth-Experiments](https://github.com/pixlpa/Unity-Synth-Experiments "") - A set of simple generative synth scripts for Unity written in C# (OnAudioFilterRead).
 
 ## Animation
 
@@ -213,6 +242,7 @@ I hope all of you find this helpful. Let's go with the contents.
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - Socket.io client for Unity.
 * [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
 * [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
+* [AirPeer](https://github.com/adrenak/AirPeer) - A WebRTC based networking plugin for Unity.
 
 
 ## Scripting
@@ -331,13 +361,6 @@ I hope all of you find this helpful. Let's go with the contents.
 * [UnityCodes](https://github.com/springd5211/UnityCodes "") - Unity UI controls.
 
 
-## Audio
-
-* [Reaktion](https://github.com/keijiro/Reaktion "Audio reactive animation toolkit for Unity.")
-* [Unity-NodeSynthesizer](https://github.com/rngtm/Unity-NodeSynthesizer "") - Nose-Based Synthesizer on UnityEditor.
-* [Unity-Synth-Experiments](https://github.com/pixlpa/Unity-Synth-Experiments "") - A set of simple generative synth scripts for Unity written in C# (OnAudioFilterRead).
-
-
 ## Utilities
 
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
@@ -442,7 +465,7 @@ I hope all of you find this helpful. Let's go with the contents.
 * [UnityPlayground](https://github.com/Unity-Technologies/UnityPlayground "") - A collection of simple scripts to create 2D physics game, intended for giving workshops to a young audience.
 * [UnityPack](https://github.com/HearthSim/UnityPack "") - Python deserialization library for Unity3D Asset format.
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
-
+* [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
 
 
 ## Customization
