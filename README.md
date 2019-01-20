@@ -5,15 +5,18 @@
   <br>
 	<div>
 		<h1>Awesome Unity</h1>
+		
+		<br>
+			<a href="https://awesome.re">
+				<img src="https://awesome.re/badge.svg" alt="Awesome">
+			</a>
+		<br>
 		<p>A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 		</p>
 	</div>
-<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge.svg" alt="Awesome">
-	</a>
+
 </div>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
