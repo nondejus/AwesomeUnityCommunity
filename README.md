@@ -630,4 +630,4 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 
 And many more...
 
-[:top: Back to Top](https://github.com/agarcialeon/awesome-unity/edit/master/README.md#)
+[:top: Back to Top](https://github.com/agarcialeon/awesome-unity/#)
