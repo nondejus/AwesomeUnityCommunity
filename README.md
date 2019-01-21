@@ -130,6 +130,8 @@ Paid resources: :moneybag:
 * [Reaktion](https://github.com/keijiro/Reaktion "Audio reactive animation toolkit for Unity.")
 * [Unity-NodeSynthesizer](https://github.com/rngtm/Unity-NodeSynthesizer "") - Nose-Based Synthesizer on UnityEditor.
 * [Unity-Synth-Experiments](https://github.com/pixlpa/Unity-Synth-Experiments "") - A set of simple generative synth scripts for Unity written in C# (OnAudioFilterRead).
+* [videolab](https://github.com/teenageengineering/videolab "") - Toolkit for designing midi-controlled video content.
+* [resonance-audio-unity-sdk](https://github.com/resonance-audio/resonance-audio-unity-sdk "") - Resonance Audio SDK for Unity.
 
 ## :runner: Animation
 
@@ -139,12 +141,15 @@ Paid resources: :moneybag:
 * [PuppetTest](https://github.com/keijiro/PuppetTest "An experiment in procedural dance animation") - An experiment in procedural dance animation.
 * [EasyMotionRecorder](https://github.com/duo-inc/EasyMotionRecorder "") 
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp "") - DragonBones C# Runtime.
+* [Unity-Runtime-Animation-Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder "") - Record animations in Unity runtime. Can save to .anim, maya, or FBX ASCII format.
 
 ## Augmented Reality
 
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples. (Redirects to DAQRI website.)
-* [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "ARCore SDK for Unity.")
+* [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "") - ARCore SDK for Unity.
+* [arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples "") - Example content for Unity projects based on AR Foundation.
+* [facial-ar-remote](https://github.com/Unity-Technologies/facial-ar-remote "") - Facial AR Remote is a tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.
 
 ## Virtual Reality
 
@@ -200,6 +205,8 @@ Paid resources: :moneybag:
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 * [CatLib](https://github.com/CatLib/Framework) - CatLib Component-Based Framework.
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license.
+* [Unidux](https://github.com/mattak/Unidux) - Redux Architecture for Unity.
+
 
 ## :straight_ruler: Patterns
 
@@ -254,6 +261,8 @@ Paid resources: :moneybag:
 * [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
 * [AirPeer](https://github.com/adrenak/AirPeer) - A WebRTC based networking plugin for Unity.
 * [AirPeer](https://github.com/Unity-Technologies/multiplayer) - Unity multiplayer packages and samples.
+* [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
+
 
 ## :pencil2: Scripting
 
@@ -264,7 +273,9 @@ Paid resources: :moneybag:
 * [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 * [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++.
-* [LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - LINQ to GameObject - Traverse GameObject Hierarchy by LINQ.
+* [LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ.
+* [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
+
 
 ## Serialization
 
@@ -328,6 +339,14 @@ Paid resources: :moneybag:
 * [Firefly](https://github.com/keijiro/Firefly "") - Unity ECS example for special effects.
 * [unity-dither4444](https://github.com/keijiro/unity-dither4444 "") - AssetPostProcessor for making high-quality 16-bit color textures in Unity.
 * [Super-Blur](https://github.com/PavelDoGreat/Super-Blur "") - Screen and UI gaussian blur for Unity.
+* [KvantStream](https://github.com/keijiro/KvantStream "") - A simple GPU particle system for Unity.
+* [water2d-unity](https://github.com/valryon/water2d-unity "") - A simple shader + example of a water surface with reflection in 2D.
+* [Lux](https://github.com/larsbertram69/Lux "") - Open source physically based shader framework for Unity.
+* [UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations "") - Collection of shaders and visual effects created for Unity 3D.
+* [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass "") - Test of a frosted glass material in Unity.
+* [unity-wireframe](https://github.com/Chaser324/unity-wireframe "") - General purpose wireframe shaders for use in Unity.
+* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect "") - RainDropEffect for the Unity Asset Store.
+
 
 ## Plugins
 
@@ -377,6 +396,9 @@ Paid resources: :moneybag:
 * [UnityCodes](https://github.com/springd5211/UnityCodes "") - Unity UI controls.
 * [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar "") - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
+* [slayout](https://github.com/inkle/slayout "") - UI layout and animation component for Unity.
+* [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D using native UI tools.
+* [uGUI-Effect-Tool](https://github.com/WestHillApps/uGUI-Effect-Tool "") - Vertex color UI Effect for Unity UI (uGUI).
 
 ## :nut_and_bolt: Utilities
 
@@ -410,6 +432,8 @@ Paid resources: :moneybag:
 * [UberLogger](https://github.com/bbbscarter/UberLogger "") - Replacement logging framework for Unity, with a new editor and in-game console.
 * [demilib](https://github.com/Demigiant/demilib "") - A library of various utilities and tools for Unity (alpha).
 * [MathUtilities](https://github.com/zalo/MathUtilities "") - A collection of some of the neat math and physics tricks that I've collected over the last few years.
+* [unity3d-console](https://github.com/mikelovesrobots/unity3d-console "") - Quake-style console plugin for Unity3d.
+* [graph-visualizer](https://github.com/Unity-Technologies/graph-visualizer "") - Visualizer for your Playable graphs.
 
 ## :wrench: Tools
 
@@ -435,8 +459,8 @@ Paid resources: :moneybag:
 * [InfiniteIslandsGenerator-Unity](https://github.com/TPiotr/InfiniteIslandsGenerator-Unity "") - Infinite islands generation.
 * [tangram-unity](https://github.com/tangrams/tangram-unity "") - A library of tools for using OpenStreetMap data in the Unity3D game engine.
 * [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/ACskyline/PVTUT "Procedural Virtual Texture with Unity Terrain")
-* [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/MicroGSD/RoadArchitect "") - Road Architect for Unity.
-
+* [RoadArchitect](https://github.com/MicroGSD/RoadArchitect "") - Road Architect for Unity.
+* [DungeonGenerator](https://github.com/jongallant/DungeonGenerator "") - A dungeon generator for Unity.
 
 ## :sunrise_over_mountains: Terrain
 
@@ -457,6 +481,8 @@ Paid resources: :moneybag:
 * [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia
 * [unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver "") - Unity plugin which resolves Android & iOS dependencies and performs version management.
 * [2D-Light-of-Sight-Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
+* [react-unity-webgl](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
+
 
 ## Misc.
 
@@ -492,6 +518,11 @@ Paid resources: :moneybag:
 * [UnityWorker](https://github.com/OpenMined/UnityWorker "") - (Deprecated)
 * [XAsset](https://github.com/fengjiyuan/xasset "")
 * [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication "") - Desktop Duplication API implementation for Unity (only for Windows 8/10).
+* [UnityAssets](https://github.com/BLINDED-AM-ME/UnityAssets "") - ?
+* [SuperScience](https://github.com/Unity-Technologies/SuperScience "") - Gems of Unity Labs for our user-base.
+* [unity-teddy](https://github.com/mattatz/unity-teddy "") - Teddy algorithm implementation in Unity.
+* [AssetBundlePatch](https://github.com/dpull/AssetBundlePatch "")
+
 
 ## :sunglasses: Customization
 
@@ -502,6 +533,9 @@ Paid resources: :moneybag:
 
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework "A flexible and modular Node Editor Framework for creating node based displays and editors in Unity ")
 * [xNode](https://github.com/Siccity/xNode "") - Lets you view and edit node graphs inside Unity.
+* [ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector "") - Automatic reorderable lists for Unity game engine components.
+* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
+
 
 ## :eyes: Visual Scripting
 
@@ -634,7 +668,10 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 :warning: NOTE: Without any order of preference.
 
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
+* Add sub-section to scripting section for Libraries (reorganize utilities, tools and scripting sections).
 * Add better icons for sections.
+* Add section for Asset Bundle/Asset Store Packages/Package Management related resources.
+* Include new section for algorithms.
 * Use tags to classify a resource instead of using a category. For example, a package for virtual reality can be a plugin or a library.
 * Create more categories for specific resources that don't combine well.
 * Add best practices for Unity development in corresponding section.
