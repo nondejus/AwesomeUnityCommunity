@@ -726,17 +726,17 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Cheatografy Cheatsheet](https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/) - Hotkeys for Unity editor.
 
 ## :paperclip: Other references
-* [Unity3D Github Page](https://github.com/Unity-Technologies "Unity3D Github Page")
-* [Unity3D C# Reference](https://github.com/Unity-Technologies/UnityCsReference "Unity C# reference source code")
-* [Job System Cookbook](https://github.com/stella3d/job-system-cookbook "") - Examples of using the C# Job System in Unity 2018
-* [Awesome Unity](https://github.com/RyanNielson/awesome-unity "") - Awesome Unity Github Page
+* [Unity3D Github Page](https://github.com/Unity-Technologies "") - Unity3D Github Page.
+* [Unity3D C# Reference](https://github.com/Unity-Technologies/UnityCsReference "") - Unity C# reference source code.
+* [Job System Cookbook](https://github.com/stella3d/job-system-cookbook "") - Examples of using the C# Job System in Unity 2018.
+* [Awesome Unity](https://github.com/RyanNielson/awesome-unity "") - Awesome Unity Github Page.
 * [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "") - A community driven list of useful Unity Game Engine 'FREE' packages, libraries and others.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d "") - A categorized collection of awesome opensource unity3d repos
-
-* [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "A maintained collection of useful & free unity scripts / library's / plugins and extensions.")
-* [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "Other Github Repos")
-* [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "More Github Repos")
-* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "Unity Asset Store Package Promotion Guidelines.")
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d "") - A categorized collection of awesome opensource unity3d repos.
+* [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "") - A maintained collection of useful & free unity scripts / library's / plugins and extensions.
+* [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "") - Other Github Repos.
+* [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "") - More Github Repos.
+* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
+* [Awesome Unity Wiki](https://github.com/agarcialeon/awesome-unity/wiki "") - The wiki of this repository.
 
 # :trophy: Recommended Asset Store Packages
 
