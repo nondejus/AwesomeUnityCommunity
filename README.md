@@ -156,6 +156,9 @@ Paid resources: :moneybag:
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp "") - DragonBones C# Runtime.
 * [Unity-Runtime-Animation-Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder "") - Record animations in Unity runtime. Can save to .anim, maya, or FBX ASCII format.
 * [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone "") - UnityChan Sping Bone System for lightweight secondary animations.
+* [LeanTween](https://github.com/dentedpixel/LeanTween"") - An efficient animation engine for Unity.
+* [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones"") - Unity 3D addon for skeletal sprite animations.
+
 
 ## :dancers: Tweening
 
@@ -196,6 +199,8 @@ Paid resources: :moneybag:
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "") - Author XR in XR.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
+* [MixedRealityDesignLabs_Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
+
 
 ## :movie_camera: Camera
 
@@ -449,8 +454,15 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity-Surface-Water-Shader](https://github.com/jakubshark/Unity-Surface-Water-Shader "") - A water surface shader for Unity.
 * [unity-texture-curve](https://github.com/andydbc/unity-texture-curve "") - Example showing how to bake an AnimatedCurve into a Texture and use it in a shader.
 * [Fragments](https://github.com/keijiro/Fragments "") - Fragment mesh objects for particle effects in Unity.
-
-
+* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS "") - Nvidia's PCSS soft shadow algorithm implemented in Unity.
+* [unity-voxel](https://github.com/mattatz/unity-voxel "") - Mesh voxelization for Unity.
+* [uRaymarching](https://github.com/hecomi/uRaymarching "") - Raymarching Shader Generator in Unity.
+* [SMAA](https://github.com/Chman/SMAA "") - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity.
+* [IMP](https://github.com/xraxra/IMP "") - Billboard imposter baking for Unity.
+* [SSMS](https://github.com/OCASM/SSMS "") - Screen space multiple scattering for Unity. 
+* [KinoFog](https://github.com/keijiro/KinoFog "") - Global fog effect for Unity.
+* [KinoMotion](https://github.com/keijiro/KinoMotion "") - Motion blur post-processing effect for Unity.
+* [UnitySkyboxShaders](https://github.com/keijiro/UnitySkyboxShaders "") - Custom skybox shaders.
 
 ## Plugins
 
@@ -508,6 +520,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [unity-uitest](https://github.com/taphos/unity-uitest "") - Unity UI Test Automation Framework.
 * [Baum2](https://github.com/kyubuns/Baum2 "") - Psd to Unity UI(uGUI).
 * [UnityMenuSystem](https://github.com/YousicianGit/UnityMenuSystem "") - Menu System for Unity.
+* [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
+* [FancyScrollView](https://github.com/setchi/FancyScrollView "") - A scrollview component that can implement highly flexible animation.
 
 ## :nut_and_bolt: Utilities
 
@@ -566,6 +580,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityPacker](https://github.com/FatihBAKIR/UnityPacker "") - Create unitypackages without unity, from command line.
 * [AssetAuditor](https://github.com/MarkUnity/AssetAuditor "") - Tools to control the asset import settings in a Unity project.
 * [UnityHeapDump](https://github.com/Zuntatos/UnityHeapDump "") - Tool to dump memory to text files for inspection.
+* [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser "") - A native file browser for unity standalone platforms.
+* [Pcx](https://github.com/keijiro/Pcx "") - Point cloud importer & renderer for Unity. 
+* [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF "") - Runtime GLTF Loader for Unity3D.
+* [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity "") - Coherent noise library for Unity, a port of LibNoise.
 
 ## :wrench: Tools
 
@@ -598,6 +616,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ProceduralTerrain](https://github.com/theSoenke/ProceduralTerrain "") - Procedural voxel terrain generation in Unity.
 * [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree "") - Procedural tree builder for Unity.
 * [ProceduralMotionTrack](https://github.com/keijiro/ProceduralMotionTrack "") - Simple procedural motion with Unity Timeline.
+* [Procedural-Landmass-Generation](https://github.com/SebLague/Procedural-Landmass-Generation "") - Procedural Landmass Generation in Unity.
+
 
 ## :sunrise_over_mountains: Terrain
 
@@ -627,6 +647,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [unity-swift](https://github.com/miyabi/unity-swift "") - Native plugin to write native code in Swift for Unity.
 * [vimeo-unity-sdk](https://github.com/vimeo/vimeo-unity-sdk "") - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
 * [GPUNoiseForUnity](https://github.com/heyx3/GPUNoiseForUnity "") - A Unity plugin for generating noise on the GPU for use in the editor.
+* [ios-unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
+* [unity-shell](https://github.com/marijnz/unity-shell "") - Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
+* [mapbox-unity-sdk](https://github.com/mapbox/mapbox-unity-sdk "") - Mapbox Unity SDK.
+
 
 ## :sunglasses: Customization
 
@@ -704,6 +728,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Ardity](https://github.com/dwilches/Ardity "") - Assets for integrating Arduino and Unity (or Unity and any hardware that communicates over a COM port).
 * [TFClassify-Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
+* [Unity3D.IncrementalCompiler](https://github.com/SaladLab/Unity3D.IncrementalCompiler "") - Unity3D Incremental C# Compiler using Roslyn.
+
 
 # :mortar_board: Learning Resources
 
