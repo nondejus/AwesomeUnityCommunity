@@ -85,17 +85,17 @@ Paid resources: :moneybag:
     - [Youtube Channels](#youtube-channels)
     - [Unity Official Sessions](#unity-official-sessions)
   - [Tutorials](#tutorials)
+  - [Best Practices](#best-practices)
+  - [Shortcuts](#shortcuts)  
   - [Other References](#other-references)
 - [Recommended Asset Store Packages](#recommended-asset-store-packages) 
 - [Projects](#projects)
   - [Games](#games)
-- [Best Practices](#best-practices)
-- [Shortcuts](#shortcuts)
-- [People to Follow](#people-to-follow)
 - [Communities](#communities)
   - [Chat Servers](#chat-servers)
   - [Forums](#forums)
   - [Groups](#groups)
+  - [People to Follow](#people-to-follow)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Contributors to this repository](#contributors)
 - [Contributing](#contributing)
@@ -103,7 +103,7 @@ Paid resources: :moneybag:
 
 # :bookmark: Categories
 
-## 2D
+## :space_invader: 2D
 
 * [2D Rope System (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 * [2D Toolkit (Paid)](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
@@ -113,8 +113,11 @@ Paid resources: :moneybag:
 * [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
 * [Unity Anima2D](https://www.assetstore.unity3d.com/en/#!/content/79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+* [2d-techdemos](https://github.com/Unity-Technologies/2d-techdemos) - Tech Demos for Unity 2D Features.
 
-## AI
+
+## :bulb: AI
+
 * [Pathfinding](https://github.com/antonpantev/pathfinding "Find paths in Unity Tilemaps with A* Search.")
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "A Unity library for common movement AI.")
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
@@ -122,26 +125,29 @@ Paid resources: :moneybag:
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
 
-## Audio
+## :musical_score: Audio
 
 * [Reaktion](https://github.com/keijiro/Reaktion "Audio reactive animation toolkit for Unity.")
 * [Unity-NodeSynthesizer](https://github.com/rngtm/Unity-NodeSynthesizer "") - Nose-Based Synthesizer on UnityEditor.
 * [Unity-Synth-Experiments](https://github.com/pixlpa/Unity-Synth-Experiments "") - A set of simple generative synth scripts for Unity written in C# (OnAudioFilterRead).
 
-## Animation
+## :runner: Animation
 
 * [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "A Unity-based sprite animator for simple and advanced animation setups.")
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation "Character Animation in Unity 3D using Deep Learning and Artificial Intelligence") - Character Animation in Unity 3D using Deep Learning and Artificial Intelligence.
 * [Boner2D](https://github.com/playemgames/Boner2D "Free Open Source 2D Animation Tools for Unity") - Free Open Source 2D Animation Tools for Unity.
 * [PuppetTest](https://github.com/keijiro/PuppetTest "An experiment in procedural dance animation") - An experiment in procedural dance animation.
 * [EasyMotionRecorder](https://github.com/duo-inc/EasyMotionRecorder "") 
+* [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp "") - DragonBones C# Runtime.
 
 ## Augmented Reality
+
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples. (Redirects to DAQRI website.)
 * [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "ARCore SDK for Unity.")
 
 ## Virtual Reality
+
 * [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "A productive VR Toolkit for rapidly building VR solutions in Unity3d.") :thumbsup:
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk "") - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS. (https://developers.google.com/vr/unity)
@@ -153,13 +159,13 @@ Paid resources: :moneybag:
 * [SteamVR Unity Plugin](https://github.com/ValveSoftware/steamvr_unity_plugin "") - Steam VR plugin for Unity.
 * [SteamVR Unity Toolkit](https://github.com/WildStyle69/SteamVR_Unity_Toolkit "") - A collection of useful scripts and prefabs for building SteamVR titles in Unity 5.
 
-
 ## Mixed Reality
+
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "Microsoft Mixed Reality Toolkit Github Page")
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "Author XR in XR.")
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "The Mixed Reality Framework's core interface contracts, services, and utilities.")
 
-## Camera
+## :movie_camera: Camera
 
 * [Pixel Perfect Retro Camera](https://github.com/wolv-interactive/Pixel-Perfect-Retro-Camera "Pixel perfect retro camera system for Unity")
 * [UnityEquiCam](https://github.com/bodhid/UnityEquiCam "") - Realtime 360° ( equirectangular ) panorama Camera for Unity.
@@ -181,9 +187,10 @@ Paid resources: :moneybag:
 ## Frameworks
 
 * [Entitas](https://github.com/sschmid/Entitas-CSharp "Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.")
-* [Zenject](https://github.com/svermeulen/Zenject "Dependency Injection Framework for Unity3D.")
+* [Zenject](https://github.com/svermeulen/Zenject "") - Dependency Injection Framework for Unity3D.
 * [UniRx (Reactive Extensions for Unity)](https://github.com/neuecc/UniRx "Reactive Extensions for Unity.") - A reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
-* [QFramework](https://github.com/liangxiegame/QFramework "RYour first K.I.S.S Unity 3D Framework.")
+* [QFramework](https://github.com/liangxiegame/QFramework "Your first K.I.S.S Unity 3D Framework.") - Your first K.I.S.S Unity 3D Framework.
+* [QFramework](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework 
 * [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [SmartData](https://github.com/sigtrapgames/SmartData) - A designer-friendly, editor-driven Unity3D framework for connecting data and events. 
@@ -191,8 +198,10 @@ Paid resources: :moneybag:
 * [MagicOnion](https://github.com/Cysharp/MagicOnion "") - Unified Realtime/API Engine for .NET Core and Unity.
 * [Unity3D Machine Learning Toolkit](https://github.com/Unity-Technologies/ml-agents "Unity Machine Learning Agents Toolkit.")
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
+* [CatLib](https://github.com/CatLib/Framework) - CatLib Component-Based Framework.
+* [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license.
 
-## Patterns
+## :straight_ruler: Patterns
 
 * [unity-design-patterns](https://github.com/Naphier/unity-design-patterns "") - Examples of programming design patterns in Unity C#.
 * [Disruptor-Unity3D](https://github.com/dave-hillier/disruptor-unity3d "Basic implementation of Disruptor for Unity3d.")
@@ -208,13 +217,14 @@ Paid resources: :moneybag:
 * [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 * [MouseFlight](https://github.com/brihernandez/MouseFlight "War Thunder style mouse flight controls for aircraft.")
 * [InputSystem](https://github.com/Unity-Technologies/InputSystem "") - An efficient and versatile input system for Unity.
+* [InputManager](https://github.com/daemon3000/InputManager "") - Custom InputManager for Unity.
 
 ## Modeling
 
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
 * [SabreCSG](http://sabrecsg.com/) - A set of [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
 
-## Monetization
+## :money_with_wings: Monetization
 
 * [Unity Ads](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
 * [unity3d-store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
@@ -229,7 +239,7 @@ Paid resources: :moneybag:
 * [Language](https://github.com/FarrokhGames/Language "An easy-to-use localization solution for Unity3D.")
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "A Polyglot Localization plugin for Unity3d that translates games to many languages.")
 
-## Networking
+## :email: Networking
 
 * [Xavier](https://github.com/adrenak/Xavier "") - A Networking solution for Unity based on Telepathy.
 * [Networker](https://github.com/MarkioE/Networker "A simple to use TCP and UDP networking library for .NET. Compatible with Unity.")
@@ -243,9 +253,9 @@ Paid resources: :moneybag:
 * [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
 * [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
 * [AirPeer](https://github.com/adrenak/AirPeer) - A WebRTC based networking plugin for Unity.
+* [AirPeer](https://github.com/Unity-Technologies/multiplayer) - Unity multiplayer packages and samples.
 
-
-## Scripting
+## :pencil2: Scripting
 
 * [Easy Save 2 (Paid)](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
 * [Mad Level Manager (Paid)](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
@@ -256,7 +266,6 @@ Paid resources: :moneybag:
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++.
 * [LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - LINQ to GameObject - Traverse GameObject Hierarchy by LINQ.
 
-
 ## Serialization
 
 * [JSON.NET for Unity3D](https://github.com/SaladLab/Json.Net.Unity3D "JSON.NET.Unity3D Github's Page") - Forked Newtonsoft.Json to support Unity3D.
@@ -265,7 +274,7 @@ Paid resources: :moneybag:
 * [FullSerializer](https://github.com/jacobdufault/fullserializer "A robust JSON serialization framework that just works with support for all major Unity export platforms.")
 * [odin-serializer](https://github.com/TeamSirenix/odin-serializer "Fast, robust, powerful and extendible .NET serializer built for Unity") - Fast, robust, powerful and extendible .NET serializer built for Unity.
 
-## Effects & Shaders
+## :sparkler: Effects & Shaders
 
 * [Shader Forge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
 * [Post-processing Stack](https://github.com/Unity-Technologies/PostProcessing "Components for camera and other effects.")
@@ -310,24 +319,32 @@ Paid resources: :moneybag:
 * [Unity-HologramShield](https://github.com/paulgswanson/Unity-HologramShield "") - An hologram shield shader for Unity.
 * [GPU Particles](https://github.com/Robert-K/gpu-particles "") - A GPU Particle System for Unity.
 * [Unity NextGenSprites](https://github.com/paulgswanson/UNity-NextGenSprites "")
-
+* [KvantGrass](https://github.com/keijiro/KvantGrass "") - Animating grass shader for Unity.
+* [UnitySkyboxShaders](https://github.com/keijiro/UnitySkyboxShaders "") - Custom skybox shaders.
+* [Vapor](https://github.com/ArthurBrussee/Vapor "") - Volumetric Fog for Unity.
+* [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming "") - Various shaders.
+* [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering "") - Atmospheric Scattering for Unity.
+* [KvantWig](https://github.com/keijiro/KvantWig "") - Non-realistic hair simulation in Unity.
+* [Firefly](https://github.com/keijiro/Firefly "") - Unity ECS example for special effects.
+* [unity-dither4444](https://github.com/keijiro/unity-dither4444 "") - AssetPostProcessor for making high-quality 16-bit color textures in Unity.
+* [Super-Blur](https://github.com/PavelDoGreat/Super-Blur "") - Screen and UI gaussian blur for Unity.
 
 ## Plugins
+
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d") - Github plugin for Unity3d
 * [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "Google Play Games plugin for Unity.") - Google Play Games plugin for Unity.
 * [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.") - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.
 * [NewtonUnityPlugin](https://github.com/svenberra/NewtonUnityPlugin "A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.") - A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.
 * [AlembicForUnity](https://github.com/unity3d-jp/AlembicForUnity "") - Alembic importer and exporter plugin for Unity.
 * [IBM Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk "") - Unity SDK to use the IBM Watson services.
+* [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing "") - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 
-
-## Textures
+## :art: Textures
 
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
 
-
-## Tweening
+## :dancers: Tweening
 
 * [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
 * [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
@@ -336,8 +353,7 @@ Paid resources: :moneybag:
 * [XTween](https://github.com/Toki-Labs/XTween "Tweener for Unity")
 * [ReMotion](https://github.com/neuecc/ReMotion "Hyper Fast Reactive Tween Engine for Unity") - Hyper Fast Reactive Tween Engine for Unity.
 
-
-## UI
+## :bar_chart: UI
 
 * [UI Shapes Kit](https://github.com/thisotherthing/ui-shapes-kit "Procedural shapes for Unity UI.")
 * [Shapes2D](https://github.com/all-iver/shapes2d "Make simple art assets quickly in Unity.")
@@ -359,9 +375,10 @@ Paid resources: :moneybag:
 * [MaterialUI](https://github.com/InvexGames/MaterialUI "") - A UI kit for Unity that follows Google's official material design guidelines.
 * [unity-themes](https://github.com/zios/unity-themes "") - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements.
 * [UnityCodes](https://github.com/springd5211/UnityCodes "") - Unity UI controls.
+* [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
+* [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar "") - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 
-
-## Utilities
+## :nut_and_bolt: Utilities
 
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
@@ -390,15 +407,18 @@ Paid resources: :moneybag:
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
 * [AutoLOD](https://github.com/Unity-Technologies/AutoLOD "") - Automatic LOD generation + scene optimization.
 * [lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console "") - High-performance Unity iOS/Android logger built with native platform UI.
+* [UberLogger](https://github.com/bbbscarter/UberLogger "") - Replacement logging framework for Unity, with a new editor and in-game console.
+* [demilib](https://github.com/Demigiant/demilib "") - A library of various utilities and tools for Unity (alpha).
+* [MathUtilities](https://github.com/zalo/MathUtilities "") - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 
-## Tools
+## :wrench: Tools
 
 * [Unity Tools](https://github.com/NoxHarmonium/unity-tools "Scripting Toolkit Github's Page")
 * [Unity Tools](https://github.com/kode80/UnityTools "Unity Tools Github's Page")
 * [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag "Unity Toolbag Github's Page") - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 * [U3D](https://github.com/DragonBox/u3d "Cross-platform Unity3D tools")
 
-## Databases
+## :floppy_disk: Databases
 
 * [SQLite4Unity3D](https://github.com/robertohuertasm/SQLite4Unity3d "SQLite made easy for Unity3d.")
 
@@ -406,7 +426,7 @@ Paid resources: :moneybag:
 
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d")
 * [gitgud](https://github.com/joshcamas/gitgud "") - A simple unity-based git client with a focus on extendability.
-
+* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity "") - A NuGet Package Manager for Unity.
 
 ## Procedural Generation
 
@@ -415,12 +435,14 @@ Paid resources: :moneybag:
 * [InfiniteIslandsGenerator-Unity](https://github.com/TPiotr/InfiniteIslandsGenerator-Unity "") - Infinite islands generation.
 * [tangram-unity](https://github.com/tangrams/tangram-unity "") - A library of tools for using OpenStreetMap data in the Unity3D game engine.
 * [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/ACskyline/PVTUT "Procedural Virtual Texture with Unity Terrain")
+* [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/MicroGSD/RoadArchitect "") - Road Architect for Unity.
 
-## Terrain
 
---
+## :sunrise_over_mountains: Terrain
 
-## Plugins
+:construction:
+
+## :electric_plug: Plugins
 
 * [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "Google Play Games plugin for Unity.")
 * [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.")
@@ -433,7 +455,8 @@ Paid resources: :moneybag:
 * [openpose_unity_plugin](https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin "") - OpenPose's Unity Plugin for Unity users.
 * [unity-android-notifications](https://github.com/Agasper/unity-android-notifications "") - Unity3D Plugin for Android local notifications with example project.
 * [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia
-
+* [unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver "") - Unity plugin which resolves Android & iOS dependencies and performs version management.
+* [2D-Light-of-Sight-Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
 
 ## Misc.
 
@@ -466,9 +489,11 @@ Paid resources: :moneybag:
 * [UnityPack](https://github.com/HearthSim/UnityPack "") - Python deserialization library for Unity3D Asset format.
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
 * [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
+* [UnityWorker](https://github.com/OpenMined/UnityWorker "") - (Deprecated)
+* [XAsset](https://github.com/fengjiyuan/xasset "")
+* [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication "") - Desktop Duplication API implementation for Unity (only for Windows 8/10).
 
-
-## Customization
+## :sunglasses: Customization
 
 * [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders "") - This asset allows you to set custom icons for any folder in unity project browser.
 * [Unity Dark Theme Patch](https://github.com/ejlv/UnityDarkThemePatch "Patch that switches Unity theme from light to dark.")
@@ -478,42 +503,41 @@ Paid resources: :moneybag:
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework "A flexible and modular Node Editor Framework for creating node based displays and editors in Unity ")
 * [xNode](https://github.com/Siccity/xNode "") - Lets you view and edit node graphs inside Unity.
 
-## Visual Scripting
+## :eyes: Visual Scripting
 
 * [Playmaker (Paid)](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
 * [Bolt (Paid with Free edition)](https://ludiq.io/bolt) - Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. 
 
+# :mortar_board: Learning Resources
 
-# Resources
-
-## Tips and Tricks
+## :rocket: Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
 * [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips) - Short videos showing some handy tips when using Unity.
 
-## Books
+## :books: Books
 
---
+:construction:
 
-## Blogs
+## :newspaper: Blogs
 
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity. 
 * [Jackson Dunstan](https://jacksondunstan.com/)
 * [Keijiro Takahashi](https://www.keijiro.tokyo/) :fire:
 * [Unity3D Official Blog](https://blogs.unity3d.com/es/) - News and deep insights involving Unity development.
 
-## Videos
+## :tv:  Videos
 
-### Youtube Channels
+### :vhs: Youtube Channels
 
 * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 * [Infallible Code](https://www.youtube.com/channel/UCTjnCCcuIbrprhOiaDJxxHA)
 
-### Unity Official Sessions
+### :vhs: Unity Official Sessions
 
---
+:construction:
 
-## Tutorials
+## :beginner: Tutorials
 
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) - Lots of great game development patterns useful when making games with or without Unity.
 * [2D Splatter Effects Using the Stencil Buffer](http://nielson.io/2015/12/splatter-effects-in-unity-using-the-stencil-buffer) - Using the stencil buffer in Unity to draw splatter effects on surfaces. This could be used for paint or blood splatter.
@@ -528,7 +552,21 @@ Paid resources: :moneybag:
 * [Character Customization Tutorial](https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial) - This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
 * [Roll-A-Ball-ECS-style](https://github.com/KptEmreU/Roll-A-Ball-ECS-style) - Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
 
-## Other references
+## :star: Best Practices
+
+* [Good coding practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) - Trello board with good coding practices in Unity.
+* [Reddit's Unity Best Practices](https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/) - Reddit's thread with best practices collected by Unity developers.
+* [unity-good-practices](https://github.com/futurice/unity-good-practices) - Github repository with Unity best practices.
+* [unity-good-practices ](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - Gamasutra article with 50 tips and best practices.
+* [Unity3D Official Best Practices](https://unity3d.com/es/learn/tutorials/s/best-practices) - Unity's official page for best practices.
+
+## :key: Shortcuts
+
+* [Unity Editor Hotkeys](https://docs.unity3d.com/Manual/UnityHotkeys.html) - Unity manual's page with editor hotkeys.
+* [Raywenderlich.com Unity Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2017/12/UnityCheatSheet.pdf) - Cheatsheet with some common problems when developing with Unity.
+* [Cheatografy Cheatsheet](https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/) - Hotkeys for Unity editor.
+
+## :paperclip: Other references
 * [Unity3D Github Page](https://github.com/Unity-Technologies "Unity3D Github Page")
 * [Unity3D C# Reference](https://github.com/Unity-Technologies/UnityCsReference "Unity C# reference source code")
 * [Unity Design Patterns](https://github.com/QianMo/Unity-Design-Pattern "All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns written in Unity C#.")
@@ -540,14 +578,15 @@ Paid resources: :moneybag:
 * [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "More Github Repos")
 * [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "Unity Asset Store Package Promotion Guidelines.")
 
-# :star: Recommended Asset Store Packages
+# :trophy: Recommended Asset Store Packages
 
---
+:construction:
 
 # Projects
 
-## Games
+## :video_game: Games
 
+* [Hogwarts](https://github.com/OpenHogwarts/hogwarts) - Hogwarts (Harry Potter) open sandbox game made in Unity.
 * [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 * [Phaserbeak](https://github.com/DarrenTsung/laserbeak) - Fast-paced, local-multiplayer party game. Controls are simple to pick-up, but hard to master and every round features a different mechanic.
 * [FPS Sample Project](https://github.com/Unity-Technologies/FPSSample "A first person multiplayer shooter example project in Unity") - A first person multiplayer shooter example project in Unity.
@@ -555,29 +594,11 @@ Paid resources: :moneybag:
 * [TheItch](https://github.com/Dayn9/TheItch "") - The Itch is a 2D platformer developed with Unity C# about using your heartrate to overcome obstacles.
 * [SpaceShooterECS](https://github.com/UnityTechnologies/SpaceShooterECS "") - The ECS project originally developed with Intel for GDC 2018.
 
-# Best Practices
+# :busts_in_silhouette: Communities
 
-* [Good coding practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) - Trello board with good coding practices in Unity.
-* [Reddit's Unity Best Practices](https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/) - Reddit's thread with best practices collected by Unity developers.
-* [unity-good-practices](https://github.com/futurice/unity-good-practices) - Github repository with Unity best practices.
-* [unity-good-practices ](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - Gamasutra article with 50 tips and best practices.
-* [Unity3D Official Best Practices](https://unity3d.com/es/learn/tutorials/s/best-practices) - Unity's official page for best practices.
+## :speech_balloon: Chat Servers
 
-# Shortcuts
-
-* [Unity Editor Hotkeys](https://docs.unity3d.com/Manual/UnityHotkeys.html) - Unity manual's page with editor hotkeys.
-* [Raywenderlich.com Unity Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2017/12/UnityCheatSheet.pdf) - Cheatsheet with some common problems when developing with Unity.
-* [Cheatografy Cheatsheet](https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/) - Hotkeys for Unity editor.
-
-# People to follow
-
-Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.com/keijiro)
-
-# Communities
-
-## Chat Servers
-
---
+:construction:
 
 ## Forums
 
@@ -590,12 +611,15 @@ Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.
 * [Unity Connect](https://connect.unity.com/ "") - Unity official's marketplace for work showcase, job hunting and contact with other developers.
 * [Unity User Groups](https://unity3d.com/es/community/user-groups "") - Unity user groups around the globe. Find yours.
 
+## :name_badge: People to follow
+
+Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.com/keijiro)
 
 # :question: Frequently Asked Questions (FAQ) 
 
---
+:construction:
 
-# :clap: Contributors to this repository 
+# :clap: :tada: Contributors to this repository 
 
 :guardsman: [@agarcialeon](https://github.com/agarcialeon) -  Owner of the repository
 
@@ -605,18 +629,17 @@ Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/mast
 
 Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/graphs/contributors), this wouldn't be possible without you! 
 
-# To be done
+# :memo: To be done
 
-:exclamation: NOTE: Without any order of preference.
+:warning: NOTE: Without any order of preference.
 
-* Add repository logo (WIP).
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
+* Add better icons for sections.
 * Use tags to classify a resource instead of using a category. For example, a package for virtual reality can be a plugin or a library.
 * Create more categories for specific resources that don't combine well.
 * Add best practices for Unity development in corresponding section.
 * Starter kit section with all the things needed or recommended for beginners.
 * Include resources for recommended asset store packages (well tested, most voted and so on).
-* Fill up FAQ section.
 * Fill up section for contributors.
 * Fill up people to follow.
 * Fill up communities section.
