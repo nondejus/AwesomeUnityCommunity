@@ -12,9 +12,9 @@
 			A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. 
 			<br>
 			Free assets and resources are prioritized over paid when possible.
-			<br>
+			<br><br>
 			Suggestions and contributions are always welcome!
-			<br><br>			
+			<br>			
 			Make sure to read the <a href="https://github.com/agarcialeon/awesome-unity/blob/master/CONTRIBUTING.md"> contribution guidelines </a> for more information before submitting a pull request.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
