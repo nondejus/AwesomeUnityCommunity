@@ -705,8 +705,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [TFClassify-Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
 
-
-
 # :mortar_board: Learning Resources
 
 ## :rocket: Tips and Tricks
@@ -716,7 +714,15 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ## :books: Books
 
-:construction:
+* [Unity Game Development in 24 Hours](https://www.amazon.com/Unity-Development-Hours-Teach-Yourself/dp/0134998138/ref=sr_1_fkmrnull_1?keywords=Unity+2018+Game+Development+in+24+Hours%2C+Sams+Teach+Yourself&qid=1548086253&s=Books&sr=1-1-fkmrnull)
+* [Unity in Action: Multiplatform Game Development in C# with Unity 5](https://www.amazon.com/gp/product/161729232X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=161729232X&linkId=9c6a4f1db8f9e25c9e2d6458173de5e0)
+* [Learning C# by Developing Games with Unity 5.x](https://www.amazon.com/gp/product/1785287591/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785287591&linkId=4a8a6d17929b1f02e6ad4cbadf32cc9d)
+* [Unity 5.x By Example](https://www.amazon.com/gp/product/1785888382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785888382&linkId=abdb54c6f24add55caf7ce2665bc4ac1)
+* [Unity AI Game Programming](https://www.amazon.com/gp/product/178528827X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=178528827X&linkId=dd52e71985b54d994f76cc3dd6433296)
+* [Mastering Unity 2D Game Development](https://www.amazon.com/gp/product/1786463458/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1786463458&linkId=da46c86948003f30fd307e718917f597)
+* [Unity 5.x Shaders and Effects Cookbook](https://www.amazon.com/gp/product/1785285246/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785285246&linkId=a26109ceb55490f774420795467c3fdb)
+* [Unity UI Cookbook](https://www.amazon.com/gp/product/1785885820/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785885820&linkId=2c0abb5a96d14d3d27e37d13114bbfba)
+* [Unity 5.x Cookbook](https://www.amazon.com/gp/product/1784391360/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1784391360&linkId=29ff0faf721f67a07eea3f0de919527b)
 
 ## :newspaper: Blogs
 
@@ -783,7 +789,11 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 # :trophy: Recommended Asset Store Packages
 
-:construction:
+* [Text Mesh pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126 "") - Text rendering with Signed distance fields. Better than default text component. (FREE)
+* [Odin Inspector & Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041 "") - Serializes your data so you can see it how you want in your editor window. (PAID)
+* [Gaia](https://assetstore.unity.com/packages/tools/terrain/gaia-42618 "") - Procedural terrain generator. (PAID)
+* [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570 "") - Shader Graph Editor. Competes against Unity Official Shadergraph. (PAID)
+...
 
 # Projects
 
