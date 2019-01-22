@@ -325,7 +325,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Language](https://github.com/FarrokhGames/Language "An easy-to-use localization solution for Unity3D.")
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "A Polyglot Localization plugin for Unity3d that translates games to many languages.")
 
-## :email: Networking <a name="networking"></a>
+## :satellite: Networking <a name="networking"></a>
 
 * [Xavier](https://github.com/adrenak/Xavier "") - A Networking solution for Unity based on Telepathy.
 * [Networker](https://github.com/MarkioE/Networker "A simple to use TCP and UDP networking library for .NET. Compatible with Unity.")
