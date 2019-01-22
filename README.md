@@ -78,6 +78,7 @@ Paid resources: :moneybag:
   - [Tools](#tools)
   - [Databases](#databases)
   - [VCS (Version Control Systems)](#vcs)
+  - [Continuous Integration (CI)](#continuous-integration)
   - [Procedural Generation](#procedural-generation)
   - [Terrain](#terrain)
   - [Plugins](#plugins)  
@@ -145,6 +146,8 @@ Paid resources: :moneybag:
 * [videolab](https://github.com/teenageengineering/videolab "") - Toolkit for designing midi-controlled video content.
 * [resonance-audio-unity-sdk](https://github.com/resonance-audio/resonance-audio-unity-sdk "") - Resonance Audio SDK for Unity.
 * [MusicEngine](https://github.com/geekdrums/MusicEngine "") - Make music synced game with Unity.
+* [UnityWav](https://github.com/deadlyfingers/UnityWav "") - WAV utility for saving and loading wav files in Unity.
+
 
 ## :runner: Animation
 
@@ -158,6 +161,7 @@ Paid resources: :moneybag:
 * [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone "") - UnityChan Sping Bone System for lightweight secondary animations.
 * [LeanTween](https://github.com/dentedpixel/LeanTween"") - An efficient animation engine for Unity.
 * [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones"") - Unity 3D addon for skeletal sprite animations.
+* [AnimeRx](https://github.com/kyubuns/AnimeRx"") - Rx Tween Animation Library for Unity.
 
 
 ## :dancers: Tweening
@@ -177,7 +181,7 @@ Paid resources: :moneybag:
 * [arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples "") - Example content for Unity projects based on AR Foundation.
 * [facial-ar-remote](https://github.com/Unity-Technologies/facial-ar-remote "") - Facial AR Remote is a tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.
 * [ArucoUnity](https://github.com/NormandErwan/ArucoUnity "") - Bring augmented reality to Unity by tracking Aruco markers in real time.
-
+* [UnityARFaceDeformation](https://github.com/kitasenjudesign/UnityARFaceDeformation "") - AR Face Deformation with Unity ARKit Plugin.
 
 ## Virtual Reality
 
@@ -221,6 +225,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityPhysics2D](https://github.com/MelvynMay/UnityPhysics2D) - Examples of various Unity 2D Physics components and features. 
 * [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) - A PBD fluid in unity running on the GPU. 
 * [UnityMathReference](https://github.com/zezba9000/UnityMathReference) - Math reference for games and more. All visualized in Unity3D.
+* [Custom-2D-Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
+* [Unity.Library.eppz.Geometry](https://github.com/eppz/Unity.Library.eppz.Geometry) - 2D Geometry for Unity. Suited for everyday polygon hassle.
+* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera) - Unity Component that can describes a physical camera's attributes.
+
 
 ## Character Controllers
 
@@ -287,7 +295,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## Services
 
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
-* [Flurry-Unity3D](https://github.com/Majchrzak/Flurry-Unity-3D "Flurry iOS and Android plugin for Unity 3D. (Analytics)")
+* [Flurry-Unity3D](https://github.com/Majchrzak/Flurry-Unity-3D "") - Flurry iOS and Android plugin for Unity 3D. (Analytics)
+* [simple-firebase-unity](https://github.com/dkrprasetya/simple-firebase-unity "") - Firebase Realtime-Database's REST API Wrapper for Unity in C#.
 
 ## Localization (L18n)
 
@@ -319,6 +328,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [BenchmarkNet](https://github.com/nxrighthere/BenchmarkNet) - Benchmark for testing the reliable UDP networking solutions.
 * [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) - Reliable UDP networking library extended for the .NET environment.
 * [restifizer-unity3d](https://github.com/vedi/restifizer-unity3d) - Restifizer SDK for Unity3d. A way to significantly simplify creation of full-functional RESTful services, using MongoDB as a database.
+* [NATPunchthroughClient](https://github.com/noblewhale/NATPunchthroughClient) - An example implementation of NAT Punchthrough combined with Unity's UNet HLAPI.
 
 ## :pencil2: Scripting
 
@@ -463,6 +473,12 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KinoFog](https://github.com/keijiro/KinoFog "") - Global fog effect for Unity.
 * [KinoMotion](https://github.com/keijiro/KinoMotion "") - Motion blur post-processing effect for Unity.
 * [UnitySkyboxShaders](https://github.com/keijiro/UnitySkyboxShaders "") - Custom skybox shaders.
+* [Marching-Cubes-On-The-GPU](https://github.com/Scrawk/Marching-Cubes-On-The-GPU "") - A implementation of the marching cubes algorithm on the GPU in Unity.
+* [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation "")
+* [PotentiallyVisibleSetPlugin](https://github.com/nashnie/PotentiallyVisibleSetPlugin "")
+* [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders "") - Unity Shader enum references.
+* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS "") - Naive screen-space subsurface scattering solution for Unity 5.
+
 
 ## Plugins
 
@@ -477,6 +493,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KlakNDI](https://github.com/keijiro/KlakNDI "") - NewTek NDI™ plugin for Unity.
 * [UnityCam](https://github.com/mrayy/UnityCam "") - Unity3D Virtual webcam plugin, streams unity viewport contents to other applications as virtual camera.
 * [Twity](https://github.com/toofusan/Twity "") - (Previously: twitter-for-unity) Twitter API Client for Unity C#.
+* [unity-native-toolkit](https://github.com/ryanw3bb/unity-native-toolkit "") - Native iOS & Android functionality in Unity.
+
 
 ## :art: Textures
 
@@ -584,6 +602,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Pcx](https://github.com/keijiro/Pcx "") - Point cloud importer & renderer for Unity. 
 * [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF "") - Runtime GLTF Loader for Unity3D.
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity "") - Coherent noise library for Unity, a port of LibNoise.
+* [DTValidator](https://github.com/DarrenTsung/DTValidator "") - Tool for validating objects (eg. GameObjects, ScriptableObjects, etc) in the Unity Editor.
+* [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer "") - Unity editor tool to load colours and palettes directly from COLOURlovers.com.
+* [Unity.Library.eppz.Lines](https://github.com/eppz/Unity.Library.eppz.Lines "") - Lightweight OpenGL line rendering for Unity. Like Debug.DrawLine in Game view.
+* [unity-obj-loader](https://github.com/hammmm/unity-obj-loader "") - Runtime .OBJ file loader for Unity3D.
 
 ## :wrench: Tools
 
@@ -601,6 +623,13 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d")
 * [gitgud](https://github.com/joshcamas/gitgud "") - A simple unity-based git client with a focus on extendability.
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity "") - A NuGet Package Manager for Unity.
+* [GitLab](https://about.gitlab.com/ "") - GitLab
+* [VersionControlPlugins](https://github.com/Unity-Technologies/VersionControlPlugins "") - Perforce plugin for Unity. (Official Plugins from Unity. Moved to Bitbucket).
+
+
+## Continuous Integration
+
+:construction:
 
 ## Procedural Generation
 
@@ -650,6 +679,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ios-unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
 * [unity-shell](https://github.com/marijnz/unity-shell "") - Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
 * [mapbox-unity-sdk](https://github.com/mapbox/mapbox-unity-sdk "") - Mapbox Unity SDK.
+* [unity3d-plugin](https://github.com/jenkinsci/unity3d-plugin "") - Jenkins Unity3d plugin.
+* [Unity3d_MQTT](https://github.com/vovacooper/Unity3d_MQTT "") - MQTT protocol running on Unity3D.
+* [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3d.
+* [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
 
 
 ## :sunglasses: Customization
@@ -674,12 +707,15 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AudioPreviewTrack](https://github.com/keijiro/AudioPreviewTrack "") - Instant audio playback (scrubbing) in preview mode of Unity Timeline editor.
 * [BGCurve](https://github.com/bansheeGz/BGCurve "") - Bezier spline editor for Unity 5.3.
 * [Excel4Unity](https://github.com/joexi/Excel4Unity "") - Excel for Unity. Provides both read and write with .xls and .xlsx.
+* [Unity3D-ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent "") - A UnityEvent replacement.
+* [unity-editor-coroutines](https://github.com/marijnz/unity-editor-coroutines "") - Coroutines for Editor scripts, just like regular coroutines.
 
 
 ## :eyes: Visual Scripting
 
-* [Playmaker (Paid)](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
-* [Bolt (Paid with Free edition)](https://ludiq.io/bolt) - Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. 
+* [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines. (PAID)
+* [Bolt](https://ludiq.io/bolt) - Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. (Paid with Free edition)
+* [Constellation](https://github.com/ConstellationLanguage/Constellation) - Constellation is a visual scripting language for unity that gives you the tools of a programmer without having to write a single line of code. 
 
 ## Misc.
 
@@ -729,6 +765,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [TFClassify-Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
 * [Unity3D.IncrementalCompiler](https://github.com/SaladLab/Unity3D.IncrementalCompiler "") - Unity3D Incremental C# Compiler using Roslyn.
+* [unity-pm-tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
+* [AsyncCaptureTest](https://github.com/keijiro/AsyncCaptureTest "") - Non-blocking screen capture example with asynchronous GPU readback.
 
 
 # :mortar_board: Learning Resources
@@ -784,6 +822,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Character Customization Tutorial](https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial) - This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
 * [Roll-A-Ball-ECS-style](https://github.com/KptEmreU/Roll-A-Ball-ECS-style) - Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
 * [Unity-Shader-Tutorials](https://github.com/lindenreid/Unity-Shader-Tutorials) - Full project and code for all of my shader tutorials.
+* [Shader-Graph-Tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials) - Project files for our tutorials on using Shader Graph in Unity.
 
 
 ## :star: Best Practices
