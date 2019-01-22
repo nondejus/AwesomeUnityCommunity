@@ -396,15 +396,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
+* [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects.
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
-* [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
+* [CSharpatron](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects. :moneybag:
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
 * [UnityIconCustomizer](https://github.com/makoto-unity/UnityIconCustomizer "You can customize your app icon with this. Like adding version number, 'BETA' and so on.")
-* [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.")
-* [ReorderableListExample](https://github.com/valyard/ReorderableListExample "Example project for UnityEditorInternal.ReorderableList in Unity 4.5")
 * [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
 * [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile "")
 * [AutoIconBuilder](https://github.com/negipoyoc/UnityAutoIconBuilder "")
@@ -466,13 +465,19 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity-WebGL-Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
 * [BulletMLLib](https://github.com/pixelnest/BulletMLLib "") - A Unity version of the open source C# library used to read BulletML XML files. See [BulletMLLib](https://github.com/dmanning23/BulletMLLib)
 * [RageSpline](https://github.com/Freakow/RageSpline "") - Scalable Vector Graphics creation and drawing component for Unity.
+* [bugsnag-unity](https://github.com/bugsnag/bugsnag-unity "") - Automatic error reporting for Unity games.
+* [unity3d-runtime-debug-draw](https://github.com/jagt/unity3d-runtime-debug-draw "") - Single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
+* [GameViewSizeChanger](https://github.com/Syy9/GameViewSizeChanger "") - Unity GameView Changer.
+
 
 ### :wrench: Tools <a name="tools"></a>
 
-* [Unity Tools](https://github.com/NoxHarmonium/unity-tools "Scripting Toolkit Github's Page")
-* [Unity Tools](https://github.com/kode80/UnityTools "Unity Tools Github's Page")
+* [Unity Tools](https://github.com/NoxHarmonium/unity-tools "") - Scripting Toolkit Github's Page.
+* [Unity Tools](https://github.com/kode80/UnityTools "") - Unity Tools Github's Page.
 * [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag "Unity Toolbag Github's Page") - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
-* [U3D](https://github.com/DragonBox/u3d "Cross-platform Unity3D tools")
+* [U3D](https://github.com/DragonBox/u3d "") - Cross-platform Unity3D tools.
+* [UnitySimplePatchTool](https://github.com/yasirkula/UnitySimplePatchTool "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
+* [TextMeshProReplacer](https://github.com/jackisgames/TextMeshProReplacer "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -517,6 +522,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines. (PAID)
 * [Bolt](https://ludiq.io/bolt) - Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. (Paid with Free edition)
 * [Constellation](https://github.com/ConstellationLanguage/Constellation) - Constellation is a visual scripting language for unity that gives you the tools of a programmer without having to write a single line of code. 
+* [Artimech](https://github.com/Scramasax/Artimech) - Open source visual scripting system for Unity.
 
 ### Snippets & Gists <a name="snippets-&-gists"></a>
 
@@ -647,6 +653,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SurrealGrassShader](https://github.com/tchpowdog/SurrealGrassShader "") - PBR Grass Geometry shader for Unity.
 * [UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll "") - UnityChanToonShaderVer2 with EmissiveScroll.
 * [Heatwave](https://github.com/andrewgotow/Heatwave "") - A simple post-processing effect for the Unity game engine which renders small-scale distortions.
+* [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
+* [Unity-Signed-Distance-Field-Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow "") - SSigned Distance Field Shadow in Unity.
 
 ## :bar_chart: UI <a name="ui"></a>
 
@@ -704,6 +712,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Procedural-Landmass-Generation](https://github.com/SebLague/Procedural-Landmass-Generation "") - Procedural Landmass Generation in Unity.
 * [VoronoiMapGen](https://github.com/SteveJohnstone/VoronoiMapGen "") - A Voronoi Based Map Generator for Unity.
 * [Unity-Procedural](https://github.com/nickhall/Unity-Procedural "") - Spline based mesh generation.
+* [QuadSphere](https://github.com/bicarbon8/QuadSphere "") - Unity QuadSphere with Level of Detail subdivision.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
@@ -711,7 +720,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity_DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Interactive-Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Unity_InteractiveErosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
-
 
 ## :art: Textures <a name="textures"></a>
 
@@ -770,6 +778,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d "") - T4 Text Template Processor for Unity3D.
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections "") - Native Collection Types for Unity.
 * [Stackable-Decorator](https://github.com/Kinwailo/Stackable-Decorator "") - Stackable decorator for property drawer of Unity.
+* [UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo "")
+* [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "") - ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
+* [ReorderableListExample](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
+* [EditorButton](https://github.com/miguel12345/EditorButton "") - Turn your Unity methods into buttons just by adding an attribute.
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
@@ -826,6 +838,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [unity-pm-tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
 * [AsyncCaptureTest](https://github.com/keijiro/AsyncCaptureTest "") - Non-blocking screen capture example with asynchronous GPU readback.
 * [PerformanceBenchmarkReporter](https://github.com/Unity-Technologies/PerformanceBenchmarkReporter "") - The Unity Performance Benchmark tool enables partners and developers to establish benchmark samples and measurements using the Performance Testing package, then use these benchmark values to compare subsequent performance test results in an html output utilizing graphical visualizations. 
+* [UnEngine](https://github.com/jbruening/UnEngine "") - A clone of the UnityEngine.dll so you can write and test scripts outside of Unity.
+* [Intel-Realsense-Hand-Toolkit-Unity](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity "") - Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D.
+* [Unity-MS-SpeechSDK](https://github.com/ActiveNick/Unity-MS-SpeechSDK "") - Sample Unity project used to demonstrate Speech Recognition using the new Microsoft Speech Service (Preview) via WebSockets.
+
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -885,7 +901,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity-Shader-Tutorials](https://github.com/lindenreid/Unity-Shader-Tutorials) - Full project and code for all of my shader tutorials.
 * [Shader-Graph-Tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials) - Project files for our tutorials on using Shader Graph in Unity.
 * [UnityVJShaderSlide20181108](https://github.com/kaiware007/UnityVJShaderSlide20181108)
-
+* [Learning-Unity-ECS](https://github.com/starikcetin/Learning-Unity-ECS)
 
 ## :star: Best Practices <a name="best-practices"></a>
 
@@ -913,6 +929,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## :paperclip: Other references <a name="other-references"></a>
 * [Unity3D Github Page](https://github.com/Unity-Technologies "") :octocat: - Unity3D Github Page.
 * [Unity3D C# Reference](https://github.com/Unity-Technologies/UnityCsReference "") - Unity C# reference source code.
+* [UnityReleaseNotes](https://github.com/UnityCommunity/UnityReleaseNotes "") - Unity Release Notes. To be used with Github search.
 * [Job System Cookbook](https://github.com/stella3d/job-system-cookbook "") - Examples of using the C# Job System in Unity 2018.
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity "") - Awesome Unity Github Page.
 * [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "") - A community driven list of useful Unity Game Engine 'FREE' packages, libraries and others.
