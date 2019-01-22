@@ -173,6 +173,8 @@ Interesting resource: :cool:
 * [UnityOSC](https://github.com/thomasfredericks/UnityOSC "") - Open Sound Control (OSC) for Unity.
 * [Rhythmify](https://github.com/Gkxd/Rhythmify "") - A Rhythm Syncing Implementation for Unity.
 * [algorithmic-beat-mapping-unity](https://github.com/jesse-scam/algorithmic-beat-mapping-unity "") - Real-time and Preprocessed Audio Analysis for Onset Detection (Beat Mapping) Using Spectral Flux.
+* [UniBpmAnalyzer](https://github.com/WestHillApps/UniBpmAnalyzer "") - BPM analyzer for Unity.
+
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -247,6 +249,7 @@ Interesting resource: :cool:
 An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity.
 * [UFPS (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera, controllers, and other effects for use in FPS games.
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera) - Unity Component that can describes a physical camera's attributes. (#Physics)
+* [unity-camera-follow-2d](https://github.com/minhhh/unity-camera-follow-2d) - Script to make 2d camera follow players in an interesting way.
 
 ## Physics <a name="physics"></a>
 
@@ -261,6 +264,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Custom-2D-Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
 * [Unity.Library.eppz.Geometry](https://github.com/eppz/Unity.Library.eppz.Geometry) - 2D Geometry for Unity. Suited for everyday polygon hassle.
 * [quickfracture](https://github.com/OskarSigvardsson/quickfracture) - A unity destruction effect.
+* [Unity-Fluid-Simulation-2D](https://github.com/giangchau92/Unity-Fluid-Simulation-2D) - Using extended camera to render particles then metalball processing with shader.
+
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -291,6 +296,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unidux](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Ease the pain of decoupling data from behaviors in Unity.
 * [Autoya](https://github.com/sassembla/Autoya) - Thin framework for Unity.
 * [uMVVM](https://github.com/MEyes/uMVVM) - A simple Unity MVVM framework.
+* [unity-experiment-framework](https://github.com/immersivecognition/unity-experiment-framework) - UXF - Framework for human behaviour experiments in Unity.
+
 
 ## Input <a name="input"></a>
 
@@ -356,6 +363,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) - Reliable UDP networking library extended for the .NET environment.
 * [restifizer-unity3d](https://github.com/vedi/restifizer-unity3d) - Restifizer SDK for Unity3d. A way to significantly simplify creation of full-functional RESTful services, using MongoDB as a database.
 * [NATPunchthroughClient](https://github.com/noblewhale/NATPunchthroughClient) - An example implementation of NAT Punchthrough combined with Unity's UNet HLAPI.
+* [Gambetta_NetworkedDemo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta's Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.
+* [uTextureSendReceive](https://github.com/BarakChamo/uTextureSendReceive) - Unity network texture sender and receiver for video and frame streaming.
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -398,6 +407,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Easy Save 2 (Paid)](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
 * [Mad Level Manager (Paid)](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
 * [UniStorm (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2714) - A customizable dynamic day and night weather system that creates realistic storms and weather.
+* [GreenMambaStealth](https://github.com/DameonL/GreenMambaStealth) - An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
+
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -409,7 +420,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
 * [UnityIconCustomizer](https://github.com/makoto-unity/UnityIconCustomizer "You can customize your app icon with this. Like adding version number, 'BETA' and so on.")
-* [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
 * [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile "")
 * [AutoIconBuilder](https://github.com/negipoyoc/UnityAutoIconBuilder "")
 * [UnityIconCustomizer](https://github.com/makoto-unity/UnityIconCustomizer "") - You can customize your app icon with this. Like adding version number, 'BETA' and so on.
@@ -474,7 +484,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [unity3d-runtime-debug-draw](https://github.com/jagt/unity3d-runtime-debug-draw "") - Single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
 * [GameViewSizeChanger](https://github.com/Syy9/GameViewSizeChanger "") - Unity GameView Changer.
 
-
 ### :wrench: Tools <a name="tools"></a>
 
 * [Unity Tools](https://github.com/NoxHarmonium/unity-tools "") - Scripting Toolkit Github's Page.
@@ -483,6 +492,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [U3D](https://github.com/DragonBox/u3d "") - Cross-platform Unity3D tools.
 * [UnitySimplePatchTool](https://github.com/yasirkula/UnitySimplePatchTool "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
 * [TextMeshProReplacer](https://github.com/jackisgames/TextMeshProReplacer "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
+* [CantysToolbox](https://github.com/CantyCanadian/CantysToolbox "") - Set of tools for any Unity projects.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -531,7 +541,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### Snippets & Gists <a name="snippets-&-gists"></a>
 
-:construction:
+* [vscode-unity-code-snippets](https://github.com/kleber-swf/vscode-unity-code-snippets) - All snippets for Unity3D development.
 
 ## Serialization <a name="serialization"></a>
 
@@ -661,6 +671,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
 * [Unity-Signed-Distance-Field-Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow "") - Signed Distance Field Shadow in Unity.
 * [Bloom-Effect-Unity](https://github.com/hdmmY/Bloom-Effect-Unity "") - Bloom Effect Implementation.
+* [uCurvedScreen](https://github.com/hecomi/uCurvedScreen "") - Curved-sreen shader aseet for Unity.
 
 
 ## :bar_chart: UI <a name="ui"></a>
@@ -701,6 +712,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
 * [FancyScrollView](https://github.com/setchi/FancyScrollView "") - A scrollview component that can implement highly flexible animation.
 * [UnityDynamicScrollRect](https://github.com/Mukarillo/UnityDynamicScrollRect "") - An optimized approach to lists with dozens of elements and a Pooling system.
+* [UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo "") - Interactable runtime scene gizmo for uGUI.
 
 ## Procedural Generation <a name="procedural-generation"></a>
 
@@ -789,6 +801,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "") - ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
 * [ReorderableListExample](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
 * [EditorButton](https://github.com/miguel12345/EditorButton "") - Turn your Unity methods into buttons just by adding an attribute.
+* [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
+* [Giacomelli.Unity.EditorToolbox](https://github.com/giacomelli/Giacomelli.Unity.EditorToolbox "") - Unity3d editor tools to make life easier for game developers.
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
@@ -848,7 +862,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnEngine](https://github.com/jbruening/UnEngine "") - A clone of the UnityEngine.dll so you can write and test scripts outside of Unity.
 * [Unity-MS-SpeechSDK](https://github.com/ActiveNick/Unity-MS-SpeechSDK "") - Sample Unity project used to demonstrate Speech Recognition using the new Microsoft Speech Service (Preview) via WebSockets.
 * [urdf-loaders](https://github.com/gkjohnson/urdf-loaders "") - URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files.
-
+* [Unity-SpeechWithLUIS](https://github.com/ActiveNick/Unity-SpeechWithLUIS "") - Sample Unity project used to demonstrate the integration of Speech Recognition and Language Understanding using the new Microsoft Speech Service (Preview) and LUIS from Microsoft Cognitive Services.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -1043,6 +1057,7 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Add pending starred repositories.
 * Do shortcut png image with unity editor shortcuts.
 * Fill snippets and gists under scripting section.
+* Add speech recognition, natural language processing, etc.. section.
 * Add category for embbedded and mobile devices.
 
 And many more...
