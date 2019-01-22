@@ -4,7 +4,7 @@
 	</div>
   <br>
 	<div>
-		<h1><a name="intro">Awesome Unity</a></h1>		
+		<h1>Awesome Unity</h1>		
 		<a href="https://awesome.re">
 			<img src="https://awesome.re/badge.svg" alt="Awesome">
 		</a>					
