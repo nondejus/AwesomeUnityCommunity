@@ -26,7 +26,8 @@
 
 # Motivation
 
---
+:construction:
+
 <!-- I started this project because I felt that starting learning Unity was at first like learning any other language. First you learn the syntax and start creating basic apps but then you get better at developing when you learn the tools for that language and how to improve your work with them. I think this is the same, because when I learned Unity for the first time you needed to code a lot of basic tools that could greatly improve the time you spend making your game or app instead of reinventing the wheel. -->
 
 # Considerations
