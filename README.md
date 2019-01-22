@@ -45,7 +45,9 @@ I hope all of you find this helpful. Let's go with the contents.
 ## Icons
 
 Free resource: :free:
+
 Paid resource: :moneybag:
+
 Interesting resource: :cool: 
 
 <!-- 
@@ -55,7 +57,9 @@ Interesting resource: :cool:
 ## Tags
 
 (UNMAINTAINED) - The repository hasn't been updated for a long time.
+
 (DEPRECATED) - Another solution or package has been released that does the same and it's more recent.
+
 (ARCHIVED) - The repository is read only for learning purposes.
 
 # :bookmark_tabs: Table of contents (TOC)
