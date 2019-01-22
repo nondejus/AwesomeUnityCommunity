@@ -4,7 +4,7 @@
 	</div>
   <br>
 	<div>
-		<h1>Awesome Unity</h1>		
+		<h1><a name="intro">Awesome Unity</a></h1>		
 		<a href="https://awesome.re">
 			<img src="https://awesome.re/badge.svg" alt="Awesome">
 		</a>					
@@ -978,4 +978,4 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 
 And many more...
 
-[:top: Back to Top](https://github.com/agarcialeon/awesome-unity/#)
+[:top: Back to Top](https://github.com/agarcialeon/awesome-unity/#intro)
