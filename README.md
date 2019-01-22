@@ -75,6 +75,7 @@ Interesting resource: :cool:
   - [Augmented Reality](#augmented-reality)
   - [Virtual Reality](#virtual-reality)
   - [Mixed Reality](#mixed-reality)
+  - [Computer Vision / Tracking] (#computer-vision-tracking)
   - [Camera](#camera)
   - [Physics](#physics)
   - [Character Controllers](#character-controllers)
@@ -151,7 +152,6 @@ Interesting resource: :cool:
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - Editor tools for working with Tiled maps in Unity.
 * [unity-ecs-instanced-sprite-renderer](https://github.com/paullj/unity-ecs-instanced-sprite-renderer) - An example of a simple performant sprite renderer using Unity's new ECS system.
 
-
 ## :bulb: AI <a name="ai"></a>
 
 * [Pathfinding](https://github.com/antonpantev/pathfinding "Find paths in Unity Tilemaps with A* Search.")
@@ -225,13 +225,18 @@ Interesting resource: :cool:
 * [daydream-renderer-for-unity](https://github.com/googlevr/daydream-renderer-for-unity "") - A set of scripts and shaders designed to allow for high quality real-time rendering on the Daydream platform targeting 60fps.
 * [PumkinsAvatarTools](https://github.com/rurre/PumkinsAvatarTools "") - A tool to speed up setting up VRChat avatars in Unity.
 
-
 ## Mixed Reality <a name="mixed-reality"></a>
 
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "") - Author XR in XR.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
 * [MixedRealityDesignLabs_Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
+
+## Computer Vision / Tracking <a name="computer-vision-tracking"></a>
+
+* [Leap Motion](https://www.leapmotion.com/ "") - a computer hardware sensor device that supports hand and finger motions as input, analogous to a mouse, but requires no hand contact or touching.
+* [Myo](https://support.getmyo.com/hc/en-us) - A gesture control armband developed by Thalmic Labs. See [link](https://xinreality.com/wiki/Myo).
+* [Intel-Realsense-Hand-Toolkit-Unity](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity "") - Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D.
 
 ## :movie_camera: Camera <a name="camera"></a>
 
@@ -654,7 +659,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll "") - UnityChanToonShaderVer2 with EmissiveScroll.
 * [Heatwave](https://github.com/andrewgotow/Heatwave "") - A simple post-processing effect for the Unity game engine which renders small-scale distortions.
 * [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
-* [Unity-Signed-Distance-Field-Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow "") - SSigned Distance Field Shadow in Unity.
+* [Unity-Signed-Distance-Field-Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow "") - Signed Distance Field Shadow in Unity.
+* [Bloom-Effect-Unity](https://github.com/hdmmY/Bloom-Effect-Unity "") - Bloom Effect Implementation.
+
 
 ## :bar_chart: UI <a name="ui"></a>
 
@@ -839,8 +846,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AsyncCaptureTest](https://github.com/keijiro/AsyncCaptureTest "") - Non-blocking screen capture example with asynchronous GPU readback.
 * [PerformanceBenchmarkReporter](https://github.com/Unity-Technologies/PerformanceBenchmarkReporter "") - The Unity Performance Benchmark tool enables partners and developers to establish benchmark samples and measurements using the Performance Testing package, then use these benchmark values to compare subsequent performance test results in an html output utilizing graphical visualizations. 
 * [UnEngine](https://github.com/jbruening/UnEngine "") - A clone of the UnityEngine.dll so you can write and test scripts outside of Unity.
-* [Intel-Realsense-Hand-Toolkit-Unity](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity "") - Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D.
 * [Unity-MS-SpeechSDK](https://github.com/ActiveNick/Unity-MS-SpeechSDK "") - Sample Unity project used to demonstrate Speech Recognition using the new Microsoft Speech Service (Preview) via WebSockets.
+* [urdf-loaders](https://github.com/gkjohnson/urdf-loaders "") - URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files.
 
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
@@ -1009,6 +1016,10 @@ Please see [CONTRIBUTING](https://github.com/agarcialeon/awesome-unity/blob/mast
 
 Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/graphs/contributors), this wouldn't be possible without you! 
 
+<!--<a href="https://github.com/agarcialeon/awesome-unity/graphs/contributors">
+	 <img src="https://opencollective.com/vuejs/contributors.svg?width=890" /> 
+</a>-->
+
 # :memo: To be done <a name="to-do"></a>
 
 :warning: NOTE: Without any order of preference.
@@ -1016,12 +1027,13 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
 * Add better icons for sections.
 * Use tags to classify a resource instead of using a category. For example, a package for virtual reality can be a plugin or a library too.
+* Reorder category resources by most well known resources if possible.
 * Create more categories for specific resources that don't combine well.
 * Starter kit section with all the things needed or recommended for beginners.
-* Include resources for recommended asset store packages  section(well tested, most voted and so on).
+* Include resources for recommended asset store packages section(well tested, most voted and so on).
 * Add section for mesh navigation (NavMesh)
 * Add section for specific importers/exporters.
-* Fill up section for contributors.
+* Create open collective to show the image with the contributors if necessary.
 * Fill up testing section.
 * Fill up continuous integration section.
 * Fill up people to follow.
@@ -1030,8 +1042,8 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Change introduction at the beginning ot the readme file to indicate better the visitors how its organized.
 * Add pending starred repositories.
 * Do shortcut png image with unity editor shortcuts.
-* Fix table of contents links.
 * Fill snippets and gists under scripting section.
+* Add category for embbedded and mobile devices.
 
 And many more...
 
