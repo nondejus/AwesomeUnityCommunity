@@ -978,4 +978,4 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 
 And many more...
 
-[:top: Back to Top](https://github.com/agarcialeon/awesome-unity/#intro)
+[:top: Back to Top](#awesome-unity)
