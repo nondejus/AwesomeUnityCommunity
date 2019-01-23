@@ -1088,6 +1088,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Jackson Dunstan](https://jacksondunstan.com/)
 * [Keijiro Takahashi](https://www.keijiro.tokyo/) :fire:
 * [Unity3D Official Blog](https://blogs.unity3d.com/es/) - News and deep insights involving Unity development.
+* [Alan Zucconi's Blog](https://www.alanzucconi.com/) - Shaders and maths. Well explained and very interesting.
 
 ## :tv:  Videos <a name="videos"></a>
 
@@ -1215,6 +1216,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### Unity Developers <a name="follow-unity-developers"></a>
 
 Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.com/keijiro)
+Alan Zucconi ([Twitter](https://twitter.com/AlanZucconi))
 
 ### Independent Developers <a name="follow-independent-developers"></a>
 
