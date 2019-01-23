@@ -1263,6 +1263,7 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Mark deprecated packages (:x:).
 * Change introduction at the beginning ot the readme file to indicate better the visitors how its organized.
 * Do shortcut png image with unity editor shortcuts.
+* Add code of conduct.
 * Create open collective to show the image with the contributors if necessary.
 
 And many more...
