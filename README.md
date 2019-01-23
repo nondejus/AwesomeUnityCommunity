@@ -165,6 +165,8 @@ Interesting resource: :cool:
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
 * [TsiU_AIToolkit_CSharp](https://github.com/FinneyTang/TsiU_AIToolkit_CSharp) - AI Toolkit for Unity.
+* [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
+
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -275,6 +277,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera) - Unity Component that can describes a physical camera's attributes. (#Physics)
 * [unity-camera-follow-2d](https://github.com/minhhh/unity-camera-follow-2d) - Script to make 2d camera follow players in an interesting way.
 * [Unity-CameraSizeToVelocity2D](https://github.com/tonisuo/Unity-CameraSizeToVelocity2D) - Simple script to change the cameras size depending on the velocity of the target.
+* [CameraLib4U](https://github.com/mortennobel/CameraLib4U) - A third person camera system for Unity using Chase Camera.
 
 ## Physics <a name="physics"></a>
 
@@ -330,6 +333,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Weaver](https://github.com/ByronMayne/Weaver) - Weaver is a code weaving framework built right into Unity Engine. Based heavily off of Fody.
 * [MOBA_CSharp_Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity) - Framework for MOBA games. The server does not depend on Unity. Run on Linux.
 * [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) - Akka.Net 1.3.0 Running in Unity3D.
+* [UniversalUnityHooks](https://github.com/UserR00T/UniversalUnityHooks) - A framework designed to hook into and modify methods in unity games via dlls.
 
 ## Input <a name="input"></a>
 
@@ -558,6 +562,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniSpline](https://github.com/adrenak/UniSpline "") - A Unity tool for creating curves.
 * [EdNotes](https://github.com/plyoung/EdNotes "") - Attach notes to objects in Unity.
 * [UnityEveryplaySaveToLocal](https://github.com/yasirkula/UnityEveryplaySaveToLocal) - A helper script to save captured Everyplay videos to local file system on Android & iOS.
+* [Unity-EventBinder](https://github.com/GeorgeDascalu/Unity-EventBinder) - User Interface Event decoupler.
+
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -616,6 +622,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [mrayGStreamerUnity](https://github.com/mrayy/mrayGStreamerUnity "") - GStreamer Integration with Unity using a Native plugin.
 * [unity3d-profile](https://github.com/soomla/unity3d-profile "") - Unity3D plugin for Facebook, Twitter and Google Plus. The social module of SOOMLA - free2play mobile game framework for iOS and Android. 
 * [Vungle Unity Plugin](https://github.com/Vungle/Unity-Plugin "") - Vungle's Unity Plugin. Monetization SDK.
+* [Klinker](https://github.com/keijiro/Klinker "") - An experimental implementation of Blackmagic DeckLink plugin for Unity.
+
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -784,7 +792,11 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [NoiseRings](https://github.com/kaelb/NoiseRings "") - NoiseRings is a noisy emanating ring effect for Unity adapted with permission from the VR music video experience Chorus.
 * [FoW_shadow_map](https://github.com/krazzei/FoW_shadow_map "") - An example project of how to do fog of war in Unity 3D.
 * [CameraProjector](https://github.com/fuqunaga/CameraProjector "") - Project the image captured by the camera onto the object. (#CAMERA)
-
+* [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders "") - Alternative Unity shaders made by synqark.
+* [Neitri-Unity-Shaders](https://github.com/netri/Neitri-Unity-Shaders "") - A compilation of shaders for Unity3D and VRChat.
+* [VoxelPerformance](https://github.com/charlesgriffiths/VoxelPerformance "") - High performance voxel landscape functions for Unity 5.3+ using compute and geometry shaders.
+* [unity-standard-shader-mobile](https://github.com/nylonee/unity-standard-shader-mobile "") - Mobile optimised shader for Unity 3D.
+* [uHomography](https://github.com/hecomi/uHomography "") - Homography Transformation Image Effect for Unity.
 
 ## :bar_chart: UI <a name="ui"></a>
 
@@ -857,6 +869,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityCurvedMeshGenerator](https://github.com/nrj/UnityCurvedMeshGenerator "") - Procedural mesh generation tutorial with cubic Bezier curves.
 * [PixelArtGen](https://github.com/abagames/PixelArtGen "") - A pixel art generator on a Unity custom inspector.
 * [Procedural-Terrain-Generator](https://github.com/CyanCode/ "") - Procedural terrain generator for the Unity 3D engine. (#Terrain)
+* [TownGenerator](https://github.com/zulfajuniadi/TownGenerator "") - Medieval Town Generator for Unity.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
@@ -939,6 +952,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Simple-Graph-Editor](https://github.com/Aridez/Simple-Graph-Editor "") - An editor extension for unity that allows making directional graphs quickly.
 * [TextMeshProButtonExtension](https://github.com/jackisgames/TextMeshProButtonExtension "") - An editor extension for unity that allows making directional graphs quickly. (#UI)
 * [stickies](https://github.com/charblar/stickies) - Simple in-editor notes for Unity3D.
+* [TimeFlowShiki](https://github.com/sassembla/TimeFlowShiki) - Unity Editor Timeline GUI skeleton.
+
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
@@ -1009,6 +1024,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [delft-toolkit-v2](https://github.com/pvanallen/delft-toolkit-v2 "") - Tool for Designing Smart Collaborative Things.
 * [AirSim](https://github.com/Microsoft/AirSim "") - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 * [mesh-streamer](https://github.com/glowbox/mesh-streamer "") - A general purpose system for streaming mesh data into Unity.
+* [braccio-ik-unity](https://github.com/tanyuan/braccio-ik-unity "") - Braccio robotic arm simulator with IK (inverse kinematics) and controller via Serial in Unity.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -1095,6 +1111,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Editor Hotkeys](https://docs.unity3d.com/Manual/UnityHotkeys.html) - Unity manual's page with editor hotkeys.
 * [Raywenderlich.com Unity Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2017/12/UnityCheatSheet.pdf) - Cheatsheet with some common problems when developing with Unity.
 * [Cheatografy Cheatsheet](https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/) - Hotkeys for Unity editor.
+* [UniteBerlin](https://github.com/VoxelBoy/UniteBerlin) - Repository for my Unite Berlin talk - Become a Speed Demon: Being faster at everything you do in Unity.
+
 
 ## :paperclip: Other references <a name="other-references"></a>
 * [Unity3D Github Page](https://github.com/Unity-Technologies "") :octocat: - Unity3D Github Page.
