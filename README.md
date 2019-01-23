@@ -243,6 +243,11 @@ Interesting resource: :cool:
 * [YVTuber](https://github.com/youten/YVTuber "") - YVTuber(Yume VTuber System) is Unity project for VTuber(Virtual YouTuber).
 * [gear-vr-leap-unity](https://github.com/levrn/gear-vr-leap-unity "") - Workaround in Unity to use Leap Motion Controller with Gear VR (or any other headset that doesn't support it).
 * [tbutt-vr](https://github.com/turbobutton/tbutt-vr "") - A lightweight multiplatform interface for making VR games in Unity.
+* [OculusRiftDK2ExtendPreview](https://github.com/hammmm/OculusRiftDK2ExtendPreview "") - OculusRift DK2 Unity Editor PreviewScript.
+* [VketBoothValidator](https://github.com/Kozu-vr/VketBoothValidator "")
+* [SteamVREnabler](https://github.com/demonixis/SteamVREnabler "") - A tool to enable or disable the SteamVR runtime.
+* [VRTK_MouseGrab](https://github.com/ousttrue/VRTK_MouseGrab "") - VRTK SDK sample.
+
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -334,6 +339,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [MOBA_CSharp_Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity) - Framework for MOBA games. The server does not depend on Unity. Run on Linux.
 * [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) - Akka.Net 1.3.0 Running in Unity3D.
 * [UniversalUnityHooks](https://github.com/UserR00T/UniversalUnityHooks) - A framework designed to hook into and modify methods in unity games via dlls.
+* [UnityGameFramework-Template](https://github.com/HolicXXX/UnityGameFramework-Template) - A common Unity template Project base on UnityGameFramework.
+
 
 ## Input <a name="input"></a>
 
@@ -408,6 +415,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [P2P.NET](https://github.com/Phylliida/P2P.NET) - (Formerly UnityP2P) Peer to peer networking in Unity using WebRTC and a free Heroku server for signaling.
 * [unity_physics_csp](https://github.com/spectre1989/unity_physics_csp) - Basic implementation of client-side prediction in Unity, so real networking happens, all network traffic is simulated in a single Unity instance.
 * [msgpack-sharp](https://github.com/scopely/msgpack-sharp) - A lightweight, high performance MessagePack framework for the CLR that works in constrained environments like AOT under Unity and Xamarin.
+* [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 * [unity-timeline-sync](https://github.com/asus4/unity-timeline-sync) - Synchronize multiple Unity Timeline via UDP.
 * [MLAPI.Relay-Documentation](https://github.com/MidLevel/MLAPI.Relay-Documentation) - This is the repository for the MLAPI.Relay, a UNET Relay. This is where documentation and issues can be found and reported.
 
@@ -428,6 +436,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Design Patterns](https://github.com/QianMo/Unity-Design-Pattern "") - All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns written in Unity C#.
 * [unity-design-patterns](https://github.com/Naphier/unity-design-patterns "") - Examples of programming design patterns in Unity C#.
 * [Disruptor-Unity3D](https://github.com/dave-hillier/disruptor-unity3d "") - Basic implementation of Disruptor for Unity3d.
+* [Unity-Singleton](https://github.com/BharathVishal/Unity-Singleton "") - A sample project explaining the usage of singleton object to hold global game state.
+
 
 ### :orange_book: Libraries <a name="libraries"></a>
 
@@ -463,6 +473,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity.
 * [Coop-Design](https://github.com/simeonradivoev/Coop-Design) - A prototype for runtime cooperative level designing in Unity 3D.
 * [Hydrogen-CSharp](https://github.com/nxrighthere/Hydrogen-CSharp) - A prototype for runtime cooperative level designing in Unity 3D.
+* [SkillSystem](https://github.com/dongweiPeng/SkillSystem)
+
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -563,7 +575,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EdNotes](https://github.com/plyoung/EdNotes "") - Attach notes to objects in Unity.
 * [UnityEveryplaySaveToLocal](https://github.com/yasirkula/UnityEveryplaySaveToLocal) - A helper script to save captured Everyplay videos to local file system on Android & iOS.
 * [Unity-EventBinder](https://github.com/GeorgeDascalu/Unity-EventBinder) - User Interface Event decoupler.
-
+* [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter) - An unity editor extension for bitmap font.
+* [UnityMainThreadDispatcher](https://github.com/ashikns/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
+* [log4net.unity](https://github.com/HolyShovelSoft/log4net.unity) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
+* [xNode-BehaviourTree](https://github.com/jnhtt/xNode-BehaviourTree) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -797,6 +812,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [VoxelPerformance](https://github.com/charlesgriffiths/VoxelPerformance "") - High performance voxel landscape functions for Unity 5.3+ using compute and geometry shaders.
 * [unity-standard-shader-mobile](https://github.com/nylonee/unity-standard-shader-mobile "") - Mobile optimised shader for Unity 3D.
 * [uHomography](https://github.com/hecomi/uHomography "") - Homography Transformation Image Effect for Unity.
+* [CloudSkybox](https://github.com/keijiro/CloudSkybox "") - Skybox shader with volumetric clouds.
+* [FastPostProcessing](https://github.com/demonixis/FastPostProcessing "") - A small and fast post processing stack (only one pass) targeting mobile and mobile VR for Unity. (#VIRTUAL REALITY)
+
 
 ## :bar_chart: UI <a name="ui"></a>
 
@@ -847,6 +865,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityIPhoneXSupport](https://github.com/tkyaji/UnityIPhoneXSupport "") - Support iPhoneX by changing the drawing area of Unity.
 * [ugui-super-scrollview-example](https://github.com/baba-s/ugui-super-scrollview-example "") - Sample project that summarizes usage examples of "UGUI Super ScrollView".
 * [Unity-PagingView](https://github.com/kiepng/Unity-PagingView "") - PagingView for Unity.
+* [Unity-AlignTools](https://github.com/litefeel/Unity-AlignTools "") - Align Tools is just perfect Unity asset plugin to align gui object.
+
 
 ## Procedural Generation <a name="procedural-generation"></a>
 
@@ -967,6 +987,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityAssetCleaner](https://github.com/tsubaki/UnityAssetCleaner "")
 * [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
 * [asset-store-support-window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
+* [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
+
 
 ## Misc. <a name="miscellaneous"></a>
 
@@ -1025,6 +1047,12 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AirSim](https://github.com/Microsoft/AirSim "") - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 * [mesh-streamer](https://github.com/glowbox/mesh-streamer "") - A general purpose system for streaming mesh data into Unity.
 * [braccio-ik-unity](https://github.com/tanyuan/braccio-ik-unity "") - Braccio robotic arm simulator with IK (inverse kinematics) and controller via Serial in Unity.
+* [FontainebleauDemo](https://github.com/Unity-Technologies/FontainebleauDemo "") - Fontainebleau demo (#PHOTOGRAMMETRY)
+* [unity-arduino-examples](https://github.com/tanyuan/unity-arduino-examples "") - Unity and Arduino example projects.
+* [concordia-module](https://github.com/sblack-usu/concordia-module "")
+* [stunts-unity](https://github.com/cobbpg/stunts-unity "") - A tiny Unity project to import assets from the original Stunts game.
+* [ILSpy](https://github.com/icsharpcode/ILSpy "") - .NET Decompiler.
+
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -1087,6 +1115,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityVJShaderSlide20181108](https://github.com/kaiware007/UnityVJShaderSlide20181108)
 * [Learning-Unity-ECS](https://github.com/starikcetin/Learning-Unity-ECS)
 * [UnityGraphicsProgramming Vol.2](https://github.com/IndieVisualLab/UnityGraphicsProgramming2) - Unity Graphics Programming vol.2
+* [ShaderGraphExample](https://github.com/rngtm/ShaderGraphExample)
 
 
 ## :star: Best Practices <a name="best-practices"></a>
@@ -1157,6 +1186,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [MachineLearningRoguelike](https://github.com/UnityTechnologies/MachineLearningRoguelike "") - A small Roguelike game that uses Machine Learning to power its entities.
 * [SLGanim](https://github.com/Phynic/SLGanim "")
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition "") - A complete remake of 2005 demo "Final Audition" by Plastic. After 12 years remade in Unity and now available in VR.
+* [EntitasGard](https://github.com/BahuMan/EntitasGard "") - ECS driven implementation of an RTS.
+
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
@@ -1224,7 +1255,6 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Fill up communities section.
 * Mark deprecated packages (:x:).
 * Change introduction at the beginning ot the readme file to indicate better the visitors how its organized.
-* Add pending starred repositories.
 * Do shortcut png image with unity editor shortcuts.
 * Fill snippets and gists under scripting section.
 * Add speech recognition, natural language processing, etc.. section.
