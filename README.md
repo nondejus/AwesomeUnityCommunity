@@ -75,7 +75,7 @@ Interesting resource: :cool:
   - [Augmented Reality](#augmented-reality)
   - [Virtual Reality](#virtual-reality)
   - [Mixed Reality](#mixed-reality)
-  - [Computer Vision & Tracking] (#computer-vision-tracking)
+  - [Computer Vision & Tracking] (#computer-vision-and-tracking)
   - [Speech Recognition] (#speech-recognition)
   - [Camera](#camera)
   - [Physics](#physics)
@@ -249,7 +249,7 @@ Interesting resource: :cool:
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
 * [MixedRealityDesignLabs_Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
 
-## Computer Vision & Tracking <a name="computer-vision-tracking"></a>
+## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
 * [Leap Motion](https://www.leapmotion.com/ "") - a computer hardware sensor device that supports hand and finger motions as input, analogous to a mouse, but requires no hand contact or touching.
 * [Myo](https://support.getmyo.com/hc/en-us) - A gesture control armband developed by Thalmic Labs. See [link](https://xinreality.com/wiki/Myo).
