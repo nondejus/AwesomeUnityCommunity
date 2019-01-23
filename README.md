@@ -6,7 +6,7 @@
 	<div>
 		<h1>Awesome Unity</h1>		
 		<a href="https://awesome.re">
-			<img src="https://awesome.re/badge.svg" alt="Awesome">
+			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
 		</a>					
 		<p>
 			A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. 
