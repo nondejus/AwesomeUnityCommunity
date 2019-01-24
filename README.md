@@ -1475,6 +1475,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 
 :warning: NOTE: Following list of tasks is written without any order of preference.
 
+* Add Open Issue template file to help providing new resources.
 * The logo image should be high-DPI. Set it to maximum half the width of the original image.
 * Wait 30 days from first commit to make the pull request to awesome lists topic.
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
