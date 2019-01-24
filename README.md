@@ -1451,9 +1451,13 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 	 <img src="https://opencollective.com/vuejs/contributors.svg?width=890" /> 
 </a>-->
 
+# Code of Conduct
+
+See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/CODE-OF-CONDUCT.md).
+
 # :memo: To be done <a name="to-do"></a>
 
-:warning: NOTE: Without any order of preference.
+:warning: NOTE: Following list of tasks is written without any order of preference.
 
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
 * Add better icons for sections.
@@ -1461,7 +1465,6 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Reorder category resources by most well known resources if possible.
 * Starter kit section with all the things needed or recommended for beginners.
 * Include resources for recommended asset store packages section (well tested, most voted and so on).
-* Fill up testing section.
 * Fill up continuous integration section.
 * Fill up people to follow.
 * Fill up communities section.
@@ -1469,15 +1472,12 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 * Create more categories for specific resources that don't combine well.
 * Add section for mesh navigation (NavMesh)
 * Add section for specific importers/exporters.
-* Add subcategory in effects & shaders for particle systems.
 * Add machine learning category section.
 * Add natural language processing section.
 * Add category for embbedded and mobile devices.
 * Mark deprecated packages (:x:).
 * Change introduction at the beginning ot the readme file to indicate better the visitors how its organized.
 * Do shortcut png image with unity editor shortcuts.
-* Add code of conduct.
-* Gather resources from the rest of awesome Unity lists. For example, [this](https://github.com/insthync/awesome-unity3d).
 * Create open collective to show the image with the contributors if necessary.
 
 And many more...
