@@ -84,7 +84,8 @@
   - [Testing](#testing)
   - [Customization](#customization)
   - [Extensibility](#extensibility)
-  - [Miscellaneuous](#miscellaneous)
+  - [Modding](#modding)
+  - [Miscellaneuous](#miscellaneous)  
 - [Learning Resources](#learning-resources)
   - [Tips and Tricks](#tips-tricks)
   - [Books](#books)
@@ -1200,6 +1201,13 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
 * [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
 
+## Modding <a name="modding"></a>
+
+* [Harmony](https://github.com/pardeike/Harmony "") - A library for patching, replacing and decorating .NET and Mono methods during runtime
+* [dnSpy](https://github.com/0xd4d/dnSpy "") - A library for patching, replacing and decorating .NET and Mono methods during runtime.
+* [MonoMod](https://github.com/0x0ade/MonoMod "") - A general purpose .NET assembly modding "basework", powered by cecil.
+* [PartialityLauncher](https://github.com/PartialityModding/PartialityLauncher "") - The launcher for Partiality.
+
 ## Misc. <a name="miscellaneous"></a>
 
 * [Incremental Compiler](https://github.com/SaladLab/Unity3D.IncrementalCompiler "Incremental Compiler Github's Page")
@@ -1210,7 +1218,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "")
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "Simple solution for cutting sprites in runtime.")
 * [Ngx](https://github.com/keijiro/Ngx "Neural network based visual generator and mixer.")
-* [Harmony](https://github.com/pardeike/Harmony "A library for patching, replacing and decorating .NET and Mono methods during runtime")
 * [Screen Shooter](https://github.com/PhannGor/Screen-Shooter "A simple tool for creating screenshots at any resolution within the Unity Editor.")
 * [LSky-Dynamic-Skydome-Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3d
 * [ST2U2DNavMeshImporter](https://github.com/SharlatanY/ST2U2DNavMeshImporter "") - Provides a custom importer to automatically setting up 2D Navmeshes (Using NavMeshSurface2DBaker) when importing "Tiled" tilemaps through SuperTiled2Unity.
