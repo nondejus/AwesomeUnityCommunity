@@ -196,7 +196,7 @@ Interesting resource: :cool:
 * [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D.
 * [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation.
 * [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -
-An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility.
+* [A* Pathfinding Project Pro](https://arongranberg.com/astar/front) - Lightning fast pathfinding for Unity3D. :moneybag:
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -216,6 +216,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UniMic](https://github.com/adrenak/UniMic "") - A wrapper for Unity's Microphone class.
 * [Low-latency_Sound_for_UnityAndroid](https://github.com/tsubaki/Low-latency_Sound_for_UnityAndroid "")
 * [usfxr](https://github.com/zeh/usfxr) - A C# library used to generate and play game-like procedural audio effects inside Unity.
+* [Audio Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-toolkit-free-version-2679) - A complete, easy-to-use, and performance optimized framework to play and manage music and sound effects in Unity. Both :moneybag: and :free:
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -418,7 +419,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
 * [ThreeDScans](https://github.com/keijiro/ThreeDScans) - Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
-* [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity.
+* [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity. See [Procore](http://www.procore3d.com/).
 
 ## :money_with_wings: Monetization <a name="monetization"></a>
 
