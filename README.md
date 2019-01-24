@@ -142,6 +142,7 @@ Interesting resource: :cool:
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Contributors to this repository](#contributors)
 - [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 - [To be done](#to-do)
 
 # :bookmark: Categories <a name="categories"></a>
@@ -1451,7 +1452,7 @@ Thanks to all the [contributors](https://github.com/agarcialeon/awesome-unity/gr
 	 <img src="https://opencollective.com/vuejs/contributors.svg?width=890" /> 
 </a>-->
 
-# Code of Conduct
+# Code of Conduct <a name="code-of-conduct"></a>
 
 See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/CODE-OF-CONDUCT.md).
 
