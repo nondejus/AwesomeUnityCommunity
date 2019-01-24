@@ -1,11 +1,13 @@
 <div align="center">
 	<div>
-		<img width="500" src="awesome-unity.png" alt="Awesome Unity">
+		<a href="https://github.com/agarcialeon/awesome-unity/">
+			<img width="500" src="awesome-unity.png" alt="Awesome Unity">
+		</a>
 	</div>
   <br>
 	<div>
 		<h1>Awesome Unity</h1>		
-		<a href="https://awesome.re">
+		<a href="https://github.com/sindresorhus/awesome"> 
 			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
 		</a>					
 		<p>
@@ -24,48 +26,13 @@
 	</div>
 </div>
 
-# Motivation
+# :bookmark_tabs: Contents
 
-:construction:
-
-<!-- I started this project because I felt that starting learning Unity was at first like learning any other language. First you learn the syntax and start creating basic apps but then you get better at developing when you learn the tools for that language and how to improve your work with them. I think this is the same, because when I learned Unity for the first time you needed to code a lot of basic tools that could greatly improve the time you spend making your game or app instead of reinventing the wheel. -->
-
-# Considerations
-
-There is always a posibility that this repository becomes outdated, mostly because new packages from the asset store and repositories appear in the future. This is because of the nature of technlogy and this can be avoided, so in order to keep this project as updated as possible with what other users know, please create a new issue to include or remove what you think is necessary.
-
-Another point is the categorization of the resources provided here. Since some of them can be included in different categories at the same time a cross reference will be created in the form of a hastag to notify you (the visitor) that maybe you need to look in a different place of this repository or in other external site to find more info.
-
-Finally, you need to know that this is not the only repository on Github that gathers Unity related repositories. This is just another try to get the best of all the existing content out there for Unity developers. So please, be grateful with all the other developers that put effort collection their respective lists of resources by visiting their repositories (they will be listed below).
-
-I hope all of you find this helpful. Let's go with the contents.
-
-# Key to Icons / Tags
-
-## Icons
-
-Free resource: :free:
-
-Paid resource: :moneybag:
-
-Interesting resource: :cool: 
-
-<!-- 
-:new:
--->
-
-## Tags
-
-(UNMAINTAINED) - The repository hasn't been updated for a long time.
-
-(DEPRECATED) - Another solution or package has been released that does the same and it's more recent.
-
-(ARCHIVED) - The repository is read only for learning purposes.
-
-#[CATEGORY] - Where [CATEGORY] represents a category of the document. Means that the resource is related with another category too.
-
-# :bookmark_tabs: Table of contents (TOC)
-
+- [Motivation](#motivation)
+- [Considerations](#considerations)
+- [Legend](#legend)
+	- [Icons](#icons)
+	- [tags](#tags)
 - [Categories](#categories)
   - [2D](#2d)
   - [AI](#ai)
@@ -144,6 +111,46 @@ Interesting resource: :cool:
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [To be done](#to-do)
+
+# Motivation <a name="motivation"></a>
+
+:construction:
+
+<!-- I started this project because I felt that starting learning Unity was at first like learning any other language. First you learn the syntax and start creating basic apps but then you get better at developing when you learn the tools for that language and how to improve your work with them. I think this is the same, because when I learned Unity for the first time you needed to code a lot of basic tools that could greatly improve the time you spend making your game or app instead of reinventing the wheel. -->
+
+# Considerations <a name="considerations"></a>
+
+There is always a posibility that this repository becomes outdated, mostly because new packages from the asset store and repositories appear in the future. This is because of the nature of technlogy and this can be avoided, so in order to keep this project as updated as possible with what other users know, please create a new issue to include or remove what you think is necessary.
+
+Another point is the categorization of the resources provided here. Since some of them can be included in different categories at the same time a cross reference will be created in the form of a hastag to notify you (the visitor) that maybe you need to look in a different place of this repository or in other external site to find more info.
+
+Finally, you need to know that this is not the only repository on Github that gathers Unity related repositories. This is just another try to get the best of all the existing content out there for Unity developers. So please, be grateful with all the other developers that put effort collection their respective lists of resources by visiting their repositories (they will be listed below).
+
+I hope all of you find this helpful. Let's go with the contents.
+
+# Legend <a name="legend"></a>
+
+## Icons <a name="icons"></a>
+
+Free resource: :free:
+
+Paid resource: :moneybag:
+
+Interesting resource: :cool: 
+
+<!-- 
+:new:
+-->
+
+## Tags <a name="tags"></a>
+
+(UNMAINTAINED) - The repository hasn't been updated for a long time.
+
+(DEPRECATED) - Another solution or package has been released that does the same and it's more recent.
+
+(ARCHIVED) - The repository is read only for learning purposes.
+
+#[CATEGORY] - Where [CATEGORY] represents a category of the document. Means that the resource is related with another category too.
 
 # :bookmark: Categories <a name="categories"></a>
 
@@ -1460,6 +1467,8 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 
 :warning: NOTE: Following list of tasks is written without any order of preference.
 
+* The logo image should be high-DPI. Set it to maximum half the width of the original image.
+* Wait 30 days from first commit to make the pull request to awesome lists topic.
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
 * Add better icons for sections.
 * Use tags to classify a resource instead of using a category. For example, a package for virtual reality can be a plugin or a library too.
