@@ -342,7 +342,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) - Akka.Net 1.3.0 Running in Unity3D.
 * [UniversalUnityHooks](https://github.com/UserR00T/UniversalUnityHooks) - A framework designed to hook into and modify methods in unity games via dlls.
 * [UnityGameFramework-Template](https://github.com/HolicXXX/UnityGameFramework-Template) - A common Unity template Project base on UnityGameFramework.
-
+* [OpenFramework](https://github.com/omid3098/OpenFramework) - A Lightweight framework for unity with dependency injection.
 
 ## Input <a name="input"></a>
 
@@ -432,6 +432,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity-Metaballs-2D](https://github.com/luke161/Unity-Metaballs-2D "") - Implementation of 2D Metaballs with marching squares in Unity. (#2D)
 * [Catmull-Rom-Splines](https://github.com/JPBotelho/Catmull-Rom-Splines "") - Catmull-Rom spline implementation in Unity.
 * [Marching-Cubes-On-The-GPU](https://github.com/Scrawk/Marching-Cubes-On-The-GPU "") - A implementation of the marching cubes algorithm on the GPU in Unity.
+* [Advanced-Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
+
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -579,6 +581,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityMainThreadDispatcher](https://github.com/ashikns/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
 * [log4net.unity](https://github.com/HolyShovelSoft/log4net.unity) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
 * [xNode-BehaviourTree](https://github.com/jnhtt/xNode-BehaviourTree) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
+* [command_terminal](https://github.com/stillwwater/command_terminal) - Unity Command Terminal: In-Game Console.
+* [MVPScriptGenerator4Unity](https://github.com/MasaKoha/MVPScriptGenerator4Unity) - MVP Script Generator for Unity Editor.
+* [gizmos](https://github.com/popcron/gizmos) - Used for drawing runtime gizmos in builds and editor (Unity3D).
 * [cad-in-unity](https://github.com/i2e-haw-hamburg/cad-in-unity "") - Loading CAD into Unity 3D applications.
 
 ### :wrench: Tools <a name="tools"></a>
@@ -736,6 +741,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [uRaymarching](https://github.com/hecomi/uRaymarching "") - Raymarching Shader Generator in Unity.
 * [Unity NextGenSprites](https://github.com/paulgswanson/UNity-NextGenSprites "")
 * [unity-texture-curve](https://github.com/andydbc/unity-texture-curve "") - Example showing how to bake an AnimatedCurve into a Texture and use it in a shader.
+* [unity-texture-curve](https://github.com/y23586/vrchat-time-shaders "") - Utility shaders to implement time-related stuffs in VRChat.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -874,6 +880,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ugui-super-scrollview-example](https://github.com/baba-s/ugui-super-scrollview-example "") - Sample project that summarizes usage examples of "UGUI Super ScrollView".
 * [Unity-PagingView](https://github.com/kiepng/Unity-PagingView "") - PagingView for Unity.
 * [Unity-AlignTools](https://github.com/litefeel/Unity-AlignTools "") - Align Tools is just perfect Unity asset plugin to align gui object.
+* [OpenUi](https://github.com/omid3098/OpenUi "") - Make your game UI in minutes!
 
 ## Procedural Generation <a name="procedural-generation"></a>
 
@@ -909,6 +916,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [VertexPaint](https://github.com/slipster216/VertexPaint "") - Unity 5.3 Vertex Painter.
 * [InkPainter](https://github.com/EsProgram/InkPainter "") - Texture-Paint on Unity. 
+* [Texture-Array-Unity](https://github.com/DmtDenisov/Texture-Array-Unity "") - A small tool for creating texture arrays in Unity. (#UTILITIES)
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer) - Utility to combine color channels from different textures into a single output.
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity.
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
