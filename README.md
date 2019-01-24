@@ -1063,6 +1063,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
 * [asset-store-support-window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
 * [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
+* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
 
 ## Misc. <a name="miscellaneous"></a>
 
@@ -1132,7 +1133,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Moonsharp](https://github.com/xanathar/moonsharp/ "") - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
 * [slua](https://github.com/pangweiwei/slua "") - Fastest lua binding via static code generating for Unity3D and mono.
 * [uLua](https://github.com/jarjin/uLua "")
-* [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration
+* [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
+* [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -1235,14 +1237,12 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Roadmap](http://unity3d.com/roadmap "") - Unity Feature Roadmap.
 * [Job System Cookbook](https://github.com/stella3d/job-system-cookbook "") - Examples of using the C# Job System in Unity 2018.
 * [Unity Editor Manual](http://anchan828.github.io/editor-manual/ "") - Unity editor unofficial manual written in Japanese.
-* [Awesome Unity](https://github.com/RyanNielson/awesome-unity "") - Awesome Unity Github Page.
+* [Awesome Unity](https://github.com/RyanNielson/awesome-unity "") - Awesome list repository for Unity. (Already integrated in the repository) 
 * [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "") - A community driven list of useful Unity Game Engine 'FREE' packages, libraries and others. (Note: Resources are already integrated into this repository).
 * [awesome-unity3d](https://github.com/insthync/awesome-unity3d "") - A categorized collection of awesome opensource unity3d repos.
 * [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "") - A maintained collection of useful & free unity scripts / library's / plugins and extensions.
 * [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "") - Other Github Repos.
 * [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "") - More Github Repos.
-* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
-* [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 * [Awesome Unity Wiki](https://github.com/agarcialeon/awesome-unity/wiki "") - The wiki of this repository.
 
 # :trophy: Recommended Asset Store Packages <a name="recommended-packages"></a>
