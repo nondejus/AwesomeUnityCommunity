@@ -832,6 +832,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnitySpriteShaders](https://github.com/traggett/UnitySpriteShaders "") - An Uber Shader for rendering Sprites in Unity.
 * [HologramShader](https://github.com/andydbc/HologramShader "") - Test of an hologram material made in Unity.
 * [Unity-HologramShield](https://github.com/paulgswanson/Unity-HologramShield "") - An hologram shield shader for Unity.
+* [ReinhardtLike-Shield-ShaderForge](https://github.com/vaxkun/ReinhardtLike-Shield-ShaderForge "") - A shader made to emulate Reinhardt shield effect using ShaderForge on Unity3D.
 * [KvantGrass](https://github.com/keijiro/KvantGrass "") - Animating grass shader for Unity.
 * [fun-frag-shaders](https://github.com/makitsune/fun-frag-shaders "") - Fun fragment shaders you can use in Unity.
 * [unityglitch](https://github.com/staffantan/unityglitch "") - Glitch post-processing shader for Unity3D.
