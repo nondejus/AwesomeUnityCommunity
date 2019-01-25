@@ -49,9 +49,9 @@
   - [Character Controllers](#character-controllers)
   	- [2D Character Controllers](#2d-character-controllers)
   	- [3D Character Controllers](#3d-character-controllers)
-  - [Controller Mappings](#controller-mappings)
   - [Frameworks](#frameworks)
   - [Input](#input)
+  	- [Controller Mappings](#controller-mappings)
   - [Modeling](#modeling)
   - [Monetization](#monetization)
   - [Services](#services)
@@ -161,7 +161,7 @@ Interesting resource: :cool:
 * [2D Toolkit](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system. :moneybag:
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels. :moneybag:
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
-* [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
+* [Spine](http://esotericsoftware.com) - A skeletal animation editor with a Unity library. :moneybag:
 * [Tiled2Unity](https://github.com/Seanba/Tiled2Unity) - Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
 * [unity2d-tmx](https://github.com/suppayami/unity2d-tmx) - A small library to import and render tilemap in Unity2D, only support TMX file format.
 * [Unity Anima2D](https://www.assetstore.unity3d.com/en/#!/content/79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
@@ -174,28 +174,28 @@ Interesting resource: :cool:
 * [HermodToolkit](https://github.com/Sirithang/HermodToolkit) - A set of 2D tools for Unity.(#2D)
 * [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
 * [2DTileMapLevelEditor](https://github.com/GracesGames/2DTileMapLevelEditor) - 2D Tile Map Level Editor for Unity.
-- [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Make mesh like line, polygon, etc in Unity3D.
+* [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Make mesh like line, polygon, etc in Unity3D.
 
 ## :bulb: AI <a name="ai"></a>
 
-* [Pathfinding](https://github.com/antonpantev/pathfinding "Find paths in Unity Tilemaps with A* Search.")
-* [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "A Unity library for common movement AI.")
+* [Pathfinding](https://github.com/antonpantev/pathfinding "") - Find paths in Unity Tilemaps with A* Search.
+* [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "") - A Unity library for common movement AI.
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles. :moneybag:
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
-* [behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
-* [TsiU_AIToolkit_CSharp](https://github.com/FinneyTang/TsiU_AIToolkit_CSharp) - AI Toolkit for Unity.
+* [Behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
+* [TsiU AIToolkit CSharp](https://github.com/FinneyTang/TsiU_AIToolkit_CSharp) - AI Toolkit for Unity.
 * [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#.
 * [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#.
-* [goap](https://github.com/sploreg/goap) - Goal Oriented Action Planning AI in Unity
+* [GOAP](https://github.com/sploreg/goap) - Goal Oriented Action Planning AI in Unity.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 * [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
-* [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity.
+* [Openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity.
 * [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
 * [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D.
 * [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation.
-* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -
+* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 * [A* Pathfinding Project Pro](https://arongranberg.com/astar/front) - Lightning fast pathfinding for Unity3D. :moneybag:
 
 ## :musical_score: Audio <a name="audio"></a>
@@ -203,27 +203,28 @@ Interesting resource: :cool:
 * [Reaktion](https://github.com/keijiro/Reaktion "Audio reactive animation toolkit for Unity.")
 * [Unity-NodeSynthesizer](https://github.com/rngtm/Unity-NodeSynthesizer "") - Nose-Based Synthesizer on UnityEditor.
 * [Unity-Synth-Experiments](https://github.com/pixlpa/Unity-Synth-Experiments "") - A set of simple generative synth scripts for Unity written in C# (OnAudioFilterRead).
-* [videolab](https://github.com/teenageengineering/videolab "") - Toolkit for designing midi-controlled video content.
-* [resonance-audio-unity-sdk](https://github.com/resonance-audio/resonance-audio-unity-sdk "") - Resonance Audio SDK for Unity.
+* [Videolab](https://github.com/teenageengineering/videolab "") - Toolkit for designing midi-controlled video content.
+* [Resonance-audio-unity-sdk](https://github.com/resonance-audio/resonance-audio-unity-sdk "") - Resonance Audio SDK for Unity.
 * [MusicEngine](https://github.com/geekdrums/MusicEngine "") - Make music synced game with Unity.
 * [UnityWav](https://github.com/deadlyfingers/UnityWav "") - WAV utility for saving and loading wav files in Unity.
 * [UnityOSC](https://github.com/thomasfredericks/UnityOSC "") - Open Sound Control (OSC) for Unity.
 * [Rhythmify](https://github.com/Gkxd/Rhythmify "") - A Rhythm Syncing Implementation for Unity.
-* [algorithmic-beat-mapping-unity](https://github.com/jesse-scam/algorithmic-beat-mapping-unity "") - Real-time and Preprocessed Audio Analysis for Onset Detection (Beat Mapping) Using Spectral Flux.
+* [Algorithmic-beat-mapping-unity](https://github.com/jesse-scam/algorithmic-beat-mapping-unity "") - Real-time and Preprocessed Audio Analysis for Onset Detection (Beat Mapping) Using Spectral Flux.
 * [UniBpmAnalyzer](https://github.com/WestHillApps/UniBpmAnalyzer "") - BPM analyzer for Unity.
 * [Spotify4Unity](https://github.com/JoshLmao/Spotify4Unity "") - Set of UI tools and scripts for integrating Spotify into your Unity game/app!
-* [Spotify4Unity](https://github.com/kewlniss/CSharpSynthForUnity "") - Ported CSharpSynth Project from [codeplex](http://csharpsynthproject.codeplex.com/) to work in Unity.
+* [CSharpSynthForUnity](https://github.com/kewlniss/CSharpSynthForUnity "") - Ported CSharpSynth Project from [codeplex](http://csharpsynthproject.codeplex.com/) to work in Unity.
 * [UniMic](https://github.com/adrenak/UniMic "") - A wrapper for Unity's Microphone class.
 * [Low-latency_Sound_for_UnityAndroid](https://github.com/tsubaki/Low-latency_Sound_for_UnityAndroid "")
-* [usfxr](https://github.com/zeh/usfxr) - A C# library used to generate and play game-like procedural audio effects inside Unity.
+* [USFXR](https://github.com/zeh/usfxr) - A C# library used to generate and play game-like procedural audio effects inside Unity.
 * [Audio Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-toolkit-free-version-2679) - A complete, easy-to-use, and performance optimized framework to play and manage music and sound effects in Unity. Both :moneybag: and :free:
+* [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
 
 ## :runner: Animation <a name="animation"></a>
 
-* [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "A Unity-based sprite animator for simple and advanced animation setups.")
-* [AI4Animation](https://github.com/sebastianstarke/AI4Animation "Character Animation in Unity 3D using Deep Learning and Artificial Intelligence") - Character Animation in Unity 3D using Deep Learning and Artificial Intelligence.
-* [Boner2D](https://github.com/playemgames/Boner2D "Free Open Source 2D Animation Tools for Unity") - Free Open Source 2D Animation Tools for Unity.
-* [PuppetTest](https://github.com/keijiro/PuppetTest "An experiment in procedural dance animation") - An experiment in procedural dance animation.
+* [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "") - A Unity-based sprite animator for simple and advanced animation setups.
+* [AI4Animation](https://github.com/sebastianstarke/AI4Animation "") - Character Animation in Unity 3D using Deep Learning and Artificial Intelligence.
+* [Boner2D](https://github.com/playemgames/Boner2D "") - Free Open Source 2D Animation Tools for Unity.
+* [PuppetTest](https://github.com/keijiro/PuppetTest "") - An experiment in procedural dance animation.
 * [EasyMotionRecorder](https://github.com/duo-inc/EasyMotionRecorder "") 
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp "") - DragonBones C# Runtime.
 * [Unity-Runtime-Animation-Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder "") - Record animations in Unity runtime. Can save to .anim, maya, or FBX ASCII format.
@@ -249,36 +250,36 @@ Interesting resource: :cool:
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples. (Redirects to DAQRI website.)
 * [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "") - ARCore SDK for Unity.
-* [arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples "") - Example content for Unity projects based on AR Foundation.
-* [facial-ar-remote](https://github.com/Unity-Technologies/facial-ar-remote "") - Facial AR Remote is a tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.
+* [ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples "") - Example content for Unity projects based on [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html).
+* [Facial AR Remote](https://github.com/Unity-Technologies/facial-ar-remote "") - A tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.
 * [ArucoUnity](https://github.com/NormandErwan/ArucoUnity "") - Bring augmented reality to Unity by tracking Aruco markers in real time.
 * [UnityARFaceDeformation](https://github.com/kitasenjudesign/UnityARFaceDeformation "") - AR Face Deformation with Unity ARKit Plugin.
 * [Location-Based-Markerless-Augmented-Reality](https://github.com/hynra/Location-Based-Markerless-Augmented-Reality "") - Markerless Augmented Reality based on location made with Unity and Kudan AR SDK.
 
 ## Virtual Reality <a name="virtual-reality"></a>
 
-* [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "") - A productive VR Toolkit for rapidly building VR solutions in Unity3d. :thumbsup:
+* [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "") - A productive VR Toolkit for rapidly building VR solutions in Unity3d. :cool:
 * [VRTK Unity Core](https://github.com/ExtendRealityLtd/VRTK.Unity.Core "") - A set of design patterns for rapidly building VR solutions in Unity3d.
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk "") - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS. (https://developers.google.com/vr/unity)
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR "") - A virtual reality interaction system for unity based on physics.
 * [OVRLay](https://github.com/benotter/OVRLay "") - An easy-to-use toolkit for developing OpenVR Overlays with Unity Engine!
 * [MoonMotion](https://github.com/MoonMotionProject/MoonMotion "") - Free and open source toolkit for VR locomotion.
-* [VRTeleportationTourTemplate](https://github.com/wotakuro/VRTeleportationTourTemplate "")
-* [NatCam-VR-Cardboard](https://github.com/olokobayusuf/NatCam-VR-Cardboard "") - A Google Cardboard VR project using the rear camera preview. Powered by NatCam 1.2.
+* [VRTeleportationTourTemplate](https://github.com/wotakuro/VRTeleportationTourTemplate "") - Template project for VR tour applications.
+* [NatCam VR Cardboard](https://github.com/olokobayusuf/NatCam-VR-Cardboard "") - A Google Cardboard VR project using the rear camera preview. Powered by NatCam 1.2.
 * [SteamVR Unity Plugin](https://github.com/ValveSoftware/steamvr_unity_plugin "") - Steam VR plugin for Unity.
 * [SteamVR Unity Toolkit](https://github.com/WildStyle69/SteamVR_Unity_Toolkit "") - A collection of useful scripts and prefabs for building SteamVR titles in Unity 5.
-* [daydream-renderer-for-unity](https://github.com/googlevr/daydream-renderer-for-unity "") - A set of scripts and shaders designed to allow for high quality real-time rendering on the Daydream platform targeting 60fps.
-* [PumkinsAvatarTools](https://github.com/rurre/PumkinsAvatarTools "") - A tool to speed up setting up VRChat avatars in Unity.
+* [Daydream Renderer for Unity](https://github.com/googlevr/daydream-renderer-for-unity "") - A set of scripts and shaders designed to allow for high quality real-time rendering on the Daydream platform targeting 60fps.
+* [Pumkins Avatar Tools](https://github.com/rurre/PumkinsAvatarTools "") - A tool to speed up setting up VRChat avatars in Unity.
 * [Mesh Maker VR](https://github.com/createthis/mesh_maker_vr "") - Mesh Maker VR.
 * [The Lab Renderer](https://assetstore.unity.com/packages/tools/the-lab-renderer-63141?aid=1100l35sb&utm_source=aff "") - The Lab Renderer (VR Essentials).
 * [CreateThis VR UI](https://github.com/createthis/createthis_vr_ui "") - User Interface system for Mesh Maker VR.
 * [YVTuber](https://github.com/youten/YVTuber "") - YVTuber(Yume VTuber System) is Unity project for VTuber(Virtual YouTuber).
-* [gear-vr-leap-unity](https://github.com/levrn/gear-vr-leap-unity "") - Workaround in Unity to use Leap Motion Controller with Gear VR (or any other headset that doesn't support it).
-* [tbutt-vr](https://github.com/turbobutton/tbutt-vr "") - A lightweight multiplatform interface for making VR games in Unity.
-* [OculusRiftDK2ExtendPreview](https://github.com/hammmm/OculusRiftDK2ExtendPreview "") - OculusRift DK2 Unity Editor PreviewScript.
+* [GearVR-Leap-Unity](https://github.com/levrn/gear-vr-leap-unity "") - Workaround in Unity to use Leap Motion Controller with Gear VR (or any other headset that doesn't support it).
+* [TBUTT-VR](https://github.com/turbobutton/tbutt-vr "") - A lightweight multiplatform interface for making VR games in Unity.
+* [Oculus Rift DK2 Extend Preview](https://github.com/hammmm/OculusRiftDK2ExtendPreview "") - OculusRift DK2 Unity Editor PreviewScript.
 * [VketBoothValidator](https://github.com/Kozu-vr/VketBoothValidator "")
-* [SteamVREnabler](https://github.com/demonixis/SteamVREnabler "") - A tool to enable or disable the SteamVR runtime.
+* [SteamVR Enabler](https://github.com/demonixis/SteamVREnabler "") - A tool to enable or disable the SteamVR runtime.
 * [VRTK_MouseGrab](https://github.com/ousttrue/VRTK_MouseGrab "") - VRTK SDK sample.
 
 ## Mixed Reality <a name="mixed-reality"></a>
@@ -286,15 +287,15 @@ Interesting resource: :cool:
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "") - Author XR in XR.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
-* [MixedRealityDesignLabs_Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
+* [Mixed Reality Design Labs Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
 * [Leap Motion](https://www.leapmotion.com/ "") - a computer hardware sensor device that supports hand and finger motions as input, analogous to a mouse, but requires no hand contact or touching.
 * [Myo](https://support.getmyo.com/hc/en-us) - A gesture control armband developed by Thalmic Labs. See [link](https://xinreality.com/wiki/Myo).
-* [Intel-Realsense-Hand-Toolkit-Unity](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity "") - Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D.
-* [zed-unity](https://github.com/stereolabs/zed-unity "") - ZED SDK Unity plugin.
-* [UnityCloudVision](https://github.com/comoc/UnityCloudVision "") - ZED SDK Unity plugin.
+* [Intel Realsense Hand Toolkit for Unity](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity "") - Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D.
+* [ZED SKD Unity Plugin](https://github.com/stereolabs/zed-unity "") - ZED SDK Unity plugin.
+* [UnityCloudVision](https://github.com/comoc/UnityCloudVision "") - Google Cloud Vision API client for Unity.
 * [TensorFlowUnity-ObjectDetection](https://github.com/MatthewHallberg/TensorFlowUnity-ObjectDetection "") - Object detection test project with Tensorflow and Unity.
 * [UnityTensorflowKeras](https://github.com/tcmxx/UnityTensorflowKeras "") - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed.
 
@@ -311,37 +312,37 @@ Interesting resource: :cool:
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity.
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
 * [UnityEquiCam](https://github.com/bodhid/UnityEquiCam "") - Realtime 360° ( equirectangular ) panorama Camera for Unity.
-* [Game-Eye-2D](https://github.com/JasonHein/Game-Eye-2D "") - A component based orthographic camera extension for unity that tracks 2D environments.
-* [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera "") - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity.
+* [Game Eye 2D](https://github.com/JasonHein/Game-Eye-2D "") - A component based orthographic camera extension for unity that tracks 2D environments.
+* [DeadSimple Pixel Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera "") - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity.
 An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity.
 * [UFPS](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera, controllers, and other effects for use in FPS games. :moneybag:
-* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera) - Unity Component that can describes a physical camera's attributes. (#Physics)
+* [Physical Camera](https://github.com/Unity-Technologies/Physical-Camera) - Unity Component that can describes a physical camera's attributes. (#Physics)
 * [unity-camera-follow-2d](https://github.com/minhhh/unity-camera-follow-2d) - Script to make 2d camera follow players in an interesting way.
 * [Unity-CameraSizeToVelocity2D](https://github.com/tonisuo/Unity-CameraSizeToVelocity2D) - Simple script to change the cameras size depending on the velocity of the target.
 * [CameraLib4U](https://github.com/mortennobel/CameraLib4U) - A third person camera system for Unity using Chase Camera.
 
 ## Physics <a name="physics"></a>
 
-* [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d "") - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3D.
+* [BulletSharpUnity3D](https://github.com/Phong13/BulletSharpUnity3d "") - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3D.
 * [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity "") - Through this configuration, no per voxel data is transferred between the GPU and the CPU at runtime.
-* [Jello-Physics](https://github.com/kwanchangnim/Jello-Physics "") - 2D Soft Body Physics for Unity.
+* [Jello Physics](https://github.com/kwanchangnim/Jello-Physics "") - 2D Soft Body Physics for Unity.
 * [ECSPhysics](https://github.com/PhilSA/ECSPhysics "") - A physics engine made with Unity ECS.
 * [UnityPhysics2D](https://github.com/MelvynMay/UnityPhysics2D) - Examples of various Unity 2D Physics components and features. 
-* [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) - A PBD fluid in unity running on the GPU. 
+* [PBD Fluid in Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) - A PBD fluid in unity running on the GPU. 
 * [UnityMathReference](https://github.com/zezba9000/UnityMathReference) - Math reference for games and more. All visualized in Unity3D.
-* [Custom-2D-Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
-* [quickfracture](https://github.com/OskarSigvardsson/quickfracture) - A unity destruction effect.
-* [Unity-Fluid-Simulation-2D](https://github.com/giangchau92/Unity-Fluid-Simulation-2D) - Using extended camera to render particles then metalball processing with shader.
+* [Custom 2D Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
+* [Quickfracture](https://github.com/OskarSigvardsson/quickfracture) - A unity destruction effect.
+* [Unity Fluid Simulation 2D](https://github.com/giangchau92/Unity-Fluid-Simulation-2D) - Using extended camera to render particles then metalball processing with shader.
 * [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
-* [unity_burst_shape_matching](https://github.com/nialltl/unity_burst_shape_matching "") - Parallelised 2D deformable bodies using the C# Job system, Unity's Burst compiler and GPU instancing.
-* [Unity3d-QuadTree-Collision-Detection](https://github.com/Chabinka/Unity3d-QuadTree-Collision-Detection "") - QuadTree and Collision Detection Systems for Unity3d.
-* [2D-Deformable-body-in-Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
+* [Unity Burst_Shape Matching](https://github.com/nialltl/unity_burst_shape_matching "") - Parallelised 2D deformable bodies using the C# Job system, Unity's Burst compiler and GPU instancing.
+* [Unity3D QuadTree Collision Detection](https://github.com/Chabinka/Unity3d-QuadTree-Collision-Detection "") - QuadTree and Collision Detection Systems for Unity3d.
+* [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
 * [HedgePhysics](https://github.com/Camano/HedgePhysics "") - A open source 3D Sonic engine made in Unity.
-* [Clothing-System-3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
+* [Clothing System 3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
 
 ## Character Controllers <a name="character-controllers"></a>
 
-* [Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters "") - Unity Standard Asset Controllers.
+* [Standard Assets Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters "") - Unity Standard Asset Controllers.
 
 ### 2D Character Controllers <a name="2d-character-controllers"></a>
 
@@ -353,22 +354,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### 3D Character Controllers <a name="3d-character-controllers"></a>
 
-* [Unity3d_ThirdPersonController](https://github.com/Arjunxxxl/Unity3d_ThirdPersonController "") - Unity3d Third Person Controller.
+* [Unity3d ThirdPersonController](https://github.com/Arjunxxxl/Unity3d_ThirdPersonController "") - Unity3d Third Person Controller.
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity.
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller.
-
-## Controller Mappings <a name="controllers-mappings"></a>
-
-* [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
-* [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
-* [Nintendo Joy Con](https://www.reddit.com/r/Unity3D/comments/60wh7g/nintendo_switch_joycon_controller_mapped_for_unity/)
-* [Nintendo Pro Controller](https://answers.unity.com/questions/1419842/nintendo-switch-pro-controller-mapping.html)
-* [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
-* [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
+* [UNet Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A Character Controller based controller for Unity's new Networking system. (#NETWORKING)
 
 ## Frameworks <a name="frameworks"></a>
 
-* [Entitas](https://github.com/sschmid/Entitas-CSharp "") - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.
+* [Entitas](https://github.com/sschmid/Entitas-CSharp "") - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity. (Official)
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Zenject](https://github.com/svermeulen/Zenject "") - Dependency Injection Framework for Unity3D.
 * [UniRx (Reactive Extensions for Unity)](https://github.com/neuecc/UniRx "") - A reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
@@ -379,25 +372,25 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SmartData](https://github.com/sigtrapgames/SmartData) - A designer-friendly, editor-driven Unity3D framework for connecting data and events. 
 * [GameFramework](https://github.com/EllanJiang/GameFramework) - This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. 
 * [Unity3D Machine Learning Toolkit](https://github.com/Unity-Technologies/ml-agents "") - Unity Machine Learning Agents Toolkit.
-* [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
+* [uFrame](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before. :moneybag:
 * [CatLib](https://github.com/CatLib/Framework) - CatLib Component-Based Framework.
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license.
 * [Unidux](https://github.com/mattak/Unidux) - Redux Architecture for Unity.
-* [Unidux](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Ease the pain of decoupling data from behaviors in Unity.
+* [Actors Unity3d Framework](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Ease the pain of decoupling data from behaviors in Unity.
 * [Autoya](https://github.com/sassembla/Autoya) - Thin framework for Unity.
 * [uMVVM](https://github.com/MEyes/uMVVM) - A simple Unity MVVM framework.
-* [unity-experiment-framework](https://github.com/immersivecognition/unity-experiment-framework) - UXF - Framework for human behaviour experiments in Unity.
+* [UXF](https://github.com/immersivecognition/unity-experiment-framework) - Framework for human behaviour experiments in Unity.
 * [Weaver](https://github.com/ByronMayne/Weaver) - Weaver is a code weaving framework built right into Unity Engine. Based heavily off of Fody.
 * [MOBA_CSharp_Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity) - Framework for MOBA games. The server does not depend on Unity. Run on Linux.
 * [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) - Akka.Net 1.3.0 Running in Unity3D.
 * [UniversalUnityHooks](https://github.com/UserR00T/UniversalUnityHooks) - A framework designed to hook into and modify methods in unity games via dlls.
-* [UnityGameFramework-Template](https://github.com/HolicXXX/UnityGameFramework-Template) - A common Unity template Project base on UnityGameFramework.
+* [UnityGameFramework Template](https://github.com/HolicXXX/UnityGameFramework-Template) - A common Unity template Project base on UnityGameFramework.
 * [OpenFramework](https://github.com/omid3098/OpenFramework) - A Lightweight framework for unity with dependency injection.
-* [ecsrx](https://github.com/EcsRx/ecsrx) - A reactive take on the ECS pattern for .NET game developers.
-* [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with UniRx for fully reactive systems.
-* [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy. (#PATTERNS)
+* [ECSRx](https://github.com/EcsRx/ecsrx) - A reactive take on the ECS pattern for .NET game developers.
+* [ECSRx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with UniRx for fully reactive systems.
+* [ScriptableObject Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy. (#PATTERNS)
 * [UDBase](https://github.com/KonH/UDBase) - Module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
-* [adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
+* [Adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 
 ## Input <a name="input"></a>
@@ -411,8 +404,17 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [MouseFlight](https://github.com/brihernandez/MouseFlight "") - War Thunder style mouse flight controls for aircraft.
 * [InputSystem](https://github.com/Unity-Technologies/InputSystem "") - An efficient and versatile input system for Unity.
 * [InputManager](https://github.com/daemon3000/InputManager "") - Custom InputManager for Unity.
-* [Unity-Wiimote](https://github.com/Flafla2/Unity-Wiimote "") - An easy to use interface between Unity3D / C# and a Wii Remote controller.
+* [Unity Wiimote](https://github.com/Flafla2/Unity-Wiimote "") - An easy to use interface between Unity3D / C# and a Wii Remote controller.
 * [UnityMobileInput](https://github.com/mopsicus/UnityMobileInput "") - Unity mobile Input plugin for iOS and Android (Unity UI compatible).
+
+### Controller Mappings <a name="controllers-mappings"></a>
+
+* [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
+* [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
+* [Nintendo Joy Con](https://www.reddit.com/r/Unity3D/comments/60wh7g/nintendo_switch_joycon_controller_mapped_for_unity/)
+* [Nintendo Pro Controller](https://answers.unity.com/questions/1419842/nintendo-switch-pro-controller-mapping.html)
+* [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
+* [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
 
 ## Modeling <a name="modeling"></a>
 
@@ -425,70 +427,69 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## :money_with_wings: Monetization <a name="monetization"></a>
 
 * [Unity Ads](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
-* [unity3d-store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
-* [admob-unity-plugin](https://github.com/OrigameStudio/admob-unity-plugin) - An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
-* [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
+* [Unity3D Store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
+* [AdMob Unity Plugin](https://github.com/OrigameStudio/admob-unity-plugin) - An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
+* [Unity3D LevelUp](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
 * [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) - Official Unity Plugin for the Google Mobile Ads SDK
 
 ## Services <a name="services"></a>
 
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
-* [Flurry-Unity3D](https://github.com/Majchrzak/Flurry-Unity-3D "") - Flurry iOS and Android plugin for Unity 3D. (Analytics)
-* [simple-firebase-unity](https://github.com/dkrprasetya/simple-firebase-unity "") - Firebase Realtime-Database's REST API Wrapper for Unity in C#.
-* [AzureServicesForUnity](https://github.com/dgkanatsios/AzureServicesForUnity "") - Accessing Azure services (App Service, Table Storage, CosmosDB with Table API, Event Hubs) from a Unity game.
+* [Flurry Unity3D](https://github.com/Majchrzak/Flurry-Unity-3D "") - Flurry iOS and Android plugin for Unity 3D. (Analytics)
+* [Simple Firebase Unity](https://github.com/dkrprasetya/simple-firebase-unity "") - Firebase Realtime-Database's REST API Wrapper for Unity in C#.
+* [Azure Services For Unity](https://github.com/dgkanatsios/AzureServicesForUnity "") - Accessing Azure services (App Service, Table Storage, CosmosDB with Table API, Event Hubs) from a Unity game.
 
 ## :us: :uk: Localization (L18n) <a name="localization"></a>
 
 * [Language](https://github.com/FarrokhGames/Language "") - An easy-to-use localization solution for Unity3D.
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "") - A Polyglot Localization plugin for Unity3d that translates games to many languages.
-* [GameToolkit-Localization](https://github.com/ibrahimpenekli/GameToolkit-Localization "") - Asset localization system for Unity
+* [GameToolkit Localization](https://github.com/ibrahimpenekli/GameToolkit-Localization "") - Asset localization system for Unity
 
 ## :satellite: Networking <a name="networking"></a>
 
 * [Xavier](https://github.com/adrenak/Xavier "") - A Networking solution for Unity based on Telepathy.
 * [Networker](https://github.com/MarkioE/Networker "") - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 * [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
-* [nakama-unity](https://github.com/heroiclabs/nakama-unity) - Unity client for Nakama server.
-* [Photon Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
+* [Nakama Unity](https://github.com/heroiclabs/nakama-unity) - Unity client for Nakama server.
+* [Photon Bolt](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code. :moneybag:
 * [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
-* [basic_multiplayer_unity](https://github.com/manlaig/basic_multiplayer_unity) - Fast-Paced UDP Client-Server implementation.
-* [ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - A free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine.
+* [Basic Multiplayer Unity](https://github.com/manlaig/basic_multiplayer_unity) - Fast-Paced UDP Client-Server implementation.
+* [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - A free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine.
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - Socket.io client for Unity.
 * [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
 * [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
 * [AirPeer](https://github.com/adrenak/AirPeer) - A WebRTC based networking plugin for Unity.
-* [AirPeer](https://github.com/Unity-Technologies/multiplayer) - Unity multiplayer packages and samples.
+* [Unity Multiplayer Packages](https://github.com/Unity-Technologies/multiplayer) - Unity multiplayer packages and samples.
 * [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
-* [pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
+* [Pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
 * [SpatialOS GDK for Unity](https://github.com/spatialos/gdk-for-unity) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. (Terms of Service discussion alert!)
 * [UnityUnetMovement](https://github.com/GenaSG/UnityUnetMovement) - This repository contains Unity3d unet based server-authoritative movement script with client-side prediction and reconciliation.
-* [pomelo-unityclient-socket](https://github.com/NetEase/pomelo-unityclient-socket) - A client for pomelo distributed game server in Node.js.
+* [Pomelo Unity Client](https://github.com/NetEase/pomelo-unityclient-socket) - A client for pomelo distributed game server in Node.js.
 * [HiSocket](https://github.com/hiramtan/HiSocket) - It is a lightweight socket solution, you can used it in Unity3d or C# project.
 * [BenchmarkNet](https://github.com/nxrighthere/BenchmarkNet) - Benchmark for testing the reliable UDP networking solutions.
-* [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) - Reliable UDP networking library extended for the .NET environment.
-* [restifizer-unity3d](https://github.com/vedi/restifizer-unity3d) - Restifizer SDK for Unity3d. A way to significantly simplify creation of full-functional RESTful services, using MongoDB as a database.
+* [ENet CSharp](https://github.com/nxrighthere/ENet-CSharp) - Reliable UDP networking library extended for the .NET environment.
+* [Restifizer Unity3D](https://github.com/vedi/restifizer-unity3d) - Restifizer SDK for Unity3d. A way to significantly simplify creation of full-functional RESTful services, using MongoDB as a database.
 * [NATPunchthroughClient](https://github.com/noblewhale/NATPunchthroughClient) - An example implementation of NAT Punchthrough combined with Unity's UNet HLAPI.
 * [Gambetta_NetworkedDemo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta's Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.
 * [uTextureSendReceive](https://github.com/BarakChamo/uTextureSendReceive) - Unity network texture sender and receiver for video and frame streaming.
 * [P2P.NET](https://github.com/Phylliida/P2P.NET) - (Formerly UnityP2P) Peer to peer networking in Unity using WebRTC and a free Heroku server for signaling.
-* [unity_physics_csp](https://github.com/spectre1989/unity_physics_csp) - Basic implementation of client-side prediction in Unity, so real networking happens, all network traffic is simulated in a single Unity instance.
-* [unity-timeline-sync](https://github.com/asus4/unity-timeline-sync) - Synchronize multiple Unity Timeline via UDP.
+* [Unity Physics CSP](https://github.com/spectre1989/unity_physics_csp) - Basic implementation of client-side prediction in Unity, so real networking happens, all network traffic is simulated in a single Unity instance.
+* [Unity Timeline Sync](https://github.com/asus4/unity-timeline-sync) - Synchronize multiple Unity Timeline via UDP.
 * [MLAPI](https://github.com/MidLevel/MLAPI) - A game networking framework built for the Unity Engine to abstract game networking concepts.
-* [MLAPI.Relay-Documentation](https://github.com/MidLevel/MLAPI.Relay-Documentation) - This is the repository for the MLAPI.Relay, a UNET Relay. This is where documentation and issues can be found and reported.
-* [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server.
+* [MLAPI.Relay Documentation](https://github.com/MidLevel/MLAPI.Relay-Documentation) - This is the repository for the MLAPI.Relay, a UNET Relay. This is where documentation and issues can be found and reported.
+* [Websocket Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server.
 * [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 * [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
-* [unet-hlapi-manager](https://github.com/insthync/unet-hlapi-manager) - The simple network manager based on Unity's NetworkManager without players, scenes stuffs focus on network messages callback handles. Intenly made for multiple server purposes.
+* [Unet HLAPI Manager](https://github.com/insthync/unet-hlapi-manager) - The simple network manager based on Unity's NetworkManager without players, scenes stuffs focus on network messages callback handles. Intenly made for multiple server purposes.
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET.
 * [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) - Higher level implementation for LiteNetLib.
 * [MagicOnion](https://github.com/Cysharp/MagicOnion "") - Unified Realtime/API Engine for .NET Core and Unity.
 * [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d)
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity.
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
-* [Facepunch.Steamworks.Unity](https://github.com/Facepunch/Facepunch.Steamworks.Unity "") - Tests for Facepunch.Steamworks in Unity3d.
+* [Facepunch.Steamworks.Unity](https://github.com/Facepunch/Facepunch.Steamworks.Unity "") - Tests for Facepunch.Steamworks in Unity3D.
 * [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
-* [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
 * [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .NET.
 * [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity.
@@ -498,41 +499,40 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### :chart_with_upwards_trend: Algorithms <a name="algorithms"></a>
 
-* [unity-teddy](https://github.com/mattatz/unity-teddy "") - Teddy algorithm implementation in Unity.
-* [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
-* [LinHowe_GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm "") - Based on Unity to simply implement algorithms commonly used in game program development.
-* [LinHowe_GameAlgorithm](https://github.com/jesta88/Unity-Voronoi "") - Port of [Javascript Voronoi](https://github.com/gorhill/Javascript-Voronoi) by Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
-* [Unity-Metaballs-2D](https://github.com/luke161/Unity-Metaballs-2D "") - Implementation of 2D Metaballs with marching squares in Unity. (#2D)
-* [Catmull-Rom-Splines](https://github.com/JPBotelho/Catmull-Rom-Splines "") - Catmull-Rom spline implementation in Unity.
-* [Marching-Cubes-On-The-GPU](https://github.com/Scrawk/Marching-Cubes-On-The-GPU "") - A implementation of the marching cubes algorithm on the GPU in Unity.
-* [Advanced-Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
-* [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect. (#LIBRARIES)
+* [Unity Teddy](https://github.com/mattatz/unity-teddy "") - Teddy algorithm implementation in Unity.
+* [Hull Delaunay Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
+* [LinHowe GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm "") - Based on Unity to simply implement algorithms commonly used in game program development.
+* [LinHowe GameAlgorithm](https://github.com/jesta88/Unity-Voronoi "") - Port of [Javascript Voronoi](https://github.com/gorhill/Javascript-Voronoi) by Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
+* [Unity Metaballs 2D](https://github.com/luke161/Unity-Metaballs-2D "") - Implementation of 2D Metaballs with marching squares in Unity. (#2D)
+* [Catmull Rom Splines](https://github.com/JPBotelho/Catmull-Rom-Splines "") - Catmull-Rom spline implementation in Unity.
+* [Marching Cubes On The GPU](https://github.com/Scrawk/Marching-Cubes-On-The-GPU "") - A implementation of the marching cubes algorithm on the GPU in Unity.
+* [Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
+* [Unity Delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect. (#LIBRARIES)
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
 * [Unity Design Patterns](https://github.com/QianMo/Unity-Design-Pattern "") - All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns written in Unity C#.
 * [unity-design-patterns](https://github.com/Naphier/unity-design-patterns "") - Examples of programming design patterns in Unity C#.
-* [Disruptor-Unity3D](https://github.com/dave-hillier/disruptor-unity3d "") - Basic implementation of Disruptor for Unity3d.
-* [Unity-Singleton](https://github.com/BharathVishal/Unity-Singleton "") - A sample project explaining the usage of singleton object to hold global game state.
+* [Disruptor Unity3D](https://github.com/dave-hillier/disruptor-unity3d "") - Basic implementation of Disruptor for Unity3d.
+* [Unity Singleton](https://github.com/BharathVishal/Unity-Singleton "") - A sample project explaining the usage of singleton object to hold global game state.
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 
 ### Pooling System
 * [Unity QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity.
 * [ObjectPool](https://github.com/UnityPatterns/ObjectPool) - Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.
-* [unity-object-pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity.
+* [uUity Object Pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity.
 
 ### :orange_book: Libraries <a name="libraries"></a>
 
-* [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - Awesome list for .NET related resources.
+* [Awesome Dotnet](https://github.com/quozd/awesome-dotnet) - Awesome list for .NET related resources. :cool:
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity.
-* [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
-* [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
+* [C# Sharp Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
+* [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++.
 * [Unity Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics "") - A prototype of a C# math library providing vector types and math functions with a shader like syntax.
 * [3DMath](https://github.com/GregLukosek/3DMath "") - Unity C# 3D Math methods library.
-* [LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ.
-* [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
+* [LINQ to GameObject for Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ.
 * [Unity3dAsyncAwaitUtil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil) - A bunch of code to make using async-await easier in Unity3D.
 * [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent) - Unity Resource Component.
 * [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity.
@@ -548,18 +548,18 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
 * [CosineGradient](https://github.com/keijiro/CosineGradient) - Cosine gradient generator for Unity.
 * [PerfAssist](https://github.com/GameBuildingBlocks/PerfAssist) - Various performance-related components for Unity development.
-* [ATerribleKingdom](https://github.com/UnityTechnologies/ATerribleKingdom) - Scripting the Timeline for games in creative ways. 
-* [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
-* [unity-wave-function-collapse](https://github.com/selfsame/unity-wave-function-collapse) - Fork of WaveFunctionCollapse.
-* [Fluent-State-Machine](https://github.com/Real-Serious-Games/Fluent-State-Machine) - Fluent API for creating state machines in C#.
+* [A Terrible Kingdom](https://github.com/UnityTechnologies/ATerribleKingdom) - Scripting the Timeline for games in creative ways. 
+* [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+* [Unity Wave Function Collapse](https://github.com/selfsame/unity-wave-function-collapse) - Fork of WaveFunctionCollapse.
+* [Fluent State Machine](https://github.com/Real-Serious-Games/Fluent-State-Machine) - Fluent API for creating state machines in C#.
 * [Easy Save 2](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity. :moneybag:
 * [Mad Level Manager](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens. :moneybag:
 * [UniStorm](https://www.assetstore.unity3d.com/en/#!/content/2714) - A customizable dynamic day and night weather system that creates realistic storms and weather. :moneybag:
 * [GreenMambaStealth](https://github.com/DameonL/GreenMambaStealth) - An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
-* [Pedometer-API](https://github.com/olokobayusuf/Pedometer-API) - Pedometer is a native pedometer API for Unity Engine.
-* [signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity.
-* [Coop-Design](https://github.com/simeonradivoev/Coop-Design) - A prototype for runtime cooperative level designing in Unity 3D.
-* [Hydrogen-CSharp](https://github.com/nxrighthere/Hydrogen-CSharp) - A prototype for runtime cooperative level designing in Unity 3D.
+* [Pedometer API](https://github.com/olokobayusuf/Pedometer-API) - Pedometer is a native pedometer API for Unity Engine.
+* [Signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity.
+* [Coop Design](https://github.com/simeonradivoev/Coop-Design) - A prototype for runtime cooperative level designing in Unity 3D.
+* [Hydrogen CSharp](https://github.com/nxrighthere/Hydrogen-CSharp) - A prototype for runtime cooperative level designing in Unity 3D.
 * [SkillSystem](https://github.com/dongweiPeng/SkillSystem)
 * [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - A Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform. 
 * [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net).
@@ -574,7 +574,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
-* [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects.
+* [Unity Atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects.
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects. :moneybag:
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
@@ -589,30 +589,30 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Projeny](https://github.com/svermeulen/Projeny "") - A project and package manager for Unity.
 * [UnityIniFiles](https://github.com/iBicha/UnityIniFiles "") - A very naive implementation to import .ini configuration files into Unity.
 * [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension "") - Git extension for Unity Package Manager (UPM).
-* [doors-plus-lite](https://github.com/AlexanderAmeye/doors-plus-lite "") - A basic door script for the Unity3D game engine.
+* [Doors Plus Lite](https://github.com/AlexanderAmeye/doors-plus-lite "") - A basic door script for the Unity3D game engine.
 * [LightProbeUtility](https://github.com/keijiro/LightProbeUtility "") - Applying light probes to a mesh drawn with Graphics.DrawMesh.
 * [Graphy](https://github.com/Tayx94/graphy "") - The ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
 * [UABE](https://github.com/DerPopo/UABE "") - Unity Assets Bundle Extractor.
 * [Moments](https://github.com/Chman/Moments "") - A quick GIF replay recorder for Unity.
 * [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary "") - Library of all kind of scripts, snippets & shaders for Unity.
 * [AutoLOD](https://github.com/Unity-Technologies/AutoLOD "") - Automatic LOD generation + scene optimization.
-* [lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console "") - High-performance Unity iOS/Android logger built with native platform UI.
+* [Lunar Unity Console](https://github.com/SpaceMadness/lunar-unity-console "") - High-performance Unity iOS/Android logger built with native platform UI.
 * [UberLogger](https://github.com/bbbscarter/UberLogger "") - Replacement logging framework for Unity, with a new editor and in-game console.
 * [Common.Logging.Unity3D](https://github.com/SaladLab/Common.Logging.Unity3D "") - Common Logging (A portable logging abstraction for .NET) for Unity3D.
-* [NLog-Unity3D](https://github.com/AqlaSolutions/NLog-Unity3D "") - Advanced .NET and Silverlight Logging.
-* [demilib](https://github.com/Demigiant/demilib "") - A library of various utilities and tools for Unity (alpha).
+* [NLog Unity3D](https://github.com/AqlaSolutions/NLog-Unity3D "") - Advanced .NET and Silverlight Logging.
+* [Demilib](https://github.com/Demigiant/demilib "") - A library of various utilities and tools for Unity (alpha).
 * [MathUtilities](https://github.com/zalo/MathUtilities "") - A collection of some of the neat math and physics tricks that I've collected over the last few years.
-* [unity3d-console](https://github.com/mikelovesrobots/unity3d-console "") - Quake-style console plugin for Unity3d.
+* [Unity3D Console](https://github.com/mikelovesrobots/unity3d-console "") - Quake-style console plugin for Unity3d.
 * [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole "") - A uGUI based console to see debug messages and execute commands during gameplay in Unity.
-* [graph-visualizer](https://github.com/Unity-Technologies/graph-visualizer "") - Visualizer for your Playable graphs.
-* [unity-utilities](https://github.com/TobiasWehrum/unity-utilities "") - A collection of Unity3D scripts I've been sharing between projects.
+* [Graph Visualizer](https://github.com/Unity-Technologies/graph-visualizer "") - Visualizer for your Playable graphs.
+* [Unity Utilities](https://github.com/TobiasWehrum/unity-utilities "") - A collection of Unity3D scripts I've been sharing between projects.
 * [Presentation](https://github.com/UnityTechnologies/Presentation "") - No need to switch to Power Point anymore.
-* [merino](https://github.com/radiatoryang/merino "") - A narrative design tool that lets you write Yarn scripts inside the Unity Editor 
+* [Merino](https://github.com/radiatoryang/merino "") - A narrative design tool that lets you write Yarn scripts inside the Unity Editor 
 * [Cradle](https://github.com/daterre/Cradle "") - Formerly UnityTwine, is a plugin for Unity that powers the storytelling side of a game.
 * [PerlinNoise](https://github.com/keijiro/PerlinNoise "") - 1D/2D/3D Perlin noise function for Unity.
 * [UnityConsole](https://github.com/Wenzil/UnityConsole "") - Easy-to-use developer console for Unity 5.
-* [support-unity-memoryprofiler](https://github.com/robertoardila/support-unity-memoryprofiler "") - Extension for the existing Unity memory profiler project.
-* [protobuf-unity](https://github.com/5argon/protobuf-unity "") - Automatic .proto files compilation in Unity project to C# as you edit them.
+* [Support Unity Memoryprofiler](https://github.com/robertoardila/support-unity-memoryprofiler "") - Extension for the existing Unity memory profiler project.
+* [Protobuf Unity](https://github.com/5argon/protobuf-unity "") - Automatic .proto files compilation in Unity project to C# as you edit them.
 * [MyBox](https://github.com/Deadcows/MyBox "") - MyBox is a set of attributes, tools and extensions for Unity.
 * [UnityREPL](https://github.com/MrJoy/UnityREPL "") - C# REPL tool for Unity3D built on Miguel's tool.
 * [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo "") - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime.
@@ -633,65 +633,65 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity "") - Coherent noise library for Unity, a port of LibNoise.
 * [DTValidator](https://github.com/DarrenTsung/DTValidator "") - Tool for validating objects (eg. GameObjects, ScriptableObjects, etc) in the Unity Editor.
 * [Unity.Library.eppz.Lines](https://github.com/eppz/Unity.Library.eppz.Lines "") - Lightweight OpenGL line rendering for Unity. Like Debug.DrawLine in Game view.
-* [unity-obj-loader](https://github.com/hammmm/unity-obj-loader "") - Runtime .OBJ file loader for Unity3D.
+* [Unity OBJ Loader](https://github.com/hammmm/unity-obj-loader "") - Runtime .OBJ file loader for Unity3D.
 * [ColladaExporter](https://github.com/linuxaged/ColladaExporter "") - Collada exporter for Unity3D.
 * [KDTree](https://github.com/viliwonka/KDTree "") - Collada exporter for Unity3D.
-* [unity-utils](https://github.com/nubick/unity-utils "") - Different help scripts for Unity engine.
+* [Unity Utils](https://github.com/nubick/unity-utils "") - Different help scripts for Unity engine.
 * [FastString](https://github.com/snozbot/FastString "") - Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance.
-* [Unity-WebGL-Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
+* [Unity WebGL Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
 * [BulletMLLib](https://github.com/pixelnest/BulletMLLib "") - A Unity version of the open source C# library used to read BulletML XML files. See [BulletMLLib](https://github.com/dmanning23/BulletMLLib)
 * [RageSpline](https://github.com/Freakow/RageSpline "") - Scalable Vector Graphics creation and drawing component for Unity.
-* [bugsnag-unity](https://github.com/bugsnag/bugsnag-unity "") - Automatic error reporting for Unity games.
+* [Bugsnag Unity](https://github.com/bugsnag/bugsnag-unity "") - Automatic error reporting for Unity games.
 * [unity3d-runtime-debug-draw](https://github.com/jagt/unity3d-runtime-debug-draw "") - Single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
 * [GameViewSizeChanger](https://github.com/Syy9/GameViewSizeChanger "") - Unity GameView Changer.
-* [Bezier-Curves-In-Unity](https://github.com/Scrawk/Bezier-Curves-In-Unity "") - Bezier curve code.
-* [Unity-SafeAreaCanvas](https://github.com/nkjzm/Unity-SafeAreaCanvas "") - The unity asset is that for adjusting the size automatically and preview in Editor.
+* [Bezier Curves In Unity](https://github.com/Scrawk/Bezier-Curves-In-Unity "") - Bezier curve code.
+* [Unity SafeAreaCanvas](https://github.com/nkjzm/Unity-SafeAreaCanvas "") - The unity asset is that for adjusting the size automatically and preview in Editor.
 * [UnitySystemVisualizer](https://github.com/5argon/UnitySystemVisualizer "") - Unity ECS's system visualizer.
 * [EncodeToTGA](https://github.com/phwitti/EncodeToTGA "") - Texture2D.EncodeToTGA (Unity)
 * [FastGizmosUnity](https://github.com/sverdegd/FastGizmosUnity "") - Set of gizmos utilities for Unity.
 * [PickleBuilder](https://github.com/PicklesIIDX/PickleBuilder "") - A Steam enabled multi-platform build tool for Unity.
-* [Unity-Built-In-Attributes](https://github.com/teebarjunk/Unity-Built-In-Attributes "") - A list of built in Unity Attributes.
+* [Unity Built In Attributes](https://github.com/teebarjunk/Unity-Built-In-Attributes "") - A list of built in Unity Attributes.
 * [cui_color_picker](https://github.com/SnapshotGames/cui_color_picker "") - Color Picker for Unity UI in a single script/prefab.
-* [Unity-ScriptableObjects-Game-Events](https://github.com/NeoDragonCP/Unity-ScriptableObjects-Game-Events- "") - Based on a great talk by Ryan Hipple, here is my improved version of his Game Event system for Unity.
+* [Unity ScriptableObjects Game Events](https://github.com/NeoDragonCP/Unity-ScriptableObjects-Game-Events- "") - Based on a great talk by Ryan Hipple, here is my improved version of his Game Event system for Unity.
 * [Asyncoroutine](https://github.com/zsaladin/Asyncoroutine "") - Asyncoroutine is a unity asset that allows you to use Coroutine and async/await together.
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager "") - Easily manage global defines in Unity.
 * [UnityWireframeRenderer](https://github.com/miguel12345/UnityWireframeRenderer "") - Get a beautiful cross-platform wireframe renderer for your meshes with one click.
 * [Unity3D-ExecutionOrderAttribute](https://github.com/Thundernerd/Unity3D-ExecutionOrderAttribute "") - An attribute that sets a script's execution order.
 * [Bezier3D](https://github.com/Siccity/Bezier3D "") - Unity3D: Simple core bezier functionality featuring interpolation and orientation.
-* [NatShare-API](https://github.com/olokobayusuf/NatShare-API "") - NatShare is a native sharing API for Unity Engine.
-* [Unity-GoogleData](https://github.com/kimsama/Unity-GoogleData "") - See [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet "").
+* [NatShare API](https://github.com/olokobayusuf/NatShare-API "") - NatShare is a native sharing API for Unity Engine.
+* [Unity GoogleData](https://github.com/kimsama/Unity-GoogleData "") - See [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet "").
 * [AssetPathAttribute](https://github.com/ByronMayne/AssetPathAttribute "") - AssetPathAttribute is a Unity attribute used in Unity to allow you to have drag and drop asset references in the inspector but really use string paths for serialization.
 * [PointCloudUnity](https://github.com/mirobyrtus/PointCloudUnity "") - Point cloud loader.
-* [Unity-Free-Flight](https://github.com/NickolausDS/Unity-Free-Flight "") - A Unity Package to provide bird-like flight to Unity Game Objects.
-* [HiLog_unity](https://github.com/hiramtan/HiLog_unity "") - HiDebug, the extensions of Unity's debug plugin.
-* [Unity-glTF-Exporter](https://github.com/tparisi/Unity-glTF-Exporter "") - Unity editor wizard that exports to glTF Format
-* [Mesh-Voxelization](https://github.com/Scrawk/Mesh-Voxelization "") - Mesh voxelization in Unity.
+* [Unity Free Flight](https://github.com/NickolausDS/Unity-Free-Flight "") - A Unity Package to provide bird-like flight to Unity Game Objects.
+* [HiLog Unity](https://github.com/hiramtan/HiLog_unity "") - HiDebug, the extensions of Unity's debug plugin.
+* [Unity glTF Exporter](https://github.com/tparisi/Unity-glTF-Exporter "") - Unity editor wizard that exports to glTF Format
+* [Mesh Voxelization](https://github.com/Scrawk/Mesh-Voxelization "") - Mesh voxelization in Unity.
 * [GPUMatrixMultiplicationTest](https://github.com/mattatz/GPUMatrixMultiplicationTest "") - GPU matrix multiplication in Unity.
 * [UniSpline](https://github.com/adrenak/UniSpline "") - A Unity tool for creating curves.
 * [EdNotes](https://github.com/plyoung/EdNotes "") - Attach notes to objects in Unity.
 * [UnityEveryplaySaveToLocal](https://github.com/yasirkula/UnityEveryplaySaveToLocal) - A helper script to save captured Everyplay videos to local file system on Android & iOS.
-* [Unity-EventBinder](https://github.com/GeorgeDascalu/Unity-EventBinder) - User Interface Event decoupler.
-* [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter) - An unity editor extension for bitmap font.
+* [Unity EventBinder](https://github.com/GeorgeDascalu/Unity-EventBinder) - User Interface Event decoupler.
+* [Unity BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter) - An unity editor extension for bitmap font.
 * [UnityMainThreadDispatcher](https://github.com/ashikns/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
 * [log4net.unity](https://github.com/HolyShovelSoft/log4net.unity) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
-* [xNode-BehaviourTree](https://github.com/jnhtt/xNode-BehaviourTree) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
-* [command_terminal](https://github.com/stillwwater/command_terminal) - Unity Command Terminal: In-Game Console.
+* [xNode BehaviourTree](https://github.com/jnhtt/xNode-BehaviourTree) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
+* [Command Terminal](https://github.com/stillwwater/command_terminal) - Unity Command Terminal: In-Game Console.
 * [MVPScriptGenerator4Unity](https://github.com/MasaKoha/MVPScriptGenerator4Unity) - MVP Script Generator for Unity Editor.
-* [gizmos](https://github.com/popcron/gizmos) - Used for drawing runtime gizmos in builds and editor (Unity3D).
-* [string_format](https://github.com/little-sharps/string_format) - An enhancement to the String.Format library that allows for named place holders.
+* [Gizmos](https://github.com/popcron/gizmos) - Used for drawing runtime gizmos in builds and editor (Unity3D).
+* [String_format](https://github.com/little-sharps/string_format) - An enhancement to the String.Format library that allows for named place holders.
 * [SerializedParameter_Unity](https://github.com/tsubaki/SerializedParameter_Unity) - Persist data between play mode sessions attribute.
-* [ini-parser](https://github.com/rickyah/ini-parser) - Read/Write an INI file the easy way!
-* [cad-in-unity](https://github.com/i2e-haw-hamburg/cad-in-unity "") - Loading CAD into Unity 3D applications.
-* [unityassets](https://github.com/fholm/unityassets "") - Assorted unity assets and utilities.
+* [INI Parser](https://github.com/rickyah/ini-parser) - Read/Write an INI file the easy way!
+* [CAD in Unity](https://github.com/i2e-haw-hamburg/cad-in-unity "") - Loading CAD into Unity 3D applications.
+* [Unityassets](https://github.com/fholm/unityassets "") - Assorted unity assets and utilities.
 * [FrameCapture](https://github.com/Chman/FrameCapture "") - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
-* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer "") - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
+* [UnitySizeExplorer](https://github.com/aschearer/unitysizeexplorer "") - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
 * [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing.
-* [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity.
+* [MMD for Unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity.
 * [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
 * [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity! (Read-only)
-* [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling.
+* [Unity Routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling.
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1.
 * [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting.
@@ -705,18 +705,18 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnitySimplePatchTool](https://github.com/yasirkula/UnitySimplePatchTool "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
 * [TextMeshProReplacer](https://github.com/jackisgames/TextMeshProReplacer "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
 * [CantysToolbox](https://github.com/CantyCanadian/CantysToolbox "") - Set of tools for any Unity projects.
-* [Unity-Development-Tools](https://github.com/heisarzola/Unity-Development-Tools "") - A collection of several tools and code snippets to improve development speed and best practices in the "Unity" game engine.
+* [Unity Development Tools](https://github.com/heisarzola/Unity-Development-Tools "") - A collection of several tools and code snippets to improve development speed and best practices in the "Unity" game engine.
 * [ToolsCollection](https://github.com/Unity-Technologies/ToolsCollection "") - Official Unity Tools shared by its developers.
 * [ModTool](https://github.com/Hello-Meow/ModTool "") - Mod support for Unity.
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
-* [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow.
+* [Bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow.
 * [uDllExporter](https://github.com/hecomi/uDllExporter "") - Tool to build DLLs in Unity.
 * [UPAToolkit](https://github.com/Brackeys/UPAToolkit "") - A free Pixel Art Toolkit for the Unity Engine.
-* [il-repack](https://github.com/gluck/il-repack "") - Open-source alternative to ILMerge.
-* [xcodeapi](https://bitbucket.org/Unity-Technologies/xcodeapi "")
+* [IL Repack](https://github.com/gluck/il-repack "") - Open-source alternative to ILMerge.
+* [Xcodeapi](https://bitbucket.org/Unity-Technologies/xcodeapi "")
 * [XUPorter](https://github.com/onevcat/XUPorter "") - Add files and frameworks to your Xcode project after it is generated by Unity 3D.
 * [Xcodeproj](https://github.com/CocoaPods/Xcodeproj "") - Create and modify Xcode projects from Ruby.
-* [mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj "") - A python module to manipulate XCode projects.
+* [Mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj "") - A python module to manipulate XCode projects.
 * [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds. :moneybag:
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Psd2UnityImporter](https://github.com/SubjectNerd-Unity/Psd2UnityImporter) - An advanced PSD importer tool for Unity.
@@ -731,45 +731,45 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Memory Info Plugin for Unity](https://github.com/hiyorin/MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 * [System Volume Plugin for Unity](https://github.com/hiyorin/SystemVolumePlugin-for-Unity "") - A set of tools for Unity to allow handling system volume for Android and iOS.
 * [Steamworks-Platform](https://github.com/mPowerGames/Steamworks-Platform "") - Unity interface ISocialPlatform implementation with Steamworks.NET.
-* [openpose_unity_plugin](https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin "") - OpenPose's Unity Plugin for Unity users.
-* [unity-android-notifications](https://github.com/Agasper/unity-android-notifications "") - Unity3D Plugin for Android local notifications with example project.
+* [Openpose Unity_Plugin](https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin "") - OpenPose's Unity Plugin for Unity users.
+* [Unity Android Notifications](https://github.com/Agasper/unity-android-notifications "") - Unity3D Plugin for Android local notifications with example project.
 * [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia
-* [unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver "") - Unity plugin which resolves Android & iOS dependencies and performs version management.
-* [2D-Light-of-Sight-Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
-* [react-unity-webgl](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
-* [unity-python](https://github.com/exodrifter/unity-python "") - Python plugin for Unity3D.
-* [usd-unity-sdk](https://github.com/Unity-Technologies/usd-unity-sdk "") - Integration of Pixar's Universal Scene Description into Unity. (#Augmented Reality)
-* [unity-swift](https://github.com/miyabi/unity-swift "") - Native plugin to write native code in Swift for Unity.
-* [vimeo-unity-sdk](https://github.com/vimeo/vimeo-unity-sdk "") - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
-* [GPUNoiseForUnity](https://github.com/heyx3/GPUNoiseForUnity "") - A Unity plugin for generating noise on the GPU for use in the editor.
-* [ios-unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
-* [unity-shell](https://github.com/marijnz/unity-shell "") - Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
-* [mapbox-unity-sdk](https://github.com/mapbox/mapbox-unity-sdk "") - Mapbox Unity SDK.
-* [unity3d-plugin](https://github.com/jenkinsci/unity3d-plugin "") - Jenkins Unity3d plugin.
-* [Unity3d_MQTT](https://github.com/vovacooper/Unity3d_MQTT "") - MQTT protocol running on Unity3D.
+* [Unity JAR Resolver](https://github.com/googlesamples/unity-jar-resolver "") - Unity plugin which resolves Android & iOS dependencies and performs version management.
+* [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
+* [React Unity WebGL](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
+* [Unity Python](https://github.com/exodrifter/unity-python "") - Python plugin for Unity3D.
+* [USD Unity SDK](https://github.com/Unity-Technologies/usd-unity-sdk "") - Integration of Pixar's Universal Scene Description into Unity. (#Augmented Reality)
+* [Unity Swift](https://github.com/miyabi/unity-swift "") - Native plugin to write native code in Swift for Unity.
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk "") - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
+* [GPU Noise For Unity](https://github.com/heyx3/GPUNoiseForUnity "") - A Unity plugin for generating noise on the GPU for use in the editor.
+* [iOS Unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
+* [Unity Shell](https://github.com/marijnz/unity-shell "") - Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
+* [Mapbox Unity SDK](https://github.com/mapbox/mapbox-unity-sdk "") - Mapbox Unity SDK.
+* [Unity3D Jenkins Plugin](https://github.com/jenkinsci/unity3d-plugin "") - Jenkins Unity3d plugin.
+* [Unity3D_MQTT](https://github.com/vovacooper/Unity3d_MQTT "") - MQTT protocol running on Unity3D.
 * [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3d.
 * [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d") - Github plugin for Unity3d
 * [AlembicForUnity](https://github.com/unity3d-jp/AlembicForUnity "") - Alembic importer and exporter plugin for Unity.
 * [IBM Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk "") - Unity SDK to use the IBM Watson services.
-* [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing "") - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
+* [Unity Native Sharing](https://github.com/ChrisMaire/unity-native-sharing "") - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 * [KlakSpout](https://github.com/keijiro/KlakSpout "") - Spout plugin for Unity.
 * [KlakNDI](https://github.com/keijiro/KlakNDI "") - NewTek NDI™ plugin for Unity.
 * [UnityCam](https://github.com/mrayy/UnityCam "") - Unity3D Virtual webcam plugin, streams unity viewport contents to other applications as virtual camera.
 * [Twity](https://github.com/toofusan/Twity "") - (Previously: twitter-for-unity) Twitter API Client for Unity C#.
-* [unity-native-toolkit](https://github.com/ryanw3bb/unity-native-toolkit "") - Native iOS & Android functionality in Unity.
-* [Unity-Source-Tools](https://github.com/lewa-j/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D.
+* [Unity Native Toolkit](https://github.com/ryanw3bb/unity-native-toolkit "") - Native iOS & Android functionality in Unity.
+* [Unity Source Tools](https://github.com/lewa-j/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D.
 * [iVidCapPro](https://github.com/ThisNetWorks/iVidCapPro "") - iVidCapPro is a plugin that enables Unity, to capture video and audio from your Unity iOS application.
-* [unity-wakatime](https://github.com/vladfaust/unity-wakatime "") - WakaTime plugin for Unity.
+* [Unity Wakatime](https://github.com/vladfaust/unity-wakatime "") - WakaTime plugin for Unity.
 * [IndoorAtlas Unity Plugin](https://github.com/IndoorAtlas/unity-plugin "") - IndoorAtlas Unity plugin.
 * [mrayGStreamerUnity](https://github.com/mrayy/mrayGStreamerUnity "") - GStreamer Integration with Unity using a Native plugin.
-* [unity3d-profile](https://github.com/soomla/unity3d-profile "") - Unity3D plugin for Facebook, Twitter and Google Plus. The social module of SOOMLA - free2play mobile game framework for iOS and Android. 
+* [Unity3D Profile](https://github.com/soomla/unity3d-profile "") - Unity3D plugin for Facebook, Twitter and Google Plus. The social module of SOOMLA - free2play mobile game framework for iOS and Android. 
 * [Vungle Unity Plugin](https://github.com/Vungle/Unity-Plugin "") - Vungle's Unity Plugin. Monetization SDK.
 * [Klinker](https://github.com/keijiro/Klinker "") - An experimental implementation of Blackmagic DeckLink plugin for Unity.
 * [ChromaPack](https://github.com/keijiro/ChromaPack "") - A lossy texture compression plugin for Unity.
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
-* [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
-* [google-analytics-plugin-for-unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
+* [Unity Webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
+* [Google Analytics Plugin for Unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
 * [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
@@ -781,8 +781,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### Snippets & Gists <a name="snippets-&-gists"></a>
 
-* [vscode-unity-code-snippets](https://github.com/kleber-swf/vscode-unity-code-snippets) - All snippets for Unity3D development.
-* [unity-snippets](https://github.com/anchan828/unity-snippets) - Unity3D snippets for differents IDEs.
+* [VSCode Unity Code Snippets](https://github.com/kleber-swf/vscode-unity-code-snippets) - All snippets for Unity3D development.
+* [Unity Snippets](https://github.com/anchan828/unity-snippets) - Unity3D snippets for differents IDEs.
 
 ### Integrated Development Environment (IDE) <a name="ide"></a>
 
@@ -801,16 +801,15 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter "") - Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
 * [UTF8Json](https://github.com/neuecc/Utf8Json "") - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin)
 * [FullSerializer](https://github.com/jacobdufault/fullserializer "") - A robust JSON serialization framework that just works with support for all major Unity export platforms.
-* [odin-serializer](https://github.com/TeamSirenix/odin-serializer "") - Fast, robust, powerful and extendible .NET serializer built for Unity.
-* [msgpack-sharp](https://github.com/scopely/msgpack-sharp) - A lightweight, high performance MessagePack framework for the CLR that works in constrained environments like AOT under Unity and Xamarin.
-* [msgpack-unity3d](https://github.com/deniszykov/msgpack-unity3d) - MessagePack and JSON serializer for Unity3D.
-* [msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure.
-* [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
-* [protobuf3-for-unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity) - Google Protocol Buffers runtime library version 3 for Unity (targeting .NET 3.5).
-* [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET.
-* [sproto-Csharp](https://github.com/lvzixun/sproto-Csharp) - A pure C# implementation of sproto.
-* [sproto-Unity](https://github.com/m2q1n9/sproto-Unity) - A demo show how to use sproto-Csharp in Unity.
-
+* [Odin Serializer](https://github.com/TeamSirenix/odin-serializer "") - Fast, robust, powerful and extendible .NET serializer built for Unity.
+* [Msgpack Sharp](https://github.com/scopely/msgpack-sharp) - A lightweight, high performance MessagePack framework for the CLR that works in constrained environments like AOT under Unity and Xamarin.
+* [Msgpack Unity3D](https://github.com/deniszykov/msgpack-unity3d) - MessagePack and JSON serializer for Unity3D.
+* [Msgpack CLI](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure.
+* [MessagePack CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+* [Protobuf3 for Unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity) - Google Protocol Buffers runtime library version 3 for Unity (targeting .NET 3.5).
+* [Protobuf net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET.
+* [Sproto Csharp](https://github.com/lvzixun/sproto-Csharp) - A pure C# implementation of sproto.
+* [Sproto Unity](https://github.com/m2q1n9/sproto-Unity) - A demo show how to use sproto-Csharp in Unity.
 
 ## :sparkler: Effects & Shaders <a name="effects & shaders"></a>
 
@@ -819,9 +818,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph "") - Unity ShaderGraph project.
 * [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary "") - A library of Shaders created using Unity's Shader Graph.
 * [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
-* [SG-HDRP-Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
-* [unity-2d-water](https://github.com/Brajanowski/unity-2d-water "") - Simple water in Unity for 2D platform games.
-* [psx_retroshader](https://github.com/dsoft20/psx_retroshader "") - Shader that "emulates" the rendering style of ps1.
+* [SG HDRP Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
+* [Unity 2D Water](https://github.com/Brajanowski/unity-2d-water "") - Simple water in Unity for 2D platform games.
+* [PSX Retroshader](https://github.com/dsoft20/psx_retroshader "") - Shader that "emulates" the rendering style of ps1.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained). [Asset Store Link](https://www.assetstore.unity3d.com/en/#!/content/14147)
 * [Hatching Shader](https://github.com/nkihrk/HatchingShader "")
 * [UnityToonShader](https://github.com/IronWarrior/UnityToonShader "") - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
@@ -831,73 +830,72 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Lux](https://github.com/larsbertram69/Lux "") - Open source physically based shader framework for Unity.
 * [UnitySpriteShaders](https://github.com/traggett/UnitySpriteShaders "") - An Uber Shader for rendering Sprites in Unity.
 * [HologramShader](https://github.com/andydbc/HologramShader "") - Test of an hologram material made in Unity.
-* [Unity-HologramShield](https://github.com/paulgswanson/Unity-HologramShield "") - An hologram shield shader for Unity.
-* [ReinhardtLike-Shield-ShaderForge](https://github.com/vaxkun/ReinhardtLike-Shield-ShaderForge "") - A shader made to emulate Reinhardt shield effect using ShaderForge on Unity3D.
+* [Unity HologramShield](https://github.com/paulgswanson/Unity-HologramShield "") - An hologram shield shader for Unity.
+* [ReinhardtLike Shield ShaderForge](https://github.com/vaxkun/ReinhardtLike-Shield-ShaderForge "") - A shader made to emulate Reinhardt shield effect using ShaderForge on Unity3D.
 * [KvantGrass](https://github.com/keijiro/KvantGrass "") - Animating grass shader for Unity.
-* [fun-frag-shaders](https://github.com/makitsune/fun-frag-shaders "") - Fun fragment shaders you can use in Unity.
+* [Fun Frag Shaders](https://github.com/makitsune/fun-frag-shaders "") - Fun fragment shaders you can use in Unity.
 * [unityglitch](https://github.com/staffantan/unityglitch "") - Glitch post-processing shader for Unity3D.
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
-* [water2d-unity](https://github.com/valryon/water2d-unity "") - A simple shader + example of a water surface with reflection in 2D.
+* [Water2D Unity](https://github.com/valryon/water2d-unity "") - A simple shader + example of a water surface with reflection in 2D.
 * [UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations "") - Collection of shaders and visual effects created for Unity 3D.
-* [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass "") - Test of a frosted glass material in Unity.
-* [unity-wireframe](https://github.com/Chaser324/unity-wireframe "") - General purpose wireframe shaders for use in Unity.
+* [Unity Frosted Glass](https://github.com/andydbc/unity-frosted-glass) - Frosted glass material made in Unity.
+* [Unity Wireframe](https://github.com/Chaser324/unity-wireframe "") - General purpose wireframe shaders for use in Unity.
 * [StandardGeometryShader](https://github.com/keijiro/StandardGeometryShader "") - An example of a geometry shader with Unity's standard lighting model support.
 * [NoiseBall](https://github.com/keijiro/NoiseBall "") - Mesh deforming shader example (Unity).
 * [NoiseBall2](https://github.com/keijiro/NoiseBall2 "") - A small example of procedural modeling with compute shaders.
-* [Cubeds-Unity-Shaders](https://github.com/cubedparadox/Cubeds-Unity-Shaders "") - A compilation of custom shaders for Unity3D.
-* [Unity-InteriorMapping](https://github.com/Gaxil/Unity-InteriorMapping "") - Interior mapping shader for Unity with a sample scene.
+* [Cubeds Unity Shaders](https://github.com/cubedparadox/Cubeds-Unity-Shaders "") - A compilation of custom shaders for Unity3D.
+* [Unity InteriorMapping](https://github.com/Gaxil/Unity-InteriorMapping "") - Interior mapping shader for Unity with a sample scene.
 * [HoloShield](https://github.com/AdultLink/HoloShield "") - Highly customizable sci-fi shield / force field shader for Unity3D.
-* [unity-vhsglitch](https://github.com/staffantan/unity-vhsglitch "") - Glitched VHS post-processing shader for Unity3D.
+* [Unity VHS Glitch](https://github.com/staffantan/unity-vhsglitch "") - Glitched VHS post-processing shader for Unity3D.
 * [ShurikenPlus](https://github.com/keijiro/ShurikenPlus "") - A collection of custom shaders for Unity particle system (Shuriken).
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader "") - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
-* [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader "") - Unity material and shader for applying clipped, dithered transparency.
+* [Unity Dithered Transparency Shader](https://github.com/gkjohnson/unity-dithered-transparency-shader "") - Unity material and shader for applying clipped, dithered transparency.
 * [Rimlight](https://github.com/AdultLink/Rimlight "") - Customizable rimlight shader for Unity that includes pulsation and noise scrolling.
 * [RetroSuite3D](https://github.com/oxysoft/RetroSuite3D "") - Some image effects and shaders to achieve a retro look in Unity.
-* [Unity-Surface-Water-Shader](https://github.com/jakubshark/Unity-Surface-Water-Shader "") - A water surface shader for Unity.
+* [Unity Surface Water Shader](https://github.com/jakubshark/Unity-Surface-Water-Shader "") - A water surface shader for Unity.
 * [BloodFx](https://github.com/keijiro/BloodFx "") - Procedural blood stain shader.
 * [SquashAndStretch](https://github.com/PandaArcade/SquashAndStretch "") - A Unity 2018.10b12 project where I am experimenting with a squash and stretch shader.
 * [UltimateOutline](https://github.com/Shrimpey/UltimateOutline "") - The easiest way to achieve outlines in Unity.
 * [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders "") - Unity Shader enum references.
 * [BarabaraShader](https://github.com/sugi-cho/BarabaraShader "") - bara-bara Effect in Unity.
-* [Unity-SoundShaderTest](https://github.com/rngtm/Unity-SoundShaderTest "") - Audio synthesis test using shader on Unity. (#Audio)
+* [Unity SoundShaderTest](https://github.com/rngtm/Unity-SoundShaderTest "") - Audio synthesis test using shader on Unity. (#Audio)
 * [waterShaderUnity](https://github.com/MattCairns/waterShaderUnity "") - Playing with creating a water shader using Gerstner waves.
 * [SphereDissolve](https://github.com/AdultLink/SphereDissolve "") - Customizable procedural spherical dissolve shader for Unity3D, for all your customizable procedural spherical dissolve needs!
-* [unity-standard-shader-mobile](https://github.com/nylonee/unity-standard-shader-mobile "") - Mobile optimised shader for Unity 3D.
+* [Unity Standard Shader Mobile](https://github.com/nylonee/unity-standard-shader-mobile "") - Mobile optimised shader for Unity 3D.
 * [SurrealGrassShader](https://github.com/tchpowdog/SurrealGrassShader "") - PBR Grass Geometry shader for Unity.
 * [UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll "") - UnityChanToonShaderVer2 with EmissiveScroll.
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab "") - Test some NPR in Unity.
-* [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming "") - Various shaders.
-* [unity-marching-cubes-gpu](https://github.com/pavelkouril/unity-marching-cubes-gpu "") - GPU ComputeShader implementation of Marching Cubes algorithm.
+* [Unity3D CG Programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming "") - Various shaders.
+* [Unity Marching Cubes GPU](https://github.com/pavelkouril/unity-marching-cubes-gpu "") - GPU ComputeShader implementation of Marching Cubes algorithm.
 * [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen "") - Next gen iteration of the unity community ocean shader.
 * [The Amazing Wireframe Shader](https://assetstore.unity.com/packages/vfx/shaders/wireframe-shader-the-amazing-wireframe-shader-18794?aid=1100l35sb&utm_source=aff "") :moneybag:
 * [uCurvedScreen](https://github.com/hecomi/uCurvedScreen "") - Curved-sreen shader aseet for Unity.
-* [Syns-Unity-Shaders](https://github.com/synlogic/Syns-Unity-Shaders "") - A set of fun/useful shaders for use in VRChat and Unity itself.
-* [Xiexes-Unity-Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders "") - A collection of PBR 'Toon' shaders for Unity.
+* [Syns Unity Shaders](https://github.com/synlogic/Syns-Unity-Shaders "") - A set of fun/useful shaders for use in VRChat and Unity itself.
+* [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders "") - A collection of PBR 'Toon' shaders for Unity.
 * [MToon](https://github.com/Santarh/MToon "") - Toon Shader with Unity Global Illumination.
 * [WaveShaderDemo](https://github.com/EsProgram/WaveShaderDemo "")
 * [Unity3D_LiquidySurfaceShader](https://github.com/avseoul/Unity3D_LiquidySurfaceShader "") - An audio reactive shader in Unity3D (#Audio)
-* [Unity-CommandBufferRefraction](https://github.com/Doppelkeks/Unity-CommandBufferRefraction "") - Blurred Refraction shaders created with Amplify Shader Editor using Command Buffers. Cool for glass looking materials, works without Amplify Shader Editor too.
-* [UnityHairShader](https://github.com/AdamFrisby/UnityHairShader "") - A hair shader for Unity 5 originally built for the sine.space virtual world.
-* [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders "") - Alternative Unity shaders made by synqark.
-* [Neitri-Unity-Shaders](https://github.com/netri/Neitri-Unity-Shaders "") - A compilation of shaders for Unity3D and VRChat.
-* [VoxelPerformance](https://github.com/charlesgriffiths/VoxelPerformance "") - High performance voxel landscape functions for Unity 5.3+ using compute and geometry shaders.
-* [unity3d-dissolve-shader](https://github.com/kwnetzwelt/unity3d-dissolve-shader "") - A shader and example scene for a shader which is able to create objects starting from a world position outwards.
+* [Unity CommandBuffer Refraction](https://github.com/Doppelkeks/Unity-CommandBufferRefraction "") - Blurred Refraction shaders created with Amplify Shader Editor using Command Buffers. Cool for glass looking materials, works without Amplify Shader Editor too.
+* [Unity Hair Shader](https://github.com/AdamFrisby/UnityHairShader "") - A hair shader for Unity 5 originally built for the sine.space virtual world.
+* [Arktoon Shaders](https://github.com/synqark/Arktoon-Shaders "") - Alternative Unity shaders made by synqark.
+* [Neitri Unity Shaders](https://github.com/netri/Neitri-Unity-Shaders "") - A compilation of shaders for Unity3D and VRChat.
+* [Voxel Performance](https://github.com/charlesgriffiths/VoxelPerformance "") - High performance voxel landscape functions for Unity 5.3+ using compute and geometry shaders.
+* [Unity3D Dissolve Shader](https://github.com/kwnetzwelt/unity3d-dissolve-shader "") - A shader and example scene for a shader which is able to create objects starting from a world position outwards.
 * [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader "") - CG shader for unity3D to create a cross section through meshes.
 * [CrossFadingLod](https://github.com/keijiro/CrossFadingLod "") - (Unity) Cross-fading LOD shader example.
-* [shader-graph-nodes](https://github.com/gilescoope/shader-graph-nodes "") - Custom Nodes for Unity Shader Graph.
+* [Shader Graph Nodes](https://github.com/gilescoope/shader-graph-nodes "") - Custom Nodes for Unity Shader Graph.
 * [DeepSnowFootprint](https://github.com/ZGeng/DeepSnowFootprint "") - A unity shader solution to generate footprint on thick snow surfaces.
 * [UnityTerrainGrass](https://github.com/Nition/UnityTerrainGrass "") - Drop-in replacement terrain grass shaders for Unity.
 * [uRaymarching](https://github.com/hecomi/uRaymarching "") - Raymarching Shader Generator in Unity.
 * [Unity NextGenSprites](https://github.com/paulgswanson/UNity-NextGenSprites "")
-* [unity-texture-curve](https://github.com/andydbc/unity-texture-curve "") - Example showing how to bake an AnimatedCurve into a Texture and use it in a shader.
-* [unity-texture-curve](https://github.com/y23586/vrchat-time-shaders "") - Utility shaders to implement time-related stuffs in VRChat.
+* [Unity Texture Curve](https://github.com/andydbc/unity-texture-curve "") - Example showing how to bake an AnimatedCurve into a Texture and use it in a shader.
+* [Unity Texture Curve](https://github.com/y23586/vrchat-time-shaders "") - Utility shaders to implement time-related stuffs in VRChat.
 * [Mirror](https://github.com/nkjzm/Mirror) - A mirror script.
 * [Kamakura Shaders](https://github.com/kayac/kamakura-shaders) - Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve) - Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
 * [TexturePanner](https://github.com/AdultLink/TexturePanner) - This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
-* [Unity-ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
+* [Unity ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
-* [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - Frosted glass material made in Unity.
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/) (#TUTORIALS)
 
 ### Skyboxes <a name="skyboxes"></a>
@@ -911,25 +909,25 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### Effects <a name="effects"></a>
 
 * [Scriptable Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline "") - Designed to give artists and developers the tools they need to create modern, high-fidelity graphics in Unity.
-* [TestbedHDRP](https://github.com/keijiro/TestbedHDRP "") - Testbed project for Unity HDRP (High Definition Render Pipeline).
-* [Post-processing Stack](https://github.com/Unity-Technologies/PostProcessing "Components for camera and other effects.")
+* [Testbed HDRP](https://github.com/keijiro/TestbedHDRP "") - Testbed project for Unity HDRP (High Definition Render Pipeline).
+* [Post-Processing Stack](https://github.com/Unity-Technologies/PostProcessing "Components for camera and other effects.")
 * [Skinner](https://github.com/keijiro/Skinner "") - Special Effects with Skinned Mesh in Unity.
 * [Kinoglitch](https://github.com/keijiro/KinoGlitch "") - Video glitch effects for Unity.
 * [KinoContour](https://github.com/keijiro/KinoContour "") - Contour line filter for Unity.
 * [Page curl effect for Unity3D](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D Github Page
-* [Outline-Effect](https://github.com/cakeslice/Outline-Effect "") - Outline Image Effect for Unity.
+* [Outline Effect](https://github.com/cakeslice/Outline-Effect "") - Outline Image Effect for Unity.
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [KinoFringe](https://github.com/keijiro/KinoFringe "") - Chromatic aberration image effect for Unity.
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab "") - Order-independent Transparent in Unity.
-* [unity-dither4444](https://github.com/keijiro/unity-dither4444 "") - AssetPostProcessor for making high-quality 16-bit color textures in Unity.
-* [Super-Blur](https://github.com/PavelDoGreat/Super-Blur "") - Screen and UI gaussian blur for Unity.
+* [Unity Dither4444](https://github.com/keijiro/unity-dither4444 "") - AssetPostProcessor for making high-quality 16-bit color textures in Unity.
+* [Super Blur](https://github.com/PavelDoGreat/Super-Blur "") - Screen and UI gaussian blur for Unity.
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect "") - RainDropEffect for the Unity Asset Store.
 * [LensRain](https://github.com/Kink3d/LensRain "") - A screen-space lens rain effect using Unity's V2 Post-processing framework.
 * [SSMS](https://github.com/OCASM/SSMS "") - Screen space multiple scattering for Unity. 
 * [KinoFog](https://github.com/keijiro/KinoFog "") - Global fog effect for Unity.
 * [KinoMotion](https://github.com/keijiro/KinoMotion "") - Motion blur post-processing effect for Unity.
 * [Sprite Glow](https://github.com/Elringus/SpriteGlow "") - A sprite glow effect for Unity game engine.
-* [temporal](https://github.com/playdeadgames/temporal "") - Temporal Reprojection Anti-Aliasing for Unity 5.0+.
+* [Temporal](https://github.com/playdeadgames/temporal "") - Temporal Reprojection Anti-Aliasing for Unity 5.0+.
 * [Firefly](https://github.com/keijiro/Firefly "") - Unity ECS example for special effects.
 * [DepthInverseProjection](https://github.com/keijiro/DepthInverseProjection "") - An example showing how to inverse-project depth samples into the view/world space in Unity.
 * [Fragments](https://github.com/keijiro/Fragments "") - Fragment mesh objects for particle effects in Unity.
@@ -938,29 +936,29 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [IMP](https://github.com/xraxra/IMP "") - Billboard imposter baking for Unity.
 * [PotentiallyVisibleSetPlugin](https://github.com/nashnie/PotentiallyVisibleSetPlugin "")
 * [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS "") - Naive screen-space subsurface scattering solution for Unity 5.
-* [Unity-Signed-Distance-Field-Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow "") - Signed Distance Field Shadow in Unity.
-* [Bloom-Effect-Unity](https://github.com/hdmmY/Bloom-Effect-Unity "") - Bloom Effect Implementation.
-* [Unity-ProjectionSpray-v2](https://github.com/sugi-cho/Unity-ProjectionSpray-v2 "")
-* [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection "") - Clearly Screen Space Reflection!
+* [Unity Signed Distance Field Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow "") - Signed Distance Field Shadow in Unity.
+* [Bloom Effect Unity](https://github.com/hdmmY/Bloom-Effect-Unity "") - Bloom Effect Implementation.
+* [Unity ProjectionSpray v2](https://github.com/sugi-cho/Unity-ProjectionSpray-v2 "")
+* [Unity Screen Space Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection "") - Clearly Screen Space Reflection!
 * [kDecals](https://github.com/Kink3d/kDecals "") - A forward projector Decal system for Unity.
 * [ComputeStochasticReflections](https://github.com/simeonradivoev/ComputeStochasticReflections "") - Compute Stochastic Screen Space Reflections for unity post processing.
 * [NoiseRings](https://github.com/kaelb/NoiseRings "") - NoiseRings is a noisy emanating ring effect for Unity adapted with permission from the VR music video experience Chorus.
 * [UnityEffects](https://github.com/vivekhnz/UnityEffects "") - A collection of video game effects recreated in Unity.
-* [unity-botw-screenspace-rain](https://github.com/thnewlands/unity-botw-screenspace-rain "") - A study of screenspace rain impacts in Breath of the Wild.
-* [Helicopter effect](https://twitter.com/unity3dexpert/status/1050240849085431808)
+* [Unity BOTW Screenspace Rain](https://github.com/thnewlands/unity-botw-screenspace-rain "") - A study of screenspace rain impacts in Breath of the Wild.
+* [Helicopter Effect](https://twitter.com/unity3dexpert/status/1050240849085431808)
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect.
-* [FoW_shadow_map](https://github.com/krazzei/FoW_shadow_map "") - An example project of how to do fog of war in Unity 3D.
+* [FoW_Shadow_Map](https://github.com/krazzei/FoW_shadow_map "") - An example project of how to do fog of war in Unity 3D.
 * [MeshEffectForTextMeshPro](https://github.com/mob-sakai/MeshEffectForTextMeshPro "") - Mesh effect components for TextMeshPro in Unity.
 * [uHomography](https://github.com/hecomi/uHomography "") - Homography Transformation Image Effect for Unity.
 * [FastPostProcessing](https://github.com/demonixis/FastPostProcessing "") - A small and fast post processing stack (only one pass) targeting mobile and mobile VR for Unity. (#VIRTUAL REALITY)
 * [Heatwave](https://github.com/andrewgotow/Heatwave "") - A simple post-processing effect for the Unity game engine which renders small-scale distortions.
 * [CameraProjector](https://github.com/fuqunaga/CameraProjector "") - Project the image captured by the camera onto the object. (#CAMERA)
-* [ProjectionMapping-unity](https://github.com/sugi-cho/ProjectionMapping-unity "") - Simple Projection-Mapping tool for Unity (WIP).
+* [ProjectionMapping Unity](https://github.com/sugi-cho/ProjectionMapping-unity "") - Simple Projection-Mapping tool for Unity (WIP).
 * [RDSystem](https://github.com/keijiro/RDSystem "") - Reaction-diffusion system with CustomRenderTexture.
-* [unity-voxel](https://github.com/mattatz/unity-voxel "") - Mesh voxelization for Unity.
+* [Unity Voxel](https://github.com/mattatz/unity-voxel "") - Mesh voxelization for Unity.
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation "")
-* [Deform-Prototype](https://github.com/keenanwoodall/Deform-Prototype "") - My second attempt at a framework for deforming meshes in the editor and at runtime in Unity. (Not in development)
-* [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs. (#CAMERA)
+* [Deform Prototype](https://github.com/keenanwoodall/Deform-Prototype "") - My second attempt at a framework for deforming meshes in the editor and at runtime in Unity. (Not in development)
+* [Static Blured Screen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs. (#CAMERA)
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -971,10 +969,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI "") - This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.
 * [ShinyEffectForUGUI](https://github.com/mob-sakai/ShinyEffectForUGUI) - Shiny effect of uGUI, which does not need mask or normal map.
 * [KvantStream](https://github.com/keijiro/KvantStream "") - A simple GPU particle system for Unity.
-* [gpu-particles](https://github.com/Robert-K/gpu-particles "") - A GPU Particle System for Unity.
+* [GPU Particles](https://github.com/Robert-K/gpu-particles "") - A GPU Particle System for Unity.
 * [CurlNoiseParticleSystem](https://github.com/edom18/CurlNoiseParticleSystem "") - Particle system using Curl Noise for Unity.
 * [HoudiniEngineForUnity_deprecated](https://github.com/sideeffects/HoudiniEngineForUnity_deprecated "") - Houdini Engine for Unity (Deprecated).
-* [fluviofx](https://github.com/thinksquirrel/fluviofx "") - Fluid dynamics for Unity's VFX graph.
+* [FluvioFX](https://github.com/thinksquirrel/fluviofx "") - Fluid dynamics for Unity's VFX graph.
 * [Effekseer](https://github.com/effekseer/Effekseer "") - A tool editing particle effects.
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
@@ -985,12 +983,12 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LightShafts](https://github.com/robertcupisz/LightShafts "") - A light shafts (volumetric shadows) effect for Unity.
 * [Vapor](https://github.com/ArthurBrussee/Vapor "") - Volumetric Fog for Unity.
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering "") - Atmospheric Scattering for Unity.
-* [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog "") - Volumetric fog implementation in Unity.
-* [Unity-Volumetric-Light](https://github.com/MaxwellGengYF/Unity-Volumetric-Light "") - A powerful volumetric light plugin based on post-processing in Unity3D.
+* [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog "") - Volumetric fog implementation in Unity.
+* [Unity Volumetric Light](https://github.com/MaxwellGengYF/Unity-Volumetric-Light "") - A powerful volumetric light plugin based on post-processing in Unity3D.
 * [Unity Volume Sampler](https://github.com/mattatz/unity-volume-sampler "") - Mesh volume sampler with voxelizer & 3D poisson disk sampling for Unity.
-* [unity-volume-rendering](https://github.com/mattatz/unity-volume-rendering "") - Volume rendering by object space raymarching for Unity.
+* [Unity Volume Rendering](https://github.com/mattatz/unity-volume-rendering "") - Volume rendering by object space raymarching for Unity.
 * [DFVolume](https://github.com/keijiro/DFVolume "") - Distance-field volume generator for Unity.
-* [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog "") - Volumetric fog implementation in Unity.
+* [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog "") - Volumetric fog implementation in Unity.
 * [LiveScan3D-Hololens](https://github.com/MarekKowalski/LiveScan3D-Hololens "") - A Unity application for receiving and rendering point clouds on Hololens and other devices. (#MIXED REALITY)
 * [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene.
 
@@ -999,42 +997,42 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UI Shapes Kit](https://github.com/thisotherthing/ui-shapes-kit "Procedural shapes for Unity UI.")
 * [Shapes2D](https://github.com/all-iver/shapes2d "Make simple art assets quickly in Unity.")
 * [ShapeRenderer](https://github.com/epezent/ShapeRenderer "")
-* [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity "") - A flexible UI framework for Unity.
+* [FairyGUI Unity](https://github.com/fairygui/FairyGUI-unity "") - A flexible UI framework for Unity.
 * [CandyCoded](https://github.com/CandyCoded/CandyCoded "") - Custom Unity Components that are delightful.
 * [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "") - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
-* [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
+* [NGUI](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework. :moneybag:
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
 * [UChart](https://github.com/springd5211/UChart "") - Data chart/data graph for Unity.
-* [TMP_RectVisualizer](https://github.com/baba-s/TMP_RectVisualizer "") - The size of Text and TextMesh Pro can be visualized on game screen.
-* [uGUI-Hypertext](https://github.com/setchi/uGUI-Hypertext "") - Hypertext for uGUI.
+* [TMP RectVisualizer](https://github.com/baba-s/TMP_RectVisualizer "") - The size of Text and TextMesh Pro can be visualized on game screen.
+* [uGUI Hypertext](https://github.com/setchi/uGUI-Hypertext "") - Hypertext for uGUI.
 * [Scatterplot_Standalone](https://github.com/PrinzEugn/Scatterplot_Standalone "") - 3D scatterplot in Unity
 * [MiniMap](https://github.com/Area730/MiniMap) - Unity3D mini map (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729).
 * [NotchSolution](https://github.com/5argon/NotchSolution "") - A set of tools to fight with notched/cutout phones for Unity uGUI.
 * [iPhoneX Overlay](https://github.com/ianwaldrop/iPhoneX-overlay "Unity Editor utility which masks the game view with the shape of an iPhone X.") - Unity Editor utility which masks the game view with the shape of an iPhone X.
-* [unity-sprite-cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
-* [Automatic-UI-Anchoring-For-Unity-3D](https://github.com/Risenberg304/Automatic-UI-Anchoring-For-Unity-3D "")
+* [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
+* [Automatic UI Anchoring For Unity3D](https://github.com/Risenberg304/Automatic-UI-Anchoring-For-Unity-3D "")
 * [UIEffect](https://github.com/mob-sakai/UIEffect "") - An effect component for uGUI element in Unity. Let's decorate your UI with effects.
 * [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect) - UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
-* [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
+* [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView) - Cool 3d scoll view for Unity(NGUI 3D UGUI support)
 * [Beautiful Text Outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
-* [Unity-UI-Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon) - Polygon renderer for the new Unity UI
-* [ultimatehudskins](https://github.com/Michsky/ultimatehudskins) - Stylish HUD layouts for Unity engine
-* [looader](https://github.com/Michsky/looader) - Loading screen solution for Unity engine
+* [Unity UI Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon) - Polygon renderer for the new Unity UI
+* [Ultimate HUD Skins](https://github.com/Michsky/ultimatehudskins) - Stylish HUD layouts for Unity engine
+* [Looader](https://github.com/Michsky/looader) - Loading screen solution for Unity engine
 * [MaterialUI](https://github.com/InvexGames/MaterialUI "") - A UI kit for Unity that follows Google's official material design guidelines.
-* [unity-themes](https://github.com/zios/unity-themes "") - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements.
+* [Unity Themes](https://github.com/zios/unity-themes "") - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements.
 * [UnityCodes](https://github.com/springd5211/UnityCodes "") - Unity UI controls.
 * [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar "") - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
-* [slayout](https://github.com/inkle/slayout "") - UI layout and animation component for Unity.
+* [Slayout](https://github.com/inkle/slayout "") - UI layout and animation component for Unity.
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D using native UI tools.
-* [uGUI-Effect-Tool](https://github.com/WestHillApps/uGUI-Effect-Tool "") - Vertex color UI Effect for Unity UI (uGUI).
+* [uGUI Effect Tool](https://github.com/WestHillApps/uGUI-Effect-Tool "") - Vertex color UI Effect for Unity UI (uGUI).
 * [UIElementsExamples](https://github.com/Unity-Technologies/UIElementsExamples "") - Unity project containing examples to use UIElements in the Editor.
 * [Unity_UI_Samples](https://github.com/tsubaki/Unity_UI_Samples "")
 * [Modern UI Pack](https://github.com/Michsky/muip "") - Modern UI Pack for Unity engine.
-* [UGUI-Editor](https://github.com/liuhaopen/UGUI-Editor "") - Unity UGUI editor tools,improve the efficiency of ui development.
-* [lomenui](https://github.com/Michsky/lomenui "") - Stylish UI package for Unity engine.
-* [unity-uitest](https://github.com/taphos/unity-uitest "") - Unity UI Test Automation Framework.
+* [UGUI Editor](https://github.com/liuhaopen/UGUI-Editor "") - Unity UGUI editor tools,improve the efficiency of ui development.
+* [Lomenui](https://github.com/Michsky/lomenui "") - Stylish UI package for Unity engine.
+* [Unity UITest](https://github.com/taphos/unity-uitest "") - Unity UI Test Automation Framework.
 * [Baum2](https://github.com/kyubuns/Baum2 "") - Psd to Unity UI(uGUI).
 * [UnityMenuSystem](https://github.com/YousicianGit/UnityMenuSystem "") - Menu System for Unity.
 * [Unity3d.UI.Windows](https://github.com/chromealex/Unity3d.UI.Windows "") - Unity 3D UI (uGUI) Windows Extensions.
@@ -1043,57 +1041,57 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo "") - Interactable runtime scene gizmo for uGUI.
 * [UnmaskForUGUI](https://github.com/mob-sakai/UnmaskForUGUI "") - Reverse mask for uGUI element in Unity.
 * [MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI "") - A simple mirror reflection effect for a uGUI without reflection probes or shaders.
-* [Unity-Card-UI](https://github.com/ryanslikesocool/Unity-Card-UI "") - Card style UI elements for Unity.
+* [Unity Card UI](https://github.com/ryanslikesocool/Unity-Card-UI "") - Card style UI elements for Unity.
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI "") - Soft masking for uGUI elements in Unity.
 * [Simple Color Picker](https://assetstore.unity.com/packages/tools/gui/simple-color-picker-7353?aid=1100l35sb&utm_source=aff "") - Free color picker from the Asset Store.
-* [ugui-animated-progressbar](https://github.com/baba-s/ugui-animated-progressbar "") - A progress bar with animation of uGUI.
-* [unity-autocomplete-search-field](https://github.com/marijnz/unity-autocomplete-search-field "") - Search field with Autocomplete, a simple Unity Editor UI component.
+* [uGUI Animated Progressbar](https://github.com/baba-s/ugui-animated-progressbar "") - A progress bar with animation of uGUI.
+* [Unity Autocomplete Search Field](https://github.com/marijnz/unity-autocomplete-search-field "") - Search field with Autocomplete, a simple Unity Editor UI component.
 * [UnityIPhoneXSupport](https://github.com/tkyaji/UnityIPhoneXSupport "") - Support iPhoneX by changing the drawing area of Unity.
-* [ugui-super-scrollview-example](https://github.com/baba-s/ugui-super-scrollview-example "") - Sample project that summarizes usage examples of "UGUI Super ScrollView".
-* [Unity-PagingView](https://github.com/kiepng/Unity-PagingView "") - PagingView for Unity.
-* [Unity-AlignTools](https://github.com/litefeel/Unity-AlignTools "") - Align Tools is just perfect Unity asset plugin to align gui object.
+* [uGUI Super Scrollview Example](https://github.com/baba-s/ugui-super-scrollview-example "") - Sample project that summarizes usage examples of "UGUI Super ScrollView".
+* [Unity PagingView](https://github.com/kiepng/Unity-PagingView "") - PagingView for Unity.
+* [Unity AlignTools](https://github.com/litefeel/Unity-AlignTools "") - Align Tools is just perfect Unity asset plugin to align gui object.
 * [OpenUi](https://github.com/omid3098/OpenUi "") - Make your game UI in minutes!
-* [ugui-Tween-Tool](https://github.com/tomtc123/ugui-Tween-Tool "") - Unity 4.6.x and Unity5.x uGUI Tween tools.
+* [uGUI Tween Tool](https://github.com/tomtc123/ugui-Tween-Tool "") - Unity 4.6.x and Unity5.x uGUI Tween tools.
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
 
 ## Procedural Generation <a name="procedural-generation"></a>
 
 * [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit "Procedural generation library for Unity") - Procedural generation library for Unity.
-* [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse "") - Walk through an infinite, procedurally generated city
-* [InfiniteIslandsGenerator-Unity](https://github.com/TPiotr/InfiniteIslandsGenerator-Unity "") - Infinite islands generation.
-* [tangram-unity](https://github.com/tangrams/tangram-unity "") - A library of tools for using OpenStreetMap data in the Unity3D game engine.
+* [Wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse "") - Walk through an infinite, procedurally generated city
+* [InfiniteIslandsGenerator Unity](https://github.com/TPiotr/InfiniteIslandsGenerator-Unity "") - Infinite islands generation.
+* [Tangram Unity](https://github.com/tangrams/tangram-unity "") - A library of tools for using OpenStreetMap data in the Unity3D game engine.
 * [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/ACskyline/PVTUT "Procedural Virtual Texture with Unity Terrain")
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect "") - Road Architect for Unity.
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator "") - A dungeon generator for Unity.
-* [Procedural-Cave-Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator "") - Unity scripts that procedurally generate ready-to-use cave meshes.
-* [Unity3d-Dungeon-Generator](https://github.com/DMeville/Unity3d-Dungeon-Generator "") - A procedural dungeon generator for Unity3d.
+* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator "") - Unity scripts that procedurally generate ready-to-use cave meshes.
+* [Unity3D Dungeon Generator](https://github.com/DMeville/Unity3d-Dungeon-Generator "") - A procedural dungeon generator for Unity3d.
 * [ProceduralTerrain](https://github.com/theSoenke/ProceduralTerrain "") - Procedural voxel terrain generation in Unity.
-* [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree "") - Procedural tree builder for Unity.
+* [Unity Procedural Tree](https://github.com/mattatz/unity-procedural-tree "") - Procedural tree builder for Unity.
 * [ProceduralMotionTrack](https://github.com/keijiro/ProceduralMotionTrack "") - Simple procedural motion with Unity Timeline.
-* [Procedural-Landmass-Generation](https://github.com/SebLague/Procedural-Landmass-Generation "") - Procedural Landmass Generation in Unity.
+* [Procedural Landmass Generation](https://github.com/SebLague/Procedural-Landmass-Generation "") - Procedural Landmass Generation in Unity.
 * [VoronoiMapGen](https://github.com/SteveJohnstone/VoronoiMapGen "") - A Voronoi Based Map Generator for Unity.
-* [Unity-Procedural](https://github.com/nickhall/Unity-Procedural "") - Spline based mesh generation.
+* [Unity Procedural](https://github.com/nickhall/Unity-Procedural "") - Spline based mesh generation.
 * [QuadSphere](https://github.com/bicarbon8/QuadSphere "") - Unity QuadSphere with Level of Detail subdivision.
 * [UnityCurvedMeshGenerator](https://github.com/nrj/UnityCurvedMeshGenerator "") - Procedural mesh generation tutorial with cubic Bezier curves.
 * [PixelArtGen](https://github.com/abagames/PixelArtGen "") - A pixel art generator on a Unity custom inspector.
-* [Procedural-Terrain-Generator](https://github.com/CyanCode/ "") - Procedural terrain generator for the Unity 3D engine. (#Terrain)
+* [Procedural Terrain Generator](https://github.com/CyanCode/ "") - Procedural terrain generator for the Unity 3D engine. (#Terrain)
 * [TownGenerator](https://github.com/zulfajuniadi/TownGenerator "") - Medieval Town Generator for Unity.
-* [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles.
-* [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
+* [Alchemy Circles Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles.
+* [Unity Procedural Flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
-* [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms "") - Terrain topology algorithms in Unity.
-* [Unity_DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
-* [Interactive-Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
-* [Unity_InteractiveErosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
+* [Terrain Topology Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms "") - Terrain topology algorithms in Unity.
+* [Unity DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
+* [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
+* [Unity Interactive Erosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
 
 ## :art: Textures <a name="textures"></a>
 
 * [VertexPaint](https://github.com/slipster216/VertexPaint "") - Unity 5.3 Vertex Painter.
 * [InkPainter](https://github.com/EsProgram/InkPainter "") - Texture-Paint on Unity. 
-* [Texture-Array-Unity](https://github.com/DmtDenisov/Texture-Array-Unity "") - A small tool for creating texture arrays in Unity. (#UTILITIES)
-* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer) - Utility to combine color channels from different textures into a single output.
+* [Texture Array Unity](https://github.com/DmtDenisov/Texture-Array-Unity "") - A small tool for creating texture arrays in Unity. (#UTILITIES)
+* [Unity Texture Packer](https://github.com/andydbc/unity-texture-packer) - Utility to combine color channels from different textures into a single output.
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity.
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
@@ -1103,17 +1101,16 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SQLite4Unity3D](https://github.com/robertohuertasm/SQLite4Unity3d "") - SQLite made easy for Unity3d.
 * [SQLiteUnityKit](https://github.com/Busta117/SQLiteUnityKit "") - Framework to connect with a SQLite database from Unity for iOS, Android, MAC , Windows.
 * [SqlCipher4Unity3D](https://github.com/netpyoung/SqlCipher4Unity3D "") - SqlCipher made easy for Unity3d.
-* [castledb-unity-importer](https://github.com/kkukshtel/castledb-unity-importer")
+* [CastleDB Unity Importer](https://github.com/kkukshtel/castledb-unity-importer")
 
 ## VCS (Version Control Systems) <a name="vcs"></a>
 
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d")
-* [gitgud](https://github.com/joshcamas/gitgud "") - A simple unity-based git client with a focus on extendability.
+* [Gitgud](https://github.com/joshcamas/gitgud "") - A simple unity-based git client with a focus on extendability.
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity "") - A NuGet Package Manager for Unity.
 * [GitLab](https://about.gitlab.com/ "") - GitLab
 * [VersionControlPlugins](https://github.com/Unity-Technologies/VersionControlPlugins "") - Perforce plugin for Unity. (Official Plugins from Unity. Moved to Bitbucket).
-* [unity_svn_checker](https://github.com/kalimaul/unity_svn_checker "") - Server-side svn hooks to help version control with Unity3D.
-
+* [Unity SVN Checker](https://github.com/kalimaul/unity_svn_checker "") - Server-side svn hooks to help version control with Unity3D.
 
 ## Continuous Integration <a name="continuous-integration"></a>
 
@@ -1122,11 +1119,11 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## Testing <a name="testing"></a>
 
 * [Unity Test Tools](https://unity3d.com/es/unity/qa/test-tools "") - Unity Editor Test Tools.
-* [lunar-unity-assert](https://github.com/SpaceMadness/lunar-unity-assert "") - An improved wrapper over UnityEngine.Assertions.
+* [Lunar Unity Assert](https://github.com/SpaceMadness/lunar-unity-assert "") - An improved wrapper over UnityEngine.Assertions.
 
 ## :sunglasses: Customization <a name="customization"></a>
 
-* [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders "") - This asset allows you to set custom icons for any folder in unity project browser.
+* [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders "") - This asset allows you to set custom icons for any folder in unity project browser.
 * [Unity Dark Theme Patch](https://github.com/ejlv/UnityDarkThemePatch "Patch that switches Unity theme from light to dark.") - Patch that switches Unity theme from light to dark.
 * [UnityLauncher](https://github.com/unitycoder/UnityLauncher "") - Unity Version Launcher.
 
@@ -1138,54 +1135,54 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector "") - Automatic reorderable lists for Unity game engine components.
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
 * [InspectorFoldoutGroup](https://github.com/dimmpixeye/InspectorFoldoutGroup "") - Group variables in Unity 3d inspector with style!
-* [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List "") - Extended version of the Reorderable List in Unity.
-* [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity "") - HSV color picker using Unity UI.
+* [Unity Reorderable List](https://github.com/cfoulston/Unity-Reorderable-List "") - Extended version of the Reorderable List in Unity.
+* [HSV Color Picker Unity](https://github.com/judah4/HSV-Color-Picker-Unity "") - HSV color picker using Unity UI.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons "") - Add buttons to your inspector in Unity super easily with this simple attribute.
 * [TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl "") - An example of controlling particle system from timeline.
 * [UnityTimelineEvents](https://github.com/georgejecook/UnityTimelineEvents "") - Adds ability to execute arbitrary code, with int, bool, float, string and enum values, at both runtime and edit time, from Unity timelines.
 * [AudioPreviewTrack](https://github.com/keijiro/AudioPreviewTrack "") - Instant audio playback (scrubbing) in preview mode of Unity Timeline editor.
 * [BGCurve](https://github.com/bansheeGz/BGCurve "") - Bezier spline editor for Unity 5.3.
 * [Excel4Unity](https://github.com/joexi/Excel4Unity "") - Excel for Unity. Provides both read and write with .xls and .xlsx.
-* [Unity3D-ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent "") - A UnityEvent replacement.
-* [unity-editor-coroutines](https://github.com/marijnz/unity-editor-coroutines "") - Coroutines for Editor scripts, just like regular coroutines.
+* [Unity3D ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent "") - A UnityEvent replacement.
+* [Unity Editor Coroutines](https://github.com/marijnz/unity-editor-coroutines "") - Coroutines for Editor scripts, just like regular coroutines.
 * [Unex](https://github.com/adrenak/Unex "") - Unity3D, extended. Includes hotkeys, C# extensions, utilities and more.
 * [UnityStreamingMovieTexture](https://github.com/jtothebell/UnityStreamingMovieTexture "") - A movie texture extension for Unity that adds support for Web GL. 
 * [Unity-IMGUI-TreeView](https://github.com/luke161/Unity-IMGUI-TreeView "") - Simple Tree View implementation for IMGUI (Editor GUI) in Unity.
-* [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d "") - T4 Text Template Processor for Unity3D.
+* [T4 Templates Unity3D](https://github.com/deniszykov/t4-templates-unity3d "") - T4 Text Template Processor for Unity3D.
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections "") - Native Collection Types for Unity.
-* [Stackable-Decorator](https://github.com/Kinwailo/Stackable-Decorator "") - Stackable decorator for property drawer of Unity.
+* [Stackable Decorator](https://github.com/Kinwailo/Stackable-Decorator "") - Stackable decorator for property drawer of Unity.
 * [UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo "")
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "") - ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
 * [ReorderableListExample](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
 * [EditorButton](https://github.com/miguel12345/EditorButton "") - Turn your Unity methods into buttons just by adding an attribute.
 * [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
 * [Giacomelli.Unity.EditorToolbox](https://github.com/giacomelli/Giacomelli.Unity.EditorToolbox "") - Unity3d editor tools to make life easier for game developers.
-* [node-level-editor](https://github.com/James-Frowen/node-level-editor "") - Unity3d Editor tools to create rooms quickly.
+* [Node Level Editor](https://github.com/James-Frowen/node-level-editor "") - Unity3d Editor tools to create rooms quickly.
 * [UnitySceneViewFovControl](https://github.com/t-mat/UnitySceneViewFovControl "") - Unity Editor Extension which enables controlling Scene View's FoV.
 * [UniDLL](https://github.com/adrenak/UniDLL "") - Editor window to create DLLs from C# code in Unity. (#Utilities)
-* [pongpector](https://github.com/PhillipMwaniki/pongpector "") - Play a pong on a Unity custom inspector. (#Games)
-* [unity-define-inspector](https://github.com/haydenjameslee/unity-define-inspector "") - A Unity inspector panel to quickly add and remove a set of custom Scripting Define Symbols.
-* [unity3d-property-enabled-inspector](https://github.com/XaeroDegreaz/unity3d-property-enabled-inspector "") - This project aims to allow C# properties to be fully supported for in-editor inspection.
-* [Simple-Graph-Editor](https://github.com/Aridez/Simple-Graph-Editor "") - An editor extension for unity that allows making directional graphs quickly.
+* [Pongpector](https://github.com/PhillipMwaniki/pongpector "") - Play a pong on a Unity custom inspector. (#Games)
+* [Unity Define Inspector](https://github.com/haydenjameslee/unity-define-inspector "") - A Unity inspector panel to quickly add and remove a set of custom Scripting Define Symbols.
+* [Unity3D Property Enabled Inspector](https://github.com/XaeroDegreaz/unity3d-property-enabled-inspector "") - This project aims to allow C# properties to be fully supported for in-editor inspection.
+* [Simple Graph Editor](https://github.com/Aridez/Simple-Graph-Editor "") - An editor extension for unity that allows making directional graphs quickly.
 * [TextMeshProButtonExtension](https://github.com/jackisgames/TextMeshProButtonExtension "") - An editor extension for unity that allows making directional graphs quickly. (#UI)
-* [stickies](https://github.com/charblar/stickies) - Simple in-editor notes for Unity3D.
+* [Stickies](https://github.com/charblar/stickies) - Simple in-editor notes for Unity3D.
 * [TimeFlowShiki](https://github.com/sassembla/TimeFlowShiki) - Unity Editor Timeline GUI skeleton.
 * [Animator_Timeline](https://github.com/absameen/Animator_Timeline) - Timeline Editor for Unity. (#ANIMATION)
-* [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
-* [Unity-Excel-Importer-Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker "") - Import excel files into Unity.
+* [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
+* [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker "") - Import excel files into Unity.
 * [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity
 * [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) - Automatic reorderable lists for Unity game engine components
 * [Vexe Framework (VFW)](https://github.com/vexe/VFW) - An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 * [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
-* [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D.
-* [property-drawer-collection](https://github.com/anchan828/property-drawer-collection)
-* [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity.
-* [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D.
+* [Unity PSD Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D.
+* [Property Drawer Collection](https://github.com/anchan828/property-drawer-collection)
+* [Unity Symlink Utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity.
+* [Giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
-* [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
-* [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com.
-* [shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity.
-* [unity-editor-spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
+* [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
+* [Unity ColourLovers Importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com.
+* [Shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity.
+* [Unity Editor Spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
 
@@ -1193,7 +1190,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Unity Asset Store](https://assetstore.unity.com/) - Official asset store for unity.
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
-* [unity-packman](https://github.com/appetizermonster/unity-packman "") - A tiny package dependency manager for Unity, powered by Github.
+* [Unity Packman](https://github.com/appetizermonster/unity-packman "") - A tiny package dependency manager for Unity, powered by Github.
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
 * [Unity Package Unpacker (UPU)](https://github.com/derFunk/UPU "Unitypackage Unpacker.")
 * [AssetStudio](https://github.com/RaduMC/AssetStudio "AssetStudio is an independent tool for exploring, extracting and exporting assets.")
@@ -1202,7 +1199,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AssetBundlePatch](https://github.com/dpull/AssetBundlePatch "")
 * [UnityAssetCleaner](https://github.com/tsubaki/UnityAssetCleaner "")
 * [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
-* [asset-store-support-window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
+* [Asset Store Support Window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
 * [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
 * [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
 
@@ -1218,60 +1215,59 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Incremental Compiler](https://github.com/SaladLab/Unity3D.IncrementalCompiler "Incremental Compiler Github's Page")
 * [Pix2Pix](https://github.com/keijiro/Pix2Pix "Real-time pix2pix implementation with Unity.")
 * [Inventory](https://github.com/FarrokhGames/Inventory "A Diablo 2-style inventory system for Unity3D.")
-* [ECS-Octree](https://github.com/Antypodish/ECS-Octree "ECS based octree.")
+* [ECS Octree](https://github.com/Antypodish/ECS-Octree "ECS based octree.")
 * [Unity.NetCore](https://github.com/Chavoshi/Unity.NetCore "")
 * [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "")
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "Simple solution for cutting sprites in runtime.")
 * [Ngx](https://github.com/keijiro/Ngx "Neural network based visual generator and mixer.")
 * [Screen Shooter](https://github.com/PhannGor/Screen-Shooter "A simple tool for creating screenshots at any resolution within the Unity Editor.")
-* [LSky-Dynamic-Skydome-Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3d
+* [LSky Dynamic Skydome Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3d
 * [ST2U2DNavMeshImporter](https://github.com/SharlatanY/ST2U2DNavMeshImporter "") - Provides a custom importer to automatically setting up 2D Navmeshes (Using NavMeshSurface2DBaker) when importing "Tiled" tilemaps through SuperTiled2Unity.
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker "") - Provides functionality to bake 2D colliders into NavMeshSurface components.
 * [FrameCapturer](https://github.com/unity3d-jp/FrameCapturer "") - Export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4.
 * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper "") - Get types, methods, fields and so on from Unity Il2Cpp binary file.
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender "") - An advanced ocean system implemented in Unity3D.
+* [Crest Ocean Render](https://github.com/huwb/crest-oceanrender "") - An advanced ocean system implemented in Unity3D.
 * [GenericFrameRecorder](https://github.com/Unity-Technologies/GenericFrameRecorder "")
-* [wrmhl](https://github.com/relativty/wrmhl "") - Super fast communication beetwen Unity3D and Arduino. Create Interactive experiences in a minute.
+* [Wrmhl](https://github.com/relativty/wrmhl "") - Super fast communication beetwen Unity3D and Arduino. Create Interactive experiences in a minute.
 * [FFmpegOut](https://github.com/keijiro/FFmpegOut "") - Video capture plugin for Unity with FFmpeg.
 * [hlsl2glslfork](https://github.com/aras-p/hlsl2glslfork "") - HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.
-* [fo-dicom](https://github.com/fo-dicom/fo-dicom "") - Fellow Oak DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity.
+* [Fellow Oak Dicom](https://github.com/fo-dicom/fo-dicom "") - Fellow Oak DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity.
 * [UnityPlayground](https://github.com/Unity-Technologies/UnityPlayground "") - A collection of simple scripts to create 2D physics game, intended for giving workshops to a young audience.
 * [UnityWorker](https://github.com/OpenMined/UnityWorker "") - (Deprecated)
 * [XAsset](https://github.com/fengjiyuan/xasset "")
 * [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication "") - Desktop Duplication API implementation for Unity (only for Windows 8/10).
 * [UnityAssets](https://github.com/BLINDED-AM-ME/UnityAssets "") - ?
 * [SuperScience](https://github.com/Unity-Technologies/SuperScience "") - Gems of Unity Labs for our user-base.
-* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy "") - Water Buoyancy Simulation for Unity.
-* [lightmap-switching-tool](https://github.com/laurenth-unity/lightmap-switching-tool "") - Tool that allows switching different baked lightmap sets on a unity scene at runtime.
+* [Unity WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy "") - Water Buoyancy Simulation for Unity.
+* [Lightmap Switching Tool](https://github.com/laurenth-unity/lightmap-switching-tool "") - Tool that allows switching different baked lightmap sets on a unity scene at runtime.
 * [CellularGrowth](https://github.com/mattatz/CellularGrowth "") - GPU-based cellular growth simulation in Unity.
 * [FbxExporter](https://github.com/unity3d-jp/FbxExporter "") - Export meshes to .fbx or .obj from Unity.
-* [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh "") - A demo implementation of Unity Entity Component System with NavMesh.
+* [Unity ECS NavMesh](https://github.com/zulfajuniadi/unity-ecs-navmesh "") - A demo implementation of Unity Entity Component System with NavMesh.
 * [Ardity](https://github.com/dwilches/Ardity "") - Assets for integrating Arduino and Unity (or Unity and any hardware that communicates over a COM port).
-* [TFClassify-Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
+* [TFClassify Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
 * [Unity3D.IncrementalCompiler](https://github.com/SaladLab/Unity3D.IncrementalCompiler "") - Unity3D Incremental C# Compiler using Roslyn.
-* [unity-pm-tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
+* [Unity Projection Mapping Tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
 * [AsyncCaptureTest](https://github.com/keijiro/AsyncCaptureTest "") - Non-blocking screen capture example with asynchronous GPU readback.
 * [PerformanceBenchmarkReporter](https://github.com/Unity-Technologies/PerformanceBenchmarkReporter "") - The Unity Performance Benchmark tool enables partners and developers to establish benchmark samples and measurements using the Performance Testing package, then use these benchmark values to compare subsequent performance test results in an html output utilizing graphical visualizations. 
 * [UnEngine](https://github.com/jbruening/UnEngine "") - A clone of the UnityEngine.dll so you can write and test scripts outside of Unity.
-* [urdf-loaders](https://github.com/gkjohnson/urdf-loaders "") - URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files.
+* [URDF Loaders](https://github.com/gkjohnson/urdf-loaders "") - URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files.
 * [ECSTest](https://github.com/keijiro/ECSTest "") - URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files.
 * [ConditionalCompilationUtility](https://github.com/Unity-Technologies/ConditionalCompilationUtility "") - Automatically add defines upon the detection of predicate classes.
 * [UnitySerialPort](https://github.com/prossel/UnitySerialPort "") - Script to work with serial port in Unity. Optimized to work with TSV, CSV or other character delimited values.
-* [vue-unity-webgl](https://github.com/votetake/vue-unity-webgl "") - Unity 3d Component for VueJS.
-* [unity-cognitive-services-demos](https://github.com/misslivirose/unity-cognitive-services-demos "") -Examples of using Microsoft's Cognitive Services in Unity for HoloLens.
-* [Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters "") - Unity Standard Asset Controllers.
-* [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean "") - A ocean using Phillips spectrum in Unity.
+* [Vue Unity WebGL](https://github.com/votetake/vue-unity-webgl "") - Unity 3d Component for VueJS.
+* [Unity Cognitive Services Demos](https://github.com/misslivirose/unity-cognitive-services-demos "") -Examples of using Microsoft's Cognitive Services in Unity for HoloLens.
+* [Phillips Ocean](https://github.com/Scrawk/Phillips-Ocean "") - A ocean using Phillips spectrum in Unity.
 * [UnityCapture](https://github.com/schellingb/UnityCapture "") - Streams Unity rendered output to other Windows applications as virtual capture device.
-* [UnityCapture](https://github.com/uas-publishers/uas-issuetracker "") - Unofficial Issuetracker for the Unity Asset Store.
+* [UAS Issue Tracker](https://github.com/uas-publishers/uas-issuetracker "") - Unofficial Issuetracker for the Unity Asset Store.
 * [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
-* [delft-toolkit-v2](https://github.com/pvanallen/delft-toolkit-v2 "") - Tool for Designing Smart Collaborative Things.
+* [Delft Toolkit v2](https://github.com/pvanallen/delft-toolkit-v2 "") - Tool for Designing Smart Collaborative Things.
 * [AirSim](https://github.com/Microsoft/AirSim "") - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
-* [mesh-streamer](https://github.com/glowbox/mesh-streamer "") - A general purpose system for streaming mesh data into Unity.
-* [braccio-ik-unity](https://github.com/tanyuan/braccio-ik-unity "") - Braccio robotic arm simulator with IK (inverse kinematics) and controller via Serial in Unity.
+* [Mesh Streamer](https://github.com/glowbox/mesh-streamer "") - A general purpose system for streaming mesh data into Unity.
+* [Braccio IK Unity](https://github.com/tanyuan/braccio-ik-unity "") - Braccio robotic arm simulator with IK (inverse kinematics) and controller via Serial in Unity.
 * [FontainebleauDemo](https://github.com/Unity-Technologies/FontainebleauDemo "") - Fontainebleau demo (#PHOTOGRAMMETRY)
-* [unity-arduino-examples](https://github.com/tanyuan/unity-arduino-examples "") - Unity and Arduino example projects.
-* [concordia-module](https://github.com/sblack-usu/concordia-module "")
-* [stunts-unity](https://github.com/cobbpg/stunts-unity "") - A tiny Unity project to import assets from the original Stunts game.
+* [Unity Arduino Examples](https://github.com/tanyuan/unity-arduino-examples "") - Unity and Arduino example projects.
+* [Concordia Module](https://github.com/sblack-usu/concordia-module "")
+* [Stunts Unity](https://github.com/cobbpg/stunts-unity "") - A tiny Unity project to import assets from the original Stunts game.
 * [ILSpy](https://github.com/icsharpcode/ILSpy "") - .NET Decompiler.
 * [DotLiquid](https://www.nuget.org/packages/DotLiquid/1.8.0 "") - A templating system ported to the .NET framework from Ruby’s Liquid Markup.
 * [dotPeek](https://www.jetbrains.com/decompiler/ "") - Jetbrains decompiler.
@@ -1279,7 +1275,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Moonsharp](https://github.com/xanathar/moonsharp/ "") - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
 * [slua](https://github.com/pangweiwei/slua "") - Fastest lua binding via static code generating for Unity3D and mono.
 * [uLua](https://github.com/jarjin/uLua "")
-* [xLua (Recommend)](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
+* [xLua](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc. (Recommended)
 * [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 * [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
@@ -1293,7 +1289,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Devdog UnityTips Compilation](https://devdog.io/blog/?tag=UnityTips) - Tweets gathered by Devdog with tips and tricks posted by developers.
 * [#UnityTips](https://twitter.com/hashtag/unitytips?src=hash) - Hashtag used in Twitter to post Unity related tips.
 * [Unity Official Tips & Tricks Videos](https://unity3d.com/es/learn/tutorials/topics/tips/unity-tips-tricks) - Video sessions recorded by Unity developers with tips and tricks for Unity.
-* [50-unity-tips](https://github.com/defuncart/50-unity-tips) - A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
+* [50 Unity Tips](https://github.com/defuncart/50-unity-tips) - A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
 
 ## :books: Books <a name="books"></a>
 
@@ -1341,23 +1337,23 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 * [Character Customization Tutorial](https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial) - This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
-* [Roll-A-Ball-ECS-style](https://github.com/KptEmreU/Roll-A-Ball-ECS-style) - Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
-* [Unity-Shader-Tutorials](https://github.com/lindenreid/Unity-Shader-Tutorials) - Full project and code for all of my shader tutorials.
-* [Shader-Graph-Tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials) - Project files for our tutorials on using Shader Graph in Unity.
+* [Roll A-Ball ECS Style](https://github.com/KptEmreU/Roll-A-Ball-ECS-style) - Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
+* [Unity Shader Tutorials](https://github.com/lindenreid/Unity-Shader-Tutorials) - Full project and code for all of my shader tutorials.
+* [Shader Graph Tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials) - Project files for our tutorials on using Shader Graph in Unity.
 * [UnityVJShaderSlide20181108](https://github.com/kaiware007/UnityVJShaderSlide20181108)
 * [Learning-Unity-ECS](https://github.com/starikcetin/Learning-Unity-ECS)
 * [UnityGraphicsProgramming Vol.2](https://github.com/IndieVisualLab/UnityGraphicsProgramming2) - Unity Graphics Programming vol.2
 * [ShaderGraphExample](https://github.com/rngtm/ShaderGraphExample)
 * [Introduction to Shaders by Alan Zucconi](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/) - Alan Zucconi's blog post introducing Unity shaders.
-* [Resources-for-Writing-Shaders-in-Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) - For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
+* [Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) - For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 
 ## :star: Best Practices <a name="best-practices"></a>
 
 ### :abcd: Coding Practices <a name="coding-practices"></a>
 
-* [Good coding practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) - Trello board with good coding practices in Unity.
+* [Good Coding Practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) - Trello board with good coding practices in Unity.
 * [Reddit's Unity Best Practices](https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/) - Reddit's thread with best practices collected by Unity developers.
-* [unity-good-practices](https://github.com/futurice/unity-good-practices) - Github repository with Unity best practices.
+* [Unity Good Practices](https://github.com/futurice/unity-good-practices) - Github repository with Unity best practices.
 * [Gamasutra's 50 Tips & Best Practices](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - Gamasutra article with 50 tips and best practices.
 * [Unity3D Official Best Practices](https://unity3d.com/es/learn/tutorials/s/best-practices) - Unity's official page for best practices.
 
@@ -1387,7 +1383,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Editor Manual](http://anchan828.github.io/editor-manual/ "") - Unity editor unofficial manual written in Japanese.
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity "") - Awesome list repository for Unity. (Already integrated in the repository) 
 * [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "") - A community driven list of useful Unity Game Engine 'FREE' packages, libraries and others. (Note: Resources are already integrated into this repository).
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d "") - A categorized collection of awesome opensource unity3d repos.
+* [Awesome Unity3D](https://github.com/insthync/awesome-unity3d "") - A categorized collection of awesome opensource unity3d repos.
 * [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "") - A maintained collection of useful & free unity scripts / library's / plugins and extensions.
 * [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "") - Other Github Repos.
 * [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "") - More Github Repos.
@@ -1395,7 +1391,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 # :trophy: Recommended Asset Store Packages <a name="recommended-packages"></a>
 
-* [Text Mesh pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126 "") - Text rendering with Signed distance fields. Better than default text component. (FREE)
+* [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126 "") - Text rendering with Signed distance fields. Better than default text component. (FREE)
 * [Odin Inspector & Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041 "") - Serializes your data so you can see it how you want in your editor window. (PAID)
 * [Gaia](https://assetstore.unity.com/packages/tools/terrain/gaia-42618 "") - Procedural terrain generator. (PAID)
 * [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570 "") - Shader Graph Editor. Competes against Unity Official Shadergraph. (PAID)
