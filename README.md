@@ -219,6 +219,7 @@ Interesting resource: :cool:
 * [USFXR](https://github.com/zeh/usfxr) - A C# library used to generate and play game-like procedural audio effects inside Unity.
 * [Audio Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-toolkit-free-version-2679) - A complete, easy-to-use, and performance optimized framework to play and manage music and sound effects in Unity. Both :moneybag: and :free:
 * [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
+* [LibPdIntegration](https://github.com/LibPdIntegration/LibPdIntegration) - A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -697,6 +698,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1.
 * [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting.
+* [Swatchr](https://github.com/jknightdoeswork/swatchr) - A color palette management system for Unity.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -899,6 +901,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/) (#TUTORIALS)
+* [VilarVRC](https://github.com/Vilar24/VilarVRC) Vilar's Shaders for VRChat.-
+
 
 ### Skyboxes <a name="skyboxes"></a>
 
