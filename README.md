@@ -1340,8 +1340,19 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### :vhs: Youtube Channels <a name="youtube-channels"></a>
 
+* [Unity3D](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg)
+* [Unity3D LatAm](https://www.youtube.com/channel/UCfw-8uwWw5U942pccws0duA)
 * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 * [Infallible Code](https://www.youtube.com/channel/UCTjnCCcuIbrprhOiaDJxxHA)
+* [Sebastian Lague](https://www.youtube.com/user/Cercopithecan/videos)
+* [quill18creates](https://www.youtube.com/channel/UCPXOQq7PWh5OdCwEO60Y8jQ)
+* [N3K EN](https://www.youtube.com/channel/UCtQPCnbIB7SP_gM1Xtv8bDQ)
+* [Jesse Etzler](https://www.youtube.com/user/JesseEtzler0/videos)
+* [Burg Zerg Arcade](https://www.youtube.com/user/BurgZergArcade/videos)
+* [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw/videos)
+* [inScope Studios](https://www.youtube.com/user/KnnthRA/videos)
+* [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg/videos)
+* [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w/videos)
 
 ### :vhs: Unity Official Sessions <a name="unity-official-sessions"></a>
 
