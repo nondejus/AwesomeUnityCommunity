@@ -1207,6 +1207,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Editor Spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
+* [UnityReadme](https://github.com/JohnAlbin/UnityReadme) - Add a Readme / Tutorial to the inspector tab of your Unity project.
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
@@ -1464,12 +1465,19 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### Unity Developers <a name="follow-unity-developers"></a>
 
-Keijiro Takahashi ([Twitter](https://twitter.com/_kzr)) [Github](https://github.com/keijiro)
-Alan Zucconi ([Twitter](https://twitter.com/AlanZucconi))
+Keijiro Takahashi [Twitter](https://twitter.com/_kzr) / [Github](https://github.com/keijiro)
+Andy Touch [Twitter](https://twitter.com/andytouch) - Builds feature demos at @Unity3d Technologies. Tweets about Shaders, Game Technology, Art and more.
+Mike Geig [Twitter](https://twitter.com/mikegeig) - Global Head of Evangelism Content.
+Adam Myhill [Twitter](https://twitter.com/Adamjcmyhill) - Creator of Cinemachine.
+Ciro Continisio [Twitter](https://twitter.com/CiroContns) -  Tech Evangelist. Unity, graphics, design and game jams.
+Jonathan Chambers [Twitter](https://twitter.com/jon_cham) - Developer at Unity3D. IL2CPP and Mono.
+Unity3D [Twitter](https://twitter.com/unity3d) - Unity Official Account on Twitter. Blog posts, tips, developers retweets.
 
 ### Independent Developers <a name="follow-independent-developers"></a>
 
-:construction:
+Alan Zucconi [Twitter](https://twitter.com/AlanZucconi) - Tutorials, shaders and math theory well explained.
+Andy Duboc [Twitter](https://twitter.com/andyduboc) / [Github](https://github.com/andydbc) -  Cool effects and particle systems.
+Sebastian Lague [Twitter](https://twitter.com/SebastianLague) - Unity and Blender game development tutorials.
 
 # :question: Frequently Asked Questions (FAQ) <a name="faq"></a>
 
