@@ -699,6 +699,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting.
 * [Swatchr](https://github.com/jknightdoeswork/swatchr) - A color palette management system for Unity.
+* [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
+* [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) - Generates preview textures for sprites, icons of Unity models.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -775,6 +777,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
 * [Google Analytics Plugin for Unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
 * [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
+* [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1125,6 +1128,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## Testing <a name="testing"></a>
 
 * [Unity Test Tools](https://unity3d.com/es/unity/qa/test-tools "") - Unity Editor Test Tools.
+* [Test Framework Training](https://github.com/Unity-Technologies/test-framework-training "") - Training project for Unity testing.
 * [Airtest](https://github.com/AirtestProject/Airtest "") - UI Test Automation Framework for Games and Apps. Uses computer vision.
 * [Lunar Unity Assert](https://github.com/SpaceMadness/lunar-unity-assert "") - An improved wrapper over UnityEngine.Assertions.
 
