@@ -1138,6 +1138,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ## Testing <a name="testing"></a>
 
+* Unity Remote [Android](https://play.google.com/store/apps/details?id=com.unity3d.genericremote "") [iOS and tvOS](https://itunes.apple.com/us/app/unity-remote-4/id871767552) - View playmode on final devices. See [more](https://docs.unity3d.com/Manual/UnityRemote5.html).
 * [Unity Test Tools](https://unity3d.com/es/unity/qa/test-tools "") - Unity Editor Test Tools.
 * [Test Framework Training](https://github.com/Unity-Technologies/test-framework-training "") - Training project for Unity testing.
 * [Airtest](https://github.com/AirtestProject/Airtest "") - UI Test Automation Framework for Games and Apps. Uses computer vision.
