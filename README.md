@@ -207,6 +207,7 @@ Interesting resource: :cool:
 * [Unity3D Machine Learning Toolkit](https://github.com/Unity-Technologies/ml-agents "") - Unity Machine Learning Agents Toolkit.
 * [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
 * [UnityTensorflowKeras](https://github.com/tcmxx/UnityTensorflowKeras "") - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed.
+* [Unity Reinforcement Learning](https://github.com/eProw/Unity-reinforcement-learning "") - Reinforcement Learning project based on genetic algorithms.
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -1213,6 +1214,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
 * [UnityReadme](https://github.com/JohnAlbin/UnityReadme) - Add a Readme / Tutorial to the inspector tab of your Unity project.
+* [Selection History Navigator](https://github.com/mminer/selection-history-navigator) - Unity editor extension to navigate between object selections.
+* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Editor extension for finding references of assets inside project and all scene files. :moneybag:
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
