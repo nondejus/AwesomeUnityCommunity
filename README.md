@@ -32,7 +32,7 @@
 - [Considerations](#considerations)
 - [Legend](#legend)
 	- [Icons](#icons)
-	- [tags](#tags)
+	- [Tags](#tags)
 - [Categories](#categories)
   - [2D](#2d)
   - [AI](#ai)
@@ -291,6 +291,7 @@ Interesting resource: :cool:
 * [SteamVR Enabler](https://github.com/demonixis/SteamVREnabler "") - A tool to enable or disable the SteamVR runtime.
 * [VRTK_MouseGrab](https://github.com/ousttrue/VRTK_MouseGrab "") - VRTK SDK sample.
 * [VRChat Counter](https://github.com/aytimothy/VRChat_Counter "") - A simple counter in VRChat that is network-friendly.
+* [UnityViveTrackerExample](https://github.com/WhiteNoise/UnityViveTrackerExample "") - Example of using the Vive trackers to control a character and record it to a generic animation. (#ANIMATION)
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -780,6 +781,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Google Analytics Plugin for Unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
 * [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
 * [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
+* [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
