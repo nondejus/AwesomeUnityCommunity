@@ -705,6 +705,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Swatchr](https://github.com/jknightdoeswork/swatchr) - A color palette management system for Unity.
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) - Generates preview textures for sprites, icons of Unity models.
+* [CircularColorPickerUnity](https://github.com/mathiassiig/CircularColorPickerUnity) - Just a shader and a script for a circular color picker.
 
 ### :wrench: Tools <a name="tools"></a>
 
