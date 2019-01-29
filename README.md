@@ -36,6 +36,7 @@
 - [Categories](#categories)
   - [2D](#2d)
   - [AI](#ai)
+  - [Machine Learning](#machine-learning)
   - [Audio](#audio)
   - [Animation](#animation)
   - [Tweening](#tweening)
@@ -78,6 +79,7 @@
   - [Procedural Generation](#procedural-generation)
   - [Terrain](#terrain) 
   - [Textures](#textures)
+  - [Importers & Exporters](#importers-exporters)
   - [Databases](#databases)
   - [VCS (Version Control Systems)](#vcs)
   - [Continuous Integration (CI)](#continuous-integration)
@@ -185,7 +187,6 @@ Interesting resource: :cool:
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [Behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
 * [TsiU AIToolkit CSharp](https://github.com/FinneyTang/TsiU_AIToolkit_CSharp) - AI Toolkit for Unity.
-* [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#.
 * [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#.
 * [GOAP](https://github.com/sploreg/goap) - Goal Oriented Action Planning AI in Unity.
@@ -198,6 +199,12 @@ Interesting resource: :cool:
 * [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 * [A* Pathfinding Project Pro](https://arongranberg.com/astar/front) - Lightning fast pathfinding for Unity3D. :moneybag:
 * [Unity Neural Network](https://github.com/Blueteak/Unity-Neural-Network) - Simple neural network implemented in C# for Unity3D.
+
+## :computer: Machine Learning <a name="machine-learning"></a>
+
+* [Unity3D Machine Learning Toolkit](https://github.com/Unity-Technologies/ml-agents "") - Unity Machine Learning Agents Toolkit.
+* [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
+* [UnityTensorflowKeras](https://github.com/tcmxx/UnityTensorflowKeras "") - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed.
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -300,7 +307,6 @@ Interesting resource: :cool:
 * [ZED SKD Unity Plugin](https://github.com/stereolabs/zed-unity "") - ZED SDK Unity plugin.
 * [UnityCloudVision](https://github.com/comoc/UnityCloudVision "") - Google Cloud Vision API client for Unity.
 * [TensorFlowUnity-ObjectDetection](https://github.com/MatthewHallberg/TensorFlowUnity-ObjectDetection "") - Object detection test project with Tensorflow and Unity.
-* [UnityTensorflowKeras](https://github.com/tcmxx/UnityTensorflowKeras "") - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed.
 
 ## :loudspeaker: Speech Recognition <a name="speech-recognition"></a>
 
@@ -374,7 +380,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [SmartData](https://github.com/sigtrapgames/SmartData) - A designer-friendly, editor-driven Unity3D framework for connecting data and events. 
 * [GameFramework](https://github.com/EllanJiang/GameFramework) - This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. 
-* [Unity3D Machine Learning Toolkit](https://github.com/Unity-Technologies/ml-agents "") - Unity Machine Learning Agents Toolkit.
 * [uFrame](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before. :moneybag:
 * [CatLib](https://github.com/CatLib/Framework) - CatLib Component-Based Framework.
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license.
@@ -637,8 +642,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DTValidator](https://github.com/DarrenTsung/DTValidator "") - Tool for validating objects (eg. GameObjects, ScriptableObjects, etc) in the Unity Editor.
 * [Unity.Library.eppz.Lines](https://github.com/eppz/Unity.Library.eppz.Lines "") - Lightweight OpenGL line rendering for Unity. Like Debug.DrawLine in Game view.
 * [Unity OBJ Loader](https://github.com/hammmm/unity-obj-loader "") - Runtime .OBJ file loader for Unity3D.
-* [ColladaExporter](https://github.com/linuxaged/ColladaExporter "") - Collada exporter for Unity3D.
-* [KDTree](https://github.com/viliwonka/KDTree "") - Collada exporter for Unity3D.
+* [KDTree](https://github.com/viliwonka/KDTree "") - Fast KDTree for Unity, with thread-safe querying.
 * [Unity Utils](https://github.com/nubick/unity-utils "") - Different help scripts for Unity engine.
 * [FastString](https://github.com/snozbot/FastString "") - Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance.
 * [Unity WebGL Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
@@ -667,7 +671,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PointCloudUnity](https://github.com/mirobyrtus/PointCloudUnity "") - Point cloud loader.
 * [Unity Free Flight](https://github.com/NickolausDS/Unity-Free-Flight "") - A Unity Package to provide bird-like flight to Unity Game Objects.
 * [HiLog Unity](https://github.com/hiramtan/HiLog_unity "") - HiDebug, the extensions of Unity's debug plugin.
-* [Unity glTF Exporter](https://github.com/tparisi/Unity-glTF-Exporter "") - Unity editor wizard that exports to glTF Format
 * [Mesh Voxelization](https://github.com/Scrawk/Mesh-Voxelization "") - Mesh voxelization in Unity.
 * [GPUMatrixMultiplicationTest](https://github.com/mattatz/GPUMatrixMultiplicationTest "") - GPU matrix multiplication in Unity.
 * [UniSpline](https://github.com/adrenak/UniSpline "") - A Unity tool for creating curves.
@@ -754,7 +757,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D Jenkins Plugin](https://github.com/jenkinsci/unity3d-plugin "") - Jenkins Unity3d plugin.
 * [Unity3D_MQTT](https://github.com/vovacooper/Unity3d_MQTT "") - MQTT protocol running on Unity3D.
 * [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3d.
-* [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d") - Github plugin for Unity3d
 * [AlembicForUnity](https://github.com/unity3d-jp/AlembicForUnity "") - Alembic importer and exporter plugin for Unity.
 * [IBM Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk "") - Unity SDK to use the IBM Watson services.
@@ -1105,6 +1107,13 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
 
+## Importers & Exporters <a name="importers-exporters"></a>
+
+* [FbxExporter](https://github.com/unity3d-jp/FbxExporter "") - Export meshes to .fbx or .obj from Unity.
+* [ColladaExporter](https://github.com/linuxaged/ColladaExporter "") - Collada exporter for Unity3D.
+* [Unity glTF Exporter](https://github.com/tparisi/Unity-glTF-Exporter "") - Unity editor wizard that exports to glTF Format.
+* [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
+
 ## :floppy_disk: Databases <a name="databases"></a>
 
 * [SQLite4Unity3D](https://github.com/robertohuertasm/SQLite4Unity3d "") - SQLite made easy for Unity3d.
@@ -1212,6 +1221,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
 * [Asset Store Support Window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
 * [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
+* [UtinyRipper](https://github.com/mafaca/UtinyRipper "") - Tool for ripping assets from Engine resource files.
 * [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
 
 ## Modding <a name="modding"></a>
@@ -1252,7 +1262,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy "") - Water Buoyancy Simulation for Unity.
 * [Lightmap Switching Tool](https://github.com/laurenth-unity/lightmap-switching-tool "") - Tool that allows switching different baked lightmap sets on a unity scene at runtime.
 * [CellularGrowth](https://github.com/mattatz/CellularGrowth "") - GPU-based cellular growth simulation in Unity.
-* [FbxExporter](https://github.com/unity3d-jp/FbxExporter "") - Export meshes to .fbx or .obj from Unity.
 * [Unity ECS NavMesh](https://github.com/zulfajuniadi/unity-ecs-navmesh "") - A demo implementation of Unity Entity Component System with NavMesh.
 * [Ardity](https://github.com/dwilches/Ardity "") - Assets for integrating Arduino and Unity (or Unity and any hardware that communicates over a COM port).
 * [TFClassify Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
@@ -1425,7 +1434,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [RedRunner](https://github.com/BayatGames/RedRunner "") - Awesome Platformer Game.
 * [SpaceShooterECS](https://github.com/UnityTechnologies/SpaceShooterECS "") - The ECS project originally developed with Intel for GDC 2018.
 * [Fighting-Survival](https://github.com/OmarAlesharie/Fighting-Survival "") - The ECS project originally developed with Intel for GDC 2018.
-* [MachineLearningRoguelike](https://github.com/UnityTechnologies/MachineLearningRoguelike "") - A small Roguelike game that uses Machine Learning to power its entities.
+* [MachineLearningRoguelike](https://github.com/UnityTechnologies/MachineLearningRoguelike "") - A small Roguelike game that uses Machine Learning to power its entities. (#MACHINE LEARNING)
 * [SLGanim](https://github.com/Phynic/SLGanim "")
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition "") - A complete remake of 2005 demo "Final Audition" by Plastic. After 12 years remade in Unity and now available in VR.
 * [EntitasGard](https://github.com/BahuMan/EntitasGard "") - ECS driven implementation of an RTS.
@@ -1486,7 +1495,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 
 :warning: NOTE: Following list of tasks is written without any order of preference.
 
-* Add Open Issue template file to help providing new resources.
+* Fill Open Issue template file to help providing new resources.
 * The logo image should be high-DPI. Set it to maximum half the width of the original image.
 * Wait 30 days from first commit to make the pull request to awesome lists topic.
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
@@ -1501,8 +1510,6 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Fill snippets and gists under scripting section.
 * Create more categories for specific resources that don't combine well.
 * Add section for mesh navigation (NavMesh)
-* Add section for specific importers/exporters.
-* Add machine learning category section.
 * Add natural language processing section.
 * Add category for embbedded and mobile devices.
 * Mark deprecated packages (:x:).
