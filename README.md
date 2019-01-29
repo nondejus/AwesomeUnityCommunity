@@ -61,6 +61,7 @@
   - [Scripting](#scripting)
   	- [Algorithms](#algorithms)
 	- [Patterns](#patterns)
+	- [Pooling Systems](#pooling)
 	- [Libraries](#libraries)
   	- [Utilities](#utilities)
   	- [Tools](#tools)
@@ -177,6 +178,7 @@ Interesting resource: :cool:
 * [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
 * [2DTileMapLevelEditor](https://github.com/GracesGames/2DTileMapLevelEditor) - 2D Tile Map Level Editor for Unity.
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Make mesh like line, polygon, etc in Unity3D.
+* [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - SVG and Vector Graphics Sample Project.
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -526,11 +528,12 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Singleton](https://github.com/BharathVishal/Unity-Singleton "") - A sample project explaining the usage of singleton object to hold global game state.
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 
-### Pooling System
+### Pooling Systems <a name="pooling"></a>
 * [Unity QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity.
 * [ObjectPool](https://github.com/UnityPatterns/ObjectPool) - Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.
-* [uUity Object Pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity.
+* [Unity Object Pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity.
+* [UnityPooling](https://github.com/Mukarillo/UnityPooling) - An optimized approach object pooling.
 
 ### :orange_book: Libraries <a name="libraries"></a>
 
@@ -1210,6 +1213,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
 * [UnityReadme](https://github.com/JohnAlbin/UnityReadme) - Add a Readme / Tutorial to the inspector tab of your Unity project.
+<!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
@@ -1243,6 +1247,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Inventory](https://github.com/FarrokhGames/Inventory "A Diablo 2-style inventory system for Unity3D.")
 * [ECS Octree](https://github.com/Antypodish/ECS-Octree "ECS based octree.")
 * [Unity.NetCore](https://github.com/Chavoshi/Unity.NetCore "")
+* [Instabug](https://instabug.com/platforms/unity "") - Bug Reporting and In-App Chat for Unity Games. See [more](https://docs.instabug.com/docs/unity-integration-android).
 * [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "")
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "Simple solution for cutting sprites in runtime.")
 * [Ngx](https://github.com/keijiro/Ngx "Neural network based visual generator and mixer.")
@@ -1533,6 +1538,8 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Fill snippets and gists under scripting section.
 * Create more categories for specific resources that don't combine well.
 * Add section for mesh navigation (NavMesh)
+* Add category for vector graphics.
+* Add category for error reporting, logging and debugging.
 * Add natural language processing section.
 * Add category for embbedded and mobile devices.
 * Mark deprecated packages (:x:).
