@@ -531,6 +531,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Disruptor Unity3D](https://github.com/dave-hillier/disruptor-unity3d "") - Basic implementation of Disruptor for Unity3d.
 * [Unity Singleton](https://github.com/BharathVishal/Unity-Singleton "") - A sample project explaining the usage of singleton object to hold global game state.
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
+* [Factory](https://github.com/Real-Serious-Games/Factory) - Factory for object creation and dependency injection. Works with normal C# apps or under Unity3D.
 
 ### Pooling Systems <a name="pooling"></a>
 * [Unity QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
