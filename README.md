@@ -201,6 +201,7 @@ Interesting resource: :cool:
 * [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 * [A* Pathfinding Project Pro](https://arongranberg.com/astar/front) - Lightning fast pathfinding for Unity3D. :moneybag:
 * [Unity Neural Network](https://github.com/Blueteak/Unity-Neural-Network) - Simple neural network implemented in C# for Unity3D.
+* [GameAI Movement](https://github.com/Kyntaz/gameai-movement) - Movement Algorithms for NPCs developed with the Unity Engine for the Artificial Intelligence for Games class @ IST.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -295,6 +296,7 @@ Interesting resource: :cool:
 * [VRTK_MouseGrab](https://github.com/ousttrue/VRTK_MouseGrab "") - VRTK SDK sample.
 * [VRChat Counter](https://github.com/aytimothy/VRChat_Counter "") - A simple counter in VRChat that is network-friendly.
 * [UnityViveTrackerExample](https://github.com/WhiteNoise/UnityViveTrackerExample "") - Example of using the Vive trackers to control a character and record it to a generic animation. (#ANIMATION)
+* [SteamVR Unity Toolkit](https://github.com/n1ckfg/SteamVR_Unity_Toolkit "") - Predecessor of @thestonefox's VRTK, organized as submodule.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -455,7 +457,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Language](https://github.com/FarrokhGames/Language "") - An easy-to-use localization solution for Unity3D.
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "") - A Polyglot Localization plugin for Unity3d that translates games to many languages.
-* [GameToolkit Localization](https://github.com/ibrahimpenekli/GameToolkit-Localization "") - Asset localization system for Unity
+* [GameToolkit Localization](https://github.com/ibrahimpenekli/GameToolkit-Localization "") - Asset localization system for Unity.
+* [Unity_CSV_Localization](https://github.com/xacalite/Unity_CSV_Localization "") - Simple system for using localization values (language translations) from a CSV file in a Unity project.
 
 ## :satellite: Networking <a name="networking"></a>
 
@@ -787,6 +790,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
 * [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
+* [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
+
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1071,6 +1076,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [OpenUi](https://github.com/omid3098/OpenUi "") - Make your game UI in minutes!
 * [uGUI Tween Tool](https://github.com/tomtc123/ugui-Tween-Tool "") - Unity 4.6.x and Unity5.x uGUI Tween tools.
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
+* [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).
+* [Unity LoMenu](https://github.com/paulgswanson/Unity_LoMenu) - Stylish UI package for Unity engine.
 
 ## Procedural Generation <a name="procedural-generation"></a>
 
@@ -1462,6 +1469,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SLGanim](https://github.com/Phynic/SLGanim "")
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition "") - A complete remake of 2005 demo "Final Audition" by Plastic. After 12 years remade in Unity and now available in VR.
 * [EntitasGard](https://github.com/BahuMan/EntitasGard "") - ECS driven implementation of an RTS.
+* [ProjectRPG](https://github.com/WouterHeslinga/ProjectRPG "") - RPG made in Unity.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
@@ -1549,6 +1557,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Change introduction at the beginning ot the readme file to indicate better the visitors how its organized.
 * Do shortcut png image with unity editor shortcuts.
 * Create open collective to show the image with the contributors if necessary.
+* Review items by category to select one between similar ones in order to select the most complete. Reference the others in another section or repository.
 
 And many more...
 
