@@ -354,6 +354,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
 * [HedgePhysics](https://github.com/Camano/HedgePhysics "") - A open source 3D Sonic engine made in Unity.
 * [Clothing System 3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
+* [OpenRelativity](https://github.com/MITGameLab/OpenRelativity "") - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games.
+* [Fusion](https://github.com/Ninjajie/Fusion "") - Unity Physics on GPU.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -793,7 +795,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
 * [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
 
-
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
 * [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines. :moneybag:
@@ -918,9 +919,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [TexturePanner](https://github.com/AdultLink/TexturePanner) - This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
 * [Unity ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
-* [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/) (#TUTORIALS)
-* [VilarVRC](https://github.com/Vilar24/VilarVRC) Vilar's Shaders for VRChat.-
-
+* [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/) - Cracked Ice material tutorial. (#TUTORIALS)
+* [VilarVRC](https://github.com/Vilar24/VilarVRC) - Vilar's Shaders for VRChat.-
+* [Dual Quaternion Skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1457,6 +1458,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unitystation](https://github.com/unitystation/unitystation) - Remake of the simulator Space Station 13.
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - We're porting GTA: San Andreas to Unity!
 * [MafiaUnity](https://github.com/OpenMafia/MafiaUnity) - Open-source Mafia game framework.
+* [GuitarHeroUnity](https://github.com/caffeine239/GuitarHeroUnity) -  Guitar Hero fan game made in Unity.
 * [UnityTetris](https://github.com/Mukarillo/UnityTetris) - Tetris clone written in C# and using Unity engine to render.
 * [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 * [Phaserbeak](https://github.com/DarrenTsung/laserbeak) - Fast-paced, local-multiplayer party game. Controls are simple to pick-up, but hard to master and every round features a different mechanic.
