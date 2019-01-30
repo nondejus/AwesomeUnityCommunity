@@ -1080,6 +1080,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).
 * [Unity LoMenu](https://github.com/paulgswanson/Unity_LoMenu) - Stylish UI package for Unity engine.
+* [UIElementsX](https://github.com/rocktavious/UIEX) - UIElementsX (UIEX) is the missing high level API for unity's new UI system 
+
 
 ## Procedural Generation <a name="procedural-generation"></a>
 
