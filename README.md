@@ -1558,6 +1558,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Do shortcut png image with unity editor shortcuts.
 * Create open collective to show the image with the contributors if necessary.
 * Review items by category to select one between similar ones in order to select the most complete. Reference the others in another section or repository.
+* Add research papers category.
 
 And many more...
 
