@@ -930,6 +930,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/) - Cracked Ice material tutorial. (#TUTORIALS)
 * [VilarVRC](https://github.com/Vilar24/VilarVRC) - Vilar's Shaders for VRChat.-
 * [Dual Quaternion Skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
+* [UnityGPUNoise](https://github.com/GlitchEnzo/UnityGPUNoise) - A set of shaders to help perform various Noise functions on the GPU.
 
 ### Skyboxes <a name="skyboxes"></a>
 
