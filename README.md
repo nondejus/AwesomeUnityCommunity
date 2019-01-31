@@ -245,9 +245,11 @@ Interesting resource: :cool:
 * [LeanTween](https://github.com/dentedpixel/LeanTween "") - An efficient animation engine for Unity. [Asset Store Link](https://www.assetstore.unity3d.com/en/#!/content/3595).
 * [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones "") - Unity 3D addon for skeletal sprite animations.
 * [AnimeRx](https://github.com/kyubuns/AnimeRx "") - Rx Tween Animation Library for Unity.
-* [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers "") - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects.
-* [unity-animator-helpers](https://github.com/Elendow/SpritedowAnimator "") - A plugin to do simple sprite animations avoiding the big and tedious Unity's Mechanim system. (#2D)
+* [Unity Animator Helpers](https://github.com/ashblue/unity-animator-helpers "") - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects.
+* [SpritedowAnimator](https://github.com/Elendow/SpritedowAnimator "") - A plugin to do simple sprite animations avoiding the big and tedious Unity's Mechanim system. (#2D)
 * [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation "") - Unity animation object with gpu instancing.
+* [Unity Animation Instancing](https://github.com/bmjoy/Unity-Animation-Instancing "")
+
 
 ## :dancers: Tweening <a name="tweening"></a>
 
@@ -297,6 +299,8 @@ Interesting resource: :cool:
 * [VRChat Counter](https://github.com/aytimothy/VRChat_Counter "") - A simple counter in VRChat that is network-friendly.
 * [UnityViveTrackerExample](https://github.com/WhiteNoise/UnityViveTrackerExample "") - Example of using the Vive trackers to control a character and record it to a generic animation. (#ANIMATION)
 * [SteamVR Unity Toolkit](https://github.com/n1ckfg/SteamVR_Unity_Toolkit "") - Predecessor of @thestonefox's VRTK, organized as submodule.
+* [WorldShare](https://github.com/ritchielozada/WorldShare "") - Virtual World Sharing Across Platforms.
+* [NoloUnity](https://github.com/n1ckfg/NoloUnity "") - Motion tracking system for virtual/augmented reality. See [NOLO driver for Windows](https://github.com/NOLOVR/NOLO-Driver-For-Windows). More [info](https://www.nolovr.com/index).
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -356,6 +360,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Clothing System 3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
 * [OpenRelativity](https://github.com/MITGameLab/OpenRelativity "") - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games.
 * [Fusion](https://github.com/Ninjajie/Fusion "") - Unity Physics on GPU.
+* [Qu3e Sharp](https://github.com/willnode/Qu3e-Sharp "") - Lightweight and Simple 3D Open Source Physics Engine ported to C#.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -716,6 +721,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) - Generates preview textures for sprites, icons of Unity models.
 * [CircularColorPickerUnity](https://github.com/mathiassiig/CircularColorPickerUnity) - Just a shader and a script for a circular color picker.
+* [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) - A Unity editor extension to find script references within your project in seconds.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -833,6 +839,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Protobuf net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET.
 * [Sproto Csharp](https://github.com/lvzixun/sproto-Csharp) - A pure C# implementation of sproto.
 * [Sproto Unity](https://github.com/m2q1n9/sproto-Unity) - A demo show how to use sproto-Csharp in Unity.
+* [unityserializer-ng](https://github.com/TheSniperFan/unityserializer-ng) - Resurrection of the discontinued Unity Serializer by Mike Talbot from WhyDoIDoIt.com (Unity 5).
 
 ## :sparkler: Effects & Shaders <a name="effects & shaders"></a>
 
@@ -999,6 +1006,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [HoudiniEngineForUnity_deprecated](https://github.com/sideeffects/HoudiniEngineForUnity_deprecated "") - Houdini Engine for Unity (Deprecated).
 * [FluvioFX](https://github.com/thinksquirrel/fluviofx "") - Fluid dynamics for Unity's VFX graph.
 * [Effekseer](https://github.com/effekseer/Effekseer "") - A tool editing particle effects.
+* [Unity Mesh Triangulator](https://github.com/alexmuab/unity-mesh-triangulator "") - Explode into triangles any mesh you want!
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
 
@@ -1269,6 +1277,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LSky Dynamic Skydome Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3d
 * [ST2U2DNavMeshImporter](https://github.com/SharlatanY/ST2U2DNavMeshImporter "") - Provides a custom importer to automatically setting up 2D Navmeshes (Using NavMeshSurface2DBaker) when importing "Tiled" tilemaps through SuperTiled2Unity.
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker "") - Provides functionality to bake 2D colliders into NavMeshSurface components.
+* [NavMeshPlus](https://github.com/h8man/NavMeshPlus "") - Unity NavMesh 2D Pathfinding.
 * [FrameCapturer](https://github.com/unity3d-jp/FrameCapturer "") - Export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4.
 * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper "") - Get types, methods, fields and so on from Unity Il2Cpp binary file.
 * [Crest Ocean Render](https://github.com/huwb/crest-oceanrender "") - An advanced ocean system implemented in Unity3D.
@@ -1401,6 +1410,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ShaderGraphExample](https://github.com/rngtm/ShaderGraphExample)
 * [Introduction to Shaders by Alan Zucconi](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/) - Alan Zucconi's blog post introducing Unity shaders.
 * [Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) - For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
+* [Unity Character Customization](https://github.com/eriseven/UnityCharacterCustomization) - A character customization demo for Unity.
 
 ## :star: Best Practices <a name="best-practices"></a>
 
@@ -1564,6 +1574,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Create open collective to show the image with the contributors if necessary.
 * Review items by category to select one between similar ones in order to select the most complete. Reference the others in another section or repository.
 * Add research papers category.
+* Add subcategories for virtual reality (vive, hololens, oculus, etc...)
 
 And many more...
 
