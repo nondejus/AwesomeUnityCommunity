@@ -202,6 +202,7 @@ Interesting resource: :cool:
 * [A* Pathfinding Project Pro](https://arongranberg.com/astar/front) - Lightning fast pathfinding for Unity3D. :moneybag:
 * [Unity Neural Network](https://github.com/Blueteak/Unity-Neural-Network) - Simple neural network implemented in C# for Unity3D.
 * [GameAI Movement](https://github.com/Kyntaz/gameai-movement) - Movement Algorithms for NPCs developed with the Unity Engine for the Artificial Intelligence for Games class @ IST.
+* [LanguageProject](https://github.com/HeidiErwin/LanguageProject) - Summer 2018 Project: Semantics and Emergent NPC Behavior.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -1115,6 +1116,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [TownGenerator](https://github.com/zulfajuniadi/TownGenerator "") - Medieval Town Generator for Unity.
 * [Alchemy Circles Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles.
 * [Unity Procedural Flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
+* [Graphmesh](https://github.com/Siccity/Graphmesh) - A graph-based solution for procedural mesh inside the Unity editor.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
@@ -1178,6 +1180,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework "A flexible and modular Node Editor Framework for creating node based displays and editors in Unity ")
 * [xNode](https://github.com/Siccity/xNode "") - Basic editor extension functionality to get a node editor up and running.
+* [qAI](https://github.com/jlreymendez/qAI "") - A xNode based tool for designing AI Graphs like Behavior Trees and Finite State Machines in Unity.
 * [UnityNodeEditorBase](https://github.com/luis-l/UnityNodeEditorBase "") - Lets you view and edit node graphs inside Unity.
 * [ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector "") - Automatic reorderable lists for Unity game engine components.
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
