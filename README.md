@@ -520,6 +520,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity.
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types).
+* [Firestorm](https://github.com/5argon/Firestorm) - Makeshift Cloud Firestore C# API that works with Unity via REST API. Contains only basic functions.
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -729,8 +730,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniVersionManager](https://github.com/sanukin39/UniVersionManager) - Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
 * [UniClipboard](https://github.com/sanukin39/UniClipboard) - Simple clipboard plugin for Unity.
 
-
-
 ### :wrench: Tools <a name="tools"></a>
 
 * [Unity Tools](https://github.com/NoxHarmonium/unity-tools "") - Scripting Toolkit Github's Page.
@@ -755,6 +754,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds. :moneybag:
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Psd2UnityImporter](https://github.com/SubjectNerd-Unity/Psd2UnityImporter) - An advanced PSD importer tool for Unity.
+* [GSLS Optimizer](https://github.com/aras-p/glsl-optimizer) - GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
