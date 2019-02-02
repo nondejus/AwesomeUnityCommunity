@@ -730,6 +730,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) - A Unity editor extension to find script references within your project in seconds.
 * [UniVersionManager](https://github.com/sanukin39/UniVersionManager) - Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
 * [UniClipboard](https://github.com/sanukin39/UniClipboard) - Simple clipboard plugin for Unity.
+* [SDConsole](https://github.com/gabrielevierti/SDConsole) - An in-game developer console for Unity.
 
 ### :wrench: Tools <a name="tools"></a>
 
