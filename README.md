@@ -521,6 +521,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity.
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types).
 * [Firestorm](https://github.com/5argon/Firestorm) - Makeshift Cloud Firestore C# API that works with Unity via REST API. Contains only basic functions.
+* [JWT for Unity](https://github.com/monry/JWT-for-Unity) - JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain).
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -938,6 +939,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [VilarVRC](https://github.com/Vilar24/VilarVRC) - Vilar's Shaders for VRChat.-
 * [Dual Quaternion Skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 * [UnityGPUNoise](https://github.com/GlitchEnzo/UnityGPUNoise) - A set of shaders to help perform various Noise functions on the GPU.
+* [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style.
+
 
 ### Skyboxes <a name="skyboxes"></a>
 
