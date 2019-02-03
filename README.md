@@ -179,6 +179,8 @@ Interesting resource: :cool:
 * [2DTileMapLevelEditor](https://github.com/GracesGames/2DTileMapLevelEditor) - 2D Tile Map Level Editor for Unity.
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Make mesh like line, polygon, etc in Unity3D.
 * [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - SVG and Vector Graphics Sample Project.
+* [Cat2DAnimation](https://github.com/cinight/Cat2DAnimation) - 2D Animation Tool.
+
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -206,6 +208,7 @@ Interesting resource: :cool:
 * [Unity AI](https://github.com/lcremer/Unity_AI) - AI Behavior Tree Framework.
 * [AI Companion](https://github.com/Ell223/AI-Companion) - Created in Unity 5 for the purposes of learning AI techniques. Features behaviour trees and A* pathfinding. 
 * [LanguageProject](https://github.com/HeidiErwin/LanguageProject) - Summer 2018 Project: Semantics and Emergent NPC Behavior.
+* [OSMTrafficSim](https://github.com/maajor/OSMTrafficSim) - TrafficSim using Unity ECS.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -235,6 +238,8 @@ Interesting resource: :cool:
 * [Audio Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-toolkit-free-version-2679) - A complete, easy-to-use, and performance optimized framework to play and manage music and sound effects in Unity. Both :moneybag: and :free:
 * [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
 * [LibPdIntegration](https://github.com/LibPdIntegration/LibPdIntegration) - A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
+* [NAudio Unity](https://github.com/WulfMarius/NAudio-Unity) - Port of NAudio to the Mono subset used by Unity3D.
+
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -417,6 +422,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UDBase](https://github.com/KonH/UDBase) - Module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
 * [Adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
+* [CAFU Core](https://github.com/umm/cafu_core) - Clean Architecture For Unity. See [sample](https://github.com/monry/cafu_sample).
+
 
 ## Input <a name="input"></a>
 
@@ -731,6 +738,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniVersionManager](https://github.com/sanukin39/UniVersionManager) - Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
 * [UniClipboard](https://github.com/sanukin39/UniClipboard) - Simple clipboard plugin for Unity.
 * [SDConsole](https://github.com/gabrielevierti/SDConsole) - An in-game developer console for Unity.
+* [NDocumentation](https://github.com/vertxxyz/NDocumentation) - A documentation window for Unity Editor that displays rich text pages.
+
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -941,6 +950,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Dual Quaternion Skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 * [UnityGPUNoise](https://github.com/GlitchEnzo/UnityGPUNoise) - A set of shaders to help perform various Noise functions on the GPU.
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style.
+* [uRaymarching Examples](https://github.com/hecomi/uRaymarchingExamples) -  Examples using uRaymarching.
 
 
 ### Skyboxes <a name="skyboxes"></a>
@@ -1252,6 +1262,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityEditorSnippets](https://github.com/pointcache/UnityEditorSnippets) - Collection of different editor things that help with productivity.
 * [Unity Visual Behavior Tree](https://github.com/MystikalPooka/Unity-Visual-Behavior-Tree) - Reactive Visual Scripting Behavior Tree Tool for Unity 2018.x+.
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Editor extension for finding references of assets inside project and all scene files. :moneybag:
+* [Bona Data Editor](https://github.com/bonahona/BonaDataEditor) - Unity plugin editor for easier manipulation of assets of certain types. 
+* [Enum Flags](https://github.com/umm/enum_flags) - Handle enum as bit flag in Inspector.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1271,6 +1283,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper "") - Tool for ripping assets from Engine resource files.
 * [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
+* [Package Exporter](https://github.com/sloppycombo/PackageExporter "") - Easily export a folder of scripts and assets as a local Unity 2018 package for use with the new Package Manager. 
+
 
 ## Modding <a name="modding"></a>
 
