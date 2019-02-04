@@ -310,6 +310,8 @@ Interesting resource: :cool:
 * [SteamVR Unity Toolkit](https://github.com/n1ckfg/SteamVR_Unity_Toolkit "") - Predecessor of @thestonefox's VRTK, organized as submodule.
 * [WorldShare](https://github.com/ritchielozada/WorldShare "") - Virtual World Sharing Across Platforms.
 * [NoloUnity](https://github.com/n1ckfg/NoloUnity "") - Motion tracking system for virtual/augmented reality. See [NOLO driver for Windows](https://github.com/NOLOVR/NOLO-Driver-For-Windows). More [info](https://www.nolovr.com/index).
+* [Vive Input Utility for Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity "") - A toolkit that helps developing/prototyping VR apps.
+
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
