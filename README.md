@@ -741,7 +741,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniClipboard](https://github.com/sanukin39/UniClipboard) - Simple clipboard plugin for Unity.
 * [SDConsole](https://github.com/gabrielevierti/SDConsole) - An in-game developer console for Unity.
 * [NDocumentation](https://github.com/vertxxyz/NDocumentation) - A documentation window for Unity Editor that displays rich text pages.
-
+* [Better Defines](https://github.com/TarasOsiris/Better-Defines) - An easy and elegant way to manage your preprocessor directives in Unity3D.
+* [DTCommandPalette](https://github.com/DarrenTsung/DTCommandPalette) - Command palette for Unity - run methods, open scenes, and more!
+* [Unity3D Quick Search](https://github.com/appetizermonster/Unity3D-QuickSearch) - A Command Palette for Unity.
+* [SceneHistory Unity](https://github.com/takupisu/SceneHistory-Unity) - Open scenes quickly from a custom history of scenes. Supports scene addition.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1197,7 +1200,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## :sunglasses: Customization <a name="customization"></a>
 
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders "") - This asset allows you to set custom icons for any folder in unity project browser.
-* [Unity Dark Theme Patch](https://github.com/ejlv/UnityDarkThemePatch "Patch that switches Unity theme from light to dark.") - Patch that switches Unity theme from light to dark.
+* [Unity Dark Theme Patch](https://github.com/ejlv/UnityDarkThemePatch "") - Patch that switches Unity theme from light to dark.
+* [UnityDarkSkin](https://github.com/Gluschenko/UnityDarkSkin "") - Switching layout skin in Unity Editor (white => dark, white => dark).
 * [UnityLauncher](https://github.com/unitycoder/UnityLauncher "") - Unity Version Launcher.
 
 ## Extensibility <a name="extensibility"></a>
