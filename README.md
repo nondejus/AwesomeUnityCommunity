@@ -225,6 +225,9 @@ Interesting resource: :cool:
 * [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
 * [UnityTensorflowKeras](https://github.com/tcmxx/UnityTensorflowKeras "") - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed.
 * [Unity Reinforcement Learning](https://github.com/eProw/Unity-reinforcement-learning "") - Reinforcement Learning project based on genetic algorithms.
+* [Angry AI](https://github.com/mbaske/angry-ai "") - Unity Machine Learning Battle Robots.
+* [Unity Neural Network Tanks AI](https://github.com/trulyspinach/Unity-Neural-Network-Tanks-AI "") - A simple tank battle game but it's controlled by Neural Network.
+
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -249,7 +252,6 @@ Interesting resource: :cool:
 * [LibPdIntegration](https://github.com/LibPdIntegration/LibPdIntegration) - A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
 * [NAudio Unity](https://github.com/WulfMarius/NAudio-Unity) - Port of NAudio to the Mono subset used by Unity3D.
 
-
 ## :runner: Animation <a name="animation"></a>
 
 * [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "") - A Unity-based sprite animator for simple and advanced animation setups.
@@ -267,7 +269,7 @@ Interesting resource: :cool:
 * [SpritedowAnimator](https://github.com/Elendow/SpritedowAnimator "") - A plugin to do simple sprite animations avoiding the big and tedious Unity's Mechanim system. (#2D)
 * [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation "") - Unity animation object with gpu instancing.
 * [Unity Animation Instancing](https://github.com/bmjoy/Unity-Animation-Instancing "")
-
+* [FACSvatar](https://github.com/NumesSanguis/FACSvatar "") - An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender).
 
 ## :dancers: Tweening <a name="tweening"></a>
 
@@ -322,6 +324,7 @@ Interesting resource: :cool:
 * [Vive Input Utility for Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity "") - A toolkit that helps developing/prototyping VR apps.
 * [VRBow](https://github.com/aleclouck/VRBow "") - Virtual Reality Bow and arrow demo made in unity.
 * [Portals VR](https://github.com/nrebei2/Portals-VR "") - Using HTC's Unity Plugin on Sterio Rendering to create a "bigger on the inside" effect in VR. Using Doctor Who's Tardis as an example.
+* [Unity VR IK Mecanim](https://github.com/createthis/unity_vr_ik_mecanim "") - VR IK using native Unity Mecanim IK.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -363,6 +366,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity-CameraSizeToVelocity2D](https://github.com/tonisuo/Unity-CameraSizeToVelocity2D) - Simple script to change the cameras size depending on the velocity of the target.
 * [CameraLib4U](https://github.com/mortennobel/CameraLib4U) - A third person camera system for Unity using Chase Camera.
 * [Unity First Person View](https://github.com/TiagoF11/-Unity-First-Person-View) - An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadows from the environment. 
+* [GyroCam](https://github.com/keijiro/GyroCam) - Quasi-AR with gyroscopic input.
 
 ## Physics <a name="physics"></a>
 
@@ -527,6 +531,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
 * [Unity Delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect. (#LIBRARIES)
 * [UnityOctree](https://github.com/Unity-Technologies/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#.
+* [Unity-LineSegmentsIntersection](https://github.com/setchi/Unity-LineSegmentsIntersection "") - Line segments intersection for Unity.
 
 ### Attributes <a name="attributes"></a>
 
@@ -824,6 +829,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Plane Mesh Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter) - A simple script which let's you split any mesh into smaller chunks.
 * [Mesh Voxelization](https://github.com/Scrawk/Mesh-Voxelization "") - Mesh voxelization in Unity.
 * [GPUMatrixMultiplicationTest](https://github.com/mattatz/GPUMatrixMultiplicationTest "") - GPU matrix multiplication in Unity.
+* [Unity Simple SRT](https://github.com/roguecode/ "") - A super simple SRT subtitle parser.
+
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1022,6 +1029,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityGPUNoise](https://github.com/GlitchEnzo/UnityGPUNoise) - A set of shaders to help perform various Noise functions on the GPU.
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style.
 * [Pixel Render Unity3D](https://github.com/kode80/pixelrenderunity3d) -  PixelRender is a complete system for realtime rendering of 3D scenes as 2D pixel art in Unity3D. (#2D) (#EFFECTS) (#UTILITIES)
+* [Wind Waker Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) - Cel Shading of two thresholds with a blur/gradient between them for Unity.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1219,6 +1227,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Tangram Unity](https://github.com/tangrams/tangram-unity "") - A library of tools for using OpenStreetMap data in the Unity3D game engine.
 * [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/ACskyline/PVTUT "Procedural Virtual Texture with Unity Terrain")
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect "") - Road Architect for Unity.
+* [RoadBuilder](https://github.com/guotata1996/roadbuilder "") - Easy-to-build realistic roads in Unity. Foundation of any simcity game.
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator "") - A dungeon generator for Unity.
 * [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator "") - Unity scripts that procedurally generate ready-to-use cave meshes.
 * [Unity3D Dungeon Generator](https://github.com/DMeville/Unity3d-Dungeon-Generator "") - A procedural dungeon generator for Unity3d.
@@ -1472,6 +1481,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KopiLuaInterface](https://github.com/gfoot/kopiluainterface) - LuaInterface adapted to work with KopiLua.
 * [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET "") - Steamworks wrapper for Unity.
+* [3D Y86](https://github.com/chenkaiyu1997/3D-Y86 "") - A 3D Y86 simulator with tangible processors, light trails and halos, powered by Unity-3D.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
