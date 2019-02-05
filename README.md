@@ -189,7 +189,7 @@ Interesting resource: :cool:
 * [Cat2DAnimation](https://github.com/cinight/Cat2DAnimation) - 2D Animation Tool.
 * [NanoSVG CSharp](https://github.com/thinksquirrel/nanosvg-csharp) - NanoSVG for C#.
 * [Live2D with Unity](https://github.com/sera0506/Live-2D-with-Unity) - Import Live2D and read mtn file In Unity3D.
-
+* [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing) - Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -535,6 +535,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
 * [Unity Delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect. (#LIBRARIES)
 * [UnityOctree](https://github.com/Unity-Technologies/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#.
+* [Ring Buffer](https://bitbucket.org/sirgru/ring_buffer) - This is a very simple implementation of a RingBuffer<T>, without any excessive API and without thread safety. It presumes usage of value-type elements.
 * [Unity-LineSegmentsIntersection](https://github.com/setchi/Unity-LineSegmentsIntersection "") - Line segments intersection for Unity.
 
 ### Attributes <a name="attributes"></a>
@@ -581,6 +582,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 * [CAFU Core](https://github.com/umm/cafu_core) - Clean Architecture For Unity. See [sample](https://github.com/monry/cafu_sample).
 * [Voxelmetric](https://github.com/richardbiely/Voxelmetric) - An efficient voxel framework for Unity3D.
+* [Unity3D Foundation](https://github.com/NVentimiglia/Unity3d-Foundation) - Unity3d Databinding, MVVM, Tasks, Localization. (#DEPRECATED). See Foundation Light.
+* [Foundation Light](https://github.com/NVentimiglia/Foundation-Light) - Light Weight Architecture Library.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -593,11 +596,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Factory](https://github.com/Real-Serious-Games/Factory) - Factory for object creation and dependency injection. Works with normal C# apps or under Unity3D.
 
 ### Pooling Systems <a name="pooling"></a>
+
 * [Unity QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity.
 * [ObjectPool](https://github.com/UnityPatterns/ObjectPool) - Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.
 * [Unity Object Pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity.
 * [UnityPooling](https://github.com/Mukarillo/UnityPooling) - An optimized approach object pooling.
+* [Unity3D Prefab Pool](https://github.com/TarasOsiris/unity3d-prefab-pool) - Simple Prefab Pool for Unity3D.
+
 
 ### Serialization <a name="serialization"></a>
 
@@ -653,8 +659,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3D, Coroutine, scripting.
 * [Unity Routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling.
 * [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
-* [UnityMainThreadDispatcher](https://github.com/ashikns/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
+* [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
+* [UnityMainThreadDispatcher](https://github.com/ashikns/UnityMainThreadDispatcher) - Fork of previous UnityMainThreadDispatcher.
 * [Asyncoroutine](https://github.com/zsaladin/Asyncoroutine "") - Asyncoroutine is a unity asset that allows you to use Coroutine and async/await together.
+* [TeaTime](https://github.com/alvivar/TeaTime "") -  A fast & simple queue for timed callbacks, focused on solving common coroutines patterns in Unity games.
 
 ### :orange_book: Libraries <a name="libraries"></a>
 
@@ -709,6 +717,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityRandom](https://github.com/tucano/UnityRandom) - Random library in C# for Unity3D.
 * [BulletMLLib](https://github.com/pixelnest/BulletMLLib "") - A Unity version of the open source C# library used to read BulletML XML files. See [BulletMLLib](https://github.com/dmanning23/BulletMLLib).
 * [Unity Voxelizer](https://github.com/brianasu/unity-voxelizer "") - Utility library to voxelize meshes in Unity.
+* [Klak](https://github.com/keijiro/Klak "") - Creative coding library for Unity.
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -734,10 +743,13 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [NDocumentation](https://github.com/vertxxyz/NDocumentation) - A documentation window for Unity Editor that displays rich text pages.
 * [SaveGameFree](https://github.com/BayatGames/SaveGameFree "") - A free and simple but powerful solution for saving and loading game data in Unity.
 * [Swatchr](https://github.com/jknightdoeswork/swatchr) - A color palette management system for Unity.
+* [ColorPalette](https://github.com/DomDomHaas/ColorPalette) - Light version of the ColorPalettes Asset for Unity.
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in Unity editor!
 * [AssetAuditor](https://github.com/MarkUnity/AssetAuditor "") - Tools to control the asset import settings in a Unity project.
 * [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) - A Unity editor extension to find script references within your project in seconds.
 * [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) - Generates preview textures for sprites, icons of Unity models.
+* [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
+* [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
 
 #### Gizmos
 
@@ -805,6 +817,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Doors Plus Lite](https://github.com/AlexanderAmeye/doors-plus-lite "") - A basic door script for the Unity3D game engine.
 * [AutoLOD](https://github.com/Unity-Technologies/AutoLOD "") - Automatic LOD generation + scene optimization.
 * [MathUtilities](https://github.com/zalo/MathUtilities "") - A collection of some of the neat math and physics tricks that I've collected over the last few years.
+* [Wooga Lambda CSharp](https://github.com/wooga/Wooga.Lambda-CSharp "") -  Functional primitives for Unity3D.
 * [UnityDeeplinks](https://github.com/TROPHiT/UnityDeeplinks "") - A set of tools for Unity to allow handling deeplink activation from within Unity scripts.
 * [DTValidator](https://github.com/DarrenTsung/DTValidator "") - Tool for validating objects (eg. GameObjects, ScriptableObjects, etc) in the Unity Editor.
 * [Unity.Library.eppz.Lines](https://github.com/eppz/Unity.Library.eppz.Lines "") - Lightweight OpenGL line rendering for Unity. Like Debug.DrawLine in Game view.
@@ -835,13 +848,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Mesh Voxelization](https://github.com/Scrawk/Mesh-Voxelization "") - Mesh voxelization in Unity.
 * [GPUMatrixMultiplicationTest](https://github.com/mattatz/GPUMatrixMultiplicationTest "") - GPU matrix multiplication in Unity.
 * [Unity Simple SRT](https://github.com/roguecode/ "") - A super simple SRT subtitle parser.
-
+* [Mesh Combine Wizard](https://bitbucket.org/sirgru/meshcombinewizard "") - Running the wizard will combine all the meshes on the chosen gameObject and its children that share the same material.
 
 ### :wrench: Tools <a name="tools"></a>
 
 * [Unity Tools](https://github.com/NoxHarmonium/unity-tools "") - Scripting Toolkit Github's Page.
 * [Unity Tools](https://github.com/kode80/UnityTools "") - Unity Tools Github's Page.
-* [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag "Unity Toolbag Github's Page") - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag "") - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [Leopotam Group Library Unity](https://github.com/Leopotam/LeopotamGroupLibraryUnity "") - Tools library for unity 3d game engine: animator graph helpers, serialization (json), localization, event routing (eventbus, ui actions), embedded scripting, uGui xml markup, threading, tweening, in-memory protection and other helpers.
 * [U3D](https://github.com/DragonBox/u3d "") - Cross-platform Unity3D tools.
 * [UnitySimplePatchTool](https://github.com/yasirkula/UnitySimplePatchTool "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
 * [TextMeshProReplacer](https://github.com/jackisgames/TextMeshProReplacer "") - Unity port of SimplePatchTool library to add patching support to standalone Unity applications.
@@ -864,6 +878,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [GSLS Optimizer](https://github.com/aras-p/glsl-optimizer) - GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
 * [Memory Profiler](https://bitbucket.org/Unity-Technologies/memoryprofiler) - Unity 5.3a4 has a new very lowlevel memory profiler API. It can tell you which objects got blamed for how much C++ memory allocations.
 * [Support for Unity Memory Profiler](https://github.com/robertoardila/support-unity-memoryprofiler "") - Extension for the existing Unity memory profiler project.
+* [DekosTools](https://github.com/rafaelhipercg/DekosTools "") - Tools to make work easier on Unity3D.
+* [PPTech Build Tools](https://github.com/quatmo/pptech-build-tools "") - Build Tools for Unity 3D that we use for Braveland game.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -917,7 +933,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
 * [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
 * [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
-
+* [Atlas Unity](https://github.com/wooga/atlas-unity) - This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1219,9 +1235,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [OpenGUI](https://github.com/mrzapp/opengui) - Open source GUI framework for Unity.
 * [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking in such an asset (until this was released on the asset store).
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser "") - A native file browser for Unity standalone platforms.
+* [UnityColorPicker](https://github.com/jongallant/UnityColorPicker) - A standalone color picker asset for Unity.
 * [CUI Color_Picker](https://github.com/SnapshotGames/cui_color_picker "") - Color Picker for Unity UI in a single script/prefab.
 * [CircularColorPickerUnity](https://github.com/mathiassiig/CircularColorPickerUnity) - Just a shader and a script for a circular color picker.
-
+* [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - These scripts will make your UnityGUI ScrollRects scroll infinitely.
 
 ### Font Rendering <a name="font-rendering"></a>
 
@@ -1387,7 +1404,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Bona Data Editor](https://github.com/bonahona/BonaDataEditor) - Unity plugin editor for easier manipulation of assets of certain types. 
 * [Enum Flags](https://github.com/umm/enum_flags) - Handle enum as bit flag in Inspector.
 * [UnityEditorHelper](https://github.com/JefferiesTube/UnityEditorHelper) - An organized bunch of scripts to make editor scripting in Unity easier - gathered from some of my projects and other free sources.
-* [UnityEditorHelper](https://bitbucket.org/bitcake-studio/bitstrap/src/114cc6f39716/Assets/BitStrap/Plugins/) - BitCake's set of useful tools that will let you quickly bootstrap a new Unity project.
+* [BitStrap](https://bitbucket.org/bitcake-studio/bitstrap) - A set of useful tools that will let you quickly bootstrap a new Unity project.
+* [NGTools](https://github.com/naphier/ngtools) - Unity Editor Extensions and Tools by Napland Games.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1396,6 +1414,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 * [Unity Packman](https://github.com/appetizermonster/unity-packman "") - A tiny package dependency manager for Unity, powered by Github.
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
+* [UniGet](https://github.com/SaladLab/UniGet "") - The package manager for Unity3D.
 * [Unity Package Unpacker (UPU)](https://github.com/derFunk/UPU "Unitypackage Unpacker.")
 * [AssetStudio](https://github.com/RaduMC/AssetStudio "AssetStudio is an independent tool for exploring, extracting and exporting assets.")
 * [UnityPack](https://github.com/HearthSim/UnityPack "") - Python deserialization library for Unity3D Asset format.
@@ -1492,6 +1511,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET "") - Steamworks wrapper for Unity.
 * [3D Y86](https://github.com/chenkaiyu1997/3D-Y86 "") - A 3D Y86 simulator with tangible processors, light trails and halos, powered by Unity-3D.
+* [Unity Version Manager](https://github.com/wooga/unity-version-manager "") - Tool that just manipulates a link to the current unity version. Unity already provides a similar tool (Unity Hub).
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
@@ -1635,6 +1655,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityTetris](https://github.com/Mukarillo/UnityTetris) - Tetris clone written in C# and using Unity engine to render.
 * [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 * [Phaserbeak](https://github.com/DarrenTsung/laserbeak) - Fast-paced, local-multiplayer party game. Controls are simple to pick-up, but hard to master and every round features a different mechanic.
+* [Pacman](https://github.com/vilbeyli/Pacman) - A Pacman clone with original AI made using Unity.
+* [Minesweeper](https://github.com/vilbeyli/Minesweeper) - Tile based Minesweeper game with highschores made in Unity.
+* [Colorus](https://github.com/nicloay/colorus) - Coloring book game for Web/iOS made with Unity.
 * [FPS Sample Project](https://github.com/Unity-Technologies/FPSSample "A first person multiplayer shooter example project in Unity") - A first person multiplayer shooter example project in Unity.
 * [PokemonUnity](https://github.com/PokemonUnity/PokemonUnity "") - A framework to build Pokémon RPG games. Uses Unity 2017.41f1.
 * [TheItch](https://github.com/Dayn9/TheItch "") - The Itch is a 2D platformer developed with Unity C# about using your heartrate to overcome obstacles.
