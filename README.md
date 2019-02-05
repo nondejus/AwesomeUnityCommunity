@@ -188,6 +188,8 @@ Interesting resource: :cool:
 * [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - SVG and Vector Graphics Sample Project.
 * [Cat2DAnimation](https://github.com/cinight/Cat2DAnimation) - 2D Animation Tool.
 * [NanoSVG CSharp](https://github.com/thinksquirrel/nanosvg-csharp) - NanoSVG for C#.
+* [Live2D with Unity](https://github.com/sera0506/Live-2D-with-Unity) - Import Live2D and read mtn file In Unity3D.
+
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -218,6 +220,7 @@ Interesting resource: :cool:
 * [LanguageProject](https://github.com/HeidiErwin/LanguageProject) - Summer 2018 Project: Semantics and Emergent NPC Behavior.
 * [OSMTrafficSim](https://github.com/maajor/OSMTrafficSim) - TrafficSim using Unity ECS.
 * [OpenPath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity.
+* [EvolutionSimulation01](https://github.com/JakobStenseke/EvolutionSimulation01) - Evolutionary simulation where agents age, reproduce, and eat each other.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -389,6 +392,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [OpenRelativity](https://github.com/MITGameLab/OpenRelativity "") - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games.
 * [Fusion](https://github.com/Ninjajie/Fusion "") - Unity Physics on GPU.
 * [Qu3e Sharp](https://github.com/willnode/Qu3e-Sharp "") - Lightweight and Simple 3D Open Source Physics Engine ported to C#.
+* [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -703,7 +707,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PerlinNoise](https://github.com/keijiro/PerlinNoise "") - 1D/2D/3D Perlin noise function for Unity.
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity "") - Coherent noise library for Unity, a port of LibNoise.
 * [UnityRandom](https://github.com/tucano/UnityRandom) - Random library in C# for Unity3D.
-* [BulletMLLib](https://github.com/pixelnest/BulletMLLib "") - A Unity version of the open source C# library used to read BulletML XML files. See [BulletMLLib](https://github.com/dmanning23/BulletMLLib)
+* [BulletMLLib](https://github.com/pixelnest/BulletMLLib "") - A Unity version of the open source C# library used to read BulletML XML files. See [BulletMLLib](https://github.com/dmanning23/BulletMLLib).
+* [Unity Voxelizer](https://github.com/brianasu/unity-voxelizer "") - Utility library to voxelize meshes in Unity.
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -911,6 +916,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
 * [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
+* [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
+
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -936,6 +943,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Jetbrains' Rider](https://www.jetbrains.com/dotnet/promo/unity/) - Jetbrains alternative to Visual Studio.
 * [Consulo](http://consulo.site/) - Consulo editor.
 * [MonoDevelop](https://www.monodevelop.com/) - MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
+* [Unity3DVim](https://github.com/NOSDuco/Unity3dVim) - Unity Vim Editor Integration for Linux.
 
 ## :sparkler: Rendering & Post-Processing <a name="rendering-and-post-processing"></a>
 
@@ -1097,6 +1105,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityEffects](https://github.com/kode80/UnityEffects) - A collection of free to use effects for Unity3D.
 * [OneStepEffects](https://github.com/makoto-unity/OneStepEffects) - You can add beautiful image effects by one step.
 * [KinoBloom](https://github.com/keijiro/KinoBloom) - Bloom effect for Unity.
+* [Perfect Spheres](https://github.com/gilescoope/perfect-spheres) - A system for rendering spheres cheaply and accurately.
+* [A Crack In The Slab](https://github.com/Broxxar/ACrackInTheSlab) - An exploration to recreate an effect from Dishonored 2 in Unity.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
