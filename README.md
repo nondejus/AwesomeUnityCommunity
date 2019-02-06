@@ -639,6 +639,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D Console](https://github.com/mikelovesrobots/unity3d-console "") - Quake-style console plugin for Unity3d.
 * [UnityREPL](https://github.com/MrJoy/UnityREPL "") - C# REPL tool for Unity3D built on Miguel's tool.
 * [Command Terminal](https://github.com/stillwwater/command_terminal) - Unity Command Terminal: In-Game Console.
+* [Net Peeweek Console](https://github.com/peeweek/net.peeweek.console) - Unity Command Terminal: In-Game Console.
 
 ### Error Reporting  <a name="error-reporting"></a>
 
@@ -1406,6 +1407,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityEditorHelper](https://github.com/JefferiesTube/UnityEditorHelper) - An organized bunch of scripts to make editor scripting in Unity easier - gathered from some of my projects and other free sources.
 * [BitStrap](https://bitbucket.org/bitcake-studio/bitstrap) - A set of useful tools that will let you quickly bootstrap a new Unity project.
 * [NGTools](https://github.com/naphier/ngtools) - Unity Editor Extensions and Tools by Napland Games.
+* [CaptureGroup](https://github.com/ByronMayne/CaptureGroup) - A editor tool used to take screenshots for documentation.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1708,6 +1710,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * Alan Zucconi [Twitter](https://twitter.com/AlanZucconi) - Tutorials, shaders and math theory well explained.
 * Andy Duboc [Twitter](https://twitter.com/andyduboc) / [Github](https://github.com/andydbc) -  Cool effects and particle systems.
 * Sebastian Lague [Twitter](https://twitter.com/SebastianLague) - Unity and Blender game development tutorials.
+* Minionsart [Twitter](https://twitter.com/minionsart) - Artist/Shaderwitch/Programmer. Weekly tutorials on 3D/Unity.
+* Linden Reid [Twitter](https://twitter.com/so_good_lin) - Tech artists at Blizzard. Shares shader tutorials.
 * Jeppe Zapp [Github](https://github.com/mrzapp) - Unity tools and utilities.
 
 # :question: Frequently Asked Questions (FAQ) <a name="faq"></a>
