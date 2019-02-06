@@ -224,6 +224,7 @@ Interesting resource: :cool:
 * [OSMTrafficSim](https://github.com/maajor/OSMTrafficSim) - TrafficSim using Unity ECS.
 * [OpenPath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity.
 * [EvolutionSimulation01](https://github.com/JakobStenseke/EvolutionSimulation01) - Evolutionary simulation where agents age, reproduce, and eat each other.
+* [Path](https://github.com/AngryAnt/Path) - Pathfinding library for the Unity engine.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -596,6 +597,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Foundation Light](https://github.com/NVentimiglia/Foundation-Light) - Light Weight Architecture Library.
 * [uFrame Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS. See more [here](https://github.com/uFrame).
 * [Unity Container](https://github.com/unitycontainer/unity) - A full featured, extensible dependency injection container.
+* [Unity Framework](https://github.com/cleavetv/unity-framework) - An application framework for C# Unity3D game projects.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -910,6 +912,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## :electric_plug: Plugins <a name="plugins"></a>
 
 * [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "") - Google Play Games plugin for Unity.
+* [Facebook SDK for Unity](https://github.com/facebook/facebook-sdk-for-unity "") - The Facebook SDK for Unity.
 * [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "") - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.
 * [NewtonUnityPlugin](https://github.com/svenberra/NewtonUnityPlugin "") - A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.
 * [Permission Plugin for Unity](https://github.com/hiyorin/PermissionPlugin-for-Unity "") - A set of tools for Unity to allow handling Permission for Android and iOS.
@@ -960,6 +963,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
 * [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
 * [Atlas Unity](https://github.com/wooga/atlas-unity) - This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.
+* [GetSocial Unity SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - This is the demo application for GetSocial SDK.
+* [Flurry Unity Plugin](https://github.com/bearprada/flurry-unity-plugin) - The Flurry Library for Unity3D. support Android and iOS.
+* [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
+* [Reign Unity Plugin v5](https://github.com/reignstudios/Reign-Unity-Plugin5) - Unity 5.x version of the Reign plugins.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -989,6 +996,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Tools](https://github.com/TobiahZ/unity-tools) - A Visual Studio Code Extension to provide some tools for Unity development.
 * [Jetbrains' Rider](https://www.jetbrains.com/dotnet/promo/unity/) - Jetbrains alternative to Visual Studio.
 * [Resharper Unity](https://github.com/JetBrains/resharper-unity) - A proxy App to be able to open Unity 5 C# classes using the new Project Rider from Jetbrains, in Mac OS X.
+* [ProjectRider Unity](https://github.com/yonstorm/ProjectRider-Unity) - IntelliJ Project Rider integration for Unity.
 * [RiderProxy](https://github.com/siliconcat/RiderProxy) - Unity support for both ReSharper and Rider.
 * [Consulo](http://consulo.site/) - Consulo editor.
 * [MonoDevelop](https://www.monodevelop.com/) - MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
@@ -1308,6 +1316,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Procedural Flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
 * [Graphmesh](https://github.com/Siccity/Graphmesh) - A graph-based solution for procedural mesh inside the Unity editor.
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing. (#POST-PROCESSING)
+* [ProceduralMesh](https://github.com/mortennobel/ProceduralMesh) - Simple procedural mesh generation for the Unity game engine.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
