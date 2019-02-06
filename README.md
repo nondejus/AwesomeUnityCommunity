@@ -678,6 +678,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### Error Reporting  <a name="error-reporting"></a>
 
 * [Bugsnag Unity](https://github.com/bugsnag/bugsnag-unity "") - Automatic error reporting for Unity games.
+* [Instabug](https://instabug.com/platforms/unity "") - Bug Reporting and In-App Chat for Unity Games. See [more](https://docs.instabug.com/docs/unity-integration-android).
 
 ### Debugging  <a name="debugging"></a>
 
@@ -1529,7 +1530,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Inventory](https://github.com/FarrokhGames/Inventory "A Diablo 2-style inventory system for Unity3D.")
 * [ECS Octree](https://github.com/Antypodish/ECS-Octree "ECS based octree.")
 * [Unity.NetCore](https://github.com/Chavoshi/Unity.NetCore "")
-* [Instabug](https://instabug.com/platforms/unity "") - Bug Reporting and In-App Chat for Unity Games. See [more](https://docs.instabug.com/docs/unity-integration-android).
 * [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "")
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "Simple solution for cutting sprites in runtime.")
 * [Ngx](https://github.com/keijiro/Ngx "Neural network based visual generator and mixer.")
@@ -1844,7 +1844,6 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Create more categories for specific resources that don't combine well.
 * Add section for mesh navigation (NavMesh)
 * Add category for vector graphics.
-* Add category for error reporting and debugging.
 * Add natural language processing section.
 * Add category for embbedded and mobile devices.
 * Mark deprecated packages (:x:).
