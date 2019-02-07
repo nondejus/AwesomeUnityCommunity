@@ -607,6 +607,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [uFrame Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS. See more [here](https://github.com/uFrame).
 * [Unity Container](https://github.com/unitycontainer/unity) - A full featured, extensible dependency injection container.
 * [Unity Framework](https://github.com/cleavetv/unity-framework) - An application framework for C# Unity3D game projects.
+* [Imperial Studio Libraries](https://github.com/Trojaner/ImperialStudio-Libraries) - Contains a modern framework for game projects.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -631,6 +632,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Object Pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity.
 * [UnityPooling](https://github.com/Mukarillo/UnityPooling) - An optimized approach object pooling.
 * [Unity3D Prefab Pool](https://github.com/TarasOsiris/unity3d-prefab-pool) - Simple Prefab Pool for Unity3D.
+* [Starfall Pool Manager](https://github.com/starfallproduction/starfall-pool-manager) - Gameobject pool manager that Starfall Production use while making game.
 
 ### Serialization <a name="serialization"></a>
 
@@ -846,6 +848,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary "") - Library of all kind of scripts, snippets & shaders for Unity.
 * [E7Unity](https://github.com/5argon/E7Unity "") - Common Unity resources Exceed7 Experiments uses in projects.
 * [HelpfulScripts](https://github.com/cjacobwade/HelpfulScripts "") - A collection of random, useful scripts.
+* [Unity Utils](https://github.com/ObelardO/Unity-Utils "") - Small usefull scripts, tips.
 
 #### WebGL
 
@@ -1678,6 +1681,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Introduction to Shaders by Alan Zucconi](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/) - Alan Zucconi's blog post introducing Unity shaders.
 * [Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) - For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 * [Unity Character Customization](https://github.com/eriseven/UnityCharacterCustomization) - A character customization demo for Unity.
+* [Complete Unity 2018 Game Development](https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development) - Explore techniques to build 2D/3D applications using real-world examples.
 
 ## :star: Best Practices <a name="best-practices"></a>
 
@@ -1778,8 +1782,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Unity Connect](https://connect.unity.com/ "") - Unity official's marketplace for work showcase, job hunting and contact with other developers.
 * [Unity User Groups](https://unity3d.com/es/community/user-groups "") - Unity user groups around the globe. Find yours.
-* [Unity Community](https://github.com/UnityCommunity "") - Home for Unity Community Utilities (Snippets, Scripts, Shaders, Projects, ...), Everyone is free to post.
-
+* [Unity Community](https://github.com/UnityCommunity "") - Home for Unity Community Utilities (Snippets, Scripts, Shaders, Projects, ...). Everyone is free to post.
 
 ## :name_badge: People to follow <a name="people-to-follow"></a>
 
