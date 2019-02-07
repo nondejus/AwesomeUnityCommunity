@@ -282,6 +282,7 @@ Interesting resource: :cool:
 * [Unity Animation Instancing](https://github.com/bmjoy/Unity-Animation-Instancing "")
 * [FACSvatar](https://github.com/NumesSanguis/FACSvatar "") - An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender).
 * [UrMotion](https://github.com/beinteractive/UrMotion "") - Flexible motion engine for non time-based animation in Unity.
+* [AnimationImporter](https://github.com/talecrafter/AnimationImporter "") - Aseprite Animation Importer for Unity. (#2D)
 
 ## :dancers: Tweening <a name="tweening"></a>
 
