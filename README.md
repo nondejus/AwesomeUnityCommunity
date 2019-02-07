@@ -344,6 +344,8 @@ Interesting resource: :cool:
 * [Portals VR](https://github.com/nrebei2/Portals-VR "") - Using HTC's Unity Plugin on Sterio Rendering to create a "bigger on the inside" effect in VR. Using Doctor Who's Tardis as an example.
 * [Unity VR IK Mecanim](https://github.com/createthis/unity_vr_ik_mecanim "") - VR IK using native Unity Mecanim IK.
 * [VR Template](https://github.com/epitech-toulouse/Vr_Template "") - Unity project template for Vr project, will be using for XR Workshop.
+* [VR Template](https://github.com/epitech-toulouse/Vr_Template "") - Unity project template for Vr project, will be using for XR Workshop.
+* [uViveTrackerWithoutHMD](https://github.com/shop-0761/uViveTrackerWithoutHMD "")
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
