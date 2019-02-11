@@ -500,6 +500,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "") - A Polyglot Localization plugin for Unity3d that translates games to many languages.
 * [GameToolkit Localization](https://github.com/ibrahimpenekli/GameToolkit-Localization "") - Asset localization system for Unity.
 * [Unity_CSV_Localization](https://github.com/xacalite/Unity_CSV_Localization "") - Simple system for using localization values (language translations) from a CSV file in a Unity project.
+* [UnityLocalizationManager](https://github.com/Mukarillo/UnityLocalizationManager "") - Localization system to manage multiple languages including date time, currencies, and other informations that change depending on current language.
 
 ## :satellite: Networking <a name="networking"></a>
 
@@ -770,6 +771,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [BulletMLLib](https://github.com/pixelnest/BulletMLLib "") - A Unity version of the open source C# library used to read BulletML XML files. See [BulletMLLib](https://github.com/dmanning23/BulletMLLib).
 * [Unity Voxelizer](https://github.com/brianasu/unity-voxelizer "") - Utility library to voxelize meshes in Unity.
 * [Klak](https://github.com/keijiro/Klak "") - Creative coding library for Unity.
+* [Archiver Unity](https://github.com/LightBuzz/Archiver-Unity "") - Compress and decompress files and folders in Unity3D.
+
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -1136,6 +1139,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style.
 * [Pixel Render Unity3D](https://github.com/kode80/pixelrenderunity3d) -  PixelRender is a complete system for realtime rendering of 3D scenes as 2D pixel art in Unity3D. (#2D) (#EFFECTS) (#UTILITIES)
 * [Wind Waker Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) - Cel Shading of two thresholds with a blur/gradient between them for Unity.
+* [ShadowDrawer](https://github.com/keijiro/ShadowDrawer) - Shadow matte shader for Unity.
 * [Flow Map Shader](https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b) - Flow Map Shader for Unity3D. Used with Sprites.
 * [NVIDIAHairWorksIntegration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - NVIDIA Hair Works Integration for Unity.
 * [CurveTexture](https://github.com/slipster216/CurveTexture) - Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
@@ -1215,6 +1219,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DistortionImageEffect](https://github.com/slipster216/DistortionImageEffect) - An image effect based distortion/heat effect that doesn't use grab pass.
 * [kode80SSR](https://github.com/kode80/kode80SSR) - An open source screen space reflections implementation for Unity3D 5.
 * [Cinematic Image Effects (Official)](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - Unity official cinematic image effects for your camera.
+* [PcxEffects](https://github.com/keijiro/PcxEffects)
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
