@@ -197,6 +197,7 @@ Interesting resource: :cool:
 * [PolyMesh](https://bitbucket.org/Unity-Technologies/2ddemos) - 2D Experimental Preview Demo projects.
 * [SpriteMaker](https://github.com/KPDwyer/SpriteMaker) - Tool for making sprites in Unity.
 * [Unity3DPolylineEditor](https://github.com/Dandarawy/Unity3DPolylineEditor) - 2D Polyline Editor for Unity3D.
+* [DoomStyleAnimatedBillboard](https://github.com/richardschembri/DoomStyleAnimatedBillboard) - Animated billboard with multiple view angles.
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -238,6 +239,8 @@ Interesting resource: :cool:
 * [Unity Reinforcement Learning](https://github.com/eProw/Unity-reinforcement-learning "") - Reinforcement Learning project based on genetic algorithms.
 * [Angry AI](https://github.com/mbaske/angry-ai "") - Unity Machine Learning Battle Robots.
 * [Unity Neural Network Tanks AI](https://github.com/trulyspinach/Unity-Neural-Network-Tanks-AI "") - A simple tank battle game but it's controlled by Neural Network.
+* [ML Explorer Drone](https://github.com/mbaske/ml-explorer-drone "") - Unity Machine Learning Controlled Explorer Drone.
+* [Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments "") - This repository features game simulations as machine learning environments to experiment with deep learning approaches such as deep reinforcement learning inside of Unity.
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -283,6 +286,7 @@ Interesting resource: :cool:
 * [FACSvatar](https://github.com/NumesSanguis/FACSvatar "") - An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender).
 * [UrMotion](https://github.com/beinteractive/UrMotion "") - Flexible motion engine for non time-based animation in Unity.
 * [AnimationImporter](https://github.com/talecrafter/AnimationImporter "") - Aseprite Animation Importer for Unity. (#2D)
+* [StopMotion Unity](https://github.com/OskarSigvardsson/StopMotion-Unity "") - A simple StopMotion effect for Unity.
 
 ## :dancers: Tweening <a name="tweening"></a>
 
@@ -347,6 +351,9 @@ Interesting resource: :cool:
 * [VR Template](https://github.com/epitech-toulouse/Vr_Template "") - Unity project template for Vr project, will be using for XR Workshop.
 * [VR Template](https://github.com/epitech-toulouse/Vr_Template "") - Unity project template for Vr project, will be using for XR Workshop.
 * [uViveTrackerWithoutHMD](https://github.com/shop-0761/uViveTrackerWithoutHMD "")
+* [VR180MeshProjection](https://github.com/aosoft/VR180MeshProjection "") - VR180 Mesh Projection Box Parser.
+* [VRMSpringBone-Optimize](https://github.com/mao-test-h/VRMSpringBone-Optimize "") - (#ANIMATION)
+* [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -355,7 +362,8 @@ Interesting resource: :cool:
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
 * [Mixed Reality Design Labs Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
 * [XR Components](https://github.com/CandyCoded/XR-Components "") - Generic components for use with XR.
-* [UnityLIB-XRInteraction](https://github.com/Fjordnet/UnityLIB-XRInteraction "") -A library for Unity3D which enables someone to create an XR application for any XR headset and controllers through one unified set of abstractions and one single library.
+* [UnityLIB-XRInteraction](https://github.com/Fjordnet/UnityLIB-XRInteraction "") - A library for Unity3D which enables someone to create an XR application for any XR headset and controllers through one unified set of abstractions and one single library.
+* [UnityXRGrabAndClimb](https://github.com/immemorable-moniker/UnityXRGrabAndClimb "") - This Unity project is a very simple XR interactions example that implements grabbing and climbing using Unity's multiplatform APIs.
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
@@ -391,6 +399,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CameraLib4U](https://github.com/mortennobel/CameraLib4U) - A third person camera system for Unity using Chase Camera.
 * [Unity First Person View](https://github.com/TiagoF11/-Unity-First-Person-View) - An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadows from the environment. 
 * [GyroCam](https://github.com/keijiro/GyroCam) - Quasi-AR with gyroscopic input.
+* [Unity3D-PerlinCameraShake](https://github.com/baratgabor/Unity3D-PerlinCameraShake) -Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
 
 ## Physics <a name="physics"></a>
 
@@ -444,6 +453,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [InControl](https://github.com/pbhogan/InControl "") - An input manager for Unity that tames the cross-platform controller beast.(Discontinued)
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
 * [MouseFlight](https://github.com/brihernandez/MouseFlight "") - War Thunder style mouse flight controls for aircraft.
+* [FreelancerFlightExample](https://github.com/brihernandez/FreelancerFlightExample "") - Spaceship flight in a similar style to Freelancer.
 * [InputSystem](https://github.com/Unity-Technologies/InputSystem "") - An efficient and versatile input system for Unity.
 * [InputManager](https://github.com/daemon3000/InputManager "") - Custom InputManager for Unity.
 * [Unity Wiimote](https://github.com/Flafla2/Unity-Wiimote "") - An easy to use interface between Unity3D / C# and a Wii Remote controller.
@@ -839,6 +849,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [FrameCapture](https://github.com/Chman/FrameCapture "") - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
 * [UnityEveryplaySaveToLocal](https://github.com/yasirkula/UnityEveryplaySaveToLocal) - A helper script to save captured Everyplay videos to local file system on Android & iOS.
 * [FrameDump](https://github.com/keijiro/FrameDump) - A small utility for exporting image sequence from Unity.
+* [SelectGUICaptureSample](https://github.com/edom18/SelectGUICaptureSample) - This is sample for capturing that can ignore specific GUI elements. (#UI)
+* [UnityVRVideoRecordingTest](https://github.com/aosoft/UnityVRVideoRecordingTest) - Test project to record VR sessions. (#VIRTUAL-REALITY)
 
 #### Collections
 
@@ -895,6 +907,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [GPUMatrixMultiplicationTest](https://github.com/mattatz/GPUMatrixMultiplicationTest "") - GPU matrix multiplication in Unity.
 * [Unity Simple SRT](https://github.com/roguecode/ "") - A super simple SRT subtitle parser.
 * [Mesh Combine Wizard](https://bitbucket.org/sirgru/meshcombinewizard "") - Running the wizard will combine all the meshes on the chosen gameObject and its children that share the same material.
+* [CubemapToEquirectangular](https://github.com/Mapiarz/CubemapToEquirectangular "") - Cubemap to equirectangular format converters for Unity3D.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -944,7 +957,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Openpose Unity_Plugin](https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin "") - OpenPose's Unity Plugin for Unity users.
 * [Unity Android Notifications](https://github.com/Agasper/unity-android-notifications "") - Unity3D Plugin for Android local notifications with example project.
 * [UnityShowAndroidStatusBar](https://github.com/Over17/UnityShowAndroidStatusBar "") - Show Android status bar for applications built with Unity 5.3 and later.
-* [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia
+* [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia.
+* [VoxHands](https://github.com/hiroki-o/VoxHands "") - Humanoid Finger Controller Plugin for Unity.
 * [Unity JAR Resolver](https://github.com/googlesamples/unity-jar-resolver "") - Unity plugin which resolves Android & iOS dependencies and performs version management.
 * [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
 * [React Unity WebGL](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
@@ -986,6 +1000,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
 * [Atlas Unity](https://github.com/wooga/atlas-unity) - This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.
 * [GetSocial Unity SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - This is the demo application for GetSocial SDK.
+* [Unity Flurry SDK](https://github.com/flurry/unity-flurry-sdk) - Unity plugin for Flurry SDK.
 * [Flurry Unity Plugin](https://github.com/bearprada/flurry-unity-plugin) - The Flurry Library for Unity3D. support Android and iOS.
 * [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
 * [Reign Unity Plugin v5](https://github.com/reignstudios/Reign-Unity-Plugin5) - Unity 5.x version of the Reign plugins.
@@ -1084,6 +1099,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D CG Programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming "") - Various shaders.
 * [Unity Marching Cubes GPU](https://github.com/pavelkouril/unity-marching-cubes-gpu "") - GPU ComputeShader implementation of Marching Cubes algorithm.
 * [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen "") - Next gen iteration of the unity community ocean shader.
+* [Ceto](https://github.com/Scrawk/Ceto "") -  Ocean system for Unity.
 * [Ocean_Mobile with Boat Physics](https://github.com/laurentClave/Ocean_mobile_with_boat_physic "")
 * [The Amazing Wireframe Shader](https://assetstore.unity.com/packages/vfx/shaders/wireframe-shader-the-amazing-wireframe-shader-18794?aid=1100l35sb&utm_source=aff "") :moneybag:
 * [uCurvedScreen](https://github.com/hecomi/uCurvedScreen "") - Curved-sreen shader aseet for Unity.
@@ -1136,7 +1152,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### Effects <a name="effects"></a>
 
 * [Scriptable Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline "") - Designed to give artists and developers the tools they need to create modern, high-fidelity graphics in Unity.
+* [Unity MPipeline Framework](https://github.com/MaxwellGengYF/Unity-MPipeline-Framework "") - A convenient programming framework for Scriptable Rendering Pipeline.
 * [Testbed HDRP](https://github.com/keijiro/TestbedHDRP "") - Testbed project for Unity HDRP (High Definition Render Pipeline).
+* [LookingGlassRenderPipeline](https://github.com/wotakuro/LookingGlassRenderPipeline "") - Sample of LookingGlassRenderPipeline.
 * [Post-Processing Stack](https://github.com/Unity-Technologies/PostProcessing "Components for camera and other effects.")
 * [Skinner](https://github.com/keijiro/Skinner "") - Special Effects with Skinned Mesh in Unity.
 * [Kinoglitch](https://github.com/keijiro/KinoGlitch "") - Video glitch effects for Unity.
@@ -1259,6 +1277,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UChart](https://github.com/springd5211/UChart "") - Data chart/data graph for Unity.
 * [TMP RectVisualizer](https://github.com/baba-s/TMP_RectVisualizer "") - The size of Text and TextMesh Pro can be visualized on game screen.
 * [uGUI Hypertext](https://github.com/setchi/uGUI-Hypertext "") - Hypertext for uGUI.
+* [ScreenManager](https://github.com/Xerios/ScreenManager "") - Flexible way to manage screens with transitions for Unity.
 * [Scatterplot_Standalone](https://github.com/PrinzEugn/Scatterplot_Standalone "") - 3D scatterplot in Unity
 * [MiniMap](https://github.com/Area730/MiniMap) - Unity3D mini map (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729).
 * [NotchSolution](https://github.com/5argon/NotchSolution "") - A set of tools to fight with notched/cutout phones for Unity uGUI.
@@ -1766,6 +1785,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition "") - A complete remake of 2005 demo "Final Audition" by Plastic. After 12 years remade in Unity and now available in VR.
 * [EntitasGard](https://github.com/BahuMan/EntitasGard "") - ECS driven implementation of an RTS.
 * [ProjectRPG](https://github.com/WouterHeslinga/ProjectRPG "") - RPG made in Unity.
+* [Ganga RTS](https://github.com/gangashman/Ganga-RTS "") - Ganga RTS is an open-source multiplayer-player medieval-fantasy 3D RTS (obviously) based on an Unity engine and inspired by classic RTS.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
