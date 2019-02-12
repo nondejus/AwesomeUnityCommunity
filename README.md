@@ -241,6 +241,8 @@ Interesting resource: :cool:
 * [Unity Neural Network Tanks AI](https://github.com/trulyspinach/Unity-Neural-Network-Tanks-AI "") - A simple tank battle game but it's controlled by Neural Network.
 * [ML Explorer Drone](https://github.com/mbaske/ml-explorer-drone "") - Unity Machine Learning Controlled Explorer Drone.
 * [Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments "") - This repository features game simulations as machine learning environments to experiment with deep learning approaches such as deep reinforcement learning inside of Unity.
+* [Obstacle Tower Environment](https://github.com/Unity-Technologies/obstacle-tower-challenge "") - Starter Kit for the Unity Obstacle Tower challenge.
+* [Obstacle Tower Environment](https://github.com/Unity-Technologies/obstacle-tower-env "") - A procedurally generated environment consisting of multiple floors to be solved by a learning agent. It is designed to test learning agents abilities in computer vision, locomotion skills, high-level planning, and generalization. 
 
 ## :musical_score: Audio <a name="audio"></a>
 
@@ -706,6 +708,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnitySystemVisualizer](https://github.com/5argon/UnitySystemVisualizer "") - Unity ECS's system visualizer.
 * [unity3d-runtime-debug-draw](https://github.com/jagt/unity3d-runtime-debug-draw "") - Single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
 * [REX-Diagnostics](https://github.com/thorgeirk11/REX-Diagnostics "") - Unity extension that enables expression evaluation at runtime to facilitate testing and debugging.
+* [upm.MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -772,7 +775,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Voxelizer](https://github.com/brianasu/unity-voxelizer "") - Utility library to voxelize meshes in Unity.
 * [Klak](https://github.com/keijiro/Klak "") - Creative coding library for Unity.
 * [Archiver Unity](https://github.com/LightBuzz/Archiver-Unity "") - Compress and decompress files and folders in Unity3D.
-
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -1768,6 +1770,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ## :video_game: Games <a name="games"></a>
 
+* [AngryBots2](https://github.com/UnityTechnologies/AngryBots2) - An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts) - Hogwarts (Harry Potter) open sandbox game made in Unity.
 * [Unitystation](https://github.com/unitystation/unitystation) - Remake of the simulator Space Station 13.
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - We're porting GTA: San Andreas to Unity!
