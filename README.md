@@ -267,6 +267,7 @@ Interesting resource: :cool:
 * [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
 * [LibPdIntegration](https://github.com/LibPdIntegration/LibPdIntegration) - A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
 * [NAudio Unity](https://github.com/WulfMarius/NAudio-Unity) - Port of NAudio to the Mono subset used by Unity3D.
+* [Unity3D-SoundManager](https://github.com/baratgabor/Unity3D-SoundManager) - Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -289,6 +290,7 @@ Interesting resource: :cool:
 * [UrMotion](https://github.com/beinteractive/UrMotion "") - Flexible motion engine for non time-based animation in Unity.
 * [AnimationImporter](https://github.com/talecrafter/AnimationImporter "") - Aseprite Animation Importer for Unity. (#2D)
 * [StopMotion Unity](https://github.com/OskarSigvardsson/StopMotion-Unity "") - A simple StopMotion effect for Unity.
+* [AnimatorPreviewSyncParticle](https://github.com/Syy9/AnimatorPreviewSyncParticle "") - Unity animator preview sync particle. (#PARTICLE-SYSTEMS)
 
 ## :dancers: Tweening <a name="tweening"></a>
 
@@ -487,7 +489,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AdMob Unity Plugin](https://github.com/OrigameStudio/admob-unity-plugin) - An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
 * [Unity3D LevelUp](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
 * [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) - Official Unity Plugin for the Google Mobile Ads SDK
-* [https://github.com/onepf/OpenIAB](https://github.com/googleads/googleads-mobile-unity) - Open In-App Billing for Google Play, SlideMe, Amazon Store, Nokia Store, Samsung Apps, Yandex.Store, Appland, Aptoide, AppMall and Fortumo.
+* [OpenIAB](https://github.com/onepf/OpenIAB) - Open In-App Billing for Google Play, SlideMe, Amazon Store, Nokia Store, Samsung Apps, Yandex.Store, Appland, Aptoide, AppMall and Fortumo.
+* [DeltaDNA Unity SDK](https://github.com/deltaDNA/unity-sdk) - Add support for deltaDNA's platform and smartads mediation to your Unity games.
 
 ## Services <a name="services"></a>
 
@@ -556,6 +559,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Firestorm](https://github.com/5argon/Firestorm) - Makeshift Cloud Firestore C# API that works with Unity via REST API. Contains only basic functions.
 * [JWT for Unity](https://github.com/monry/JWT-for-Unity) - JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain).
 * [Unity UNET Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - A simple implementation of authoritative movement on top of UNET. (#DEPRECATED)
+* [MateriaGame DarkRift2 Tutorial](https://github.com/TheUncas/MateriaGame-DarkRift2-tutorial) - DarkRift2 Tutorial. See [more](https://darkriftnetworking.com/DarkRift2).
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -709,6 +713,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [unity3d-runtime-debug-draw](https://github.com/jagt/unity3d-runtime-debug-draw "") - Single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
 * [REX-Diagnostics](https://github.com/thorgeirk11/REX-Diagnostics "") - Unity extension that enables expression evaluation at runtime to facilitate testing and debugging.
 * [upm.MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
+* [VisualProfiler Unity](https://github.com/Microsoft/VisualProfiler-Unity "") - The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage. (#MIXED-REALITY)
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -808,6 +813,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) - Generates preview textures for sprites, icons of Unity models.
 * [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
 * [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
+* [Settings-Unity](https://github.com/LightBuzz/Settings-Unity) - Settings utility for Unity3D.
 
 #### Gizmos
 
@@ -913,6 +919,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Simple SRT](https://github.com/roguecode/ "") - A super simple SRT subtitle parser.
 * [Mesh Combine Wizard](https://bitbucket.org/sirgru/meshcombinewizard "") - Running the wizard will combine all the meshes on the chosen gameObject and its children that share the same material.
 * [CubemapToEquirectangular](https://github.com/Mapiarz/CubemapToEquirectangular "") - Cubemap to equirectangular format converters for Unity3D.
+* [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen "") - A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1146,6 +1153,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [NVIDIAHairWorksIntegration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - NVIDIA Hair Works Integration for Unity.
 * [CurveTexture](https://github.com/slipster216/CurveTexture) - Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
 * [foo.md](https://gist.github.com/aras-p/b2a0952161cb0c2b2cc0) - Controlling fixed function states from materials/scripts in Unity. By aras-p.
+* [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) - Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1381,6 +1389,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ProceduralMesh](https://github.com/mortennobel/ProceduralMesh) - Simple procedural mesh generation for the Unity game engine.
 * [Procedural Shapes for Unity](https://bitbucket.org/alexzzzz/procedural-shapes-for-unity) - A set of procedural shapes for Unity.
 * [IcoSphereCreator](https://github.com/kaiware007/IcoSphereCreator) - Create Ico Sphere Mesh Tool for Unity.
+* [Shapes](https://github.com/olange/shapes) - Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
@@ -1623,6 +1632,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [xLua](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc. (Recommended)
 * [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 * [KopiLuaInterface](https://github.com/gfoot/kopiluainterface) - LuaInterface adapted to work with KopiLua.
+* [ExportLuaUI](https://github.com/glegoo/ExportLuaUI)
 * [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET "") - Steamworks wrapper for Unity.
 * [3D Y86](https://github.com/chenkaiyu1997/3D-Y86 "") - A 3D Y86 simulator with tangible processors, light trails and halos, powered by Unity-3D.
@@ -1794,6 +1804,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EntitasGard](https://github.com/BahuMan/EntitasGard "") - ECS driven implementation of an RTS.
 * [ProjectRPG](https://github.com/WouterHeslinga/ProjectRPG "") - RPG made in Unity.
 * [Ganga RTS](https://github.com/gangashman/Ganga-RTS "") - Ganga RTS is an open-source multiplayer-player medieval-fantasy 3D RTS (obviously) based on an Unity engine and inspired by classic RTS.
+* [UnityBust-a-Move](https://github.com/Mukarillo/UnityBust-a-Move "") - Bust-a-Move clone written in C# and using Unity engine to render.
+* [Dungeon Escape](https://github.com/alekseyzakharo/Dungeon-Escape "")
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
