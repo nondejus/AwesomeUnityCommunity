@@ -628,6 +628,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Container](https://github.com/unitycontainer/unity) - A full featured, extensible dependency injection container.
 * [Unity Framework](https://github.com/cleavetv/unity-framework) - An application framework for C# Unity3D game projects.
 * [Imperial Studio Libraries](https://github.com/Trojaner/ImperialStudio-Libraries) - Contains a modern framework for game projects.
+* [EasyMOBA](https://github.com/nidaynere/easymoba) - MOBA game template for Unity.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -1643,6 +1644,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D-Globe](https://github.com/Dandarawy/Unity3D-Globe "") - Unity3D Implementation for Chrome Experiment WebGL Globe.
 * [PeppersGhostStage](https://github.com/cecarlsen/PeppersGhostStage "") - Perppers Ghost stage model.
 * [Navigator](https://github.com/liuhaopen/Navigator "") - This project provides unity scripts to export navmesh data into tile cache files that can be used directly by recastnavigation.
+* [Unity Metadata Loader](https://github.com/nevermoe/unity_metadata_loader "") - This project will load strings and method/class names in global-metadata.dat to IDA.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
