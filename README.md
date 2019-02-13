@@ -403,7 +403,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CameraLib4U](https://github.com/mortennobel/CameraLib4U) - A third person camera system for Unity using Chase Camera.
 * [Unity First Person View](https://github.com/TiagoF11/-Unity-First-Person-View) - An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadows from the environment. 
 * [GyroCam](https://github.com/keijiro/GyroCam) - Quasi-AR with gyroscopic input.
-* [Unity3D-PerlinCameraShake](https://github.com/baratgabor/Unity3D-PerlinCameraShake) -Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
+* [Unity3D-PerlinCameraShake](https://github.com/baratgabor/Unity3D-PerlinCameraShake) - Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
 
 ## Physics <a name="physics"></a>
 
@@ -814,6 +814,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
 * [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
 * [Settings-Unity](https://github.com/LightBuzz/Settings-Unity) - Settings utility for Unity3D.
+* [PNGCS](https://github.com/andrew-raphael-lukasik/pngcs) - Complete PNG encoding and decoding for Unity.
 
 #### Gizmos
 
@@ -1230,6 +1231,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [kode80SSR](https://github.com/kode80/kode80SSR) - An open source screen space reflections implementation for Unity3D 5.
 * [Cinematic Image Effects (Official)](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - Unity official cinematic image effects for your camera.
 * [PcxEffects](https://github.com/keijiro/PcxEffects)
+* [ViewportPerspective](https://github.com/cecarlsen/ViewportPerspective) - Camera image effect for adjusting the viewport perspective using four corner handles. (#CAMERA)
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -1639,6 +1641,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Version Manager](https://github.com/wooga/unity-version-manager "") - Tool that just manipulates a link to the current unity version. Unity already provides a similar tool (Unity Hub).
 * [Flunity](https://github.com/canab/flunity "") - Main idea is make it possible to use Adobe Flash for creating visual content for unity games.
 * [Unity3D-Globe](https://github.com/Dandarawy/Unity3D-Globe "") - Unity3D Implementation for Chrome Experiment WebGL Globe.
+* [PeppersGhostStage](https://github.com/cecarlsen/PeppersGhostStage "") - Perppers Ghost stage model.
+* [Navigator](https://github.com/liuhaopen/Navigator "") - This project provides unity scripts to export navmesh data into tile cache files that can be used directly by recastnavigation.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
