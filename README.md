@@ -591,6 +591,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### Frameworks <a name="frameworks"></a>
 
 * [Entitas (Official)](https://github.com/sschmid/Entitas-CSharp "") - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.
+* [BovineLabs Entities](https://github.com/tertle/com.bovinelabs.entities "") - A collection of extensions, systems and jobs for Unity ECS.
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Zenject](https://github.com/svermeulen/Zenject "") - Dependency Injection Framework for Unity3D. Other fork can be found [here](https://github.com/modesttree/Zenject).
 * [UniRx (Reactive Extensions for Unity)](https://github.com/neuecc/UniRx "") - A reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
