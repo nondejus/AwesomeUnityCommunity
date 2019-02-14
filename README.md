@@ -381,6 +381,7 @@ Interesting resource: :cool:
 * [UnityCloudVision](https://github.com/comoc/UnityCloudVision "") - Google Cloud Vision API client for Unity.
 * [TensorFlowUnity-ObjectDetection](https://github.com/MatthewHallberg/TensorFlowUnity-ObjectDetection "") - Object detection test project with Tensorflow and Unity.
 * [KinectSDK Unity3D Interface Plugin](https://github.com/adevine1618/KinectSDK-Unity3D_Interface_Plugin "") - This is a wrapper that allows the user to access Microsoft's Kinect SDK v.1.7 data from inside the free Unity3D game engine.
+* [Deepdive](https://github.com/asymingt/deepdive "") - Rigid body tracking with HTC Vive trackers. (#VIRTUAL-REALITY)
 
 ## :loudspeaker: Speech Recognition <a name="speech-recognition"></a>
 
@@ -1173,6 +1174,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CurveTexture](https://github.com/slipster216/CurveTexture) - Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
 * [foo.md](https://gist.github.com/aras-p/b2a0952161cb0c2b2cc0) - Controlling fixed function states from materials/scripts in Unity. By aras-p.
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) - Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
+* [Unity Shaders](https://github.com/igradeca/Unity-Shaders) - Unity project about reseach on shaders and particle system.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1268,7 +1270,11 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Effekseer](https://github.com/effekseer/Effekseer "") - A tool editing particle effects.
 * [Unity Mesh Triangulator](https://github.com/alexmuab/unity-mesh-triangulator "") - Explode into triangles any mesh you want!
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering "") - Off Screen Particle Rendering system for Unity.
+* [UnityParticleGalaxyGPGPU](https://github.com/etienne-p/UnityParticleGalaxyGPGPU "") - A galaxy particle system running on the GPU, made with Unity.
+* [AnimationParticleSystem Unity](https://github.com/sugi-cho/AnimationParticleSystem-Unity "") - A simple example of usage of Animated-Mesh-Surface-Position-Texture-Generator, SurfaceSamplerUnity, ParticleSystem VertexStreams and CustomData.
 * [UnityParticleSystemPreview](https://github.com/akof1314/UnityParticleSystemPreview "") - Unity ParticleSystem Preview.
+* [Unity Particle Scaler](https://github.com/minhhh/unity-particle-scaler "") - Convenient Editor Window to scale Unity's Shuriken Particle System. (#EXTENSIBILITY)
+* [ParticleCloudVRC](https://github.com/lukis101/ParticleCloudVRC "") - Interactable shader-based particle system for VRChat/Unity. (#SHADERS) (#VIRTUAL-REALITY)
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
 
@@ -1369,6 +1375,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking in such an asset (until this was released on the asset store).
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser "") - A native file browser for Unity standalone platforms.
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - These scripts will make your UnityGUI ScrollRects scroll infinitely.
+* [uGUI LinkImageText](https://github.com/akof1314/uGUI_LinkImageText) - Unity uGUI Text support insert link and image.
 
 ### Font Rendering <a name="font-rendering"></a>
 
@@ -1428,6 +1435,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ## Importers & Exporters <a name="importers-exporters"></a>
 
+* [AsImpL](https://github.com/gpvigano/AsImpL "") - Asynchronous Importer and run-time Loader for Unity.
 * [FbxExporter](https://github.com/unity3d-jp/FbxExporter "") - Export meshes to .fbx or .obj from Unity.
 * [ColladaExporter](https://github.com/linuxaged/ColladaExporter "") - Collada exporter for Unity3D.
 * [Unity glTF Exporter](https://github.com/tparisi/Unity-glTF-Exporter "") - Unity editor wizard that exports to glTF Format.
@@ -1593,7 +1601,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "Simple solution for cutting sprites in runtime.")
 * [Ngx](https://github.com/keijiro/Ngx "Neural network based visual generator and mixer.")
 * [Screen Shooter](https://github.com/PhannGor/Screen-Shooter "A simple tool for creating screenshots at any resolution within the Unity Editor.")
-* [LSky Dynamic Skydome Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3d
+* [LSky Dynamic Skydome Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3D.
+* [Celeste Sky Core Unity](https://github.com/Rallec/Celeste-Sky-Core-Unity "") - Dynamic Sky for Unity.
 * [ST2U2DNavMeshImporter](https://github.com/SharlatanY/ST2U2DNavMeshImporter "") - Provides a custom importer to automatically setting up 2D Navmeshes (Using NavMeshSurface2DBaker) when importing "Tiled" tilemaps through SuperTiled2Unity.
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker "") - Provides functionality to bake 2D colliders into NavMeshSurface components.
 * [NavMeshPlus](https://github.com/h8man/NavMeshPlus "") - Unity NavMesh 2D Pathfinding.
