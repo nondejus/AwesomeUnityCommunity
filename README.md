@@ -358,6 +358,7 @@ Interesting resource: :cool:
 * [VR180MeshProjection](https://github.com/aosoft/VR180MeshProjection "") - VR180 Mesh Projection Box Parser.
 * [VRMSpringBone-Optimize](https://github.com/mao-test-h/VRMSpringBone-Optimize "") - (#ANIMATION)
 * [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format.
+* [RiftGesture](https://github.com/natbro/RiftGesture "") - Oculus Rift gesture detection.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -368,6 +369,7 @@ Interesting resource: :cool:
 * [XR Components](https://github.com/CandyCoded/XR-Components "") - Generic components for use with XR.
 * [UnityLIB-XRInteraction](https://github.com/Fjordnet/UnityLIB-XRInteraction "") - A library for Unity3D which enables someone to create an XR application for any XR headset and controllers through one unified set of abstractions and one single library.
 * [UnityXRGrabAndClimb](https://github.com/immemorable-moniker/UnityXRGrabAndClimb "") - This Unity project is a very simple XR interactions example that implements grabbing and climbing using Unity's multiplatform APIs.
+* [MR LightingTools Unity](https://github.com/Microsoft/MRLightingTools-Unity "") - A Unity library and MRTK extension for estimating and replicating the current environment's lighting on Mixed Reality devices.
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
@@ -551,6 +553,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity.
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * [Facepunch.Steamworks.Unity](https://github.com/Facepunch/Facepunch.Steamworks.Unity "") - Tests for Facepunch.Steamworks in Unity3D.
+* [SteamNetworking](https://github.com/momower1/SteamNetworking "") - Steamworks for Unity using the Facepunch.Steamworks API.
 * [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
 * [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .NET.
 * [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
@@ -668,6 +671,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Msgpack Unity3D](https://github.com/deniszykov/msgpack-unity3d) - MessagePack and JSON serializer for Unity3D.
 * [Msgpack CLI](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure.
 * [MessagePack CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+* [MessagePackGridView](https://github.com/E-K/MessagePackGridView) - MessagePack Data Viewer built on MessagePack Csharp and Unity TreeView.
 * [Protobuf3 for Unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity) - Google Protocol Buffers runtime library version 3 for Unity (targeting .NET 3.5).
 * [Protobuf net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET.
 * [Sproto Csharp](https://github.com/lvzixun/sproto-Csharp) - A pure C# implementation of sproto.
@@ -866,6 +870,16 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SelectGUICaptureSample](https://github.com/edom18/SelectGUICaptureSample) - This is sample for capturing that can ignore specific GUI elements. (#UI)
 * [UnityVRVideoRecordingTest](https://github.com/aosoft/UnityVRVideoRecordingTest) - Test project to record VR sessions. (#VIRTUAL-REALITY)
 
+#### Color Pickers
+
+* [Unity Inmediate Color Picker](https://github.com/mattatz/unity-immediate-color-picker) - Color picker for Unity in immediate GUI mode.
+* [HSV Color Picker Unity](https://github.com/judah4/HSV-Color-Picker-Unity "") - HSV color picker using Unity UI.
+* [UnityColorPicker](https://github.com/jongallant/UnityColorPicker) - A standalone color picker asset for Unity.
+* [CUI Color_Picker](https://github.com/SnapshotGames/cui_color_picker "") - Color Picker for Unity UI in a single script/prefab.
+* [CircularColorPickerUnity](https://github.com/mathiassiig/CircularColorPickerUnity) - Just a shader and a script for a circular color picker.
+* [Unity Color Wheel](https://github.com/fkate/Unity_ColorWheel) - Color Picker Element for the newer Unity GUI System.
+* [VR Color Picker](https://github.com/shinn716/VRColorPicker) - Raycast to Color Pick. (#VIRTUAL-REALITY)
+
 #### Collections
 
 * [MyBox](https://github.com/Deadcows/MyBox "") - MyBox is a set of attributes, tools and extensions for Unity.
@@ -923,6 +937,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Mesh Combine Wizard](https://bitbucket.org/sirgru/meshcombinewizard "") - Running the wizard will combine all the meshes on the chosen gameObject and its children that share the same material.
 * [CubemapToEquirectangular](https://github.com/Mapiarz/CubemapToEquirectangular "") - Cubemap to equirectangular format converters for Unity3D.
 * [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen "") - A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
+* [AceArcadeMissiles](https://github.com/brihernandez/AceArcadeMissiles "") - Arcade style missile code, effect, and sound pack.
+* [GunTurrets](https://github.com/brihernandez/GunTurrets "") - Starting point for turrets that can be mounted on arbitrarily rotating things.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1270,6 +1286,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog "") - Volumetric fog implementation in Unity.
 * [LiveScan3D-Hololens](https://github.com/MarekKowalski/LiveScan3D-Hololens "") - A Unity application for receiving and rendering point clouds on Hololens and other devices. (#MIXED REALITY)
 * [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - It is simple tool for Unity3d and it help you easily place Light Probes in your scene.
+* [LightProbesPlacement](https://github.com/laurenth-unity/LightProbesPlacement) - Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically.
 * [VolumetricLinesUnity](https://github.com/johannesugb/VolumetricLinesUnity) - Source of the Volumetric Lines Asset from Unity's Asset Store.
 * [ProbePolisher](https://github.com/keijiro/ProbePolisher) - Light probe editor for Unity.
 * [LightProbeUtility](https://github.com/keijiro/LightProbeUtility "") - Applying light probes to a mesh drawn with Graphics.DrawMesh.
@@ -1351,9 +1368,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [OpenGUI](https://github.com/mrzapp/opengui) - Open source GUI framework for Unity.
 * [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking in such an asset (until this was released on the asset store).
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser "") - A native file browser for Unity standalone platforms.
-* [UnityColorPicker](https://github.com/jongallant/UnityColorPicker) - A standalone color picker asset for Unity.
-* [CUI Color_Picker](https://github.com/SnapshotGames/cui_color_picker "") - Color Picker for Unity UI in a single script/prefab.
-* [CircularColorPickerUnity](https://github.com/mathiassiig/CircularColorPickerUnity) - Just a shader and a script for a circular color picker.
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - These scripts will make your UnityGUI ScrollRects scroll infinitely.
 
 ### Font Rendering <a name="font-rendering"></a>
@@ -1467,7 +1481,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
 * [InspectorFoldoutGroup](https://github.com/dimmpixeye/InspectorFoldoutGroup "") - Group variables in Unity 3d inspector with style!
 * [Unity Reorderable List](https://github.com/cfoulston/Unity-Reorderable-List "") - Extended version of the Reorderable List in Unity.
-* [HSV Color Picker Unity](https://github.com/judah4/HSV-Color-Picker-Unity "") - HSV color picker using Unity UI.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons "") - Add buttons to your inspector in Unity super easily with this simple attribute.
 * [TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl "") - An example of controlling particle system from timeline.
 * [UnityTimelineEvents](https://github.com/georgejecook/UnityTimelineEvents "") - Adds ability to execute arbitrary code, with int, bool, float, string and enum values, at both runtime and edit time, from Unity timelines.
@@ -1560,6 +1573,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ASInstaller](https://github.com/thinksquirrel/ASInstaller "") - Unity Asset Store Package Installer.
 * [UnityPackageTemplate](https://github.com/iBicha/UnityPackageTemplate "") - A template for creating Unity packages.
 * [UnityPacker](https://github.com/FatihBAKIR/UnityPacker "") - Create unitypackages without unity, from command line.
+* [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker "")
 
 ## Modding <a name="modding"></a>
 
