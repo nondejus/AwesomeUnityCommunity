@@ -370,6 +370,7 @@ Interesting resource: :cool:
 * [UnityLIB-XRInteraction](https://github.com/Fjordnet/UnityLIB-XRInteraction "") - A library for Unity3D which enables someone to create an XR application for any XR headset and controllers through one unified set of abstractions and one single library.
 * [UnityXRGrabAndClimb](https://github.com/immemorable-moniker/UnityXRGrabAndClimb "") - This Unity project is a very simple XR interactions example that implements grabbing and climbing using Unity's multiplatform APIs.
 * [MR LightingTools Unity](https://github.com/Microsoft/MRLightingTools-Unity "") - A Unity library and MRTK extension for estimating and replicating the current environment's lighting on Mixed Reality devices.
+* [MRHand](https://github.com/Ayfel/MRHand "") - Script for handling Input for MR devices through native Unity code.
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
@@ -1175,6 +1176,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [foo.md](https://gist.github.com/aras-p/b2a0952161cb0c2b2cc0) - Controlling fixed function states from materials/scripts in Unity. By aras-p.
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) - Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 * [Unity Shaders](https://github.com/igradeca/Unity-Shaders) - Unity project about reseach on shaders and particle system.
+* [Procedural Stochastic Texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) - Modified Unity Standard shader implementing Procedural Stochastic Texturing.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1422,6 +1424,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Unity Interactive Erosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
+* [Terrain Tool Customized](https://github.com/AncientMagikaTechnologies/TerrainToolCustomized "") -  This is our own custom Version of Unity Technologies "Terrain Tool Samples".
 
 ## :art: Textures <a name="textures"></a>
 
@@ -1669,6 +1672,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PeppersGhostStage](https://github.com/cecarlsen/PeppersGhostStage "") - Perppers Ghost stage model.
 * [Navigator](https://github.com/liuhaopen/Navigator "") - This project provides unity scripts to export navmesh data into tile cache files that can be used directly by recastnavigation.
 * [Unity Metadata Loader](https://github.com/nevermoe/unity_metadata_loader "") - This project will load strings and method/class names in global-metadata.dat to IDA.
+* [Unity Matriz Order](https://github.com/KoltesDigital/unity-matrix-order "") - Minimal project to outline matrix application in Unity.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
@@ -1834,6 +1838,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EntitasGard](https://github.com/BahuMan/EntitasGard "") - ECS driven implementation of an RTS.
 * [ProjectRPG](https://github.com/WouterHeslinga/ProjectRPG "") - RPG made in Unity.
 * [Ganga RTS](https://github.com/gangashman/Ganga-RTS "") - Ganga RTS is an open-source multiplayer-player medieval-fantasy 3D RTS (obviously) based on an Unity engine and inspired by classic RTS.
+* [RTS Project](https://github.com/Altadsa/RTS-Project "") - Real Time Strategy Game made in Unity.
 * [UnityBust-a-Move](https://github.com/Mukarillo/UnityBust-a-Move "") - Bust-a-Move clone written in C# and using Unity engine to render.
 * [Dungeon Escape](https://github.com/alekseyzakharo/Dungeon-Escape "")
 
