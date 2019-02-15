@@ -359,6 +359,7 @@ Interesting resource: :cool:
 * [VRMSpringBone-Optimize](https://github.com/mao-test-h/VRMSpringBone-Optimize "") - (#ANIMATION)
 * [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format.
 * [RiftGesture](https://github.com/natbro/RiftGesture "") - Oculus Rift gesture detection.
+* [VR Speech Sandbox Vive](https://github.com/IBM/vr-speech-sandbox-vive "") - A sample application that demonstrates how to integrate voice commands and speech recognition into a virtual reality experience. See it for (Cardboard)[https://github.com/IBM/vr-speech-sandbox-cardboard] and (Oculus Rift)[https://github.com/IBM/vr-speech-sandbox-rift].
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -583,6 +584,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityOctree](https://github.com/Nition/UnityOctree) - Same as the previous resource.
 * [Ring Buffer](https://bitbucket.org/sirgru/ring_buffer) - This is a very simple implementation of a RingBuffer<T>, without any excessive API and without thread safety. It presumes usage of value-type elements.
 * [Unity-LineSegmentsIntersection](https://github.com/setchi/Unity-LineSegmentsIntersection "") - Line segments intersection for Unity.
+* [Boids](https://github.com/Chris-Kirkham/boids "") - An implementation of the Boids algorithm (Reynolds, C. W. (1987) Flocks, Herds, and Schools: A Distributed Behavioral Model) for Unity.
 
 ### Attributes <a name="attributes"></a>
 
@@ -1559,6 +1561,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DTCompileTimeTracker](https://github.com/DarrenTsung/DTCompileTimeTracker) - Unity editor extension which tracks compile time.
 * [Unity3DAutomatron](https://github.com/Thundernerd/Unity3D-Automatron) - An automation tool for Unity3D.
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
+* [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
