@@ -268,6 +268,7 @@ Interesting resource: :cool:
 * [LibPdIntegration](https://github.com/LibPdIntegration/LibPdIntegration) - A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
 * [NAudio Unity](https://github.com/WulfMarius/NAudio-Unity) - Port of NAudio to the Mono subset used by Unity3D.
 * [Unity3D-SoundManager](https://github.com/baratgabor/Unity3D-SoundManager) - Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
+* [UniIosAudioService](https://github.com/sanukin39/UniIosAudioService) - Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -599,6 +600,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Entitas (Official)](https://github.com/sschmid/Entitas-CSharp "") - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.
 * [BovineLabs Entities](https://github.com/tertle/com.bovinelabs.entities "") - A collection of extensions, systems and jobs for Unity ECS.
+* [Entitas Lite](https://github.com/rocwood/Entitas-Lite "") - Entitas-Lite is a No-CodeGenerator branch of Entitas, and also a fast & easy ECS framework for C#/Unity. 
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Zenject](https://github.com/svermeulen/Zenject "") - Dependency Injection Framework for Unity3D. Other fork can be found [here](https://github.com/modesttree/Zenject).
 * [UniRx (Reactive Extensions for Unity)](https://github.com/neuecc/UniRx "") - A reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
@@ -976,6 +978,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DekosTools](https://github.com/rafaelhipercg/DekosTools "") - Tools to make work easier on Unity3D.
 * [PPTech Build Tools](https://github.com/quatmo/pptech-build-tools "") - Build Tools for Unity 3D that we use for Braveland game.
 * [Prime31 Unity AddOns](https://github.com/prime31/P31UnityAddOns "") - Mostly defunct. Features were added and components broken out in the 'Kit' repositories.
+* [PrefabPainter](https://github.com/Roland09/PrefabPainter "") - Tool for conveniently adding huge amounts of prefabs. 
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1179,6 +1182,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) - Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 * [Unity Shaders](https://github.com/igradeca/Unity-Shaders) - Unity project about reseach on shaders and particle system.
 * [Procedural Stochastic Texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) - Modified Unity Standard shader implementing Procedural Stochastic Texturing.
+* [CarPaint](https://github.com/Roland09/CarPaint) - Material for the Unity Standard Assets Car.
+* [GrassBending](https://github.com/Elringus/GrassBending) - A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1378,6 +1383,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [OpenGUI](https://github.com/mrzapp/opengui) - Open source GUI framework for Unity.
 * [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking in such an asset (until this was released on the asset store).
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser "") - A native file browser for Unity standalone platforms.
+* [UnityAndroidVRARBrowser](https://github.com/IanPhilips/UnityAndroidVRARBrowser "") - In-Game browser for Unity projects built on Android (Oculus, maybe GearVR). 
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - These scripts will make your UnityGUI ScrollRects scroll infinitely.
 * [uGUI LinkImageText](https://github.com/akof1314/uGUI_LinkImageText) - Unity uGUI Text support insert link and image.
 
@@ -1427,6 +1433,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Unity Interactive Erosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
 * [Terrain Tool Customized](https://github.com/AncientMagikaTechnologies/TerrainToolCustomized "") -  This is our own custom Version of Unity Technologies "Terrain Tool Samples".
+* [Terrain Tool Customized](https://github.com/Roland09/PathPaintTool "") -  A free and open source path painter tool for painting paths on terrain in Unity.
 
 ## :art: Textures <a name="textures"></a>
 
@@ -1447,6 +1454,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity OBJ Loader](https://github.com/hammmm/unity-obj-loader "") - Runtime .OBJ file loader for Unity3D.
 * [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF "") - Runtime glTF Loader for Unity3D. (Official from Khronos Group).
 * [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
+* [Unity VMF Loader](https://github.com/atrblizzard/unity-vmf-loader "") - Import maps created in Valve Hammer Editor to Unity. 
+* [Unity Source Tools](https://github.com/atrblizzard/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D.
 
 ## :floppy_disk: Databases <a name="databases"></a>
 
@@ -1562,6 +1571,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3DAutomatron](https://github.com/Thundernerd/Unity3D-Automatron) - An automation tool for Unity3D.
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
 * [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
+* [UnityExtensions MeshIntersection](https://github.com/garettbass/UnityExtensions.MeshIntersection) - Perform a raycast against one or more meshes.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1676,6 +1686,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Navigator](https://github.com/liuhaopen/Navigator "") - This project provides unity scripts to export navmesh data into tile cache files that can be used directly by recastnavigation.
 * [Unity Metadata Loader](https://github.com/nevermoe/unity_metadata_loader "") - This project will load strings and method/class names in global-metadata.dat to IDA.
 * [Unity Matriz Order](https://github.com/KoltesDigital/unity-matrix-order "") - Minimal project to outline matrix application in Unity.
+* [Environment](https://github.com/Roland09/Environment "") - Environmental Assets for Unity Prototyping.
+* [Quick Play Tool](https://github.com/atrblizzard/Quick-Play-Tool "") - Unity3D editor tool to speed up scene switching and playtesting when you are working with multiple scenes.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
@@ -1844,6 +1856,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [RTS Project](https://github.com/Altadsa/RTS-Project "") - Real Time Strategy Game made in Unity.
 * [UnityBust-a-Move](https://github.com/Mukarillo/UnityBust-a-Move "") - Bust-a-Move clone written in C# and using Unity engine to render.
 * [Dungeon Escape](https://github.com/alekseyzakharo/Dungeon-Escape "")
+* [Survival Shooter Multiplayer Unity3D Files](https://github.com/madvas/survival-shooter-multiplayer-unity3d-files "") - Cute web based multiplayer shooter game made with Unity3D.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
