@@ -361,6 +361,7 @@ Interesting resource: :cool:
 * [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format.
 * [RiftGesture](https://github.com/natbro/RiftGesture "") - Oculus Rift gesture detection.
 * [VR Speech Sandbox Vive](https://github.com/IBM/vr-speech-sandbox-vive "") - A sample application that demonstrates how to integrate voice commands and speech recognition into a virtual reality experience. See it for (Cardboard)[https://github.com/IBM/vr-speech-sandbox-cardboard] and (Oculus Rift)[https://github.com/IBM/vr-speech-sandbox-rift].
+* [LKGVR180Player](https://github.com/nkjzm/LKGVR180Player "") - VR180 Player by the (Looking Glass)[https://lookingglassfactory.com/].
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -374,6 +375,7 @@ Interesting resource: :cool:
 * [MR LightingTools Unity](https://github.com/Microsoft/MRLightingTools-Unity "") - A Unity library and MRTK extension for estimating and replicating the current environment's lighting on Mixed Reality devices.
 * [MRHand](https://github.com/Ayfel/MRHand "") - Script for handling Input for MR devices through native Unity code.
 * [Avatar Spec](https://github.com/VRBA/avatar-spec "") - A standardized spec for avatars for a multitude of interpreters made for different platforms (JavaScript, Unity, Unreal Engine etc.), so that avatars can be created once and work everywhere.
+* [Looking Glass](https://lookingglassfactory.com/ "") - A universal holographic display for 3D creators. (#VIRTUAL-REALITY) (#AUGMENTED-REALITY)
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
@@ -1575,6 +1577,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
 * [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
 * [UnityExtensions MeshIntersection](https://github.com/garettbass/UnityExtensions.MeshIntersection) - Perform a raycast against one or more meshes.
+* [TimelineEvent](https://github.com/inoook/TimelineEvent) - Modify timeline through events.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
