@@ -373,6 +373,7 @@ Interesting resource: :cool:
 * [UnityXRGrabAndClimb](https://github.com/immemorable-moniker/UnityXRGrabAndClimb "") - This Unity project is a very simple XR interactions example that implements grabbing and climbing using Unity's multiplatform APIs.
 * [MR LightingTools Unity](https://github.com/Microsoft/MRLightingTools-Unity "") - A Unity library and MRTK extension for estimating and replicating the current environment's lighting on Mixed Reality devices.
 * [MRHand](https://github.com/Ayfel/MRHand "") - Script for handling Input for MR devices through native Unity code.
+* [Avatar Spec](https://github.com/VRBA/avatar-spec "") - A standardized spec for avatars for a multitude of interpreters made for different platforms (JavaScript, Unity, Unreal Engine etc.), so that avatars can be created once and work everywhere.
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
@@ -1433,7 +1434,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Unity Interactive Erosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
 * [Terrain Tool Customized](https://github.com/AncientMagikaTechnologies/TerrainToolCustomized "") -  This is our own custom Version of Unity Technologies "Terrain Tool Samples".
-* [Terrain Tool Customized](https://github.com/Roland09/PathPaintTool "") -  A free and open source path painter tool for painting paths on terrain in Unity.
+* [PathPaintTool](https://github.com/Roland09/PathPaintTool "") -  A free and open source path painter tool for painting paths on terrain in Unity.
+* [Thalatta](https://github.com/JustGamingLTD/Thalatta "") -  An open source terrain generation suite.
 
 ## :art: Textures <a name="textures"></a>
 
@@ -1442,6 +1444,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Texture Array Unity](https://github.com/DmtDenisov/Texture-Array-Unity "") - A small tool for creating texture arrays in Unity. (#UTILITIES)
 * [Unity Texture Packer](https://github.com/andydbc/unity-texture-packer) - Utility to combine color channels from different textures into a single output.
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity.
+* [PVRTexTool Wrapper](https://github.com/fxgames/pvrtextool_wrapper) - PVRTexTool wrapper for Unity3D.
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
 
@@ -1688,6 +1691,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Matriz Order](https://github.com/KoltesDigital/unity-matrix-order "") - Minimal project to outline matrix application in Unity.
 * [Environment](https://github.com/Roland09/Environment "") - Environmental Assets for Unity Prototyping.
 * [Quick Play Tool](https://github.com/atrblizzard/Quick-Play-Tool "") - Unity3D editor tool to speed up scene switching and playtesting when you are working with multiple scenes.
+* [Unicorn](https://github.com/Roland09/Unicorn "") - A custom made Unicorn Horn with optional rainbow particle effects.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
@@ -1770,6 +1774,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) - For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 * [Unity Character Customization](https://github.com/eriseven/UnityCharacterCustomization) - A character customization demo for Unity.
 * [Complete Unity 2018 Game Development](https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development) - Explore techniques to build 2D/3D applications using real-world examples.
+* [UnityShaderCheatsheet](https://github.com/nothke/UnityShaderCheatsheet) - Collection of Unity shader copypastas and gotchas.
 
 ## :star: Best Practices <a name="best-practices"></a>
 
