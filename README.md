@@ -194,7 +194,7 @@ Interesting resource: :cool:
 * [UnitySVG](https://github.com/MrJoy/UnitySVG) - SVG renderer for Unity3D.
 * [BulletPatternEditorUnity](https://github.com/unitycoder/BulletPatternEditorUnity) - Easily create shoot em up bullet patterns.
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - Create 2D shapes in an instant with the PolyMesh editor.
-* [PolyMesh](https://bitbucket.org/Unity-Technologies/2ddemos) - 2D Experimental Preview Demo projects.
+* [2D Demos](https://bitbucket.org/Unity-Technologies/2ddemos) - 2D Experimental Preview Demo projects.
 * [SpriteMaker](https://github.com/KPDwyer/SpriteMaker) - Tool for making sprites in Unity.
 * [Unity3DPolylineEditor](https://github.com/Dandarawy/Unity3DPolylineEditor) - 2D Polyline Editor for Unity3D.
 * [DoomStyleAnimatedBillboard](https://github.com/richardschembri/DoomStyleAnimatedBillboard) - Animated billboard with multiple view angles.
