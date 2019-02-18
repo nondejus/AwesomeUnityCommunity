@@ -241,7 +241,7 @@ Interesting resource: :cool:
 * [Unity Neural Network Tanks AI](https://github.com/trulyspinach/Unity-Neural-Network-Tanks-AI "") - A simple tank battle game but it's controlled by Neural Network.
 * [ML Explorer Drone](https://github.com/mbaske/ml-explorer-drone "") - Unity Machine Learning Controlled Explorer Drone.
 * [Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments "") - This repository features game simulations as machine learning environments to experiment with deep learning approaches such as deep reinforcement learning inside of Unity.
-* [Obstacle Tower Environment](https://github.com/Unity-Technologies/obstacle-tower-challenge "") - Starter Kit for the Unity Obstacle Tower challenge.
+* [Obstacle Tower Challenge](https://github.com/Unity-Technologies/obstacle-tower-challenge "") - Starter Kit for the Unity Obstacle Tower challenge.
 * [Obstacle Tower Environment](https://github.com/Unity-Technologies/obstacle-tower-env "") - A procedurally generated environment consisting of multiple floors to be solved by a learning agent. It is designed to test learning agents abilities in computer vision, locomotion skills, high-level planning, and generalization. 
 
 ## :musical_score: Audio <a name="audio"></a>
