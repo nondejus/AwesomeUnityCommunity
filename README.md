@@ -1582,6 +1582,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [TimelineEvent](https://github.com/inoook/TimelineEvent) - Modify timeline through events.
 * [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references, and easily embed such objects as subassets.
 * [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
+* [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
