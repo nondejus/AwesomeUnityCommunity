@@ -1266,6 +1266,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Cinematic Image Effects (Official)](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - Unity official cinematic image effects for your camera.
 * [PcxEffects](https://github.com/keijiro/PcxEffects)
 * [ViewportPerspective](https://github.com/cecarlsen/ViewportPerspective) - Camera image effect for adjusting the viewport perspective using four corner handles. (#CAMERA)
+* [Unity Ground Truth Ambient Occlusison](https://github.com/haolange/Unity-Ground-Truth-Ambient-Occlusion) - A physically based screen space ambient occulsion post processing effect.
+
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
