@@ -598,6 +598,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D-ExecutionOrderAttribute](https://github.com/Thundernerd/Unity3D-ExecutionOrderAttribute "") - An attribute that sets a script's execution order.
 * [Unity Built In Attributes](https://github.com/teebarjunk/Unity-Built-In-Attributes "") - A list of built in Unity Attributes.
 * [SerializedParameter_Unity](https://github.com/tsubaki/SerializedParameter_Unity) - Persist data between play mode sessions attribute.
+* [com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes) - Attribute Extensions for Unity.
 
 ### Frameworks <a name="frameworks"></a>
 
@@ -729,6 +730,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [REX-Diagnostics](https://github.com/thorgeirk11/REX-Diagnostics "") - Unity extension that enables expression evaluation at runtime to facilitate testing and debugging.
 * [upm.MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 * [VisualProfiler Unity](https://github.com/Microsoft/VisualProfiler-Unity "") - The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage. (#MIXED-REALITY)
+* [com.bovinelabs.analyzers](https://github.com/tertle/com.bovinelabs.analyzers "") - Package to add Roslyn Analyzers to Unity projects.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -1578,6 +1580,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
 * [UnityExtensions MeshIntersection](https://github.com/garettbass/UnityExtensions.MeshIntersection) - Perform a raycast against one or more meshes.
 * [TimelineEvent](https://github.com/inoook/TimelineEvent) - Modify timeline through events.
+* [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references, and easily embed such objects as subassets.
+* [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
