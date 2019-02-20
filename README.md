@@ -570,6 +570,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [JWT for Unity](https://github.com/monry/JWT-for-Unity) - JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain).
 * [Unity UNET Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - A simple implementation of authoritative movement on top of UNET. (#DEPRECATED)
 * [MateriaGame DarkRift2 Tutorial](https://github.com/TheUncas/MateriaGame-DarkRift2-tutorial) - DarkRift2 Tutorial. See [more](https://darkriftnetworking.com/DarkRift2).
+* [EmbeddedFPSExample](https://github.com/LestaAllmaron/EmbeddedFPSExample) - An example on how to create a FPS game with Darkrift 2.
+* [DarkriftSerializationExtensions](https://github.com/LestaAllmaron/DarkriftSerializationExtensions) - A small collection of useful extension methods for Darkrift2.
+* [ENetListener](https://github.com/LestaAllmaron/ENetListener) - This listener allows you to send UDP and RUDP messages thus chan ging the SendMode.Reliable to use RUDP instead of TCP which has many advantages over TCP.
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -643,6 +646,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Framework](https://github.com/cleavetv/unity-framework) - An application framework for C# Unity3D game projects.
 * [Imperial Studio Libraries](https://github.com/Trojaner/ImperialStudio-Libraries) - Contains a modern framework for game projects.
 * [EasyMOBA](https://github.com/nidaynere/easymoba) - MOBA game template for Unity.
+* [ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -832,6 +836,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
 * [Settings-Unity](https://github.com/LightBuzz/Settings-Unity) - Settings utility for Unity3D.
 * [PNGCS](https://github.com/andrew-raphael-lukasik/pngcs) - Complete PNG encoding and decoding for Unity.
+* [Clock](https://github.com/LestaAllmaron/Clock) - A completly accurate timer with performance tracking for multiplayer game servers.
 
 #### Gizmos
 
@@ -1393,6 +1398,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityAndroidVRARBrowser](https://github.com/IanPhilips/UnityAndroidVRARBrowser "") - In-Game browser for Unity projects built on Android (Oculus, maybe GearVR). 
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - These scripts will make your UnityGUI ScrollRects scroll infinitely.
 * [uGUI LinkImageText](https://github.com/akof1314/uGUI_LinkImageText) - Unity uGUI Text support insert link and image.
+* [Unity VariableTileLayout](https://github.com/kiepng/Unity-VariableTileLayout) - UI Extensions for tile layout like Pinterest.
 
 ### Font Rendering <a name="font-rendering"></a>
 
@@ -1465,6 +1471,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
 * [Unity VMF Loader](https://github.com/atrblizzard/unity-vmf-loader "") - Import maps created in Valve Hammer Editor to Unity. 
 * [Unity Source Tools](https://github.com/atrblizzard/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D.
+* [SuperPrefabReplacement](https://github.com/Seanba/SuperPrefabReplacement "") - An example of replacing Tiled objects with prefabs, automatically, during import into Unity.
 
 ## :floppy_disk: Databases <a name="databases"></a>
 
@@ -1585,6 +1592,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references, and easily embed such objects as subassets.
 * [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
 * [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
+* [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed Unity Editor WebView API.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1689,6 +1697,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 * [KopiLuaInterface](https://github.com/gfoot/kopiluainterface) - LuaInterface adapted to work with KopiLua.
 * [ExportLuaUI](https://github.com/glegoo/ExportLuaUI)
+* [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - Profiler for Lua inside of Unity.
 * [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET "") - Steamworks wrapper for Unity.
 * [3D Y86](https://github.com/chenkaiyu1997/3D-Y86 "") - A 3D Y86 simulator with tangible processors, light trails and halos, powered by Unity-3D.
