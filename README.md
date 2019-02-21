@@ -359,9 +359,12 @@ Interesting resource: :cool:
 * [VR180MeshProjection](https://github.com/aosoft/VR180MeshProjection "") - VR180 Mesh Projection Box Parser.
 * [VRMSpringBone-Optimize](https://github.com/mao-test-h/VRMSpringBone-Optimize "") - (#ANIMATION)
 * [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format.
+* [DesktopMascot4VRM](https://github.com/keel-210/DesktopMascot4VRM "")
 * [RiftGesture](https://github.com/natbro/RiftGesture "") - Oculus Rift gesture detection.
 * [VR Speech Sandbox Vive](https://github.com/IBM/vr-speech-sandbox-vive "") - A sample application that demonstrates how to integrate voice commands and speech recognition into a virtual reality experience. See it for (Cardboard)[https://github.com/IBM/vr-speech-sandbox-cardboard] and (Oculus Rift)[https://github.com/IBM/vr-speech-sandbox-rift].
 * [LKGVR180Player](https://github.com/nkjzm/LKGVR180Player "") - VR180 Player by the (Looking Glass)[https://lookingglassfactory.com/].
+* [User Reporting VR](https://github.com/UnityTech/user-reporting-vr "") - A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
+* [ViveTrackedDevice](https://github.com/fughilli/ViveTrackedDevice "") - Completely open-source, reverse-engineered implementation of a tracked device for the SteamVR virtual reality system.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -437,6 +440,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Qu3e Sharp](https://github.com/willnode/Qu3e-Sharp "") - Lightweight and Simple 3D Open Source Physics Engine ported to C#.
 * [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
 * [Jitter Physics for Unity](https://bitbucket.org/alexzzzz/jitter-physics-for-unity "") - An abandoned attempt to integate [Jitter Physics](https://github.com/mattleibow/jitterphysics) engine into Unity.
+* [UnityNativeCollision](https://github.com/imxzjv/UnityNativeCollision "") - SAT Collision in C# for Unity3D Burst Compiler.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -988,7 +992,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DekosTools](https://github.com/rafaelhipercg/DekosTools "") - Tools to make work easier on Unity3D.
 * [PPTech Build Tools](https://github.com/quatmo/pptech-build-tools "") - Build Tools for Unity 3D that we use for Braveland game.
 * [Prime31 Unity AddOns](https://github.com/prime31/P31UnityAddOns "") - Mostly defunct. Features were added and components broken out in the 'Kit' repositories.
-* [PrefabPainter](https://github.com/Roland09/PrefabPainter "") - Tool for conveniently adding huge amounts of prefabs. 
+* [PrefabPainter](https://github.com/Roland09/PrefabPainter "") - Tool for conveniently adding huge amounts of prefabs.
+* [Unity Finder](https://github.com/UnityTech/unity_finder "") - Node.js module for finding all Unity installations on Windows and Mac computers.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1501,6 +1506,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Test Framework Training](https://github.com/Unity-Technologies/test-framework-training "") - Training project for Unity testing.
 * [Airtest](https://github.com/AirtestProject/Airtest "") - UI Test Automation Framework for Games and Apps. Uses computer vision.
 * [Lunar Unity Assert](https://github.com/SpaceMadness/lunar-unity-assert "") - An improved wrapper over UnityEngine.Assertions.
+* [GamesTestAutomationExample](https://github.com/UnityTech/GamesTestAutomationExample "") - The collecting ideas on how to do Test Automation in Games.
 
 ## :sunglasses: Customization <a name="customization"></a>
 
@@ -1593,6 +1599,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
 * [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
 * [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed Unity Editor WebView API.
+* [Unity Editor LINQ Extensions](https://github.com/bandures/Unity-Editor-LINQ-Extensions) -  Extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties.
+* [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density) - Texel density editor for Unity.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1711,6 +1719,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Environment](https://github.com/Roland09/Environment "") - Environmental Assets for Unity Prototyping.
 * [Quick Play Tool](https://github.com/atrblizzard/Quick-Play-Tool "") - Unity3D editor tool to speed up scene switching and playtesting when you are working with multiple scenes.
 * [Unicorn](https://github.com/Roland09/Unicorn "") - A custom made Unicorn Horn with optional rainbow particle effects.
+* [UnitySamples](https://github.com/hiryma/UnitySamples "")
+* [Hw18 Infinity ECS](https://github.com/UnityTech/hw18-infinity-ecs "") - Unity Hackweek 2018 project.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
