@@ -365,6 +365,7 @@ Interesting resource: :cool:
 * [LKGVR180Player](https://github.com/nkjzm/LKGVR180Player "") - VR180 Player by the (Looking Glass)[https://lookingglassfactory.com/].
 * [User Reporting VR](https://github.com/UnityTech/user-reporting-vr "") - A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
 * [ViveTrackedDevice](https://github.com/fughilli/ViveTrackedDevice "") - Completely open-source, reverse-engineered implementation of a tracked device for the SteamVR virtual reality system.
+* [DH OculusVR Models](https://github.com/BritishMuseum/DH-OculusVR-models "") - 3D models decimated for use in VR experience by Oculus.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -994,6 +995,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Prime31 Unity AddOns](https://github.com/prime31/P31UnityAddOns "") - Mostly defunct. Features were added and components broken out in the 'Kit' repositories.
 * [PrefabPainter](https://github.com/Roland09/PrefabPainter "") - Tool for conveniently adding huge amounts of prefabs.
 * [Unity Finder](https://github.com/UnityTech/unity_finder "") - Node.js module for finding all Unity installations on Windows and Mac computers.
+* [Unity3D Tools](https://github.com/TheUncas/unity3D-tools "") - Unity3D common useful tools.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1057,6 +1059,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Flurry Unity Plugin](https://github.com/bearprada/flurry-unity-plugin) - The Flurry Library for Unity3D. support Android and iOS.
 * [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
 * [Reign Unity Plugin v5](https://github.com/reignstudios/Reign-Unity-Plugin5) - Unity 5.x version of the Reign plugins.
+* [UniAndroidVibration](https://github.com/sanukin39/UniAndroidVibration) - Unity Android plugin JUST execute device vibration.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1325,6 +1328,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Pcx](https://github.com/keijiro/Pcx "") - Point cloud importer & renderer for Unity.
 * [PointCloudUnity](https://github.com/mirobyrtus/PointCloudUnity "") - Point cloud loader.
 * [SpriteLightKit](https://github.com/prime31/SpriteLightKit "") - Blended lighting system for Unity that works with standard Sprites. (#2D)
+* [Shadow Volumes Toolkit](https://github.com/charblar/shadow-volumes-toolkit "") - Dynamic, pixel-perfect shadows based on the Shadow Volume algorithm. (#ARCHIVED)
 
 ### Raymarching <a name="raymarching"></a>
 
@@ -1404,6 +1408,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - These scripts will make your UnityGUI ScrollRects scroll infinitely.
 * [uGUI LinkImageText](https://github.com/akof1314/uGUI_LinkImageText) - Unity uGUI Text support insert link and image.
 * [Unity VariableTileLayout](https://github.com/kiepng/Unity-VariableTileLayout) - UI Extensions for tile layout like Pinterest.
+* [UISoftMask](https://github.com/aillieo/UISoftMask) - Soft mask based on UGUI.
+* [UnityDynamicScrollView](https://github.com/aillieo/UnityDynamicScrollView) - Dynamic scrollView based on UGUI.
+* [DragDropComponents](https://github.com/aillieo/DragDropComponents) - DragDrop components based on UGUI.
 
 ### Font Rendering <a name="font-rendering"></a>
 
@@ -1462,6 +1469,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Texture Packer](https://github.com/andydbc/unity-texture-packer) - Utility to combine color channels from different textures into a single output.
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity.
 * [PVRTexTool Wrapper](https://github.com/fxgames/pvrtextool_wrapper) - PVRTexTool wrapper for Unity3D.
+* [Animation Texture Baker](https://github.com/zulfajuniadi/Animation-Texture-Baker) - Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
 
@@ -1601,6 +1609,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed Unity Editor WebView API.
 * [Unity Editor LINQ Extensions](https://github.com/bandures/Unity-Editor-LINQ-Extensions) -  Extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties.
 * [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density) - Texel density editor for Unity.
+* [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
+* [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1721,6 +1731,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unicorn](https://github.com/Roland09/Unicorn "") - A custom made Unicorn Horn with optional rainbow particle effects.
 * [UnitySamples](https://github.com/hiryma/UnitySamples "")
 * [Hw18 Infinity ECS](https://github.com/UnityTech/hw18-infinity-ecs "") - Unity Hackweek 2018 project.
+* [Rsvfx](https://github.com/keijiro/Rsvfx "") - Visual effects by Keijiro using Intel Realsense camera.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
@@ -1804,6 +1815,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Character Customization](https://github.com/eriseven/UnityCharacterCustomization) - A character customization demo for Unity.
 * [Complete Unity 2018 Game Development](https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development) - Explore techniques to build 2D/3D applications using real-world examples.
 * [UnityShaderCheatsheet](https://github.com/nothke/UnityShaderCheatsheet) - Collection of Unity shader copypastas and gotchas.
+* [Simple ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
 
 ## :star: Best Practices <a name="best-practices"></a>
 
@@ -1891,6 +1903,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityBust-a-Move](https://github.com/Mukarillo/UnityBust-a-Move "") - Bust-a-Move clone written in C# and using Unity engine to render.
 * [Dungeon Escape](https://github.com/alekseyzakharo/Dungeon-Escape "")
 * [Survival Shooter Multiplayer Unity3D Files](https://github.com/madvas/survival-shooter-multiplayer-unity3d-files "") - Cute web based multiplayer shooter game made with Unity3D.
+* [Project Skylines](https://github.com/Zaphyk/project-skylines "") - Procedural retro 3d game for the GitHub Gameoff 2017 .
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
