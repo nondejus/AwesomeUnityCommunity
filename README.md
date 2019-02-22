@@ -652,6 +652,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Imperial Studio Libraries](https://github.com/Trojaner/ImperialStudio-Libraries) - Contains a modern framework for game projects.
 * [EasyMOBA](https://github.com/nidaynere/easymoba) - MOBA game template for Unity.
 * [ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)
+* [Loxodon Framework](https://github.com/cocowolf/loxodon-framework) - Unity3D MVVM Loxodon Framework Databinding Localization UGUI.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -960,6 +961,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen "") - A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
 * [AceArcadeMissiles](https://github.com/brihernandez/AceArcadeMissiles "") - Arcade style missile code, effect, and sound pack.
 * [GunTurrets](https://github.com/brihernandez/GunTurrets "") - Starting point for turrets that can be mounted on arbitrarily rotating things.
+* [UnityInstancedHealthBars](https://github.com/sinbad/UnityInstancedHealthBars "") - Example projects using instancing in Unity to render enemy health bars in 1 draw call.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1202,6 +1204,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Procedural Stochastic Texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) - Modified Unity Standard shader implementing Procedural Stochastic Texturing.
 * [CarPaint](https://github.com/Roland09/CarPaint) - Material for the Unity Standard Assets Car.
 * [GrassBending](https://github.com/Elringus/GrassBending) - A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
+* [Stanford Bunny Fur With Unity](https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity) - Using the Geometry Shader to generate fur on GPU.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1411,6 +1414,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UISoftMask](https://github.com/aillieo/UISoftMask) - Soft mask based on UGUI.
 * [UnityDynamicScrollView](https://github.com/aillieo/UnityDynamicScrollView) - Dynamic scrollView based on UGUI.
 * [DragDropComponents](https://github.com/aillieo/DragDropComponents) - DragDrop components based on UGUI.
+* [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser) - A uGUI based runtime file browser for Unity 3D (draggable and resizable).
 
 ### Font Rendering <a name="font-rendering"></a>
 
@@ -1611,11 +1615,13 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density) - Texel density editor for Unity.
 * [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
 * [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
+* [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) - Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
 * [Unity Asset Store](https://assetstore.unity.com/) - Official asset store for unity.
+* [Asset Auditing Tools](https://github.com/Unity-Technologies/asset-auditing-tools) - A set of Editor tools to audit project assets and correct errors.
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 * [Unity Packman](https://github.com/appetizermonster/unity-packman "") - A tiny package dependency manager for Unity, powered by Github.
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
@@ -1998,6 +2004,8 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Add research papers category.
 * Add subcategories for virtual reality (vive, hololens, oculus, etc...)
 * Add voxel related resources. See [here](http://unitycoder.com/blog/2012/10/18/voxel-resources-engines-for-unity/).
+* Include subcategories for shaders, maybe create a repository to collect awesome shaders from the community.
+* Add subcategories for frameworks (MVC, MVVM, etc...)
 
 And many more...
 
