@@ -597,6 +597,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Ring Buffer](https://bitbucket.org/sirgru/ring_buffer) - This is a very simple implementation of a RingBuffer<T>, without any excessive API and without thread safety. It presumes usage of value-type elements.
 * [Unity-LineSegmentsIntersection](https://github.com/setchi/Unity-LineSegmentsIntersection "") - Line segments intersection for Unity.
 * [Boids](https://github.com/Chris-Kirkham/boids "") - An implementation of the Boids algorithm (Reynolds, C. W. (1987) Flocks, Herds, and Schools: A Distributed Behavioral Model) for Unity.
+* [IK Solvers](https://github.com/NoxWings/IK-Solvers "") - Basic IK Experiments.
 
 ### Attributes <a name="attributes"></a>
 
@@ -678,6 +679,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityPooling](https://github.com/Mukarillo/UnityPooling) - An optimized approach object pooling.
 * [Unity3D Prefab Pool](https://github.com/TarasOsiris/unity3d-prefab-pool) - Simple Prefab Pool for Unity3D.
 * [Starfall Pool Manager](https://github.com/starfallproduction/starfall-pool-manager) - Gameobject pool manager that Starfall Production use while making game.
+* [UnityObjectPooler](https://github.com/imxzjv/UnityObjectPooler) - Simple object pool for Unity.
+
 
 ### Serialization <a name="serialization"></a>
 
@@ -918,6 +921,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 #### WebGL
 
 * [Unity WebGL Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
+* [Better WebGL Template](https://github.com/greggman/better-unity-webgl-template "") - A better default template for Unity WebGL.
 
 #### Others
 
@@ -934,7 +938,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Safe Area Canvas](https://github.com/nkjzm/Unity-SafeAreaCanvas "") - An asset for adjusting the size automatically and preview in Editor.
 * [EncodeToTGA](https://github.com/phwitti/EncodeToTGA "") - Texture2D.EncodeToTGA (Unity)
 * [PickleBuilder](https://github.com/PicklesIIDX/PickleBuilder "") - A Steam enabled multi-platform build tool for Unity.
-* [Unity ScriptableObjects Game Events](https://github.com/NeoDragonCP/Unity-ScriptableObjects-Game-Events- "") - Based on a great talk by Ryan Hipple, here is my improved version of his Game Event system for Unity.
+* [Unity ScriptableObjects Game Events](https://github.com/NeoDragonCP/Unity-ScriptableObjects-Game-Events- "") - Receive Update callback(s) from anywhere and in any order in Unity!
+* [UnityOrderedUpdate](https://github.com/yasirkula/UnityOrderedUpdate "") - Based on a great talk by Ryan Hipple, here is my improved version of his Game Event system for Unity.
+
 * [UnityWireframeRenderer](https://github.com/miguel12345/UnityWireframeRenderer "") - Get a beautiful cross-platform wireframe renderer for your meshes with one click.
 * [NatShare API](https://github.com/olokobayusuf/NatShare-API "") - NatShare is a native sharing API for Unity Engine.
 * [Unity GoogleData](https://github.com/kimsama/Unity-GoogleData "") - See [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet "").
@@ -962,6 +968,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AceArcadeMissiles](https://github.com/brihernandez/AceArcadeMissiles "") - Arcade style missile code, effect, and sound pack.
 * [GunTurrets](https://github.com/brihernandez/GunTurrets "") - Starting point for turrets that can be mounted on arbitrarily rotating things.
 * [UnityInstancedHealthBars](https://github.com/sinbad/UnityInstancedHealthBars "") - Example projects using instancing in Unity to render enemy health bars in 1 draw call.
+* [UnityBurstFunctions](https://github.com/imxzjv/UnityBurstFunctions "") - Pattern and helpers for writing Unity Burst jobs as generic Functions/Actions.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1283,7 +1290,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PcxEffects](https://github.com/keijiro/PcxEffects)
 * [ViewportPerspective](https://github.com/cecarlsen/ViewportPerspective) - Camera image effect for adjusting the viewport perspective using four corner handles. (#CAMERA)
 * [Unity Ground Truth Ambient Occlusison](https://github.com/haolange/Unity-Ground-Truth-Ambient-Occlusion) - A physically based screen space ambient occulsion post processing effect.
-
+* [Volumetric Clouds](https://github.com/jaagupku/volumetric-clouds) - Volumetric clouds in Unity.
+* [Shader Effects](https://github.com/NoxWings/Shader-Effects) - Unity shader effects.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -1464,6 +1472,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Terrain Tool Customized](https://github.com/AncientMagikaTechnologies/TerrainToolCustomized "") -  This is our own custom Version of Unity Technologies "Terrain Tool Samples".
 * [PathPaintTool](https://github.com/Roland09/PathPaintTool "") -  A free and open source path painter tool for painting paths on terrain in Unity.
 * [Thalatta](https://github.com/JustGamingLTD/Thalatta "") -  An open source terrain generation suite.
+* [TerrainGeneration](https://github.com/guotata1996/TerrainGeneration "") -  Terrain generation based on nature of river flow.
 
 ## :art: Textures <a name="textures"></a>
 
@@ -1616,6 +1625,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
 * [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
 * [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) - Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
+* [Gradient Editor](https://github.com/SebLague/Gradient-Editor)
+* [Reflected Inspector](https://github.com/ByronMayne/Reflected-Inspector) - Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values. 
+* [Unity File Extension](https://github.com/pointcache/unity-file-extension) - Shows file extension in 1 column project window. 
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
