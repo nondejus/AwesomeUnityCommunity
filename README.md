@@ -442,6 +442,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
 * [Jitter Physics for Unity](https://bitbucket.org/alexzzzz/jitter-physics-for-unity "") - An abandoned attempt to integate [Jitter Physics](https://github.com/mattleibow/jitterphysics) engine into Unity.
 * [UnityNativeCollision](https://github.com/imxzjv/UnityNativeCollision "") - SAT Collision in C# for Unity3D Burst Compiler.
+* [Unity Bullet Hell](https://github.com/jongallant/Unity-Bullet-Hell "") - An extremely efficient projectile generator for unity.
+* [Cable Component](https://github.com/NoxWings/Cable-Component "") - Unity cable component implementation similar to the Unreal Engine one based on verlet integration.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -476,6 +478,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [InputManager](https://github.com/daemon3000/InputManager "") - Custom InputManager for Unity.
 * [Unity Wiimote](https://github.com/Flafla2/Unity-Wiimote "") - An easy to use interface between Unity3D / C# and a Wii Remote controller.
 * [UnityMobileInput](https://github.com/mopsicus/UnityMobileInput "") - Unity mobile Input plugin for iOS and Android (Unity UI compatible).
+* [Virtual Joystick Unity](https://github.com/maydinunlu/virtual-joystick-unity "") - Virtual Joystick for Mobile Devices with Unity3D.
 
 ### Controller Mappings <a name="controllers-mappings"></a>
 
@@ -654,6 +657,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EasyMOBA](https://github.com/nidaynere/easymoba) - MOBA game template for Unity.
 * [ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)
 * [Loxodon Framework](https://github.com/cocowolf/loxodon-framework) - Unity3D MVVM Loxodon Framework Databinding Localization UGUI.
+* [Lockstep Framework](https://github.com/SnpM/LockstepFramework) - A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system, and more. LSF is integrated with Unity.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -744,6 +748,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [upm.MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 * [VisualProfiler Unity](https://github.com/Microsoft/VisualProfiler-Unity "") - The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage. (#MIXED-REALITY)
 * [com.bovinelabs.analyzers](https://github.com/tertle/com.bovinelabs.analyzers "") - Package to add Roslyn Analyzers to Unity projects.
+* [UnityDebugDrawer](https://github.com/imxzjv/UnityDebugDrawer "") - Draw debug handles and other GUI elements in the scene view from anywhere in your code base.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -846,6 +851,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Settings-Unity](https://github.com/LightBuzz/Settings-Unity) - Settings utility for Unity3D.
 * [PNGCS](https://github.com/andrew-raphael-lukasik/pngcs) - Complete PNG encoding and decoding for Unity.
 * [Clock](https://github.com/LestaAllmaron/Clock) - A completly accurate timer with performance tracking for multiplayer game servers.
+* [UnityIO](https://github.com/ByronMayne/UnityIO) - An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
 
 #### Gizmos
 
@@ -1113,6 +1119,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph "") - Unity ShaderGraph project.
 * [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary "") - A library of Shaders created using Unity's Shader Graph.
+* [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples "") - Simple examples of Unity shader graphs. 
 * [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
 * [SG HDRP Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
 * [Unity 2D Water](https://github.com/Brajanowski/unity-2d-water "") - Simple water in Unity for 2D platform games.
@@ -1473,6 +1480,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PathPaintTool](https://github.com/Roland09/PathPaintTool "") -  A free and open source path painter tool for painting paths on terrain in Unity.
 * [Thalatta](https://github.com/JustGamingLTD/Thalatta "") -  An open source terrain generation suite.
 * [TerrainGeneration](https://github.com/guotata1996/TerrainGeneration "") -  Terrain generation based on nature of river flow.
+* [Lowpoly Terrain Editor](https://github.com/MCrafterzz/lowpolyterraineditor "") -  Free Low Poly terrain editor for Unity.
 
 ## :art: Textures <a name="textures"></a>
 
@@ -1502,6 +1510,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ## :floppy_disk: Databases <a name="databases"></a>
 
 * [SQLite4Unity3D](https://github.com/robertohuertasm/SQLite4Unity3d "") - SQLite made easy for Unity3d.
+* [USqlite](https://github.com/springd5211/USqlite "") - Sqlite for Unity.
 * [SQLiteUnityKit](https://github.com/Busta117/SQLiteUnityKit "") - Framework to connect with a SQLite database from Unity for iOS, Android, MAC , Windows.
 * [SqlCipher4Unity3D](https://github.com/netpyoung/SqlCipher4Unity3D "") - SqlCipher made easy for Unity3d.
 * [CastleDB Unity Importer](https://github.com/kkukshtel/castledb-unity-importer")
@@ -1619,7 +1628,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references, and easily embed such objects as subassets.
 * [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
 * [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
-* [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed Unity Editor WebView API.
+* [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed UnityEditor WebView API.
 * [Unity Editor LINQ Extensions](https://github.com/bandures/Unity-Editor-LINQ-Extensions) -  Extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties.
 * [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density) - Texel density editor for Unity.
 * [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
@@ -1627,7 +1636,11 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) - Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
 * [Gradient Editor](https://github.com/SebLague/Gradient-Editor)
 * [Reflected Inspector](https://github.com/ByronMayne/Reflected-Inspector) - Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values. 
-* [Unity File Extension](https://github.com/pointcache/unity-file-extension) - Shows file extension in 1 column project window. 
+* [Unity File Extension](https://github.com/pointcache/unity-file-extension) - Shows file extension in 1 column project window.
+* [UnityTimelordBlender](https://github.com/imxzjv/UnityTimelordBlender) - Timelord is a demo for custom blending of Unity3D Timelines.
+* [Timeline MessageMarker](https://github.com/imxzjv/Timeline-MessageMarker) - Timeline Message markers.
+* [UnityTimelineConditions](https://github.com/imxzjv/UnityTimelineConditions) - Experimental port of Animator conditions interface to Timeline events. 
+* [StyleBrowser](https://github.com/ByronMayne/StyleBrowser) - A browser editor window to view all Unity built in styles.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1750,6 +1763,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnitySamples](https://github.com/hiryma/UnitySamples "")
 * [Hw18 Infinity ECS](https://github.com/UnityTech/hw18-infinity-ecs "") - Unity Hackweek 2018 project.
 * [Rsvfx](https://github.com/keijiro/Rsvfx "") - Visual effects by Keijiro using Intel Realsense camera.
+* [Docker Unity3D](https://github.com/wtanaka/docker-unity3d "") - This docker image runs in a terminal so you don't have access to the UI. This docker image is intended to run unity commands with the command line. You can use it for running tests and creating builds.
+* [Unity3D CI Example](https://github.com/GabLeRoux/unity3d-ci-example "") - Additional remote of Unity3D CI example project for Travis and CircleCI on Github.
+* [Laser Eye Surgery](https://github.com/dixonary/laser-eye-surgery "") - A game made with Unity in 48 hours for Global Game Jam, using the Tobii EyeX Eye Tracker.
 * [KenneyNL](https://www.kenney.nl/ "") - Tools, free assets and more.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
