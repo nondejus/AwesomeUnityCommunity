@@ -558,6 +558,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - Socket.io client for Unity.
 * [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
+* [Insight](https://github.com/uweenukr/Insight) - Simple message server for Mirror.
 * [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
 * [AirPeer](https://github.com/adrenak/AirPeer) - A WebRTC based networking plugin for Unity.
 * [Unity Multiplayer Packages](https://github.com/Unity-Technologies/multiplayer) - Unity multiplayer packages and samples.
@@ -1510,6 +1511,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Thalatta](https://github.com/JustGamingLTD/Thalatta "") -  An open source terrain generation suite.
 * [TerrainGeneration](https://github.com/guotata1996/TerrainGeneration "") -  Terrain generation based on nature of river flow.
 * [Lowpoly Terrain Editor](https://github.com/MCrafterzz/lowpolyterraineditor "") -  Free Low Poly terrain editor for Unity.
+* [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions "") -  Custom tools for use with [Vegetation Studio Pro](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835). 
 
 ## :art: Textures <a name="textures"></a>
 
