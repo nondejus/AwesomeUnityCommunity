@@ -538,16 +538,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
 * [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
 
-## Modeling <a name="modeling"></a>
-
-* [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
-* [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
-* [GILES](https://github.com/Unity-Technologies/giles) - GILES: A Runtime Level Editor for Unity3D.
-* [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
-* [ThreeDScans](https://github.com/keijiro/ThreeDScans) - Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
-* [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity. See [Procore](http://www.procore3d.com/).
-* [OpenEd](https://github.com/mrzapp/opened) - Open source runtime editor for Unity.
-
 ## :money_with_wings: Monetization <a name="monetization"></a>
 
 * [Unity Ads](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
@@ -1737,6 +1727,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 #### Level Editor <a name="scene-view-level-editor"></a>
 
+* [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity. See [Procore](http://www.procore3d.com/).
+* [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
+* [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
+* [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
 
 ### Game View <a name="game-view"></a>
@@ -1746,7 +1740,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 #### Level Editor <a name="game-view-level-editor"></a>
 
-* [Giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D.
+* [GILES](https://github.com/Unity-Technologies/giles) - A Runtime Level Editor for Unity3D.
+* [OpenEd](https://github.com/mrzapp/opened) - Open source runtime editor for Unity.
 
 ### Custom Windows <a name="custom-windows"></a>
 
@@ -1883,6 +1878,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Schemy](https://github.com/Microsoft/schemy "") - A lightweight embeddable Scheme-like interpreter for configuration.
 * [Flunity](https://github.com/canab/flunity "") - Main idea is make it possible to use Adobe Flash for creating visual content for Unity games.
 * [Unity Matrix Order](https://github.com/KoltesDigital/unity-matrix-order "") - Minimal project to outline matrix application in Unity.
+* [ThreeDScans](https://github.com/keijiro/ThreeDScans) - Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
 * [Environment](https://github.com/Roland09/Environment "") - Environmental Assets for Unity Prototyping.
 * [Unicorn](https://github.com/Roland09/Unicorn "") - A custom made Unicorn Horn with optional rainbow particle effects.
 * [PeppersGhostStage](https://github.com/cecarlsen/PeppersGhostStage "") - Perppers Ghost stage model.
