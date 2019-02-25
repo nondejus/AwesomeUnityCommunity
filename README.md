@@ -109,8 +109,8 @@
 	- [Events](#events)
 	- [Packs](#packs)
 	- [Utilities](#extensibility-utilities)
-	- [Others](#extensibility-others)
 	- [WebGL](#webgl)
+	- [Others](#extensibility-others)	
   - [Modding](#modding)
   - [Miscellaneuous](#miscellaneous)  
 - [Learning Resources](#learning-resources)
@@ -1647,7 +1647,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [UnitySceneViewFovControl](https://github.com/t-mat/UnitySceneViewFovControl "") - Unity Editor Extension which enables controlling Scene View's FoV.
 
-#### Spline Editors <a name="scene-view-spline-editors"></a>
+#### Spline Editor <a name="scene-view-spline-editor"></a>
 
 * [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
 * [BGCurve](https://github.com/bansheeGz/BGCurve "") - Bezier spline editor for Unity 5.3.
