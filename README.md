@@ -369,6 +369,7 @@ Interesting resource: :cool:
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
+* [Microsoft Hololens 2](https://www.microsoft.com/en-us/hololens "") - Second generation mixed reality device developed by Microsoft. See its [guides](https://azure.microsoft.com/es-es/topic/mixed-reality/).
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "") - Author XR in XR.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
@@ -383,6 +384,7 @@ Interesting resource: :cool:
 
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
+* [Azure Kinect](https://azure.microsoft.com/es-es/services/kinect-dk/ "") - A developer kit and PC peripheral with advanced artificial intelligence (AI) sensors for sophisticated computer vision and speech models. It combines a best-in-class depth sensor and spatial microphone array with a video camera and orientation sensor—all in one small device with multiple modes, options, and SDKs.
 * [Leap Motion](https://www.leapmotion.com/ "") - A computer hardware sensor device that supports hand and finger motions as input, analogous to a mouse, but requires no hand contact or touching.
 * [Leap Motion Core Assets](https://github.com/leapmotion/LeapMotionCoreAssets "") - Unity Assets for Leap Motion v2 Skeletal Tracking.
 * [Myo](https://support.getmyo.com/hc/en-us) - A gesture control armband developed by Thalmic Labs. See [link](https://xinreality.com/wiki/Myo).
