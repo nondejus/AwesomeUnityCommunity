@@ -366,6 +366,7 @@ Interesting resource: :cool:
 * [User Reporting VR](https://github.com/UnityTech/user-reporting-vr "") - A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
 * [ViveTrackedDevice](https://github.com/fughilli/ViveTrackedDevice "") - Completely open-source, reverse-engineered implementation of a tracked device for the SteamVR virtual reality system.
 * [DH OculusVR Models](https://github.com/BritishMuseum/DH-OculusVR-models "") - 3D models decimated for use in VR experience by Oculus.
+* [Unity Chemical Engine](https://github.com/zrdumped/Unity-Chemical-Engine "") - A VR Chemical Reaction & Experiments Simulation Application Developed by Unity3D.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -613,6 +614,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Built In Attributes](https://github.com/teebarjunk/Unity-Built-In-Attributes "") - A list of built in Unity Attributes.
 * [SerializedParameter_Unity](https://github.com/tsubaki/SerializedParameter_Unity) - Persist data between play mode sessions attribute.
 * [com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes) - Attribute Extensions for Unity.
+* [UnityGetComponentAutoInjector](https://github.com/jinnin0105/UnityGetComponentAutoInjector) - Unity GetComponent Auto Injector.
 
 ### Frameworks <a name="frameworks"></a>
 
@@ -1077,6 +1079,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
 * [Reign Unity Plugin v5](https://github.com/reignstudios/Reign-Unity-Plugin5) - Unity 5.x version of the Reign plugins.
 * [UniAndroidVibration](https://github.com/sanukin39/UniAndroidVibration) - Unity Android plugin JUST execute device vibration.
+* [CO2](https://github.com/sassembla/CO2) - Android plugin generator for Unity.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1221,6 +1224,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CarPaint](https://github.com/Roland09/CarPaint) - Material for the Unity Standard Assets Car.
 * [GrassBending](https://github.com/Elringus/GrassBending) - A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
 * [Stanford Bunny Fur With Unity](https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity) - Using the Geometry Shader to generate fur on GPU.
+* [QuadWarp](https://github.com/fuqunaga/QuadWarp) - QuadWarp sample code for Unity.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1301,6 +1305,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Ground Truth Ambient Occlusison](https://github.com/haolange/Unity-Ground-Truth-Ambient-Occlusion) - A physically based screen space ambient occulsion post processing effect.
 * [Volumetric Clouds](https://github.com/jaagupku/volumetric-clouds) - Volumetric clouds in Unity.
 * [Shader Effects](https://github.com/NoxWings/Shader-Effects) - Unity shader effects.
+* [Glow](https://github.com/rakkarage/Glow) - Unity ShaderGraph effect test.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -1324,6 +1329,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityParticleSystemPreview](https://github.com/akof1314/UnityParticleSystemPreview "") - Unity ParticleSystem Preview.
 * [Unity Particle Scaler](https://github.com/minhhh/unity-particle-scaler "") - Convenient Editor Window to scale Unity's Shuriken Particle System. (#EXTENSIBILITY)
 * [ParticleCloudVRC](https://github.com/lukis101/ParticleCloudVRC "") - Interactable shader-based particle system for VRChat/Unity. (#SHADERS) (#VIRTUAL-REALITY)
+* [GPUTrail](https://github.com/fuqunaga/GPUTrail "") - Trails with ComputeShader implementtaion for Unity.
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
 
@@ -1643,6 +1649,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Timeline MessageMarker](https://github.com/imxzjv/Timeline-MessageMarker) - Timeline Message markers.
 * [UnityTimelineConditions](https://github.com/imxzjv/UnityTimelineConditions) - Experimental port of Animator conditions interface to Timeline events. 
 * [StyleBrowser](https://github.com/ByronMayne/StyleBrowser) - A browser editor window to view all Unity built in styles.
+* [In-Game Editor UI](https://github.com/Coac/ingame-editor-ui) - Unity3D in-game UI, which shows at runtime a Hierarchy and an Inspector like the built-in Editor.
 <!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
@@ -1940,6 +1947,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Dungeon Escape](https://github.com/alekseyzakharo/Dungeon-Escape "")
 * [Survival Shooter Multiplayer Unity3D Files](https://github.com/madvas/survival-shooter-multiplayer-unity3d-files "") - Cute web based multiplayer shooter game made with Unity3D.
 * [Project Skylines](https://github.com/Zaphyk/project-skylines "") - Procedural retro 3d game for the GitHub Gameoff 2017 .
+* [Deer](https://github.com/zrdumped/Deer "") - A low-poly digital game about family and finding himself.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
