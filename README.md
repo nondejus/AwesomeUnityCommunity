@@ -94,6 +94,23 @@
   - [Testing](#testing)
   - [Customization](#customization)
   - [Extensibility](#extensibility)
+  	- [Node Editors](#node-editor)
+	- [Inspector](#inspector)
+	- [Timeline](#timeline)
+	- [Project Folder](#project-folder)
+	- [Contextual Menu](#contextual-menu)
+	- [Scene View](#scene-view)
+		- [Spline Editor](#scene-view-spline-editor)
+		- [Level Editor](#scene-view-level-editor)
+	- [Game View](#game-view)
+		- [Level Editor](#game-view-level-editor)	
+	- [Custom Windows](#custom-windows)
+	- [Search](#search)
+	- [Events](#events)
+	- [Packs](#packs)
+	- [Utilities](#extensibility-utilities)
+	- [Others](#extensibility-others)
+	- [WebGL](#webgl)
   - [Modding](#modding)
   - [Miscellaneuous](#miscellaneous)  
 - [Learning Resources](#learning-resources)
@@ -511,6 +528,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) - Official Unity Plugin for the Google Mobile Ads SDK
 * [OpenIAB](https://github.com/onepf/OpenIAB) - Open In-App Billing for Google Play, SlideMe, Amazon Store, Nokia Store, Samsung Apps, Yandex.Store, Appland, Aptoide, AppMall and Fortumo.
 * [DeltaDNA Unity SDK](https://github.com/deltaDNA/unity-sdk) - Add support for deltaDNA's platform and smartads mediation to your Unity games.
+* [Vungle Unity Plugin](https://github.com/Vungle/Unity-Plugin "") - Vungle's Unity Plugin. Monetization SDK. (#MONETIZATION)
 
 ## Services <a name="services"></a>
 
@@ -689,7 +707,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Starfall Pool Manager](https://github.com/starfallproduction/starfall-pool-manager) - Gameobject pool manager that Starfall Production use while making game.
 * [UnityObjectPooler](https://github.com/imxzjv/UnityObjectPooler) - Simple object pool for Unity.
 
-
 ### Serialization <a name="serialization"></a>
 
 * [JsonUtility](https://docs.unity3d.com/ScriptReference/JsonUtility.html "") - Utility functions for working with JSON data.
@@ -767,13 +784,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### :orange_book: Libraries <a name="libraries"></a>
 
 * [Awesome Dotnet](https://github.com/quozd/awesome-dotnet) - Awesome list for .NET related resources. :cool:
+* [NativeCollections](https://github.com/jacksondunstan/NativeCollections "") - Native Collection Types for Unity.
 * [C# Sharp Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++.
 * [Unity Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics "") - A prototype of a C# math library providing vector types and math functions with a shader like syntax.
 * [3DMath](https://github.com/GregLukosek/3DMath "") - Unity C# 3D Math methods library.
 * [LINQ to GameObject for Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ.
-* [Unity3dAsyncAwaitUtil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil) - A bunch of code to make using async-await easier in Unity3D.
+* [Unity3D Async Await Util](https://github.com/svermeulen/Unity3dAsyncAwaitUtil) - A bunch of code to make using async-await easier in Unity3D.
 * [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent) - Unity Resource Component.
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity.
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) - A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time).
@@ -797,7 +815,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity.
 * [Coop Design](https://github.com/simeonradivoev/Coop-Design) - A prototype for runtime cooperative level designing in Unity 3D.
 * [Hydrogen CSharp](https://github.com/nxrighthere/Hydrogen-CSharp) - A prototype for runtime cooperative level designing in Unity 3D.
-* [SkillSystem](https://github.com/dongweiPeng/SkillSystem)
+* [Skill System](https://github.com/dongweiPeng/SkillSystem)
 * [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - A Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform. 
 * [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net).
 * [SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
@@ -819,6 +837,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Voxelizer](https://github.com/brianasu/unity-voxelizer "") - Utility library to voxelize meshes in Unity.
 * [Klak](https://github.com/keijiro/Klak "") - Creative coding library for Unity.
 * [Archiver Unity](https://github.com/LightBuzz/Archiver-Unity "") - Compress and decompress files and folders in Unity3D.
+* [Excel4Unity](https://github.com/joexi/Excel4Unity "") - Excel for Unity. Provides both read and write with .xls and .xlsx.
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -928,11 +947,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [HelpfulScripts](https://github.com/cjacobwade/HelpfulScripts "") - A collection of random, useful scripts.
 * [Unity Utils](https://github.com/ObelardO/Unity-Utils "") - Small usefull scripts, tips.
 
-#### WebGL
-
-* [Unity WebGL Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
-* [Better WebGL Template](https://github.com/greggman/better-unity-webgl-template "") - A better default template for Unity WebGL.
-
 #### Others
 
 * [Graph Visualizer](https://github.com/Unity-Technologies/graph-visualizer "") - Visualizer for your Playable graphs.
@@ -1018,68 +1032,74 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
-* [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "") - Google Play Games plugin for Unity.
-* [Firebase Unity](https://github.com/firebase/Firebase-Unity "") - Integration for Unity with Firebase.
-* [Facebook SDK for Unity](https://github.com/facebook/facebook-sdk-for-unity "") - The Facebook SDK for Unity.
-* [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "") - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.
-* [NewtonUnityPlugin](https://github.com/svenberra/NewtonUnityPlugin "") - A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.
+### Mobile
+
+* [Unity Android Notifications](https://github.com/Agasper/unity-android-notifications "") - Unity3D Plugin for Android local notifications with example project.
+* [UnityShowAndroidStatusBar](https://github.com/Over17/UnityShowAndroidStatusBar "") - Show Android status bar for applications built with Unity 5.3 and later.
 * [Permission Plugin for Unity](https://github.com/hiyorin/PermissionPlugin-for-Unity "") - A set of tools for Unity to allow handling Permission for Android and iOS.
 * [Google SignIn Plugin for Unity](https://github.com/hiyorin/GoogleSigninPlugin-for-Unity "") - A set of tools for Unity to allow handling Google Sign-in for Android and iOS.
 * [Memory Info Plugin for Unity](https://github.com/hiyorin/MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 * [System Volume Plugin for Unity](https://github.com/hiyorin/SystemVolumePlugin-for-Unity "") - A set of tools for Unity to allow handling system volume for Android and iOS.
-* [Steamworks-Platform](https://github.com/mPowerGames/Steamworks-Platform "") - Unity interface ISocialPlatform implementation with Steamworks.NET.
-* [Openpose Unity_Plugin](https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin "") - OpenPose's Unity Plugin for Unity users.
-* [Unity Android Notifications](https://github.com/Agasper/unity-android-notifications "") - Unity3D Plugin for Android local notifications with example project.
-* [UnityShowAndroidStatusBar](https://github.com/Over17/UnityShowAndroidStatusBar "") - Show Android status bar for applications built with Unity 5.3 and later.
-* [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia.
-* [VoxHands](https://github.com/hiroki-o/VoxHands "") - Humanoid Finger Controller Plugin for Unity.
 * [Unity JAR Resolver](https://github.com/googlesamples/unity-jar-resolver "") - Unity plugin which resolves Android & iOS dependencies and performs version management.
-* [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
-* [React Unity WebGL](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
-* [Unity Python](https://github.com/exodrifter/unity-python "") - Python plugin for Unity3D.
-* [USD Unity SDK](https://github.com/Unity-Technologies/usd-unity-sdk "") - Integration of Pixar's Universal Scene Description into Unity. (#Augmented Reality)
-* [Unity Swift](https://github.com/miyabi/unity-swift "") - Native plugin to write native code in Swift for Unity.
-* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk "") - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
-* [GPU Noise For Unity](https://github.com/heyx3/GPUNoiseForUnity "") - A Unity plugin for generating noise on the GPU for use in the editor.
-* [iOS Unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
-* [Unity Shell](https://github.com/marijnz/unity-shell "") - Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
-* [Mapbox Unity SDK](https://github.com/mapbox/mapbox-unity-sdk "") - Mapbox Unity SDK.
-* [Unity3D Jenkins Plugin](https://github.com/jenkinsci/unity3d-plugin "") - Jenkins Unity3d plugin.
-* [Unity3D_MQTT](https://github.com/vovacooper/Unity3d_MQTT "") - MQTT protocol running on Unity3D.
-* [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3d.
-* [AlembicForUnity](https://github.com/unity3d-jp/AlembicForUnity "") - Alembic importer and exporter plugin for Unity.
-* [IBM Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk "") - Unity SDK to use the IBM Watson services.
 * [Unity Native Sharing](https://github.com/ChrisMaire/unity-native-sharing "") - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
-* [KlakSpout](https://github.com/keijiro/KlakSpout "") - Spout plugin for Unity.
-* [KlakNDI](https://github.com/keijiro/KlakNDI "") - NewTek NDI™ plugin for Unity.
-* [UnityCam](https://github.com/mrayy/UnityCam "") - Unity3D Virtual webcam plugin, streams unity viewport contents to other applications as virtual camera.
-* [Twity](https://github.com/toofusan/Twity "") - (Previously: twitter-for-unity) Twitter API Client for Unity C#.
 * [Unity Native Toolkit](https://github.com/ryanw3bb/unity-native-toolkit "") - Native iOS & Android functionality in Unity.
-* [Unity Source Tools](https://github.com/lewa-j/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D.
+* [UniAndroidVibration](https://github.com/sanukin39/UniAndroidVibration) - Unity Android plugin JUST execute device vibration.
 * [iVidCapPro](https://github.com/ThisNetWorks/iVidCapPro "") - iVidCapPro is a plugin that enables Unity, to capture video and audio from your Unity iOS application.
-* [Unity Wakatime](https://github.com/vladfaust/unity-wakatime "") - WakaTime plugin for Unity.
-* [IndoorAtlas Unity Plugin](https://github.com/IndoorAtlas/unity-plugin "") - IndoorAtlas Unity plugin.
-* [mrayGStreamerUnity](https://github.com/mrayy/mrayGStreamerUnity "") - GStreamer Integration with Unity using a Native plugin.
-* [Unity3D Profile](https://github.com/soomla/unity3d-profile "") - Unity3D plugin for Facebook, Twitter and Google Plus. The social module of SOOMLA - free2play mobile game framework for iOS and Android. 
-* [Vungle Unity Plugin](https://github.com/Vungle/Unity-Plugin "") - Vungle's Unity Plugin. Monetization SDK. (#MONETIZATION)
-* [Klinker](https://github.com/keijiro/Klinker "") - An experimental implementation of Blackmagic DeckLink plugin for Unity.
-* [ChromaPack](https://github.com/keijiro/ChromaPack "") - A lossy texture compression plugin for Unity.
-* [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
+* [CO2](https://github.com/sassembla/CO2) - Android plugin generator for Unity.
 * [Unity Webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
-* [Google Analytics Plugin for Unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
-* [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
-* [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
-* [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
-* [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
-* [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
-* [Atlas Unity](https://github.com/wooga/atlas-unity) - This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.
-* [GetSocial Unity SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - This is the demo application for GetSocial SDK.
+* [iOS Unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
+* [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3d.
+
+### Services
+
+* [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "") - Google Play Games plugin for Unity.
+* [Facebook SDK for Unity](https://github.com/facebook/facebook-sdk-for-unity "") - The Facebook SDK for Unity.
+* [Twity](https://github.com/toofusan/Twity "") - (Previously: twitter-for-unity) Twitter API Client for Unity C#.
+* [Unity3D Profile](https://github.com/soomla/unity3d-profile "") - Unity3D plugin for Facebook, Twitter and Google Plus. The social module of SOOMLA - free2play mobile game framework for iOS and Android. 
+* [Firebase Unity](https://github.com/firebase/Firebase-Unity "") - Integration for Unity with Firebase.
+* [Mapbox Unity SDK](https://github.com/mapbox/mapbox-unity-sdk "") - Mapbox Unity SDK.
+* [IndoorAtlas Unity Plugin](https://github.com/IndoorAtlas/unity-plugin "") - [IndoorAtlas](https://www.indooratlas.com/) plugin for Unity.
+* [USD Unity SDK](https://github.com/Unity-Technologies/usd-unity-sdk "") - Integration of Pixar's Universal Scene Description into Unity. (#Augmented Reality)
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk "") - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
+* [IBM Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk "") - Unity SDK to use the IBM Watson services.
 * [Unity Flurry SDK](https://github.com/flurry/unity-flurry-sdk) - Unity plugin for Flurry SDK.
 * [Flurry Unity Plugin](https://github.com/bearprada/flurry-unity-plugin) - The Flurry Library for Unity3D. support Android and iOS.
+* [Google Analytics Plugin for Unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system.
+* [GetSocial Unity SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - This is the demo application for GetSocial SDK.
+* [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
 * [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
-* [Reign Unity Plugin v5](https://github.com/reignstudios/Reign-Unity-Plugin5) - Unity 5.x version of the Reign plugins.
-* [UniAndroidVibration](https://github.com/sanukin39/UniAndroidVibration) - Unity Android plugin JUST execute device vibration.
-* [CO2](https://github.com/sassembla/CO2) - Android plugin generator for Unity.
+* [Unity Wakatime](https://github.com/vladfaust/unity-wakatime "") - [WakaTime](https://wakatime.com/) plugin for Unity.
+
+### Languages
+
+* [Unity Python](https://github.com/exodrifter/unity-python "") - Python plugin for Unity3D.
+* [Unity Swift](https://github.com/miyabi/unity-swift "") - Native plugin to write native code in Swift for Unity.
+* [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
+
+### Others
+
+* [Steamworks-Platform](https://github.com/mPowerGames/Steamworks-Platform "") - Unity interface ISocialPlatform implementation with Steamworks.NET.
+* [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "") - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.
+* [NewtonUnityPlugin](https://github.com/svenberra/NewtonUnityPlugin "") - A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.
+* [Openpose Unity_Plugin](https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin "") - OpenPose's Unity Plugin for Unity users.
+* [MeshSync](https://github.com/unity3d-jp/MeshSync "") - Live link plugin for Unity. supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Blender, Metasequoia.
+* [VoxHands](https://github.com/hiroki-o/VoxHands "") - Humanoid Finger Controller Plugin for Unity.
+* [Atlas Unity](https://github.com/wooga/atlas-unity) - This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.
+* [Unity Shell](https://github.com/marijnz/unity-shell "") - Write and execute code in an intuitive "shell" with autocompletion, for the Unity Editor.
+* [Unity3D Jenkins Plugin](https://github.com/jenkinsci/unity3d-plugin "") - Jenkins Unity3d plugin.
+* [Unity3D_MQTT](https://github.com/vovacooper/Unity3d_MQTT "") - MQTT protocol running on Unity3D.
+* [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity "") - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3D.
+* [GPU Noise For Unity](https://github.com/heyx3/GPUNoiseForUnity "") - A Unity plugin for generating noise on the GPU for use in the editor.
+* [UnityCam](https://github.com/mrayy/UnityCam "") - Unity3D Virtual webcam plugin, streams unity viewport contents to other applications as virtual camera.
+* [mrayGStreamerUnity](https://github.com/mrayy/mrayGStreamerUnity "") - GStreamer Integration with Unity using a Native plugin.
+* [KlakSpout](https://github.com/keijiro/KlakSpout "") - Spout plugin for Unity.
+* [KlakNDI](https://github.com/keijiro/KlakNDI "") - NewTek NDI™ plugin for Unity.
+* [Klinker](https://github.com/keijiro/Klinker "") - An experimental implementation of Blackmagic DeckLink plugin for Unity.
+* [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
+* [ChromaPack](https://github.com/keijiro/ChromaPack "") - A lossy texture compression plugin for Unity.
+* [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
+* [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
+* [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1438,6 +1458,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityDynamicScrollView](https://github.com/aillieo/UnityDynamicScrollView) - Dynamic scrollView based on UGUI.
 * [DragDropComponents](https://github.com/aillieo/DragDropComponents) - DragDrop components based on UGUI.
 * [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser) - A uGUI based runtime file browser for Unity 3D (draggable and resizable).
+* [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - The List View Framework is a set of core classes which can be used as-is or extended to create dynamic, scrollable lists in Unity applications.
 
 ### Font Rendering <a name="font-rendering"></a>
 
@@ -1513,6 +1534,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniGLTF](https://github.com/ousttrue/UniGLTF "") - glTF 2.0 importer and exporter for Unity 5.6 or later.
 * [Unity VMF Loader](https://github.com/atrblizzard/unity-vmf-loader "") - Import maps created in Valve Hammer Editor to Unity. 
 * [Unity Source Tools](https://github.com/atrblizzard/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D.
+* [Unity Source Tools](https://github.com/lewa-j/Unity-Source-Tools "") - Plugin to import resources from the Source engine in Unity3D. (#REVIEW)
+* [Alembic For Unity](https://github.com/unity3d-jp/AlembicForUnity "") - Alembic importer and exporter plugin for Unity.
+* [Unity PSD Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D. (#DEPRECATED)
+* [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker "") - Import excel files into Unity.
 * [SuperPrefabReplacement](https://github.com/Seanba/SuperPrefabReplacement "") - An example of replacing Tiled objects with prefabs, automatically, during import into Unity.
 
 ## :floppy_disk: Databases <a name="databases"></a>
@@ -1555,102 +1580,152 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ## Extensibility <a name="extensibility"></a>
 
+### Node Editor <a name="node-editor"></a>
+
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework "") - A flexible and modular Node Editor Framework for creating node based displays and editors in Unity.
 * [xNode](https://github.com/Siccity/xNode "") - Basic editor extension functionality to get a node editor up and running.
 * [qAI](https://github.com/jlreymendez/qAI "") - A xNode based tool for designing AI Graphs like Behavior Trees and Finite State Machines in Unity.
 * [UnityNodeEditorBase](https://github.com/luis-l/UnityNodeEditorBase "") - Lets you view and edit node graphs inside Unity.
+* [Node Inspector](https://github.com/nicloay/Node-Inspector) - Unity graph editor extension.
+* [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
+* [Simple Graph Editor](https://github.com/Aridez/Simple-Graph-Editor "") - An editor extension for Unity that allows making directional graphs quickly.
+<!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
+
+### Inspector <a name="inspector"></a>
+
 * [ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector "") - Automatic reorderable lists for Unity game engine components.
-* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
-* [InspectorFoldoutGroup](https://github.com/dimmpixeye/InspectorFoldoutGroup "") - Group variables in Unity 3d inspector with style!
+* [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) - Automatic reorderable lists for Unity game engine components.
+* [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity.
+* [Reorderable List Example](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
+* [Unity Runtime Inspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
+* [Inspector Foldout Group](https://github.com/dimmpixeye/InspectorFoldoutGroup "") - Group variables in Unity 3d inspector with style!
+* [Unity3D Property Enabled Inspector](https://github.com/XaeroDegreaz/unity3d-property-enabled-inspector "") - This project aims to allow C# properties to be fully supported for in-editor inspection.
 * [Unity Reorderable List](https://github.com/cfoulston/Unity-Reorderable-List "") - Extended version of the Reorderable List in Unity.
+* [Stackable Decorator](https://github.com/Kinwailo/Stackable-Decorator "") - Stackable decorator for property drawer of Unity.
+* [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "") - ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
+* [Property Drawer Collection](https://github.com/anchan828/property-drawer-collection)
+* [Chest Of Property Drawers](https://github.com/tenpn/ChestOfPropertyDrawers) - A collection of small reusable Unity3D property drawers.
+* [Reflected Inspector](https://github.com/ByronMayne/Reflected-Inspector) - Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values. 
+* [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references, and easily embed such objects as subassets.
+* [EditorButton](https://github.com/miguel12345/EditorButton "") - Turn your Unity methods into buttons just by adding an attribute.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons "") - Add buttons to your inspector in Unity super easily with this simple attribute.
+* [Enum Flags](https://github.com/umm/enum_flags) - Handle enum as bit flag in Inspector.
+* [Unity Define Inspector](https://github.com/haydenjameslee/unity-define-inspector "") - A Unity inspector panel to quickly add and remove a set of custom Scripting Define Symbols.
+* [Unity Readme](https://github.com/JohnAlbin/UnityReadme) - Add a Readme / tutorial to the inspector tab of your Unity project.
+* [Stickies](https://github.com/charblar/stickies) - Simple in-editor notes for Unity3D.
+* [Unity ColourLovers Importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com.
+* [Gradient Editor](https://github.com/SebLague/Gradient-Editor)
+* [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
+* [Pongpector](https://github.com/PhillipMwaniki/pongpector "") - Play a pong on a Unity custom inspector. (#GAMES)
+* [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
+
+### Timeline <a name="timeline"></a>
+
 * [TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl "") - An example of controlling particle system from timeline.
 * [UnityTimelineEvents](https://github.com/georgejecook/UnityTimelineEvents "") - Adds ability to execute arbitrary code, with int, bool, float, string and enum values, at both runtime and edit time, from Unity timelines.
 * [AudioPreviewTrack](https://github.com/keijiro/AudioPreviewTrack "") - Instant audio playback (scrubbing) in preview mode of Unity Timeline editor.
-* [BGCurve](https://github.com/bansheeGz/BGCurve "") - Bezier spline editor for Unity 5.3.
-* [Excel4Unity](https://github.com/joexi/Excel4Unity "") - Excel for Unity. Provides both read and write with .xls and .xlsx.
-* [Unity3D ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent "") - A UnityEvent replacement.
-* [Unity Editor Coroutines](https://github.com/marijnz/unity-editor-coroutines "") - Coroutines for Editor scripts, just like regular coroutines.
-* [Unex](https://github.com/adrenak/Unex "") - Unity3D, extended. Includes hotkeys, C# extensions, utilities and more.
-* [UnityStreamingMovieTexture](https://github.com/jtothebell/UnityStreamingMovieTexture "") - A movie texture extension for Unity that adds support for Web GL. 
-* [Unity-IMGUI-TreeView](https://github.com/luke161/Unity-IMGUI-TreeView "") - Simple Tree View implementation for IMGUI (Editor GUI) in Unity.
-* [T4 Templates Unity3D](https://github.com/deniszykov/t4-templates-unity3d "") - T4 Text Template Processor for Unity3D.
-* [NativeCollections](https://github.com/jacksondunstan/NativeCollections "") - Native Collection Types for Unity.
-* [Stackable Decorator](https://github.com/Kinwailo/Stackable-Decorator "") - Stackable decorator for property drawer of Unity.
-* [UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo "")
-* [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "") - ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
-* [ReorderableListExample](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
-* [EditorButton](https://github.com/miguel12345/EditorButton "") - Turn your Unity methods into buttons just by adding an attribute.
-* [GTLogicGraph](https://github.com/rygo6/GTLogicGraph "") - A generic graph made off the UIElement GraphView built into Unity.
-* [Giacomelli.Unity.EditorToolbox](https://github.com/giacomelli/Giacomelli.Unity.EditorToolbox "") - Unity3d editor tools to make life easier for game developers.
-* [Node Level Editor](https://github.com/James-Frowen/node-level-editor "") - Unity3d Editor tools to create rooms quickly.
-* [UnitySceneViewFovControl](https://github.com/t-mat/UnitySceneViewFovControl "") - Unity Editor Extension which enables controlling Scene View's FoV.
-* [UniDLL](https://github.com/adrenak/UniDLL "") - Editor window to create DLLs from C# code in Unity. (#Utilities)
-* [Pongpector](https://github.com/PhillipMwaniki/pongpector "") - Play a pong on a Unity custom inspector. (#Games)
-* [Unity Define Inspector](https://github.com/haydenjameslee/unity-define-inspector "") - A Unity inspector panel to quickly add and remove a set of custom Scripting Define Symbols.
-* [Unity3D Property Enabled Inspector](https://github.com/XaeroDegreaz/unity3d-property-enabled-inspector "") - This project aims to allow C# properties to be fully supported for in-editor inspection.
-* [Simple Graph Editor](https://github.com/Aridez/Simple-Graph-Editor "") - An editor extension for unity that allows making directional graphs quickly.
-* [TextMeshProButtonExtension](https://github.com/jackisgames/TextMeshProButtonExtension "") - An editor extension for unity that allows making directional graphs quickly. (#UI)
-* [Stickies](https://github.com/charblar/stickies) - Simple in-editor notes for Unity3D.
 * [TimeFlowShiki](https://github.com/sassembla/TimeFlowShiki) - Unity Editor Timeline GUI skeleton.
 * [Animator_Timeline](https://github.com/absameen/Animator_Timeline) - Timeline Editor for Unity. (#ANIMATION)
-* [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
-* [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker "") - Import excel files into Unity.
-* [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity
-* [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) - Automatic reorderable lists for Unity game engine components
-* [Vexe Framework (VFW)](https://github.com/vexe/VFW) - An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
-* [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
-* [Unity PSD Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D. (#DEPRECATED)
-* [Property Drawer Collection](https://github.com/anchan828/property-drawer-collection)
-* [ChestOfPropertyDrawers](https://github.com/tenpn/ChestOfPropertyDrawers) - A collection of small reusable Unity3D property drawers.
-* [Unity Symlink Utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity.
-* [Giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D.
-* [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
-* [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
-* [Unity ColourLovers Importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com.
-* [Shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity.
-* [Unity Editor Spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
-* [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
-* [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
-* [UnityReadme](https://github.com/JohnAlbin/UnityReadme) - Add a Readme / Tutorial to the inspector tab of your Unity project.
-* [Selection History Navigator](https://github.com/mminer/selection-history-navigator) - Unity editor extension to navigate between object selections.
-* [UnityEditorSnippets](https://github.com/pointcache/UnityEditorSnippets) - Collection of different editor things that help with productivity.
-* [Unity Visual Behavior Tree](https://github.com/MystikalPooka/Unity-Visual-Behavior-Tree) - Reactive Visual Scripting Behavior Tree Tool for Unity 2018.x+.
-* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Editor extension for finding references of assets inside project and all scene files. :moneybag:
-* [Bona Data Editor](https://github.com/bonahona/BonaDataEditor) - Unity plugin editor for easier manipulation of assets of certain types. 
-* [Enum Flags](https://github.com/umm/enum_flags) - Handle enum as bit flag in Inspector.
-* [UnityEditorHelper](https://github.com/JefferiesTube/UnityEditorHelper) - An organized bunch of scripts to make editor scripting in Unity easier - gathered from some of my projects and other free sources.
-* [BitStrap](https://bitbucket.org/bitcake-studio/bitstrap) - A set of useful tools that will let you quickly bootstrap a new Unity project.
-* [NGTools](https://github.com/naphier/ngtools) - Unity Editor Extensions and Tools by Napland Games.
-* [CaptureGroup](https://github.com/ByronMayne/CaptureGroup) - A editor tool used to take screenshots for documentation.
-* [Node Inspector](https://github.com/nicloay/Node-Inspector) - Unity graph editor extension.
-* [Script Templates for Unity](https://bitbucket.org/rotorz/script-templates-for-unity) - A little window which automatically generates C# source code stubs for Unity.
-* [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - A Unity editor extension for finding missing object references.
-* [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - The List View Framework is a set of core classes which can be used as-is or extended to create dynamic, scrollable lists in Unity applications.
-* [DTCompileTimeTracker](https://github.com/DarrenTsung/DTCompileTimeTracker) - Unity editor extension which tracks compile time.
-* [Unity3DAutomatron](https://github.com/Thundernerd/Unity3D-Automatron) - An automation tool for Unity3D.
-* [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
-* [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
-* [UnityExtensions MeshIntersection](https://github.com/garettbass/UnityExtensions.MeshIntersection) - Perform a raycast against one or more meshes.
 * [TimelineEvent](https://github.com/inoook/TimelineEvent) - Modify timeline through events.
-* [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references, and easily embed such objects as subassets.
-* [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
-* [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
-* [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed UnityEditor WebView API.
-* [Unity Editor LINQ Extensions](https://github.com/bandures/Unity-Editor-LINQ-Extensions) -  Extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties.
-* [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density) - Texel density editor for Unity.
-* [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
-* [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
-* [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) - Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
-* [Gradient Editor](https://github.com/SebLague/Gradient-Editor)
-* [Reflected Inspector](https://github.com/ByronMayne/Reflected-Inspector) - Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values. 
-* [Unity File Extension](https://github.com/pointcache/unity-file-extension) - Shows file extension in 1 column project window.
 * [UnityTimelordBlender](https://github.com/imxzjv/UnityTimelordBlender) - Timelord is a demo for custom blending of Unity3D Timelines.
 * [Timeline MessageMarker](https://github.com/imxzjv/Timeline-MessageMarker) - Timeline Message markers.
 * [UnityTimelineConditions](https://github.com/imxzjv/UnityTimelineConditions) - Experimental port of Animator conditions interface to Timeline events. 
-* [StyleBrowser](https://github.com/ByronMayne/StyleBrowser) - A browser editor window to view all Unity built in styles.
+
+### Project Folder <a name="project-folder"></a>
+
+* [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
+* [Script Templates for Unity](https://bitbucket.org/rotorz/script-templates-for-unity) - A little window which automatically generates C# source code stubs for Unity.
+* [T4 Templates Unity3D](https://github.com/deniszykov/t4-templates-unity3d "") - T4 Text Template Processor for Unity3D.
+* [Unity File Extension](https://github.com/pointcache/unity-file-extension) - Shows file extension in 1 column project window.
+* [Unity Symlink Utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity.
+
+### Contextual Menu <a name="contextual-menu"></a>
+
+* [TextMeshPro Button Extension](https://github.com/jackisgames/TextMeshProButtonExtension "") - Add new context menu "UI/TextMeshPro - Button". To create button with TextMeshPro instead of Unity UI Text. (#UI)
+
+### Scene View <a name="scene-view"></a>
+
+* [UnitySceneViewFovControl](https://github.com/t-mat/UnitySceneViewFovControl "") - Unity Editor Extension which enables controlling Scene View's FoV.
+
+#### Spline Editors <a name="scene-view-spline-editors"></a>
+
+* [BezierCanvas](https://github.com/setchi/BezierCanvas) - Adobe Illustrator's pen tool style bezier editor on Unity.
+* [BGCurve](https://github.com/bansheeGz/BGCurve "") - Bezier spline editor for Unity 5.3.
+
+#### Level Editor <a name="scene-view-level-editor"></a>
+
+* [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
+
+### Game View <a name="game-view"></a>
+
+* [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) - Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
 * [In-Game Editor UI](https://github.com/Coac/ingame-editor-ui) - Unity3D in-game UI, which shows at runtime a Hierarchy and an Inspector like the built-in Editor.
-<!-- * [Node Canvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - The complete Visual Behaviour Authoring framework for Unity. -->
+
+#### Level Editor <a name="game-view-level-editor"></a>
+
+* [Giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D.
+
+### Custom Windows <a name="custom-windows"></a>
+
+* [Unity-IMGUI-TreeView](https://github.com/luke161/Unity-IMGUI-TreeView "") - Simple Tree View implementation for IMGUI (Editor GUI) in Unity.
+* [Unity Visual Behavior Tree](https://github.com/MystikalPooka/Unity-Visual-Behavior-Tree) - Reactive Visual Scripting Behavior Tree Tool for Unity 2018.x+.
+* [Node Level Editor](https://github.com/James-Frowen/node-level-editor "") - Unity3d Editor tools to create rooms quickly.
+* [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density) - Texel density editor for Unity.
+* [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
+* [StyleBrowser](https://github.com/ByronMayne/StyleBrowser) - A browser editor window to view all Unity built in styles.
+* [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
+* [Bona Data Editor](https://github.com/bonahona/BonaDataEditor) - Unity plugin editor for easier manipulation of assets of certain types. (#ATTRIBUTES)
+* [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed UnityEditor WebView API.
+
+### Search <a name="search"></a>
+
+* [Unity Editor Spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
+* [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity.
+* [Selection History Navigator](https://github.com/mminer/selection-history-navigator) - Unity editor extension to navigate between object selections.
+* [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
+* [Shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity. (#SHORTCUTS)
+
+### Events <a name="events"></a>
+
+* [Unity3D Extended Event](https://github.com/Thundernerd/Unity3D-ExtendedEvent "") - A UnityEvent replacement.
+* [Unity Events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system.
+* [Unity Editor Coroutines](https://github.com/marijnz/unity-editor-coroutines "") - Coroutines for Editor scripts, just like regular coroutines.
+
+### Packs <a name="packs"></a>
+
+* [Vexe Framework (VFW)](https://github.com/vexe/VFW) - An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
+* [BitStrap](https://bitbucket.org/bitcake-studio/bitstrap) - A set of useful tools that will let you quickly bootstrap a new Unity project.
+* [NGTools](https://github.com/naphier/ngtools) - Unity Editor Extensions and Tools by Napland Games.
+* [Unex](https://github.com/adrenak/Unex "") - Unity3D, extended. Includes hotkeys, C# extensions, utilities and more.
+
+### Utilities <a name="extensibility-utilities"></a>
+
+* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Editor extension for finding references of assets inside project and all scene files. :moneybag:
+* [Unity Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
+* [Missing References Unity](https://github.com/liortal53/MissingReferencesUnity) - A Unity editor extension for finding missing object references.
+* [DT Compile Time Tracker](https://github.com/DarrenTsung/DTCompileTimeTracker) - Unity editor extension which tracks compile time.
+* [Unity3D Automatron](https://github.com/Thundernerd/Unity3D-Automatron) - An automation tool for Unity3D.
+* [CaptureGroup](https://github.com/ByronMayne/CaptureGroup) - A editor tool used to take screenshots for documentation.
+* [UniDLL](https://github.com/adrenak/UniDLL "") - Editor window to create DLLs from C# code in Unity. (#Utilities)
+* [UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo "")
+
+### WebGL <a name="webgl"></a>
+
+* [Vue Unity WebGL](https://github.com/votetake/vue-unity-webgl "") - A Vue.js component for Unity3D.
+* [React Unity WebGL](https://github.com/elraccoone/react-unity-webgl "") - React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
+* [Better WebGL Template](https://github.com/greggman/better-unity-webgl-template "") - A better default template for Unity WebGL.
+* [Unity WebGL Utilities](https://github.com/kongregate/Unity-WebGL-Utilities "") - Some helpful utilities for Unity WebGL games.
+* [UnityStreamingMovieTexture](https://github.com/jtothebell/UnityStreamingMovieTexture "") - A movie texture extension for Unity that adds support for WebGL. 
+* [Unity3D-Globe](https://github.com/Dandarawy/Unity3D-Globe "") - Unity3D Implementation for Chrome Experiment WebGL Globe.
+
+### Others <a name="extensibility-others"></a>
+
+* [Giacomelli.Unity.EditorToolbox](https://github.com/giacomelli/Giacomelli.Unity.EditorToolbox "") - Unity3d editor tools to make life easier for game developers.
+* [Unity Editor Junkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
+* [Unity Editor Snippets](https://github.com/pointcache/UnityEditorSnippets) - Collection of different editor things that help with productivity.
+* [Unity Editor Helper](https://github.com/JefferiesTube/UnityEditorHelper) - An organized bunch of scripts to make editor scripting in Unity easier.
+* [Unity Editor LINQ Extensions](https://github.com/bandures/Unity-Editor-LINQ-Extensions) -  Extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties.
+* [UnityExtensions MeshIntersection](https://github.com/garettbass/UnityExtensions.MeshIntersection) - Perform a raycast against one or more meshes.
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
@@ -1730,7 +1805,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ECSTest](https://github.com/keijiro/ECSTest "") - URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files.
 * [ConditionalCompilationUtility](https://github.com/Unity-Technologies/ConditionalCompilationUtility "") - Automatically add defines upon the detection of predicate classes.
 * [UnitySerialPort](https://github.com/prossel/UnitySerialPort "") - Script to work with serial port in Unity. Optimized to work with TSV, CSV or other character delimited values.
-* [Vue Unity WebGL](https://github.com/votetake/vue-unity-webgl "") - Unity 3d Component for VueJS.
 * [Unity Cognitive Services Demos](https://github.com/misslivirose/unity-cognitive-services-demos "") -Examples of using Microsoft's Cognitive Services in Unity for HoloLens.
 * [Phillips Ocean](https://github.com/Scrawk/Phillips-Ocean "") - A ocean using Phillips spectrum in Unity.
 * [UnityCapture](https://github.com/schellingb/UnityCapture "") - Streams Unity rendered output to other Windows applications as virtual capture device.
@@ -1761,7 +1835,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [3D Y86](https://github.com/chenkaiyu1997/3D-Y86 "") - A 3D Y86 simulator with tangible processors, light trails and halos, powered by Unity-3D.
 * [Unity Version Manager](https://github.com/wooga/unity-version-manager "") - Tool that just manipulates a link to the current unity version. Unity already provides a similar tool (Unity Hub).
 * [Flunity](https://github.com/canab/flunity "") - Main idea is make it possible to use Adobe Flash for creating visual content for unity games.
-* [Unity3D-Globe](https://github.com/Dandarawy/Unity3D-Globe "") - Unity3D Implementation for Chrome Experiment WebGL Globe.
 * [PeppersGhostStage](https://github.com/cecarlsen/PeppersGhostStage "") - Perppers Ghost stage model.
 * [Navigator](https://github.com/liuhaopen/Navigator "") - This project provides unity scripts to export navmesh data into tile cache files that can be used directly by recastnavigation.
 * [Unity Metadata Loader](https://github.com/nevermoe/unity_metadata_loader "") - This project will load strings and method/class names in global-metadata.dat to IDA.
