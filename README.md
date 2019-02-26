@@ -359,6 +359,7 @@ Interesting resource: :cool:
 * [WorldShare](https://github.com/ritchielozada/WorldShare "") - Virtual World Sharing Across Platforms.
 * [VRTeleportationTourTemplate](https://github.com/wotakuro/VRTeleportationTourTemplate "") - Template project for VR tour applications.
 * [VR Template](https://github.com/epitech-toulouse/Vr_Template "") - Unity project template for VR project, will be using for XR Workshop.
+* [VR Spectator Sample](https://github.com/Unity-Technologies/VR-Spectator-Sample "") - Sample project for understanding how to VR Spectate in Unity.
 * [Mesh Maker VR](https://github.com/createthis/mesh_maker_vr "") - Mesh Maker VR.
 * [CreateThis VR UI](https://github.com/createthis/createthis_vr_ui "") - User Interface system for Mesh Maker VR.
 * [YVTuber](https://github.com/youten/YVTuber "") - YVTuber(Yume VTuber System) is Unity project for VTuber(Virtual YouTuber).
@@ -1229,6 +1230,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [Water2D Unity](https://github.com/valryon/water2d-unity "") - A simple shader + example of a water surface with reflection in 2D.
 * [Unity Water Shader2D](https://github.com/real-marco-b/unity-water-shader2d "") - A 2D water shader for Unity.
+* [Whater Shader](https://github.com/tuxalin/water-shader "") - Procedural water shader for general use. (#PROCEDURAL-GENERATION)
 * [UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations "") - Collection of shaders and visual effects created for Unity 3D.
 * [Unity Frosted Glass](https://github.com/andydbc/unity-frosted-glass) - Frosted glass material made in Unity.
 * [Unity Wireframe](https://github.com/Chaser324/unity-wireframe "") - General purpose wireframe shaders for use in Unity.
