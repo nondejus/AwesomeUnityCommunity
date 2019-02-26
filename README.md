@@ -277,6 +277,7 @@ Interesting resource: :cool:
 * [G Audio](https://github.com/gregzo/G-Audio "") - 2D Audio Framework for Unity.
 * [UnityWav](https://github.com/deadlyfingers/UnityWav "") - WAV utility for saving and loading wav files in Unity.
 * [UnityOSC](https://github.com/thomasfredericks/UnityOSC "") - Open Sound Control (OSC) for Unity.
+* [UnityOSC](https://github.com/jorgegarcia/UnityOSC "") - Open Sound Control (OSC) C# classes interface for the Unity3d game engine.
 * [Rhythmify](https://github.com/Gkxd/Rhythmify "") - A Rhythm Syncing Implementation for Unity.
 * [Algorithmic-beat-mapping-unity](https://github.com/jesse-scam/algorithmic-beat-mapping-unity "") - Real-time and Preprocessed Audio Analysis for Onset Detection (Beat Mapping) Using Spectral Flux.
 * [UniBpmAnalyzer](https://github.com/WestHillApps/UniBpmAnalyzer "") - BPM analyzer for Unity.
@@ -291,6 +292,7 @@ Interesting resource: :cool:
 * [NAudio Unity](https://github.com/WulfMarius/NAudio-Unity) - Port of NAudio to the Mono subset used by Unity3D.
 * [Unity3D-SoundManager](https://github.com/baratgabor/Unity3D-SoundManager) - Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
 * [UniIosAudioService](https://github.com/sanukin39/UniIosAudioService) - Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
+* [KlakLasp](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -314,6 +316,7 @@ Interesting resource: :cool:
 * [AnimationImporter](https://github.com/talecrafter/AnimationImporter "") - Aseprite Animation Importer for Unity. (#2D)
 * [StopMotion Unity](https://github.com/OskarSigvardsson/StopMotion-Unity "") - A simple StopMotion effect for Unity.
 * [AnimatorPreviewSyncParticle](https://github.com/Syy9/AnimatorPreviewSyncParticle "") - Unity animator preview sync particle. (#PARTICLE-SYSTEMS)
+* [CMUMocap](https://github.com/keijiro/CMUMocap "") - Unity humanoid animations converted from the Carnegie Mellon University Motion Capture Database.
 
 ## :dancers: Tweening <a name="tweening"></a>
 
@@ -340,6 +343,7 @@ Interesting resource: :cool:
 * [UnityARFaceDeformation](https://github.com/kitasenjudesign/UnityARFaceDeformation "") - AR Face Deformation with Unity ARKit Plugin.
 * [Location-Based-Markerless-Augmented-Reality](https://github.com/hynra/Location-Based-Markerless-Augmented-Reality "") - Markerless Augmented Reality based on location made with Unity and Kudan AR SDK.
 * [Tango Examples Unity](https://github.com/googlearchive/tango-examples-unity "") - Project Tango UnitySDK Example Projects (#DEPRECATED).
+* [AR Unity](https://github.com/Bewolf2/AR-Unity "") - Augmented Reality in Unity. Uses [ALVAR](http://virtual.vtt.fi/virtual/proj2/multimedia/alvar/index.html) and OpenCV.
 
 ## Virtual Reality <a name="virtual-reality"></a>
 
@@ -493,6 +497,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityNativeCollision](https://github.com/imxzjv/UnityNativeCollision "") - SAT Collision in C# for Unity3D Burst Compiler.
 * [Unity Bullet Hell](https://github.com/jongallant/Unity-Bullet-Hell "") - An extremely efficient projectile generator for unity.
 * [Cable Component](https://github.com/NoxWings/Cable-Component "") - Unity cable component implementation similar to the Unreal Engine one based on verlet integration.
+* [StandardizeBows](https://github.com/ahmetahaydemir/StandardizeBows "") - Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -915,6 +920,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PNGCS](https://github.com/andrew-raphael-lukasik/pngcs) - Complete PNG encoding and decoding for Unity.
 * [Clock](https://github.com/LestaAllmaron/Clock) - A completly accurate timer with performance tracking for multiplayer game servers.
 * [UnityIO](https://github.com/ByronMayne/UnityIO) - An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
+* [VariableAssets](https://github.com/ZeroSleepGames/VariableAssets) - Variable assets for Unity3D.
 
 #### Gizmos
 
@@ -1152,6 +1158,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KlakNDI](https://github.com/keijiro/KlakNDI "") - NewTek NDI™ plugin for Unity.
 * [Klinker](https://github.com/keijiro/Klinker "") - An experimental implementation of Blackmagic DeckLink plugin for Unity.
 * [KlakHap](https://github.com/keijiro/KlakHap) - HAP video player plugin for Unity.
+* [KlakSyphon](https://github.com/keijiro/KlakSyphon) - Syphon plugin for Unity.
 * [ChromaPack](https://github.com/keijiro/ChromaPack "") - A lossy texture compression plugin for Unity.
 * [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
@@ -1199,7 +1206,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### Shaders <a name="shaders"></a>
 
 * [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph "") - Unity ShaderGraph project.
-* [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary "") - A library of Shaders created using Unity's Shader Graph.
+* [ShaderGraph_Example Library](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary "") - A library of Shaders created using Unity's Shader Graph.
 * [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples "") - Simple examples of Unity shader graphs. 
 * [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
 * [SG HDRP Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
@@ -1221,6 +1228,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [unityglitch](https://github.com/staffantan/unityglitch "") - Glitch post-processing shader for Unity3D.
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [Water2D Unity](https://github.com/valryon/water2d-unity "") - A simple shader + example of a water surface with reflection in 2D.
+* [Unity Water Shader2D](https://github.com/real-marco-b/unity-water-shader2d "") - A 2D water shader for Unity.
 * [UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations "") - Collection of shaders and visual effects created for Unity 3D.
 * [Unity Frosted Glass](https://github.com/andydbc/unity-frosted-glass) - Frosted glass material made in Unity.
 * [Unity Wireframe](https://github.com/Chaser324/unity-wireframe "") - General purpose wireframe shaders for use in Unity.
@@ -1303,6 +1311,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [GrassBending](https://github.com/Elringus/GrassBending) - A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
 * [Stanford Bunny Fur With Unity](https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity) - Using the Geometry Shader to generate fur on GPU.
 * [QuadWarp](https://github.com/fuqunaga/QuadWarp) - QuadWarp sample code for Unity.
+* [Unity3D Lightning Shader](https://github.com/ya7gisa0/Unity3D-Lightning-Shader "") - Procedural Lightning Shader for Unity3D.
+* [Unity Metaballs](https://github.com/ya7gisa0/Unity Metaballs "") - Metaball shader example.
+* [Unity Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple "") - Water ripple shader for Unity.
+* [StandardTriplanar](https://github.com/keijiro/StandardTriplanar "") - Unity's standard shader with triplanar mapping.
 * [hlsl2glslfork](https://github.com/aras-p/hlsl2glslfork "") - HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.
 
 ### Skyboxes <a name="skyboxes"></a>
@@ -1323,6 +1335,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LookingGlassRenderPipeline](https://github.com/wotakuro/LookingGlassRenderPipeline "") - Sample of LookingGlassRenderPipeline.
 * [Post-Processing Stack](https://github.com/Unity-Technologies/PostProcessing "Components for camera and other effects.")
 * [Skinner](https://github.com/keijiro/Skinner "") - Special Effects with Skinned Mesh in Unity.
+* [KinoBokeh](https://github.com/keijiro/KinoBokeh "") - Depth of field effect for Unity
 * [Kinoglitch](https://github.com/keijiro/KinoGlitch "") - Video glitch effects for Unity.
 * [KinoContour](https://github.com/keijiro/KinoContour "") - Contour line filter for Unity.
 * [Page curl effect for Unity3D](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D Github Page
@@ -1387,6 +1400,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Volumetric Clouds](https://github.com/jaagupku/volumetric-clouds) - Volumetric clouds in Unity.
 * [Shader Effects](https://github.com/NoxWings/Shader-Effects) - Unity shader effects.
 * [Glow](https://github.com/rakkarage/Glow) - Unity ShaderGraph effect test.
+* [EdgeDetect-PostProcessingUnity](https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity) - Unity legacy Edge Detect image effect ported to Post Processing Stack v2.
+* [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -1411,6 +1426,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Particle Scaler](https://github.com/minhhh/unity-particle-scaler "") - Convenient Editor Window to scale Unity's Shuriken Particle System. (#EXTENSIBILITY)
 * [ParticleCloudVRC](https://github.com/lukis101/ParticleCloudVRC "") - Interactable shader-based particle system for VRChat/Unity. (#SHADERS) (#VIRTUAL-REALITY)
 * [GPUTrail](https://github.com/fuqunaga/GPUTrail "") - Trails with ComputeShader implementtaion for Unity.
+* [TrailBoids](https://github.com/keijiro/TrailBoids "") - Just tried making boids with particle trails.
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
 
@@ -1436,6 +1452,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Pcx](https://github.com/keijiro/Pcx "") - Point cloud importer & renderer for Unity.
 * [PointCloudUnity](https://github.com/mirobyrtus/PointCloudUnity "") - Point cloud loader.
 * [SpriteLightKit](https://github.com/prime31/SpriteLightKit "") - Blended lighting system for Unity that works with standard Sprites. (#2D)
+* [ContactShadows](https://github.com/keijiro/ContactShadows "") - Experimental implementation of contact shadows for Unity.
 * [Shadow Volumes Toolkit](https://github.com/charblar/shadow-volumes-toolkit "") - Dynamic, pixel-perfect shadows based on the Shadow Volume algorithm. (#ARCHIVED)
 
 ### Raymarching <a name="raymarching"></a>
@@ -1443,6 +1460,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [uRaymarching Examples](https://github.com/hecomi/uRaymarchingExamples) -  Examples using uRaymarching.
 * [Unity Raymarching Collision](https://github.com/hecomi/UnityRaymarchingCollision) -  Raymarching x Rigidbody interaction example.
 * [Unity Raytracer](https://github.com/SIZMW/unity-raytracer) -  This project demonstrates ray tracing in Unity, which is a real time rendering engine.
+* [Unity Compute Shader Ray Tracing Practice](https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice) -  Raytracing shader tutorial for Unity.
 
 ## :bar_chart: UI <a name="ui"></a>
 
@@ -1634,6 +1652,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Docker Unity3D](https://github.com/wtanaka/docker-unity3d "") - This docker image runs in a terminal so you don't have access to the UI. This docker image is intended to run unity commands with the command line. You can use it for running tests and creating builds.
 * [Unity3D CI Example](https://github.com/GabLeRoux/unity3d-ci-example "") - Additional remote of Unity3D CI example project for Travis and CircleCI on Github.
+* [Unity3D Travis CI](https://github.com/kevinta893/unity3d-travis-ci "") - A simple example of how to build and deploy a Unity3D package on Travis CI and GitHub Releases.
+
 
 ## Testing <a name="testing"></a>
 
@@ -1885,6 +1905,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnitySamples](https://github.com/hiryma/UnitySamples "")
 * [Hw18 Infinity ECS](https://github.com/UnityTech/hw18-infinity-ecs "") - Unity Hackweek 2018 project.
 * [Laser Eye Surgery](https://github.com/dixonary/laser-eye-surgery "") - A game made with Unity in 48 hours for Global Game Jam, using the Tobii EyeX Eye Tracker.
+* [Unity Visual Effects Graph Practice](https://github.com/ya7gisa0/Unity-Visual-Effects-Graph-Practice "") - Project data of my artwork "Demographics of Israel: Data Sculpture".
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
