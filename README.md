@@ -360,6 +360,7 @@ Interesting resource: :cool:
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 * [iOSUnityVuforiaGuide](https://github.com/keyv/iOSUnityVuforiaGuide) - Integration of Unity + Vuforia into native iOS application.
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples. (Redirects to DAQRI website.)
+* [ARunity5](https://github.com/artoolkit/arunity5) - ARToolKit for Unity v5.x.
 * [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "") - ARCore SDK for Unity.
 * [ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples "") - Example content for Unity projects based on [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html).
 * [Facial AR Remote](https://github.com/Unity-Technologies/facial-ar-remote "") - A tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.
@@ -687,6 +688,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SerializedParameter_Unity](https://github.com/tsubaki/SerializedParameter_Unity) - Persist data between play mode sessions attribute.
 * [com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes) - Attribute Extensions for Unity.
 * [UnityGetComponentAutoInjector](https://github.com/jinnin0105/UnityGetComponentAutoInjector) - Unity GetComponent Auto Injector.
+* [UnityNonNull](https://github.com/ulrikdamm/UnityNonNull) - [NonNull] attribute to fields and classes in Unity.
 
 ### Frameworks <a name="frameworks"></a>
 
@@ -1849,6 +1851,7 @@ screen.
 * [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
+* [Editor2D](https://github.com/stillwwater/editor2d) - Tile based level editor for Unity
 
 ### Game View <a name="game-view"></a>
 
