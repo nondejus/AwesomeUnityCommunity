@@ -87,7 +87,7 @@
   	- [Control Components](#ui-controls-components)
 		- [Minimap](#ui-controls-minimap)
 		- [Text](#ui-controls-text)
-		- [Font Rendering](#font-rendering)
+		- [Font Rendering](#ui-controls--text-font-rendering)
 		- [Shapes](#ui-controls-shapes)
 		- [Sprite Atlas](#ui-controls-spriteatlas)
 		- [Scroll View](#ui-controls-scroll-view)
@@ -1528,7 +1528,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
 
-#### Scroll View <a name="ui-controls-scrollview"></a>
+#### Scroll View <a name="ui-controls-scroll-view"></a>
 
 * [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect) - UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
 * [EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView) - Cool 3d scoll view for Unity(NGUI 3D UGUI support).
@@ -1539,7 +1539,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityDynamicScrollRect](https://github.com/Mukarillo/UnityDynamicScrollRect "") - An optimized approach to lists with dozens of elements and a Pooling system.
 * [UnityDynamicScrollView](https://github.com/aillieo/UnityDynamicScrollView) - Dynamic scrollView based on UGUI.
 
-#### Page View <a name="ui-controls-pageview"></a>
+#### Page View <a name="ui-controls-page-view"></a>
 
 * [Unity PagingView](https://github.com/kiepng/Unity-PagingView "") - PagingView for Unity.
 
