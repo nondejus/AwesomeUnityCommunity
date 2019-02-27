@@ -420,6 +420,7 @@ Interesting resource: :cool:
 * [Microsoft Hololens 2](https://www.microsoft.com/en-us/hololens "") - Second generation mixed reality device developed by Microsoft. See its [guides](https://azure.microsoft.com/es-es/topic/mixed-reality/).
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
+* [Visual Profiler Unity)](https://github.com/Microsoft/VisualProfiler-Unity "") - The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
 * [Unity Cognitive Services Demos](https://github.com/misslivirose/unity-cognitive-services-demos "") - Examples of using Microsoft's Cognitive Services in Unity for HoloLens.
 * [Mixed Reality Design Labs Unity](https://github.com/Microsoft/MixedRealityDesignLabs_Unity "") - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group.
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "") - Author XR in XR.
@@ -922,6 +923,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Clock](https://github.com/LestaAllmaron/Clock) - A completly accurate timer with performance tracking for multiplayer game servers.
 * [UnityIO](https://github.com/ByronMayne/UnityIO) - An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
 * [VariableAssets](https://github.com/ZeroSleepGames/VariableAssets) - Variable assets for Unity3D.
+* [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) - Unity editor helper for auto saving scene & minimizing lost work.
 
 #### Gizmos
 
@@ -1124,6 +1126,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
 * [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
 * [Unity Wakatime](https://github.com/vladfaust/unity-wakatime "") - [WakaTime](https://wakatime.com/) plugin for Unity.
+* [Line SDK Unity](https://github.com/line/line-sdk-unity "") - Provides a modern way of implementing LINE APIs in Unity games, for iOS and Android. 
 
 ### Languages
 
