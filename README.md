@@ -75,6 +75,7 @@
    	- [Visual Scripting](#visual-scripting)
    	- [Snippets & Gists](#snippets-&-gists)
 	- [Integrated Development Environment (IDE)](#ide)
+		- [IDE Integrations](#ide-integrations)
   - [Rendering & Post-Processing](#rendering-and-post-processing)
   	- [Shaders](#shaders)
   	- [Skyboxes](#skyboxes)
@@ -1217,7 +1218,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [MonoDevelop](https://www.monodevelop.com/) - MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
 * [Consulo](http://consulo.site/) - Consulo editor.
 
-#### IDE Integrations
+#### IDE Integrations <a name="ide-integrations"></a>
 
 * [Unity VS Toolbox](https://github.com/Naphier/Unity-VS-Toolbox) - Included in this project is a VS toolbox for most of the Monobehaviour events listed in order of execution. You'll also find a bunch of templates that can be installed so they will show up in the Add Item context menu.
 * [Unity C# 5.0 and 6.0 Integration](https://github.com/Naphier/Unity-VS-Toolbox) - This is a hack that replaces Unity's C# compiler with the latest Roslyn, which lets you write scripts in Unity using C# 7.3.
@@ -2269,6 +2270,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Do shortcut png image with unity editor shortcuts.
 * Create open collective to show the image with the contributors if necessary.
 * Review items by category to select one between similar ones in order to select the most complete. Reference the others in another section or repository.
+* Update links names for subsections.
 
 And many more...
 
