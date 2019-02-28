@@ -366,6 +366,7 @@ Interesting resource: :cool:
 * [Facial AR Remote](https://github.com/Unity-Technologies/facial-ar-remote "") - A tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.
 * [ArucoUnity](https://github.com/NormandErwan/ArucoUnity "") - Bring augmented reality to Unity by tracking Aruco markers in real time.
 * [UnityARFaceDeformation](https://github.com/kitasenjudesign/UnityARFaceDeformation "") - AR Face Deformation with Unity ARKit Plugin.
+* [UnityARKitFaceGestures](https://github.com/dilmerv/UnityARKitFaceGestures "") - An example repository created to demonstrate how to track gestures with ARKit and Unity3D.
 * [Location-Based-Markerless-Augmented-Reality](https://github.com/hynra/Location-Based-Markerless-Augmented-Reality "") - Markerless Augmented Reality based on location made with Unity and Kudan AR SDK.
 * [Tango Examples Unity](https://github.com/googlearchive/tango-examples-unity "") - Project Tango UnitySDK Example Projects (#DEPRECATED).
 * [AR Unity](https://github.com/Bewolf2/AR-Unity "") - Augmented Reality in Unity. Uses [ALVAR](http://virtual.vtt.fi/virtual/proj2/multimedia/alvar/index.html) and OpenCV.
@@ -861,6 +862,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++.
 * [Unity Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics "") - A prototype of a C# math library providing vector types and math functions with a shader like syntax.
+* [Vector3D](https://github.com/sldsmkd/vector3d "") - Double precision Vector Libraries for Unity3D.
 * [3DMath](https://github.com/GregLukosek/3DMath "") - Unity C# 3D Math methods library.
 * [LINQ to GameObject for Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ.
 * [Unity3D Async Await Util](https://github.com/svermeulen/Unity3dAsyncAwaitUtil) - A bunch of code to make using async-await easier in Unity3D.
@@ -910,6 +912,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Klak](https://github.com/keijiro/Klak "") - Creative coding library for Unity.
 * [Archiver Unity](https://github.com/LightBuzz/Archiver-Unity "") - Compress and decompress files and folders in Unity3D.
 * [Excel4Unity](https://github.com/joexi/Excel4Unity "") - Excel for Unity. Provides both read and write with .xls and .xlsx.
+* [BurstImageProcessing](https://github.com/stella3d/BurstImageProcessing "") - Fast parallel image processing on the CPU, using Unity C# jobs and Burst compilation (Experimental). 
+* [Curl Unity](https://github.com/91Act/curl-unity "") - his is a C# wrapper for Unity to use libcurl with http2/openssl enabled.
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -917,6 +921,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Unity Atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects.
 * [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) - A Unity editor extension to find script references within your project in seconds.
+* [SwissArmyLib](https://github.com/ArchonInteractive/SwissArmyLib) - Collection of helpful utilities we use in our Unity projects.
 * [UniVersionManager](https://github.com/sanukin39/UniVersionManager) - Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
 * [UniClipboard](https://github.com/sanukin39/UniClipboard) - Simple clipboard plugin for Unity.
 * [SceneHistory Unity](https://github.com/takupisu/SceneHistory-Unity) - Open scenes quickly from a custom history of scenes. Supports scene addition.
@@ -1167,6 +1172,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KopiLuaInterface](https://github.com/gfoot/kopiluainterface) - LuaInterface adapted to work with KopiLua.
 * [ExportLuaUI](https://github.com/glegoo/ExportLuaUI)
 * [LuaProfiler For Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - Profiler for Lua inside of Unity.
+* [Entitas Lua](https://github.com/sniper00/entitas-lua) - Entitas ECS implementation in Lua.
 
 ### Others
 
@@ -1192,6 +1198,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [VoxBlend](https://github.com/hiroki-o/VoxBlend) - BlendShape Controller Plugin for Unity.
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
 * [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
+* [myS7ProSimLib](https://github.com/kodaman2/myS7ProSimLib) - Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
+
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1241,6 +1249,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples "") - Simple examples of Unity shader graphs. 
 * [ShaderGraph-Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
 * [SG HDRP Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
+* [SRPBatcherBenchmark](https://github.com/Unity-Technologies/SRPBatcherBenchmark "") - Various benchmark scenes for SRP batcher (both LWRP & HDRP).
 * [Unity 2D Water](https://github.com/Brajanowski/unity-2d-water "") - Simple water in Unity for 2D platform games.
 * [PSX Retroshader](https://github.com/dsoft20/psx_retroshader "") - Shader that "emulates" the rendering style of ps1.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained). [Asset Store Link](https://www.assetstore.unity3d.com/en/#!/content/14147)
@@ -1347,7 +1356,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Metaballs](https://github.com/ya7gisa0/Unity Metaballs "") - Metaball shader example.
 * [Unity Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple "") - Water ripple shader for Unity.
 * [StandardTriplanar](https://github.com/keijiro/StandardTriplanar "") - Unity's standard shader with triplanar mapping.
+* [Splatoonity](https://github.com/SquirrelyJones/Splatoonity "") - Splatoon like painting in Unity3D.
 * [hlsl2glslfork](https://github.com/aras-p/hlsl2glslfork "") - HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.
+* [Unity Realtime Planar Mirror](https://github.com/MaxwellGengYF/Unity-Realtime-Planar-Mirror "") - Powerful, deeply optimized real-time planar mirror in Unity.
+* [Projection Examples Using Mirrors](https://github.com/joansolroo/ProjectionExamples-UsingMirrors "") - This is a simple example of how projectors interact with mirrors.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1486,6 +1498,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SpriteLightKit](https://github.com/prime31/SpriteLightKit "") - Blended lighting system for Unity that works with standard Sprites. (#2D)
 * [ContactShadows](https://github.com/keijiro/ContactShadows "") - Experimental implementation of contact shadows for Unity.
 * [Shadow Volumes Toolkit](https://github.com/charblar/shadow-volumes-toolkit "") - Dynamic, pixel-perfect shadows based on the Shadow Volume algorithm. (#ARCHIVED)
+* [Unity Deferred Lighting Model](https://github.com/MaxwellGengYF/Unity-Deferred-Lighting-Model "") - Optimized lighting processing shaders for deferred rendering path.
+* [Unity Ground Truth Ambient Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion "") - A physically based screen space ambient occulsion post processing effect.
 
 ### Raymarching <a name="raymarching"></a>
 
@@ -1691,6 +1705,7 @@ screen.
 * [TerrainGeneration](https://github.com/guotata1996/TerrainGeneration "") -  Terrain generation based on nature of river flow.
 * [Lowpoly Terrain Editor](https://github.com/MCrafterzz/lowpolyterraineditor "") -  Free Low Poly terrain editor for Unity.
 * [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions "") -  Custom tools for use with [Vegetation Studio Pro](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835). 
+* [Hydraulic Erosion](https://github.com/SebLague/Hydraulic-Erosion "") -  Simulating erosion to try make procedural terrains look a little more natural.
 
 ## Navigation Mesh (NavMesh)
 
@@ -1882,6 +1897,7 @@ screen.
 * [Selection History Navigator](https://github.com/mminer/selection-history-navigator) - Unity editor extension to navigate between object selections.
 * [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) - Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
 * [Shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity. (#SHORTCUTS)
+* [SearchTools](https://github.com/eral/SearchTools) - Search Tools In Unity.
 
 ### Events <a name="events"></a>
 
