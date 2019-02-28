@@ -378,6 +378,7 @@ Interesting resource: :cool:
 * [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "") - A productive VR Toolkit for rapidly building VR solutions in Unity3d. :cool:
 * [VRTK Unity Core](https://github.com/ExtendRealityLtd/VRTK.Unity.Core "") - A set of design patterns for rapidly building VR solutions in Unity3D.
 * [VRTK_MouseGrab](https://github.com/ousttrue/VRTK_MouseGrab "") - VRTK SDK sample.
+* [VRTK_MyCongif](https://github.com/Vortick/VRTK_MyCongif "") - A perosonal configuration for VRTK plugin to work on unity 2018.
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR "") - A virtual reality interaction system for unity based on physics.
 * [OVRLay](https://github.com/benotter/OVRLay "") - An easy-to-use toolkit for developing OpenVR Overlays with Unity Engine.
 * [MoonMotion](https://github.com/MoonMotionProject/MoonMotion "") - Free and open source toolkit for VR locomotion.
@@ -561,6 +562,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Wiimote](https://github.com/Flafla2/Unity-Wiimote "") - An easy to use interface between Unity3D / C# and a Wii Remote controller.
 * [UnityMobileInput](https://github.com/mopsicus/UnityMobileInput "") - Unity mobile Input plugin for iOS and Android (Unity UI compatible).
 * [Virtual Joystick Unity](https://github.com/maydinunlu/virtual-joystick-unity "") - Virtual Joystick for Mobile Devices with Unity3D.
+* [UnityRawInput](https://github.com/Elringus/UnityRawInput "") - Windows Raw Input wrapper for Unity game engine.
+
 
 ### Controller Mappings <a name="controllers-mappings"></a>
 
@@ -1500,6 +1503,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Shadow Volumes Toolkit](https://github.com/charblar/shadow-volumes-toolkit "") - Dynamic, pixel-perfect shadows based on the Shadow Volume algorithm. (#ARCHIVED)
 * [Unity Deferred Lighting Model](https://github.com/MaxwellGengYF/Unity-Deferred-Lighting-Model "") - Optimized lighting processing shaders for deferred rendering path.
 * [Unity Ground Truth Ambient Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion "") - A physically based screen space ambient occulsion post processing effect.
+* [Unity SRP VXGI](https://github.com/Looooong/Unity-SRP-VXGI "") - Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
 
 ### Raymarching <a name="raymarching"></a>
 
