@@ -401,6 +401,7 @@ Interesting resource: :cool:
 * [DesktopMascot4VRM](https://github.com/keel-210/DesktopMascot4VRM "")
 * [User Reporting VR](https://github.com/UnityTech/user-reporting-vr "") - A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
 * [Unity Chemical Engine](https://github.com/zrdumped/Unity-Chemical-Engine "") - A VR Chemical Reaction & Experiments Simulation Application Developed by Unity3D.
+* [LilyRender360](https://github.com/eliemichel/LilyRender360 "") - Lily Render 360 is a tool for rendering a Unity scene into stitch-free equirectangular images.
 
 ### HTC Vive
 
