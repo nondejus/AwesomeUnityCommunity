@@ -807,6 +807,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [JSONObject](https://github.com/mtschoen/JSONObject) - The JSONObject class/library for Unity.
 * [TinyJSON](https://github.com/pbhogan/TinyJSON) - TinyJSON is a simple JSON library for C# that strives for ease of use.
 * [JSONFX for Unity3D](https://bitbucket.org/TowerOfBricks/jsonfx-for-unity3d)
+* [BitpackingTools](https://github.com/emotitron/BitpackingTools) - Bitpacking/serialization libraries used interally for Unity Store NetworkSyncTransform and TransformCrusher Assets.
 
 ### Logging <a name="logging"></a>
 
@@ -950,13 +951,13 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) - A Unity editor extension to find script references within your project in seconds.
 * [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) - Generates preview textures for sprites, icons of Unity models.
 * [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
-* [ClassTypeReference for Unity](https://bitbucket.org/rotorz/classtypereference-for-unity) - A class which provides serializable references to System.Type of classes with an accompanying custom property drawer which allows class selection from drop-down.
 * [Settings Unity](https://github.com/LightBuzz/Settings-Unity) - Settings utility for Unity3D.
 * [PNGCS](https://github.com/andrew-raphael-lukasik/pngcs) - Complete PNG encoding and decoding for Unity.
 * [Clock](https://github.com/LestaAllmaron/Clock) - A completly accurate timer with performance tracking for multiplayer game servers.
 * [UnityIO](https://github.com/ByronMayne/UnityIO) - An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
 * [VariableAssets](https://github.com/ZeroSleepGames/VariableAssets) - Variable assets for Unity3D.
 * [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) - Unity editor helper for auto saving scene & minimizing lost work.
+* [EnumDispatcher](https://github.com/5argon/EnumDispatcher) - ECS backed C# enums as Flux/Redux action in Unity.
 
 #### Gizmos
 
@@ -1080,6 +1081,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityInstancedHealthBars](https://github.com/sinbad/UnityInstancedHealthBars "") - Example projects using instancing in Unity to render enemy health bars in 1 draw call.
 * [UnityBurstFunctions](https://github.com/imxzjv/UnityBurstFunctions "") - Pattern and helpers for writing Unity Burst jobs as generic Functions/Actions.
 * [Inventory](https://github.com/FarrokhGames/Inventory "") - A Diablo 2-style inventory system for Unity3D.
+* [Piranha](https://github.com/keenanwoodall/Piranha "") - A simple tool to make rigidbodies swarm a mesh in Unity.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1504,6 +1506,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Deferred Lighting Model](https://github.com/MaxwellGengYF/Unity-Deferred-Lighting-Model "") - Optimized lighting processing shaders for deferred rendering path.
 * [Unity Ground Truth Ambient Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion "") - A physically based screen space ambient occulsion post processing effect.
 * [Unity SRP VXGI](https://github.com/Looooong/Unity-SRP-VXGI "") - Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
+* [ShadowVolume](https://github.com/chengkehan/ShadowVolume "") - Shadow Volume for Static-Scene-Object of Unity.
 
 ### Raymarching <a name="raymarching"></a>
 
