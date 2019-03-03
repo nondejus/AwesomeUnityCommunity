@@ -274,6 +274,7 @@ Interesting resource: :cool:
 * [Path](https://github.com/AngryAnt/Path) - Pathfinding library for the Unity engine.
 * [AirSim](https://github.com/Microsoft/AirSim "") - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 * [Ngx](https://github.com/keijiro/Ngx "") - Neural network based visual generator and mixer.
+* [Unity Formation Movement](https://github.com/Goodgulf281/Unity-Formation-Movement "") - Formation movement for Unity3D using standard Navmesh or A* Pathfinding. (#NAVMESH)
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -317,6 +318,7 @@ Interesting resource: :cool:
 * [Unity3D-SoundManager](https://github.com/baratgabor/Unity3D-SoundManager) - Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
 * [UniIosAudioService](https://github.com/sanukin39/UniIosAudioService) - Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
 * [KlakLasp](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
+* [AudioRecorder](https://github.com/alternator/AudioRecorder) - Audio recorder component for Unity.
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -442,6 +444,7 @@ Interesting resource: :cool:
 * [VR Chat](https://www.vrchat.net/ "") - Lets you create, publish, and explore virtual worlds with other people from around the world.
 * [Pumkins Avatar Tools](https://github.com/rurre/PumkinsAvatarTools "") - A tool to speed up setting up VRChat avatars in Unity.
 * [VRChat Counter](https://github.com/aytimothy/VRChat_Counter "") - A simple counter in VRChat that is network-friendly.
+* [VRCUnityStuffs](https://github.com/lukis101/VRCUnityStuffs "") - Collection of Unity shaders, scripts and prefabs oriented for usage in VRChat.
 
 ## Mixed Reality <a name="mixed-reality"></a>
 
@@ -500,6 +503,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity First Person View](https://github.com/TiagoF11/-Unity-First-Person-View) - An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadows from the environment. 
 * [GyroCam](https://github.com/keijiro/GyroCam) - Quasi-AR with gyroscopic input.
 * [Unity3D PerlinCameraShake](https://github.com/baratgabor/Unity3D-PerlinCameraShake) - Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
+* [Unity Jobs View Frustum Culling](https://github.com/MPozek/Unity-Jobs-View-Frustum-Culling) - A simple collection of jobs used for view frustum culling
 
 ## Physics <a name="physics"></a>
 
@@ -564,7 +568,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityMobileInput](https://github.com/mopsicus/UnityMobileInput "") - Unity mobile Input plugin for iOS and Android (Unity UI compatible).
 * [Virtual Joystick Unity](https://github.com/maydinunlu/virtual-joystick-unity "") - Virtual Joystick for Mobile Devices with Unity3D.
 * [UnityRawInput](https://github.com/Elringus/UnityRawInput "") - Windows Raw Input wrapper for Unity game engine.
-
 
 ### Controller Mappings <a name="controllers-mappings"></a>
 
@@ -658,6 +661,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [MateriaGame DarkRift2 Tutorial](https://github.com/TheUncas/MateriaGame-DarkRift2-tutorial) - DarkRift2 Tutorial. See [more](https://darkriftnetworking.com/DarkRift2).
 * [EmbeddedFPSExample](https://github.com/LestaAllmaron/EmbeddedFPSExample) - An example on how to create a FPS game with Darkrift 2.
 * [DarkriftSerializationExtensions](https://github.com/LestaAllmaron/DarkriftSerializationExtensions) - A small collection of useful extension methods for Darkrift2.
+* [LiteNetLibManager DarkRift2](https://github.com/insthync/LiteNetLibManager_DarkRift2) - DarkRift2 transport layer for LiteNetLibManager project.
 * [ENetListener](https://github.com/LestaAllmaron/ENetListener) - This listener allows you to send UDP and RUDP messages thus chan ging the SendMode.Reliable to use RUDP instead of TCP which has many advantages over TCP.
 
 ## :pencil2: Scripting <a name="scripting"></a>
@@ -717,6 +721,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 #### Reactive
 
 * [UniRx (Reactive Extensions for Unity)](https://github.com/neuecc/UniRx "") - A reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+* [UniRx.Async UPM)](https://github.com/5argon/UniRx.Async-UPM "") - neuecc's UniRx.Async UPM pullable version.
 * [ECSRx](https://github.com/EcsRx/ecsrx) - A reactive take on the ECS pattern for .NET game developers.
 * [ECSRx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with UniRx for fully reactive systems.
 
@@ -1120,6 +1125,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Finder](https://github.com/UnityTech/unity_finder "") - Node.js module for finding all Unity installations on Windows and Mac computers.
 * [Unity3D Tools](https://github.com/TheUncas/unity3D-tools "") - Unity3D common useful tools.
 * [Quick Play Tool](https://github.com/atrblizzard/Quick-Play-Tool "") - Unity3D editor tool to speed up scene switching and playtesting when you are working with multiple scenes.
+* [Cyber Dogs Toolbox](https://github.com/Harley-Torrisi/Cyber-Dogs-Toolbox "") - A default asset used to help in the development of games using C# in Unity.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1366,6 +1372,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [hlsl2glslfork](https://github.com/aras-p/hlsl2glslfork "") - HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.
 * [Unity Realtime Planar Mirror](https://github.com/MaxwellGengYF/Unity-Realtime-Planar-Mirror "") - Powerful, deeply optimized real-time planar mirror in Unity.
 * [Projection Examples Using Mirrors](https://github.com/joansolroo/ProjectionExamples-UsingMirrors "") - This is a simple example of how projectors interact with mirrors.
+* [Unity Dev Basic Geometry Shaders](https://github.com/theMaxscriptGuy/Unity_Dev-BasicGeometryShaders "") - An introduction to Geometry Shaders.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1872,6 +1879,7 @@ screen.
 * [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity. See [Procore](http://www.procore3d.com/).
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
 * [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
+* [Chisel.Prototype](https://github.com/RadicalCSG/Chisel.Prototype) - Work in progress prototype for the Chisel Level Editor, for Unity.
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
 * [Editor2D](https://github.com/stillwwater/editor2d) - Tile based level editor for Unity
