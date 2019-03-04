@@ -478,6 +478,8 @@ Interesting resource: :cool:
 * [KinectSDK Unity3D Interface Plugin](https://github.com/adevine1618/KinectSDK-Unity3D_Interface_Plugin "") - This is a wrapper that allows the user to access Microsoft's Kinect SDK v.1.7 data from inside the free Unity3D game engine.
 * [Deepdive](https://github.com/asymingt/deepdive "") - Rigid body tracking with HTC Vive trackers. (#VIRTUAL-REALITY)
 * [Rsvfx](https://github.com/keijiro/Rsvfx "") - Visual effects by Keijiro using Intel Realsense camera.
+* [Dkvfx](https://github.com/keijiro/Dkvfx "") - An example that shows how to use recorded Depthkit footage with Unity VFX Graph.
+* [Project Gesture](https://github.com/Microsoft/Gestures-Samples "") - [Project Prague](https://labs.cognitive.microsoft.com/en-us/project-gesture) Code Samples.
 
 ## :loudspeaker: Speech Recognition <a name="speech-recognition"></a>
 
@@ -532,6 +534,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Bullet Hell](https://github.com/jongallant/Unity-Bullet-Hell "") - An extremely efficient projectile generator for unity.
 * [Cable Component](https://github.com/NoxWings/Cable-Component "") - Unity cable component implementation similar to the Unreal Engine one based on verlet integration.
 * [StandardizeBows](https://github.com/ahmetahaydemir/StandardizeBows "") - Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component.
+* [Custom Primitive Colliders](https://github.com/WestHillApps/Custom-Primitive-Colliders "") - Custom primitive colliders for Unity.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -1515,6 +1518,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Ground Truth Ambient Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion "") - A physically based screen space ambient occulsion post processing effect.
 * [Unity SRP VXGI](https://github.com/Looooong/Unity-SRP-VXGI "") - Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
 * [ShadowVolume](https://github.com/chengkehan/ShadowVolume "") - Shadow Volume for Static-Scene-Object of Unity.
+* [Brunetons Improved Atmospheric Scattering](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering "") -  Unity port of Brunetons improved atmospheric scattering.
 
 ### Raymarching <a name="raymarching"></a>
 
