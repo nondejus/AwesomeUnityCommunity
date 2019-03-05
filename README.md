@@ -851,6 +851,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [kPortals](https://github.com/Kink3d/kPortals "") - A pre-calculated Portal visibility system for Unity.
 * [UnityHeapDump](https://github.com/Zuntatos/UnityHeapDump "") - Tool to dump memory to text files for inspection.
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
+* [Unity RuntimeCodeExecuter](https://github.com/flamacore/Unity-RuntimeCodeExecuter) - A simple program that uses NET 2.0 library to execute any code in runtime. Specifically oriented for usage in Unity.
 * [HiLog Unity](https://github.com/hiramtan/HiLog_unity "") - HiDebug, the extensions of Unity's debug plugin.
 * [UnitySystemVisualizer](https://github.com/5argon/UnitySystemVisualizer "") - Unity ECS's system visualizer.
 * [Unity3D Runtime Debug Draw](https://github.com/jagt/unity3d-runtime-debug-draw "") - Single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
@@ -858,6 +859,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [upm.MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 * [com.bovinelabs.analyzers](https://github.com/tertle/com.bovinelabs.analyzers "") - Package to add Roslyn Analyzers to Unity projects.
 * [UnityDebugDrawer](https://github.com/imxzjv/UnityDebugDrawer "") - Draw debug handles and other GUI elements in the scene view from anywhere in your code base.
+* [UnityDebugAutoRemove](https://github.com/flamacore/UnityDebugAutoRemove "") - Auto remove debug.log lines with this simple replacer unless it's a development build.
 * [CODA](https://github.com/kcers/coda "") - Burst Compiler Static Code Analysis.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
@@ -977,6 +979,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo "") - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime.
 * [FastGizmosUnity](https://github.com/sverdegd/FastGizmosUnity "") - Set of gizmos utilities for Unity.
 * [Gizmos](https://github.com/popcron/gizmos) - Used for drawing runtime gizmos in builds and editor (Unity3D).
+* [Unity SimpleUsefulGizmos](https://github.com/flamacore/Unity-SimpleUsefulGizmos) - Additional Gizmos showing information on your scene view like colored colliders, rotation indicator lines.
 
 #### Splines
 
@@ -1380,6 +1383,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Realtime Planar Mirror](https://github.com/MaxwellGengYF/Unity-Realtime-Planar-Mirror "") - Powerful, deeply optimized real-time planar mirror in Unity.
 * [Projection Examples Using Mirrors](https://github.com/joansolroo/ProjectionExamples-UsingMirrors "") - This is a simple example of how projectors interact with mirrors.
 * [Unity Dev Basic Geometry Shaders](https://github.com/theMaxscriptGuy/Unity_Dev-BasicGeometryShaders "") - An introduction to Geometry Shaders.
+* [UnityHDRPTerrainDetailGrass](https://github.com/flamacore/UnityHDRPTerrainDetailGrass "") - A very simple detail shader for the new Terrain engine 2018.3+.
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1829,6 +1833,7 @@ screen.
 * [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity.
 * [Reorderable List Example](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
 * [Unity Runtime Inspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
+* [ExtendedTransformEditor](https://github.com/keenanwoodall/ExtendedTransformEditor "") - A clutterless custom Transform editor for Unity.
 * [Inspector Foldout Group](https://github.com/dimmpixeye/InspectorFoldoutGroup "") - Group variables in Unity 3d inspector with style!
 * [Unity3D Property Enabled Inspector](https://github.com/XaeroDegreaz/unity3d-property-enabled-inspector "") - This project aims to allow C# properties to be fully supported for in-editor inspection.
 * [Unity Reorderable List](https://github.com/cfoulston/Unity-Reorderable-List "") - Extended version of the Reorderable List in Unity.
@@ -2049,6 +2054,7 @@ screen.
 * [AnotherThreadECS](https://github.com/Unity-Technologies/AnotherThreadECS "") - A demo made with ECS.
 * [Laser Eye Surgery](https://github.com/dixonary/laser-eye-surgery "") - A game made with Unity in 48 hours for Global Game Jam, using the Tobii EyeX Eye Tracker.
 * [Unity Visual Effects Graph Practice](https://github.com/ya7gisa0/Unity-Visual-Effects-Graph-Practice "") - Project data of my artwork "Demographics of Israel: Data Sculpture".
+* [Unity Graphics Demo](https://github.com/Heep042/Unity-Graphics-Demo "") - This is a project demonstrating the capabilities of the Unity 3D engine. Everything is taken from all over the place. Links to the original owners are provided.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
