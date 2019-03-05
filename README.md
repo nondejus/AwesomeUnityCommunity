@@ -246,6 +246,7 @@ Interesting resource: :cool:
 * [Pathfinding](https://github.com/antonpantev/pathfinding "") - Find paths in Unity Tilemaps with A* Search.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "") - A Unity library for common movement AI.
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
+* [Astar Pathfinding](https://github.com/wawethewaras/Astar-Pathfinding) - 2D pathfinding for Unity.
 * [Apex Path](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles. :moneybag:
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [Behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
@@ -676,6 +677,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LinHowe GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm "") - Based on Unity to simply implement algorithms commonly used in game program development.
 * [LinHowe GameAlgorithm](https://github.com/jesta88/Unity-Voronoi "") - Port of [Javascript Voronoi](https://github.com/gorhill/Javascript-Voronoi) by Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
 * [Unity Metaballs 2D](https://github.com/luke161/Unity-Metaballs-2D "") - Implementation of 2D Metaballs with marching squares in Unity. (#2D)
+* [Metaball Sample](https://github.com/Butadiene/Metaball-sample "") - Metaball sample.
 * [Catmull Rom Splines](https://github.com/JPBotelho/Catmull-Rom-Splines "") - Catmull-Rom spline implementation in Unity.
 * [Marching Cubes On The GPU](https://github.com/Scrawk/Marching-Cubes-On-The-GPU "") - A implementation of the marching cubes algorithm on the GPU in Unity.
 * [Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
@@ -856,6 +858,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [upm.MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity "") - A set of tools for Unity to allow handling memory info for Android and iOS.
 * [com.bovinelabs.analyzers](https://github.com/tertle/com.bovinelabs.analyzers "") - Package to add Roslyn Analyzers to Unity projects.
 * [UnityDebugDrawer](https://github.com/imxzjv/UnityDebugDrawer "") - Draw debug handles and other GUI elements in the scene view from anywhere in your code base.
+* [CODA](https://github.com/kcers/coda "") - Burst Compiler Static Code Analysis.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -887,6 +890,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder for Unity.
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
 * [UnityMeshSimplifier (Official)](https://github.com/Unity-Technologies/UnityMeshSimplifier) - Mesh simplification for Unity (Official).
+* [EzySlice](https://github.com/DavidArayan/EzySlice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
 * [CosineGradient](https://github.com/keijiro/CosineGradient) - Cosine gradient generator for Unity.
 * [PerfAssist](https://github.com/GameBuildingBlocks/PerfAssist) - Various performance-related components for Unity development.
@@ -1486,6 +1490,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Particle Scaler](https://github.com/minhhh/unity-particle-scaler "") - Convenient Editor Window to scale Unity's Shuriken Particle System. (#EXTENSIBILITY)
 * [ParticleCloudVRC](https://github.com/lukis101/ParticleCloudVRC "") - Interactable shader-based particle system for VRChat/Unity. (#SHADERS) (#VIRTUAL-REALITY)
 * [GPUTrail](https://github.com/fuqunaga/GPUTrail "") - Trails with ComputeShader implementtaion for Unity.
+* [GPUPTrail](https://github.com/Butadiene/GPUPTrail "")
 * [TrailBoids](https://github.com/keijiro/TrailBoids "") - Just tried making boids with particle trails.
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
@@ -1991,6 +1996,7 @@ screen.
 * [XAsset](https://github.com/fengjiyuan/xasset "")
 * [UAS Issue Tracker](https://github.com/uas-publishers/uas-issuetracker "") - Unofficial Issuetracker for the Unity Asset Store.
 * [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
+* [RotateMe](https://github.com/mob-sakai/RotateMe "") - A tutorial for "How to develop a package for UnityPackageManager".
 
 ## Modding <a name="modding"></a>
 
@@ -2040,6 +2046,7 @@ screen.
 * [PeppersGhostStage](https://github.com/cecarlsen/PeppersGhostStage "") - Perppers Ghost stage model.
 * [UnitySamples](https://github.com/hiryma/UnitySamples "")
 * [Hw18 Infinity ECS](https://github.com/UnityTech/hw18-infinity-ecs "") - Unity Hackweek 2018 project.
+* [AnotherThreadECS](https://github.com/Unity-Technologies/AnotherThreadECS "") - A demo made with ECS.
 * [Laser Eye Surgery](https://github.com/dixonary/laser-eye-surgery "") - A game made with Unity in 48 hours for Global Game Jam, using the Tobii EyeX Eye Tracker.
 * [Unity Visual Effects Graph Practice](https://github.com/ya7gisa0/Unity-Visual-Effects-Graph-Practice "") - Project data of my artwork "Demographics of Israel: Data Sculpture".
 
@@ -2126,6 +2133,7 @@ screen.
 * [UnityShaderCheatsheet](https://github.com/nothke/UnityShaderCheatsheet) - Collection of Unity shader copypastas and gotchas.
 * [Simple ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
 * [Unity Projection Mapping Tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
+* [Unity Android Plugin Example](https://github.com/Real-Serious-Games/Unity-Android-Plugin-Example "") - A simple example of an Android specific plugin for Unity3D.
 
 ## :star: Best Practices <a name="best-practices"></a>
 
