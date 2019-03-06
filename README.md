@@ -393,6 +393,7 @@ Interesting resource: :cool:
 * [Mesh Maker VR](https://github.com/createthis/mesh_maker_vr "") - Mesh Maker VR.
 * [CreateThis VR UI](https://github.com/createthis/createthis_vr_ui "") - User Interface system for Mesh Maker VR.
 * [YVTuber](https://github.com/youten/YVTuber "") - YVTuber(Yume VTuber System) is Unity project for VTuber(Virtual YouTuber).
+* [XLand](https://github.com/huisedenanhai/XLand "") - Live2D VTuber(Virtual YouTuber) App with extensible node graph editor.
 * [TBUTT-VR](https://github.com/turbobutton/tbutt-vr "") - A lightweight multiplatform interface for making VR games in Unity.
 * [VketBoothValidator](https://github.com/Kozu-vr/VketBoothValidator "")
 * [NoloUnity](https://github.com/n1ckfg/NoloUnity "") - Motion tracking system for virtual/augmented reality. See [NOLO driver for Windows](https://github.com/NOLOVR/NOLO-Driver-For-Windows). More [info](https://www.nolovr.com/index).
@@ -405,6 +406,7 @@ Interesting resource: :cool:
 * [User Reporting VR](https://github.com/UnityTech/user-reporting-vr "") - A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
 * [Unity Chemical Engine](https://github.com/zrdumped/Unity-Chemical-Engine "") - A VR Chemical Reaction & Experiments Simulation Application Developed by Unity3D.
 * [LilyRender360](https://github.com/eliemichel/LilyRender360 "") - Lily Render 360 is a tool for rendering a Unity scene into stitch-free equirectangular images.
+* [UnityVR Interaction](https://github.com/RandolphM/UnityVR-Interaction "") - Any VR (Virtual Reality) headset can work.
 
 ### HTC Vive
 
@@ -1722,6 +1724,7 @@ screen.
 * [Procedural Shapes for Unity](https://bitbucket.org/alexzzzz/procedural-shapes-for-unity) - A set of procedural shapes for Unity.
 * [IcoSphereCreator](https://github.com/kaiware007/IcoSphereCreator) - Create Ico Sphere Mesh Tool for Unity.
 * [Shapes](https://github.com/olange/shapes) - Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
+* [Unity.ProceduralContentGeneration Terrain](https://github.com/ErikMoczi/Unity.ProceduralContentGeneration-Terrain) - (#TERRAIN)
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
