@@ -714,6 +714,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
+* [ECS](https://github.com/adizhavo/ECS "") - An entity component system framework that uses generics to achieve composition without having the need to write new code in the entity class.
 
 #### Inversion of Control (IOC)
 
@@ -1854,6 +1855,7 @@ screen.
 * [Render Queue](https://github.com/FreyaHolmer/Render-Queue) - Render Queue Unity Extension.
 * [Pongpector](https://github.com/PhillipMwaniki/pongpector "") - Play a pong on a Unity custom inspector. (#GAMES)
 * [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
+* [UnityMarkdeepViewer](https://github.com/Sirithang/UnityMarkdeepViewer "") - Editor scripts allowing to display Markdown, markdeep and HMTL directly inside the Unity Editor.
 
 ### Timeline <a name="timeline"></a>
 
@@ -2055,6 +2057,7 @@ screen.
 * [Laser Eye Surgery](https://github.com/dixonary/laser-eye-surgery "") - A game made with Unity in 48 hours for Global Game Jam, using the Tobii EyeX Eye Tracker.
 * [Unity Visual Effects Graph Practice](https://github.com/ya7gisa0/Unity-Visual-Effects-Graph-Practice "") - Project data of my artwork "Demographics of Israel: Data Sculpture".
 * [Unity Graphics Demo](https://github.com/Heep042/Unity-Graphics-Demo "") - This is a project demonstrating the capabilities of the Unity 3D engine. Everything is taken from all over the place. Links to the original owners are provided.
+* [ChemistryEngine](https://github.com/Dalab-LabX/ChemistryEngine "") - Chemistry Engine for Unity.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
