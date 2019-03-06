@@ -1385,6 +1385,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Projection Examples Using Mirrors](https://github.com/joansolroo/ProjectionExamples-UsingMirrors "") - This is a simple example of how projectors interact with mirrors.
 * [Unity Dev Basic Geometry Shaders](https://github.com/theMaxscriptGuy/Unity_Dev-BasicGeometryShaders "") - An introduction to Geometry Shaders.
 * [UnityHDRPTerrainDetailGrass](https://github.com/flamacore/UnityHDRPTerrainDetailGrass "") - A very simple detail shader for the new Terrain engine 2018.3+.
+* [UnityHDRPSimpleWater](https://github.com/flamacore/UnityHDRPSimpleWater "") - Simple water shader prepared with ShaderGraph in Unity 2018.3.6.
 
 ### Skyboxes <a name="skyboxes"></a>
 
