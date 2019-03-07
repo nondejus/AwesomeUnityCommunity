@@ -1418,6 +1418,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Dev Basic Geometry Shaders](https://github.com/theMaxscriptGuy/Unity_Dev-BasicGeometryShaders "") - An introduction to Geometry Shaders.
 * [UnityHDRPTerrainDetailGrass](https://github.com/flamacore/UnityHDRPTerrainDetailGrass "") - A very simple detail shader for the new Terrain engine 2018.3+.
 * [UnityHDRPSimpleWater](https://github.com/flamacore/UnityHDRPSimpleWater "") - Simple water shader prepared with ShaderGraph in Unity 2018.3.6.
+* [Unity HDRP SpeedTree Materials](https://github.com/flamacore/UnityHDRPSpeedTreeMaterials "") - Material replacements for getting SpeedTree models to work on HDRP Terrain. Highly experimental. 
 
 ### Skyboxes <a name="skyboxes"></a>
 
@@ -1579,6 +1580,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityCodes](https://github.com/springd5211/UnityCodes "") - Unity UI controls.
 * [UIElementsExamples](https://github.com/Unity-Technologies/UIElementsExamples "") - Unity project containing examples to use UIElements in the Editor.
 * [Unity_UI_Samples](https://github.com/tsubaki/Unity_UI_Samples "")
+* [Rec-Ex](https://github.com/slavniyteo/rect-ex "") - Unity3D Rect Extensions.
 
 #### Minimap <a name="ui-controls-minimap"></a>
 
