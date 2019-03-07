@@ -373,6 +373,8 @@ Interesting resource: :cool:
 * [Location-Based-Markerless-Augmented-Reality](https://github.com/hynra/Location-Based-Markerless-Augmented-Reality "") - Markerless Augmented Reality based on location made with Unity and Kudan AR SDK.
 * [Tango Examples Unity](https://github.com/googlearchive/tango-examples-unity "") - Project Tango UnitySDK Example Projects (#DEPRECATED).
 * [AR Unity](https://github.com/Bewolf2/AR-Unity "") - Augmented Reality in Unity. Uses [ALVAR](http://virtual.vtt.fi/virtual/proj2/multimedia/alvar/index.html) and OpenCV.
+* [MagicLeapFramework Unity](https://github.com/jamesashley1/MagicLeapFramework-Unity "") - Unity helper classes and examples to accelerate prototyping for Magic Leap.
+
 
 ## Virtual Reality <a name="virtual-reality"></a>
 
@@ -453,6 +455,7 @@ Interesting resource: :cool:
 
 * [Microsoft Hololens 2](https://www.microsoft.com/en-us/hololens "") - Second generation mixed reality device developed by Microsoft. See its [guides](https://azure.microsoft.com/es-es/topic/mixed-reality/).
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
+* [Ong Sharing Drag n Drop](https://github.com/mr0ng/Ong-Sharing-Drag-n-Drop "") - Ong's Drag and Drop Sharing Solution.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
 * [Visual Profiler Unity)](https://github.com/Microsoft/VisualProfiler-Unity "") - The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
 * [Unity Cognitive Services Demos](https://github.com/misslivirose/unity-cognitive-services-demos "") - Examples of using Microsoft's Cognitive Services in Unity for HoloLens.
@@ -470,6 +473,7 @@ Interesting resource: :cool:
 ## Computer Vision & Tracking <a name="computer-vision-and-tracking"></a>
 
 * [Azure Kinect](https://azure.microsoft.com/es-es/services/kinect-dk/ "") - A developer kit and PC peripheral with advanced artificial intelligence (AI) sensors for sophisticated computer vision and speech models. See its [specs](https://opdhsblobprod03.blob.core.windows.net/contents/503db294612a42b3b95420aaabac44cc/0b5422607ce5da1919083d6373d49fa4?sv=2015-04-05&sr=b&sig=zX1I4tMK6KYa89hVIPJWpSH%2FYsVptK%2Fr07MaUipuVDM%3D&st=2019-02-25T07%3A36%3A47Z&se=2019-02-26T07%3A46%3A47Z&sp=r).
+* [K4Wv2UnityBridge](https://github.com/jamesashley1/K4Wv2UnityBridge "") - A Kinect v2 bridge for Unity notes: 1. currently 64-bit, so plays but does not run in editor 2. curently hd color stream only.
 * [Leap Motion](https://www.leapmotion.com/ "") - A computer hardware sensor device that supports hand and finger motions as input, analogous to a mouse, but requires no hand contact or touching.
 * [Leap Motion Core Assets](https://github.com/leapmotion/LeapMotionCoreAssets "") - Unity Assets for Leap Motion v2 Skeletal Tracking.
 * [Project North Star](https://github.com/leapmotion/ProjectNorthStar "") - The open-source files comprising Leap Motion's Project North Star AR Headset. See the blog post [here](http://blog.leapmotion.com/north-star-open-source/).
@@ -669,6 +673,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DarkriftSerializationExtensions](https://github.com/LestaAllmaron/DarkriftSerializationExtensions) - A small collection of useful extension methods for Darkrift2.
 * [LiteNetLibManager DarkRift2](https://github.com/insthync/LiteNetLibManager_DarkRift2) - DarkRift2 transport layer for LiteNetLibManager project.
 * [ENetListener](https://github.com/LestaAllmaron/ENetListener) - This listener allows you to send UDP and RUDP messages thus chan ging the SendMode.Reliable to use RUDP instead of TCP which has many advantages over TCP.
+* [WebRTC Unity Plugin](https://github.com/bengreenier/webrtc-unity-plugin) - Cross-platform Webrtc support for Unity apps. (#PLUGINS)
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -713,6 +718,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Entitas (Official)](https://github.com/sschmid/Entitas-CSharp "") - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.
 * [BovineLabs Entities](https://github.com/tertle/com.bovinelabs.entities "") - A collection of extensions, systems and jobs for Unity ECS.
 * [Entitas Lite](https://github.com/rocwood/Entitas-Lite "") - Entitas-Lite is a No-CodeGenerator branch of Entitas, and also a fast & easy ECS framework for C#/Unity. 
+* [ECS Unity](https://github.com/dimmpixeye/ecs.unity "") - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors.
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
@@ -1139,6 +1145,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D Tools](https://github.com/TheUncas/unity3D-tools "") - Unity3D common useful tools.
 * [Quick Play Tool](https://github.com/atrblizzard/Quick-Play-Tool "") - Unity3D editor tool to speed up scene switching and playtesting when you are working with multiple scenes.
 * [Cyber Dogs Toolbox](https://github.com/Harley-Torrisi/Cyber-Dogs-Toolbox "") - A default asset used to help in the development of games using C# in Unity.
+* [UnityCommon](https://github.com/brihernandez/UnityCommon "") - Assortment of commonly re-used tools and code for my Unity projects.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1647,6 +1654,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ScreenManager](https://github.com/Xerios/ScreenManager "") - Flexible way to manage screens with transitions for Unity.
 * [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking in such an asset (until this was released on the asset store).
 * [UnityMenuSystem](https://github.com/YousicianGit/UnityMenuSystem "") - Menu System for Unity.
+* [uGUI Window Menu](https://github.com/JINZO631/uGUI-window-menu "") - Simple uGUI menu.
 
 ### Effects <a name="ui-effects"></a>
 
@@ -1757,6 +1765,7 @@ screen.
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity.
 * [PVRTexTool Wrapper](https://github.com/fxgames/pvrtextool_wrapper) - PVRTexTool wrapper for Unity3D.
 * [Animation Texture Baker](https://github.com/zulfajuniadi/Animation-Texture-Baker) - Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
+* [VertexAnimator](https://github.com/nobnak/VertexAnimator)
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
 
@@ -1839,6 +1848,7 @@ screen.
 * [Reorderable List Example](https://github.com/valyard/ReorderableListExample "") - Example project for UnityEditorInternal.ReorderableList in Unity 4.5.
 * [Unity Runtime Inspector](https://github.com/yasirkula/UnityRuntimeInspector "") - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes.
 * [ExtendedTransformEditor](https://github.com/keenanwoodall/ExtendedTransformEditor "") - A clutterless custom Transform editor for Unity.
+* [ExtendedTransformEditor](https://github.com/starikcetin/ExtendedTransformEditor "") - A clutterless custom Transform editor for Unity.
 * [Inspector Foldout Group](https://github.com/dimmpixeye/InspectorFoldoutGroup "") - Group variables in Unity 3d inspector with style!
 * [Unity3D Property Enabled Inspector](https://github.com/XaeroDegreaz/unity3d-property-enabled-inspector "") - This project aims to allow C# properties to be fully supported for in-editor inspection.
 * [Unity Reorderable List](https://github.com/cfoulston/Unity-Reorderable-List "") - Extended version of the Reorderable List in Unity.
@@ -1860,6 +1870,7 @@ screen.
 * [Pongpector](https://github.com/PhillipMwaniki/pongpector "") - Play a pong on a Unity custom inspector. (#GAMES)
 * [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
 * [UnityMarkdeepViewer](https://github.com/Sirithang/UnityMarkdeepViewer "") - Editor scripts allowing to display Markdown, markdeep and HMTL directly inside the Unity Editor.
+* [UnityDebugger](https://github.com/joexi/UnityDebugger "") - Lite tool helping check runtime status of unity application in Editor.
 
 ### Timeline <a name="timeline"></a>
 
@@ -2062,6 +2073,8 @@ screen.
 * [Unity Visual Effects Graph Practice](https://github.com/ya7gisa0/Unity-Visual-Effects-Graph-Practice "") - Project data of my artwork "Demographics of Israel: Data Sculpture".
 * [Unity Graphics Demo](https://github.com/Heep042/Unity-Graphics-Demo "") - This is a project demonstrating the capabilities of the Unity 3D engine. Everything is taken from all over the place. Links to the original owners are provided.
 * [ChemistryEngine](https://github.com/Dalab-LabX/ChemistryEngine "") - Chemistry Engine for Unity.
+* [Eflatun.ReflectiveECS](https://github.com/starikcetin/Eflatun.ReflectiveECS "") - A proof of concept for a reflection-based ECS system for C#.
+* [Unity3D Experiments](https://github.com/papaboo/Unity3D-experiments "") - A unity project containing several subprojects with experiments. They have been stuffed into one project to easily share resources across experiments.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
