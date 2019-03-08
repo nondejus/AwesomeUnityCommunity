@@ -374,7 +374,7 @@ Interesting resource: :cool:
 * [Tango Examples Unity](https://github.com/googlearchive/tango-examples-unity "") - Project Tango UnitySDK Example Projects (#DEPRECATED).
 * [AR Unity](https://github.com/Bewolf2/AR-Unity "") - Augmented Reality in Unity. Uses [ALVAR](http://virtual.vtt.fi/virtual/proj2/multimedia/alvar/index.html) and OpenCV.
 * [MagicLeapFramework Unity](https://github.com/jamesashley1/MagicLeapFramework-Unity "") - Unity helper classes and examples to accelerate prototyping for Magic Leap.
-
+* [Magic Leap Dev Resources](https://github.com/MagicLeapDevs/MagicLeapDevResources "") - Magic Leap Developer Resources for the Lumin SDK and Magic Leap One.
 
 ## Virtual Reality <a name="virtual-reality"></a>
 
@@ -613,6 +613,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [GameToolkit Localization](https://github.com/ibrahimpenekli/GameToolkit-Localization "") - Asset localization system for Unity.
 * [Unity_CSV_Localization](https://github.com/xacalite/Unity_CSV_Localization "") - Simple system for using localization values (language translations) from a CSV file in a Unity project.
 * [UnityLocalizationManager](https://github.com/Mukarillo/UnityLocalizationManager "") - Localization system to manage multiple languages including date time, currencies, and other informations that change depending on current language.
+* [Diplomata Unity](https://github.com/lavaleak/diplomata-unity "") - A Unity multi language dialogues content management system and editor extension inspired by Twine, like Fungus and Yarn, but is not node based.
 
 ## :satellite: Networking <a name="networking"></a>
 
@@ -745,6 +746,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
 * [ECS](https://github.com/adizhavo/ECS "") - An entity component system framework that uses generics to achieve composition without having the need to write new code in the entity class.
+* [ECS FAQ](https://github.com/SanderMertens/ecs-faq "") - Frequently asked questions about ECS.
 
 #### Inversion of Control (IOC)
 
@@ -1897,6 +1899,7 @@ screen.
 * [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet "") - Enables you to use spreadsheet file data within Unity editor.
 * [UnityMarkdeepViewer](https://github.com/Sirithang/UnityMarkdeepViewer "") - Editor scripts allowing to display Markdown, markdeep and HMTL directly inside the Unity Editor.
 * [UnityDebugger](https://github.com/joexi/UnityDebugger "") - Lite tool helping check runtime status of unity application in Editor.
+* [ReferenceVisualizerUnity3D](https://github.com/Sebastian-Schuchmann/ReferenceVisualizerUnity3D "") - An Editor Window that lets you see and edit all references of your Scene Objects.
 
 ### Timeline <a name="timeline"></a>
 
