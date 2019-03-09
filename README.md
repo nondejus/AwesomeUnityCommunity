@@ -109,7 +109,8 @@
 	- [Themes / Skins](#ui-themes-skins)	
   	- [Testing](#ui-testing)
   - [Procedural Generation](#procedural-generation)
-  - [Terrain](#terrain) 
+  - [Terrain](#terrain)
+  - [NavMesh](#navmesh) 
   - [Textures](#textures)
   - [Importers & Exporters](#importers-exporters)
   - [Databases](#databases)
@@ -1506,6 +1507,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-4183?aid=1100l35sb&utm_source=aff "") - Free skybox from the Asset Store.
 * [LSky Dynamic Skydome Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3D.
 * [Celeste Sky Core Unity](https://github.com/Rallec/Celeste-Sky-Core-Unity "") - Dynamic Sky for Unity.
+* [CloudSkybox](https://github.com/AsehesL/CloudSkybox "") - Skybox shader with volumetric clouds.
 
 ### Effects <a name="effects"></a>
 
@@ -1853,13 +1855,14 @@ screen.
 * [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions "") -  Custom tools for use with [Vegetation Studio Pro](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835). 
 * [Hydraulic Erosion](https://github.com/SebLague/Hydraulic-Erosion "") -  Simulating erosion to try make procedural terrains look a little more natural.
 
-## Navigation Mesh (NavMesh)
+## Navigation Mesh (NavMesh) <a name="navmesh"></a>
 
 * [ST2U2DNavMeshImporter](https://github.com/SharlatanY/ST2U2DNavMeshImporter "") - Provides a custom importer to automatically setting up 2D Navmeshes (Using NavMeshSurface2DBaker) when importing "Tiled" tilemaps through SuperTiled2Unity.
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker "") - Provides functionality to bake 2D colliders into NavMeshSurface components.
 * [NavMeshPlus](https://github.com/h8man/NavMeshPlus "") - Unity NavMesh 2D Pathfinding.
 * [Unity ECS NavMesh](https://github.com/zulfajuniadi/unity-ecs-navmesh "") - A demo implementation of Unity Entity Component System with NavMesh.
 * [Navigator](https://github.com/liuhaopen/Navigator "") - This project provides unity scripts to export navmesh data into tile cache files that can be used directly by recastnavigation.
+* [NavMeshPainter](https://github.com/AsehesL/NavMeshPainter "")
 
 ## :art: Textures <a name="textures"></a>
 
@@ -1871,6 +1874,7 @@ screen.
 * [PVRTexTool Wrapper](https://github.com/fxgames/pvrtextool_wrapper) - PVRTexTool wrapper for Unity3D.
 * [Animation Texture Baker](https://github.com/zulfajuniadi/Animation-Texture-Baker) - Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
 * [AudioTexture](https://github.com/TyounanMOTI/AudioTexture) - Generate Unity Texture2D from AudioClip. (#AUDIO)
+* [UVPreview](https://github.com/AsehesL/UVPreview) - Preview your UV islands in inspector window for your textures.
 * [VertexAnimator](https://github.com/nobnak/VertexAnimator)
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 * [CC0 Textures](https://cc0textures.com/) - Free PBR textures.
