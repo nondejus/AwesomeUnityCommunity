@@ -135,7 +135,11 @@
 	- [Packs](#packs)
 	- [Utilities](#extensibility-utilities)
 	- [WebGL](#webgl)
-	- [Others](#extensibility-others)	
+	- [Others](#extensibility-others)
+  - [Asset Management](#assets-management)
+  	- [Package Management](#assets-management-packages)
+  	- [Asset Bundles](#assets-management-bundles)
+  	- [Asset Store](#assets-management-store)
   - [Modding](#modding)
   - [Miscellaneuous](#miscellaneous)  
 - [Learning Resources](#learning-resources)
@@ -1847,6 +1851,7 @@ screen.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
+* [Microsplat](https://assetstore.unity.com/packages/tools/terrain/microsplat-96478) - A modular free terrain shading system focused on performance and ease of use. MicroSplat is described as a replacement shader system for Unity Terrains.
 * [Terrain Topology Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms "") - Terrain topology algorithms in Unity.
 * [Unity DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
 * [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
@@ -2106,9 +2111,9 @@ screen.
 * [Unity Editor LINQ Extensions](https://github.com/bandures/Unity-Editor-LINQ-Extensions) -  Extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties.
 * [UnityExtensions MeshIntersection](https://github.com/garettbass/UnityExtensions.MeshIntersection) - Perform a raycast against one or more meshes.
 
-## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
+## :department_store: Asset Management <a name="assets-management"></a>
 
-### Package Management
+### Package Management <a name="assets-management-packages"></a>
 
 * [Unity Asset Store](https://assetstore.unity.com/) - Official asset store for unity.
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
@@ -2122,7 +2127,7 @@ screen.
 * [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
 * [RotateMe](https://github.com/mob-sakai/RotateMe "") - A tutorial for "How to develop a package for UnityPackageManager".
 
-### Asset Bundle
+### Asset Bundles <a name="assets-management-bundles"></a>
 
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
 * [KEngine](https://github.com/mr-kelly/KEngine) - A Unity3D asset bundle framework with LGPL license.
@@ -2137,7 +2142,7 @@ screen.
 * [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker "")
 * [XAsset](https://github.com/fengjiyuan/xasset "")
 
-### Asset Store
+### Asset Store <a name="assets-management-store"></a>
 
 * [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
 * [Asset Store Support Window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
