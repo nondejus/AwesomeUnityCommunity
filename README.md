@@ -42,6 +42,13 @@
   - [Tweening](#tweening)
   - [Augmented Reality](#augmented-reality)
   - [Virtual Reality](#virtual-reality)
+  	- [Common](#virtual-reality-common)
+  	- [HTC Vive](#virtual-reality-htcvive)
+  	- [Oculus](#virtual-reality-oculus)
+	- [Google VR](#virtual-reality-googlevr)	
+	- [Steam VR](#virtual-reality-steamvr)
+  	- [Samsung Gear VR](#virtual-reality-samsumg-gear-vr)	
+  	- [VR Chat](#virtual-reality-vrchat)	
   - [Mixed Reality](#mixed-reality)
   - [Computer Vision & Tracking](#computer-vision-and-tracking)
   - [Speech Recognition](#speech-recognition)
@@ -385,7 +392,7 @@ Interesting resource: :cool:
 
 ## Virtual Reality <a name="virtual-reality"></a>
 
-### Common
+### Common <a name="virtual-reality-common"></a>
 
 * [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "") - A productive VR Toolkit for rapidly building VR solutions in Unity3d. :cool:
 * [VRTK Unity Core](https://github.com/ExtendRealityLtd/VRTK.Unity.Core "") - A set of design patterns for rapidly building VR solutions in Unity3D.
@@ -417,7 +424,7 @@ Interesting resource: :cool:
 * [LilyRender360](https://github.com/eliemichel/LilyRender360 "") - Lily Render 360 is a tool for rendering a Unity scene into stitch-free equirectangular images.
 * [UnityVR Interaction](https://github.com/RandolphM/UnityVR-Interaction "") - Any VR (Virtual Reality) headset can work.
 
-### HTC Vive
+### HTC Vive <a name="virtual-reality-htcvive"></a>
 
 * [Vive Input Utility for Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity "") - A toolkit that helps developing/prototyping VR apps.
 * [uViveTrackerWithoutHMD](https://github.com/shop-0761/uViveTrackerWithoutHMD "")
@@ -426,32 +433,32 @@ Interesting resource: :cool:
 * [ViveTrackedDevice](https://github.com/fughilli/ViveTrackedDevice "") - Completely open-source, reverse-engineered implementation of a tracked device for the SteamVR virtual reality system.
 * [VR Speech Sandbox Vive](https://github.com/IBM/vr-speech-sandbox-vive "") - A sample application that demonstrates how to integrate voice commands and speech recognition into a virtual reality experience. 
 
-### Oculus
+### Oculus <a name="virtual-reality-oculus"></a>
 
 * [Oculus Rift DK2 Extend Preview](https://github.com/hammmm/OculusRiftDK2ExtendPreview "") - OculusRift DK2 Unity Editor PreviewScript.
 * [RiftGesture](https://github.com/natbro/RiftGesture "") - Oculus Rift gesture detection.
 * [DH OculusVR Models](https://github.com/BritishMuseum/DH-OculusVR-models "") - 3D models decimated for use in VR experience by Oculus.
 * [VR Speech Sandbox Rift](https://github.com/IBM/vr-speech-sandbox-rift "") - Oculus Rift's version of VR Speech Sandbox Vive.
 
-### SteamVR
+### SteamVR <a name="virtual-reality-steamvr"></a>
 
 * [SteamVR Unity Toolkit](https://github.com/WildStyle69/SteamVR_Unity_Toolkit "") - A collection of useful scripts and prefabs for building SteamVR titles in Unity 5. See it on the [Asset Store](https://www.assetstore.unity3d.com/en/#!/content/64131).
 * [SteamVR Unity Toolkit](https://github.com/n1ckfg/SteamVR_Unity_Toolkit "") - Predecessor of @thestonefox's VRTK, organized as submodule.
 * [SteamVR Unity Plugin](https://github.com/ValveSoftware/steamvr_unity_plugin "") - Steam VR plugin for Unity.
 * [SteamVR Enabler](https://github.com/demonixis/SteamVREnabler "") - A tool to enable or disable the SteamVR runtime.
 
-### Google VR
+### Google VR <a name="virtual-reality-googlevr"></a>
 
 * [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk "") - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS. (https://developers.google.com/vr/unity)
 * [Daydream Renderer for Unity](https://github.com/googlevr/daydream-renderer-for-unity "") - A set of scripts and shaders designed to allow for high quality real-time rendering on the Daydream platform targeting 60fps.
 * [NatCam VR Cardboard](https://github.com/olokobayusuf/NatCam-VR-Cardboard "") - A Google Cardboard VR project using the rear camera preview. Powered by NatCam 1.2.
 * [VR Speech Sandbox Carboard](https://github.com/IBM/vr-speech-sandbox-cardboard "") - Google Carboard's version of VR Speech Sandbox Vive.
 
-### Samsung Gear VR
+### Samsung Gear VR <a name="virtual-reality-samsung-gear-vr"></a>
 
 * [GearVR Leap Unity](https://github.com/levrn/gear-vr-leap-unity "") - Workaround in Unity to use Leap Motion Controller with Gear VR (or any other headset that doesn't support it).
 
-### VRChat
+### VRChat <a name="virtual-reality-vrchat"></a>
 
 * [VR Chat](https://www.vrchat.net/ "") - Lets you create, publish, and explore virtual worlds with other people from around the world.
 * [Pumkins Avatar Tools](https://github.com/rurre/PumkinsAvatarTools "") - A tool to speed up setting up VRChat avatars in Unity.
@@ -488,7 +495,7 @@ Interesting resource: :cool:
 * [Intel Realsense Hand Toolkit for Unity](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity "") - Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D.
 * [ZED SKD Unity Plugin](https://github.com/stereolabs/zed-unity "") - ZED SDK Unity plugin.
 * [UnityCloudVision](https://github.com/comoc/UnityCloudVision "") - Google Cloud Vision API client for Unity.
-* [TensorFlowUnity-ObjectDetection](https://github.com/MatthewHallberg/TensorFlowUnity-ObjectDetection "") - Object detection test project with Tensorflow and Unity.
+* [TensorFlowUnity ObjectDetection](https://github.com/MatthewHallberg/TensorFlowUnity-ObjectDetection "") - Object detection test project with Tensorflow and Unity.
 * [KinectSDK Unity3D Interface Plugin](https://github.com/adevine1618/KinectSDK-Unity3D_Interface_Plugin "") - This is a wrapper that allows the user to access Microsoft's Kinect SDK v.1.7 data from inside the free Unity3D game engine.
 * [Deepdive](https://github.com/asymingt/deepdive "") - Rigid body tracking with HTC Vive trackers. (#VIRTUAL-REALITY)
 * [Rsvfx](https://github.com/keijiro/Rsvfx "") - Visual effects by Keijiro using Intel Realsense camera.
@@ -527,28 +534,28 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [GPU Physics Unity](https://github.com/jknightdoeswork/gpu-physics-unity "") - Through this configuration, no per voxel data is transferred between the GPU and the CPU at runtime.
 * [Jello Physics](https://github.com/kwanchangnim/Jello-Physics "") - 2D Soft Body Physics for Unity.
 * [ECSPhysics](https://github.com/PhilSA/ECSPhysics "") - A physics engine made with Unity ECS.
-* [UnityPhysics2D](https://github.com/MelvynMay/UnityPhysics2D) - Examples of various Unity 2D Physics components and features. 
-* [PBD Fluid in Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) - A PBD fluid in unity running on the GPU. 
-* [UnityMathReference](https://github.com/zezba9000/UnityMathReference) - Math reference for games and more. All visualized in Unity3D.
-* [Custom 2D Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
-* [Quickfracture](https://github.com/OskarSigvardsson/quickfracture) - A unity destruction effect.
-* [Unity Fluid Simulation 2D](https://github.com/giangchau92/Unity-Fluid-Simulation-2D) - Using extended camera to render particles then metalball processing with shader.
-* [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
-* [Unity Burst_Shape Matching](https://github.com/nialltl/unity_burst_shape_matching "") - Parallelised 2D deformable bodies using the C# Job system, Unity's Burst compiler and GPU instancing.
-* [Unity3D QuadTree Collision Detection](https://github.com/Chabinka/Unity3d-QuadTree-Collision-Detection "") - QuadTree and Collision Detection Systems for Unity3d.
-* [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
+* [UnityPhysics2D](https://github.com/MelvynMay/UnityPhysics2D) - Examples of various Unity 2D Physics components and features.
 * [HedgePhysics](https://github.com/Camano/HedgePhysics "") - A open source 3D Sonic engine made in Unity.
+* [Jitter Physics for Unity](https://bitbucket.org/alexzzzz/jitter-physics-for-unity "") - An abandoned attempt to integate [Jitter Physics](https://github.com/mattleibow/jitterphysics) engine into Unity.
+* [Unity Burst_Shape Matching](https://github.com/nialltl/unity_burst_shape_matching "") - Parallelised 2D deformable bodies using the C# Job system, Unity's Burst compiler and GPU instancing.
+* [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
 * [Clothing System 3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
 * [OpenRelativity](https://github.com/MITGameLab/OpenRelativity "") - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games.
 * [Fusion](https://github.com/Ninjajie/Fusion "") - Unity Physics on GPU.
 * [Qu3e Sharp](https://github.com/willnode/Qu3e-Sharp "") - Lightweight and Simple 3D Open Source Physics Engine ported to C#.
-* [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
-* [Jitter Physics for Unity](https://bitbucket.org/alexzzzz/jitter-physics-for-unity "") - An abandoned attempt to integate [Jitter Physics](https://github.com/mattleibow/jitterphysics) engine into Unity.
 * [UnityNativeCollision](https://github.com/imxzjv/UnityNativeCollision "") - SAT Collision in C# for Unity3D Burst Compiler. Another [user](https://github.com/jeffvella/UnityNativeCollision) has it too.
 * [Unity Bullet Hell](https://github.com/jongallant/Unity-Bullet-Hell "") - An extremely efficient projectile generator for unity.
+* [UnityMathReference](https://github.com/zezba9000/UnityMathReference) - Math reference for games and more. All visualized in Unity3D.
+* [Custom 2D Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
+* [Custom Primitive Colliders](https://github.com/WestHillApps/Custom-Primitive-Colliders "") - Custom primitive colliders for Unity.
+* [Unity3D QuadTree Collision Detection](https://github.com/Chabinka/Unity3d-QuadTree-Collision-Detection "") - QuadTree and Collision Detection Systems for Unity3d.
+* [Quickfracture](https://github.com/OskarSigvardsson/quickfracture) - A unity destruction effect.
 * [Cable Component](https://github.com/NoxWings/Cable-Component "") - Unity cable component implementation similar to the Unreal Engine one based on verlet integration.
 * [StandardizeBows](https://github.com/ahmetahaydemir/StandardizeBows "") - Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component.
-* [Custom Primitive Colliders](https://github.com/WestHillApps/Custom-Primitive-Colliders "") - Custom primitive colliders for Unity.
+* [Unity Fluid Simulation 2D](https://github.com/giangchau92/Unity-Fluid-Simulation-2D) - Using extended camera to render particles then metalball processing with shader.
+* [PBD Fluid in Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) - A PBD fluid in unity running on the GPU. 
+* [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
+* [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -2458,12 +2465,9 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Reorder category resources by most well known resources if possible.
 * Starter kit section with all the things needed or recommended for beginners.
 * Include resources for recommended asset store packages section (well tested, most voted and so on).
-* Fill up continuous integration section.
-* Fill up people to follow.
 * Fill up communities section.
 * Fill snippets and gists under scripting section.
 * Create more categories for specific resources that don't combine well.
-* Add section for mesh navigation (NavMesh)
 * Add category for vector graphics.
 * Add natural language processing section (AI section should contain 1. Reasoning, 2. Knowledge representation, 3. Automated planning and scheduling, 4. Machine learning, 5. Natural language processing, 6. Computer vision, 7. Robotics, 8. General intelligence, or strong AI).
 * Add category for embbedded devices.
@@ -2478,6 +2482,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Update links names for subsections.
 * Reorganize other shaders section if needed.
 * Add recent editions of books (some have Unity 2018 versions)
+* Add subcategories for physics section.
 
 And many more...
 
