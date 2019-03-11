@@ -241,6 +241,7 @@ Interesting resource: :cool:
 * [Unity3DPolylineEditor](https://github.com/Dandarawy/Unity3DPolylineEditor) - 2D Polyline Editor for Unity3D.
 * [DoomStyleAnimatedBillboard](https://github.com/richardschembri/DoomStyleAnimatedBillboard) - Animated billboard with multiple view angles.
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
+* [PixelSpriteGenerator Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "") - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -972,7 +973,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Excel4Unity](https://github.com/joexi/Excel4Unity "") - Excel for Unity. Provides both read and write with .xls and .xlsx.
 * [LiteCSV](https://github.com/terrynoya/LiteCSV "") - A lightweight csv table parser in C# mainly for unity but also use in .NET.
 * [BurstImageProcessing](https://github.com/stella3d/BurstImageProcessing "") - Fast parallel image processing on the CPU, using Unity C# jobs and Burst compilation (Experimental). 
-* [Curl Unity](https://github.com/91Act/curl-unity "") - his is a C# wrapper for Unity to use libcurl with http2/openssl enabled.
+* [Curl Unity](https://github.com/91Act/curl-unity "") - This is a C# wrapper for Unity to use libcurl with http2/openssl enabled.
+* [WolfboyDispatcher](https://github.com/sassembla/WolfboyDispatcher "") - Small messaging system for Unity.
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -1139,6 +1141,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Inventory](https://github.com/FarrokhGames/Inventory "") - A Diablo 2-style inventory system for Unity3D.
 * [Piranha](https://github.com/keenanwoodall/Piranha "") - A simple tool to make rigidbodies swarm a mesh in Unity.
 * [SmoothingTest](https://github.com/keijiro/SmoothingTest "") - Critically damped spring smoothing.
+* [Grapple Effect](https://github.com/keenanwoodall/Grapple-Effect "") - An example of a simple grapple effect in Unity.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1361,7 +1364,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityToonShader](https://github.com/IronWarrior/UnityToonShader "") - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll "") - UnityChanToonShaderVer2 with EmissiveScroll.
-* [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders "") - A collection of PBR 'Toon' shaders for Unity.
+* [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders "") - A re-write and restructure of XSToon.
 * [MToon](https://github.com/Santarh/MToon "") - Toon Shader with Unity Global Illumination.
 
 #### Cel Shading
@@ -1760,6 +1763,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking in such an asset (until this was released on the asset store).
 * [UnityMenuSystem](https://github.com/YousicianGit/UnityMenuSystem "") - Menu System for Unity.
 * [uGUI Window Menu](https://github.com/JINZO631/uGUI-window-menu "") - Simple uGUI menu.
+* [Unity Template](https://github.com/Shogan/Unity-Template "") - A simple unity UI/Menu template.
 
 ### Effects <a name="ui-effects"></a>
 
@@ -2082,6 +2086,7 @@ screen.
 * [Screen Shooter](https://github.com/PhannGor/Screen-Shooter "") - A simple tool for creating screenshots at any resolution within the Unity Editor.
 * [UniDLL](https://github.com/adrenak/UniDLL "") - Editor window to create DLLs from C# code in Unity. (#Utilities)
 * [UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo "")
+* [Hobbyistcoder.Editor.Utilities](https://github.com/Shogan/Hobbyistcoder.Editor.Utilities "") - Useful editor extensions and utilities for Unity3D.
 
 ### WebGL <a name="webgl"></a>
 
@@ -2103,34 +2108,42 @@ screen.
 
 ## :department_store: Asset Store / Asset Bundles / Package Management <a name="assets-packages"></a>
 
+### Package Management
+
 * [Unity Asset Store](https://assetstore.unity.com/) - Official asset store for unity.
-* [Asset Auditing Tools](https://github.com/Unity-Technologies/asset-auditing-tools) - A set of Editor tools to audit project assets and correct errors.
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 * [Unity Packman](https://github.com/appetizermonster/unity-packman "") - A tiny package dependency manager for Unity, powered by Github.
-* [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
-* [KEngine](https://github.com/mr-kelly/KEngine) - A Unity3D asset bundle framework with LGPL license.
 * [UniGet](https://github.com/SaladLab/UniGet "") - The package manager for Unity3D.
 * [Unity Package Unpacker (UPU)](https://github.com/derFunk/UPU "Unitypackage Unpacker.")
-* [AssetStudio](https://github.com/RaduMC/AssetStudio "AssetStudio is an independent tool for exploring, extracting and exporting assets.")
-* [UnityPack](https://github.com/HearthSim/UnityPack "") - Python deserialization library for Unity3D Asset format.
 * [Paket.Unity3D](https://github.com/wooga/Paket.Unity3D "") - An extension for the Paket dependency manager that enables the integration of NuGet dependencies into Unity3D projects.
+* [Package Exporter](https://github.com/sloppycombo/PackageExporter "") - Easily export a folder of scripts and assets as a local Unity 2018 package for use with the new Package Manager. 
+* [UnityPackageTemplate](https://github.com/iBicha/UnityPackageTemplate "") - A template for creating Unity packages.
+* [UnityPacker](https://github.com/FatihBAKIR/UnityPacker "") - Create unitypackages without unity, from command line.
+* [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
+* [RotateMe](https://github.com/mob-sakai/RotateMe "") - A tutorial for "How to develop a package for UnityPackageManager".
+
+### Asset Bundle
+
+* [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager "") - An asset bundle manager for Unity.
+* [KEngine](https://github.com/mr-kelly/KEngine) - A Unity3D asset bundle framework with LGPL license.
+* [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
+* [Asset Auditing Tools](https://github.com/Unity-Technologies/asset-auditing-tools) - A set of Editor tools to audit project assets and correct errors.
+* [AssetStudio](https://github.com/RaduMC/AssetStudio "") - AssetStudio is an independent tool for exploring, extracting and exporting assets.
+* [UnityPack](https://github.com/HearthSim/UnityPack "") - Python deserialization library for Unity3D Asset format.
 * [AssetBundlePatch](https://github.com/dpull/AssetBundlePatch "")
 * [UABE](https://github.com/DerPopo/UABE "") - Unity Assets Bundle Extractor.
 * [UnityAssetCleaner](https://github.com/tsubaki/UnityAssetCleaner "")
-* [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
-* [Asset Store Support Window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
-* [AssetBundleManager](https://github.com/pinkpanther79/AssetBundleManager "") - Unity AssetBundle Manager.
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper "") - Tool for ripping assets from Engine resource files.
-* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
-* [Package Exporter](https://github.com/sloppycombo/PackageExporter "") - Easily export a folder of scripts and assets as a local Unity 2018 package for use with the new Package Manager. 
-* [ASInstaller](https://github.com/thinksquirrel/ASInstaller "") - Unity Asset Store Package Installer.
-* [UnityPackageTemplate](https://github.com/iBicha/UnityPackageTemplate "") - A template for creating Unity packages.
-* [UnityPacker](https://github.com/FatihBAKIR/UnityPacker "") - Create unitypackages without unity, from command line.
 * [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker "")
 * [XAsset](https://github.com/fengjiyuan/xasset "")
+
+### Asset Store
+
+* [Publisher-Extension-for-Unity3D](https://github.com/Mintonne/Publisher-Extension-for-Unity3D "") - Access your Unity3D publisher information in a click.
+* [Asset Store Support Window](https://github.com/AlexanderAmeye/asset-store-support-window "") - A support window template for publishers of the Unity Asset Store.
+* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "") - Unity Asset Store Package Promotion Guidelines.
+* [ASInstaller](https://github.com/thinksquirrel/ASInstaller "") - Unity Asset Store Package Installer.
 * [UAS Issue Tracker](https://github.com/uas-publishers/uas-issuetracker "") - Unofficial Issuetracker for the Unity Asset Store.
-* [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
-* [RotateMe](https://github.com/mob-sakai/RotateMe "") - A tutorial for "How to develop a package for UnityPackageManager".
 
 ## Modding <a name="modding"></a>
 
@@ -2187,6 +2200,7 @@ screen.
 * [ChemistryEngine](https://github.com/Dalab-LabX/ChemistryEngine "") - Chemistry Engine for Unity.
 * [Eflatun.ReflectiveECS](https://github.com/starikcetin/Eflatun.ReflectiveECS "") - A proof of concept for a reflection-based ECS system for C#.
 * [Unity3D Experiments](https://github.com/papaboo/Unity3D-experiments "") - A unity project containing several subprojects with experiments. They have been stuffed into one project to easily share resources across experiments.
+* [Unity3D.CharacterCreator](https://github.com/Shogan/Unity3D.CharacterCreator "") - A character creator project utilising DynamoDB for character configuration storage.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2458,6 +2472,7 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Review items by category to select one between similar ones in order to select the most complete. Reference the others in another section or repository.
 * Update links names for subsections.
 * Reorganize other shaders section if needed.
+* Add recent editions of books (some have Unity 2018 versions)
 
 And many more...
 
