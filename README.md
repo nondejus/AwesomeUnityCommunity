@@ -2468,35 +2468,6 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 
 # :memo: To be done <a name="to-do"></a>
 
-:warning: NOTE: Following list of tasks is written without any order of preference.
-
-* Fill Open Issue template file to help providing new resources.
-* The logo image should be high-DPI. Set it to maximum half the width of the original image.
-* Wait 30 days from first commit to make the pull request to awesome lists topic.
-* Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
-* Add better icons for sections.
-* Reorder category resources by most well known resources if possible.
-* Starter kit section with all the things needed or recommended for beginners.
-* Include resources for recommended asset store packages section (well tested, most voted and so on).
-* Fill up communities section.
-* Fill snippets and gists under scripting section.
-* Create more categories for specific resources that don't combine well.
-* Add category for vector graphics.
-* Add natural language processing section (AI section should contain 1. Reasoning, 2. Knowledge representation, 3. Automated planning and scheduling, 4. Machine learning, 5. Natural language processing, 6. Computer vision, 7. Robotics, 8. General intelligence, or strong AI).
-* Add category for embbedded devices.
-* Add research papers category.
-* Include subcategories for shaders, maybe create a repository to collect awesome shaders from the community.
-* Add voxel related resources. See [here](http://unitycoder.com/blog/2012/10/18/voxel-resources-engines-for-unity/).
-* Mark deprecated packages (:x:).
-* Change introduction at the beginning ot the readme file to indicate better the visitors how its organized.
-* Do shortcut png image with unity editor shortcuts.
-* Create open collective to show the image with the contributors if necessary.
-* Review items by category to select one between similar ones in order to select the most complete. Reference the others in another section or repository.
-* Update links names for subsections.
-* Reorganize other shaders section if needed.
-* Add recent editions of books (some have Unity 2018 versions)
-* Add subcategories for physics section.
-
-And many more...
+See the state of the project in the [kanban board](https://github.com/agarcialeon/awesome-unity/projects/1).
 
 [:top: Back to Top](#awesome-unity)
