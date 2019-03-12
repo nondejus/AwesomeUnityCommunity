@@ -35,6 +35,7 @@
 	- [Tags](#tags)
 - [Categories](#categories)
   - [2D](#2d)
+  - [Vector Graphics](#vector-graphics)
   - [AI](#ai)
   - [Machine Learning](#machine-learning)
   - [Audio](#audio)
@@ -89,6 +90,7 @@
   	- [Particle Systems](#particle-systems)
   	- [Lightning / Points of Clouds](#lightning-points-clouds)
 	- [Raymarching](#raymarching)
+	- [Voxel](#voxel)
   - [UI](#ui)
   	- [Control Components](#ui-controls-components)
 		- [Minimap](#ui-controls-minimap)
@@ -252,6 +254,10 @@ Interesting resource: :cool:
 * [DoomStyleAnimatedBillboard](https://github.com/richardschembri/DoomStyleAnimatedBillboard) - Animated billboard with multiple view angles.
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
 * [PixelSpriteGenerator Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "") - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
+
+## Vector Graphics <a name="vector-graphics"></a>
+
+:construction:
 
 ## :bulb: AI <a name="ai"></a>
 
@@ -1672,6 +1678,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Raymarching Collision](https://github.com/hecomi/UnityRaymarchingCollision) -  Raymarching x Rigidbody interaction example.
 * [Unity Raytracer](https://github.com/SIZMW/unity-raytracer) -  This project demonstrates ray tracing in Unity, which is a real time rendering engine.
 * [Unity Compute Shader Ray Tracing Practice](https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice) -  Raytracing shader tutorial for Unity.
+
+## Voxel <a name="voxel"></a>
+
+:construction:
 
 ## :bar_chart: UI <a name="ui"></a>
 
