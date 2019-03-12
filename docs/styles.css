@@ -6,7 +6,7 @@ html, body
 
 #header
 {
-  background-color: #c93e3e;
+  background-color: #4ecca3;
   color: #FED260;
   font-family: 'Raleway', sans-serif;
   display: flex;
@@ -16,7 +16,7 @@ html, body
 
 #content
 {
-  background-color: #2C4059;
+  background-color: #232931;
   color: white;
   padding: 0 2% 2% 2%;
   font-family: 'Roboto', sans-serif;
@@ -24,7 +24,7 @@ html, body
 
 #footer
 {
-  background-color: #C93E3E;
+  background-color: #4ecca3;
   color: #FDC456;
   font-size: 14px;
   padding-top: 2%;
