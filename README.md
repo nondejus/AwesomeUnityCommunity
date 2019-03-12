@@ -259,6 +259,7 @@ Interesting resource: :cool:
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "") - A Unity library for common movement AI.
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Astar Pathfinding](https://github.com/wawethewaras/Astar-Pathfinding) - 2D pathfinding for Unity.
+* [UnityAStarNavigation](https://github.com/jeffvella/UnityAStarNavigation) - An A* navigation system for Unity using burst compiled jobs for performance.
 * [Apex Path](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles. :moneybag:
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [Behaviac](https://github.com/Tencent/behaviac) - Is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
@@ -500,6 +501,8 @@ Interesting resource: :cool:
 * [Rsvfx](https://github.com/keijiro/Rsvfx "") - Visual effects by Keijiro using Intel Realsense camera.
 * [Dkvfx](https://github.com/keijiro/Dkvfx "") - An example that shows how to use recorded Depthkit footage with Unity VFX Graph.
 * [Project Gesture](https://github.com/Microsoft/Gestures-Samples "") - [Project Prague](https://labs.cognitive.microsoft.com/en-us/project-gesture) Code Samples.
+* [Yolo Unity](https://github.com/mbaske/yolo-unity "") - YOLO Object Detection for Unity (Windows).
+* [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo "") - C# Yolo Darknet Wrapper (real-time object detection).
 
 ## :loudspeaker: Speech Recognition <a name="speech-recognition"></a>
 
@@ -537,6 +540,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [HedgePhysics](https://github.com/Camano/HedgePhysics "") - A open source 3D Sonic engine made in Unity.
 * [Jitter Physics for Unity](https://bitbucket.org/alexzzzz/jitter-physics-for-unity "") - An abandoned attempt to integate [Jitter Physics](https://github.com/mattleibow/jitterphysics) engine into Unity.
 * [Unity Burst_Shape Matching](https://github.com/nialltl/unity_burst_shape_matching "") - Parallelised 2D deformable bodies using the C# Job system, Unity's Burst compiler and GPU instancing.
+* [Unity3D PhysicsGun](https://github.com/Laumania/Unity3d-PhysicsGun "") - Unity3D sample implementation of a Half-life 2 / Garry's mod/ Gmod Physics Gun.
 * [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
 * [Clothing System 3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
 * [OpenRelativity](https://github.com/MITGameLab/OpenRelativity "") - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games.
@@ -928,6 +932,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Awesome Dotnet](https://github.com/quozd/awesome-dotnet) - Awesome list for .NET related resources. :cool:
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections "") - Native Collection Types for Unity.
+* [Unity Native Array](https://github.com/keijiro/unity-native-array "") - Passing C# array to a native plug-in.
 * [C# Sharp Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++.
@@ -1027,6 +1032,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [VariableAssets](https://github.com/ZeroSleepGames/VariableAssets) - Variable assets for Unity3D.
 * [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) - Unity editor helper for auto saving scene & minimizing lost work.
 * [EnumDispatcher](https://github.com/5argon/EnumDispatcher) - ECS backed C# enums as Flux/Redux action in Unity.
+* [UnityHelpers](https://github.com/jeffvella/UnityHelpers) - A collection of random scripts related to Unity.
 
 #### Gizmos
 
@@ -1487,6 +1493,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [QuadWarp](https://github.com/fuqunaga/QuadWarp) - QuadWarp sample code for Unity.
 * [Unity3D Lightning Shader](https://github.com/ya7gisa0/Unity3D-Lightning-Shader "") - Procedural Lightning Shader for Unity3D.
 * [Unity HDRP SpeedTree Materials](https://github.com/flamacore/UnityHDRPSpeedTreeMaterials "") - Material replacements for getting SpeedTree models to work on HDRP Terrain. Highly experimental.
+* [Noise Texture Particles](https://github.com/Dafirex/Noise-Texture-Particles "") - Shader for Unity particles that use noise textures as inputs to create different patterns.
 
 #### Collections
 
@@ -1794,6 +1801,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [OpenGUI](https://github.com/mrzapp/opengui) - Open source GUI framework for Unity.
 * [UIElementsX](https://github.com/rocktavious/UIEX) - UIElementsX (UIEX) is the missing high level API for unity's new UI system.
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).
+* [FlexibleUI Unity](https://github.com/rameshporeddy/FlexibleUI-Unity) - A Unity System to Implement Multiple GUI Themes.
 
 ### Tools <a name="ui-tools"></a>
 
@@ -2039,7 +2047,7 @@ screen.
 
 * [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) - 3D Prototyping tool buyed by Unity. See [Procore](http://www.procore3d.com/).
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
-* [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
+* [SabreCSG](http://sabrecsg.com/) - A set of [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity.
 * [Chisel.Prototype](https://github.com/RadicalCSG/Chisel.Prototype) - Work in progress prototype for the Chisel Level Editor, for Unity.
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor.
@@ -2392,6 +2400,8 @@ screen.
 * [Survival Shooter Multiplayer Unity3D Files](https://github.com/madvas/survival-shooter-multiplayer-unity3d-files "") - Cute web based multiplayer shooter game made with Unity3D.
 * [Project Skylines](https://github.com/Zaphyk/project-skylines "") - Procedural retro 3d game for the GitHub Gameoff 2017 .
 * [Deer](https://github.com/zrdumped/Deer "") - A low-poly digital game about family and finding himself.
+* [Virus Alpha](https://github.com/dave95b/Virus-Alpha "") - Game made in Unity for the needs of university classes in the group of four.
+
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
