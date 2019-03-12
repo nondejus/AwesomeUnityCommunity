@@ -556,6 +556,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [PBD Fluid in Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) - A PBD fluid in unity running on the GPU. 
 * [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
 * [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
+* [UnityFluidExperiments](https://github.com/MaxSigma/UnityFluidExperiments "") - Collection of Fluid Simulation Experiments in Unity.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -762,6 +763,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
 * [ECS](https://github.com/adizhavo/ECS "") - An entity component system framework that uses generics to achieve composition without having the need to write new code in the entity class.
+* [ECS and DoD In Unity](https://github.com/LifeIsGoodMI/ECS-And-DoD-In-Unity "") - Entity Component Systems & Data Oriented Design In Unity.
 * [ECS FAQ](https://github.com/SanderMertens/ecs-faq "") - Frequently asked questions about ECS.
 
 #### Inversion of Control (IOC)
@@ -1854,7 +1856,7 @@ screen.
 * [IcoSphereCreator](https://github.com/kaiware007/IcoSphereCreator) - Create Ico Sphere Mesh Tool for Unity.
 * [Shapes](https://github.com/olange/shapes) - Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
 * [Unity.ProceduralContentGeneration Terrain](https://github.com/ErikMoczi/Unity.ProceduralContentGeneration-Terrain) - (#TERRAIN)
-* [ProceduralLevelGenerator Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation.
+* [Procedural Level Generator Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
@@ -1999,6 +2001,7 @@ screen.
 * [UnityMarkdeepViewer](https://github.com/Sirithang/UnityMarkdeepViewer "") - Editor scripts allowing to display Markdown, markdeep and HMTL directly inside the Unity Editor.
 * [UnityDebugger](https://github.com/joexi/UnityDebugger "") - Lite tool helping check runtime status of unity application in Editor.
 * [ReferenceVisualizerUnity3D](https://github.com/Sebastian-Schuchmann/ReferenceVisualizerUnity3D "") - An Editor Window that lets you see and edit all references of your Scene Objects.
+* [ShaderInspector](https://github.com/myacat/ShaderInspector "") - Hide parameters in Unity Shader Inspector Window. (#SHADERS)
 
 ### Timeline <a name="timeline"></a>
 
@@ -2148,6 +2151,7 @@ screen.
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper "") - Tool for ripping assets from Engine resource files.
 * [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker "")
 * [XAsset](https://github.com/fengjiyuan/xasset "")
+* [Zcode AssetBundlePacker](https://github.com/xtqqksszml/zcode-AssetBundlePacker "") - Create, build and manage Asset Bundles packages. Supports version control and more.
 
 ### Asset Store <a name="assets-management-store"></a>
 
