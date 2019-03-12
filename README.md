@@ -61,7 +61,7 @@
   	- [Controller Mappings](#controller-mappings)
   - [Monetization](#monetization)
   - [Services](#services)
-  - [Localization (L18n)](#localization)
+  - [Internationalization & Localization (I18n & L10n)](#internationalization-localization)
   - [Networking](#networking)
   - [Scripting](#scripting)
   	- [Algorithms](#algorithms)
@@ -621,7 +621,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Azure Services For Unity](https://github.com/dgkanatsios/AzureServicesForUnity "") - Accessing Azure services (App Service, Table Storage, CosmosDB with Table API, Event Hubs) from a Unity game.
 * [Build & Release Unity Games with Azure DevOps](https://alexknowles.info/unity/build-release-unity-games-with-azure-devops/ "") - Tutorial on how to build Unity games with Azure DevOps.
 
-## :us: :uk: Localization (L18n) <a name="localization"></a>
+## :us: :uk: Internationalization & Localization (I18n & L10n) <a name="internationalization-localization"></a>
 
 * [Language](https://github.com/FarrokhGames/Language "") - An easy-to-use localization solution for Unity3D.
 * [PolyglotUnity](https://github.com/agens-no/PolyglotUnity "") - A Polyglot Localization plugin for Unity3d that translates games to many languages.
