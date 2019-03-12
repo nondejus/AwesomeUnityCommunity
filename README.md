@@ -59,7 +59,6 @@
   	- [3D Character Controllers](#3d-character-controllers)
   - [Input](#input)
   	- [Controller Mappings](#controller-mappings)
-  - [Modeling](#modeling)
   - [Monetization](#monetization)
   - [Services](#services)
   - [Localization (L18n)](#localization)
@@ -214,7 +213,7 @@ Interesting resource: :cool:
 
 (ARCHIVED) - The repository is read only for learning purposes.
 
-#[CATEGORY] - Where [CATEGORY] represents a category of the document. Means that the resource is related with another category too.
+(#[CATEGORY]) - Where [CATEGORY] represents a category of the document. Means that the resource is related with another category too. Any resource can contain many category tags.
 
 # :bookmark: Categories <a name="categories"></a>
 
@@ -2231,6 +2230,7 @@ screen.
 
 ## :books: Books <a name="books"></a>
 
+* [Unity 2018 By Example (Second Edition)](https://www.packtpub.com/game-development/unity-2018-example-second-edition)
 * [Unity Game Development in 24 Hours](https://www.amazon.com/Unity-Development-Hours-Teach-Yourself/dp/0134998138/ref=sr_1_fkmrnull_1?keywords=Unity+2018+Game+Development+in+24+Hours%2C+Sams+Teach+Yourself&qid=1548086253&s=Books&sr=1-1-fkmrnull)
 * [Unity in Action: Multiplatform Game Development in C# with Unity 5](https://www.amazon.com/gp/product/161729232X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=161729232X&linkId=9c6a4f1db8f9e25c9e2d6458173de5e0)
 * [Learning C# by Developing Games with Unity 5.x](https://www.amazon.com/gp/product/1785287591/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785287591&linkId=4a8a6d17929b1f02e6ad4cbadf32cc9d)
@@ -2465,7 +2465,6 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 * Wait 30 days from first commit to make the pull request to awesome lists topic.
 * Add tags for free and paid assets. This can be a reason to use or not a resource due to budget in development so even if a package is paid maybe it's that there isn't any other package that provides the same functionality or that the package authors provide a great work and they should be paid for their effort.
 * Add better icons for sections.
-* Use tags to classify a resource instead of using a category. For example, a package for virtual reality can be a plugin or a library too.
 * Reorder category resources by most well known resources if possible.
 * Starter kit section with all the things needed or recommended for beginners.
 * Include resources for recommended asset store packages section (well tested, most voted and so on).
