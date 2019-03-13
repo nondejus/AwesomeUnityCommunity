@@ -1348,6 +1348,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Shader Graph Nodes](https://github.com/gilescoope/shader-graph-nodes "") - Custom Nodes for Unity Shader Graph.
 * [SG HDRP Lit](https://github.com/RemyUnity/SG-HDRP-Lit "") - Shadergraph version of the HDRP/Lit shader.
 * [SRPBatcherBenchmark](https://github.com/Unity-Technologies/SRPBatcherBenchmark "") - Various benchmark scenes for SRP batcher (both LWRP & HDRP).
+* [UnityLWRPEssentials](https://github.com/dilmerv/UnityLWRPEssentials "") - Unity Lightweight Render Pipeline with a variety of shader examples built in Shader Graph.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained). [Asset Store Link](https://www.assetstore.unity3d.com/en/#!/content/14147)
 
 #### Ocean
@@ -2329,6 +2330,7 @@ screen.
 * [Simple ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
 * [Unity Projection Mapping Tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
 * [Unity Android Plugin Example](https://github.com/Real-Serious-Games/Unity-Android-Plugin-Example "") - A simple example of an Android specific plugin for Unity3D.
+* [SurvivalShooterECS](https://github.com/davidpol/SurvivalShooterECS "") - A port of Unity's official Survival Shooter tutorial to the Entity Component System. 
 
 ## :star: Best Practices <a name="best-practices"></a>
 
