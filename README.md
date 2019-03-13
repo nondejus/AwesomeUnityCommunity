@@ -254,6 +254,7 @@ Interesting resource: :cool:
 * [DoomStyleAnimatedBillboard](https://github.com/richardschembri/DoomStyleAnimatedBillboard) - Animated billboard with multiple view angles.
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
 * [PixelSpriteGenerator Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "") - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
+* [ST2U TileProperties](https://github.com/Seanba/ST2U_TileProperties "") - SuperTiled2Unity Example of Retrieving Custom Properties from Tiles.
 
 ## Vector Graphics <a name="vector-graphics"></a>
 
@@ -1613,6 +1614,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EdgeDetect-PostProcessingUnity](https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity) - Unity legacy Edge Detect image effect ported to Post Processing Stack v2.
 * [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.
 * [Koch's Fractals](https://github.com/hww/koch_fractals) - Koch Fractals Demo for Unity.
+* [SDF Gen Unity](https://github.com/mmerchante/sdf-gen-unity) - A signed distance function generator running inside Unity.
+* [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) - Convert a mesh to an SDF for the Visual Effect Graph in realtime.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -2411,7 +2414,7 @@ screen.
 * [Project Skylines](https://github.com/Zaphyk/project-skylines "") - Procedural retro 3d game for the GitHub Gameoff 2017 .
 * [Deer](https://github.com/zrdumped/Deer "") - A low-poly digital game about family and finding himself.
 * [Virus Alpha](https://github.com/dave95b/Virus-Alpha "") - Game made in Unity for the needs of university classes in the group of four.
-
+* [Fruit Ninja Replica](https://github.com/Brackeys/Fruit-Ninja-Replica "") - This is the source code for a Fruit Ninja replica created during a Twitch Livestream.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
