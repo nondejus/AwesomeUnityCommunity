@@ -1209,6 +1209,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Quick Play Tool](https://github.com/atrblizzard/Quick-Play-Tool "") - Unity3D editor tool to speed up scene switching and playtesting when you are working with multiple scenes.
 * [Cyber Dogs Toolbox](https://github.com/Harley-Torrisi/Cyber-Dogs-Toolbox "") - A default asset used to help in the development of games using C# in Unity.
 * [UnityCommon](https://github.com/brihernandez/UnityCommon "") - Assortment of commonly re-used tools and code for my Unity projects.
+* [BlendShapeBuilder](https://github.com/unity3d-jp/BlendShapeBuilder "") - Tweak vertices and generate blend shapes in Unity.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
