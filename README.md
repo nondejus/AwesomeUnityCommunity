@@ -431,6 +431,7 @@ Interesting resource: :cool:
 * [Unity Chemical Engine](https://github.com/zrdumped/Unity-Chemical-Engine "") - A VR Chemical Reaction & Experiments Simulation Application Developed by Unity3D.
 * [LilyRender360](https://github.com/eliemichel/LilyRender360 "") - Lily Render 360 is a tool for rendering a Unity scene into stitch-free equirectangular images.
 * [UnityVR Interaction](https://github.com/RandolphM/UnityVR-Interaction "") - Any VR (Virtual Reality) headset can work.
+* [CWVRGUI](https://github.com/chilton/CWVRGUI "") - Simple toolkit for interacting with the Unity GUI system via a hand controller in VR. (#UI)
 
 ### HTC Vive <a name="virtual-reality-htcvive"></a>
 
