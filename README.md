@@ -761,6 +761,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes) - Attribute Extensions for Unity.
 * [UnityGetComponentAutoInjector](https://github.com/jinnin0105/UnityGetComponentAutoInjector) - Unity GetComponent Auto Injector.
 * [UnityNonNull](https://github.com/ulrikdamm/UnityNonNull) - [NonNull] attribute to fields and classes in Unity.
+* [UnityCompactFieldAttribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) - Lets each property label have their own width, to prevent the labels from getting cut off.
 
 ### Frameworks <a name="frameworks"></a>
 
@@ -925,6 +926,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityDebugAutoRemove](https://github.com/flamacore/UnityDebugAutoRemove "") - Auto remove debug.log lines with this simple replacer unless it's a development build.
 * [CODA](https://github.com/kcers/coda "") - Burst Compiler Static Code Analysis.
 * [DebugPlus](https://github.com/benoit-dumas/DebugPlus "") - Unity asset to draw all built-in gizmos in the Unity Debug way.
+* [Apkd.UnityDemystifier](https://github.com/apkd/Apkd.UnityDemystifier "") - Improved stack trace display for Unity.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
