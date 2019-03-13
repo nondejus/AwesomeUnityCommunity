@@ -343,6 +343,7 @@ Interesting resource: :cool:
 
 ## :runner: Animation <a name="animation"></a>
 
+* [NIMA](https://www.2dimensions.com/ "") - Raster animation tool (no vector) for Unity and other game engines.
 * [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "") - A Unity-based sprite animator for simple and advanced animation setups.
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation "") - Character Animation in Unity 3D using Deep Learning and Artificial Intelligence.
 * [Boner2D](https://github.com/playemgames/Boner2D "") - Free Open Source 2D Animation Tools for Unity.
