@@ -548,6 +548,10 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityPhysics2D](https://github.com/MelvynMay/UnityPhysics2D) - Examples of various Unity 2D Physics components and features.
 * [HedgePhysics](https://github.com/Camano/HedgePhysics "") - A open source 3D Sonic engine made in Unity.
 * [Jitter Physics for Unity](https://bitbucket.org/alexzzzz/jitter-physics-for-unity "") - An abandoned attempt to integate [Jitter Physics](https://github.com/mattleibow/jitterphysics) engine into Unity.
+* [BEPU Physics for Unity ECS](https://github.com/bellicapax/bepu-physics-for-unity-ecs "") - Translation in progress of BEPU Physics library v1 to Unity's ECS and Job System.
+* [Randomation Vehicle Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics "") - Vehicle physics system for the Unity engine.
+* [ArcadeCarPhysics](https://github.com/SergeyMakeev/ArcadeCarPhysics "") - Arcade Car Physics - Vehicle Simulation for Unity3D.
+* [Arcade Car Physics](https://github.com/Saarg/Arcade_Car_Physics "") - Unity package for cars using wheel colliders.
 * [Unity Burst_Shape Matching](https://github.com/nialltl/unity_burst_shape_matching "") - Parallelised 2D deformable bodies using the C# Job system, Unity's Burst compiler and GPU instancing.
 * [Unity3D PhysicsGun](https://github.com/Laumania/Unity3d-PhysicsGun "") - Unity3D sample implementation of a Half-life 2 / Garry's mod/ Gmod Physics Gun.
 * [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
@@ -671,6 +675,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EmbeddedFPSExample](https://github.com/LestaAllmaron/EmbeddedFPSExample) - An example on how to create a FPS game with Darkrift 2.
 * [DarkriftSerializationExtensions](https://github.com/LestaAllmaron/DarkriftSerializationExtensions) - A small collection of useful extension methods for Darkrift2.
 * [LiteNetLibManager DarkRift2](https://github.com/insthync/LiteNetLibManager_DarkRift2) - DarkRift2 transport layer for LiteNetLibManager project.
+* [Barebones Masterserver](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity.
+* [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players.
 
 ### Libraries
 
@@ -2347,7 +2353,8 @@ screen.
 * [Simple ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
 * [Unity Projection Mapping Tutorial](https://github.com/keijiro/unity-pm-tutorial "") - Projection Mapping tutorial.
 * [Unity Android Plugin Example](https://github.com/Real-Serious-Games/Unity-Android-Plugin-Example "") - A simple example of an Android specific plugin for Unity3D.
-* [SurvivalShooterECS](https://github.com/davidpol/SurvivalShooterECS "") - A port of Unity's official Survival Shooter tutorial to the Entity Component System. 
+* [SurvivalShooterECS](https://github.com/davidpol/SurvivalShooterECS "") - A port of Unity's official Survival Shooter tutorial to the Entity Component System.
+* [ClassicToHybrid](https://github.com/seanmoakes/ClassicToHybrid "") - A look into how to implement Hybrid ECS in a classic Unity Project.
 
 ## :star: Best Practices <a name="best-practices"></a>
 
@@ -2443,7 +2450,8 @@ screen.
 * [Cut the Rope Replica](https://github.com/Brackeys/Cut-the-Rope-Replica "") - Source code for a Cut the Rope replica created during a Twitch Livestream.
 * [CatBox MultiPlayerAR](https://github.com/gucheng0712/CatBox-MultiPlayerAR "") - A Multiplayer AR Game Based on the Unity, Vuforia and Node.js -- Marker Based Pokemon Go Style Game. (#AUGMENTED-REALITY)
 * [AR BasketballMachine](https://github.com/gucheng0712/AR-BasketballMachine "") - An AR- Vuforia Project about the basketball machine. Shoot method include swap screen, Voice Command. (#AUGMENTED-REALITY)
-* [Sudoku Unity](https://github.com/Umar-Eh/Sudoku-Unity "") - A sudoku game built using the Unity framework and written in C#
+* [Sudoku Unity](https://github.com/Umar-Eh/Sudoku-Unity "") - A sudoku game built using the Unity framework and written in C#.
+* [ECS2048](https://github.com/Prastiwar/ECS2048 "") - 2048 like game using Unity's ECS.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
@@ -2485,6 +2493,7 @@ screen.
 * Minionsart [Twitter](https://twitter.com/minionsart) - Artist/Shaderwitch/Programmer. Weekly tutorials on 3D/Unity.
 * Linden Reid [Twitter](https://twitter.com/so_good_lin) - Tech artists at Blizzard. Shares shader tutorials.
 * Jeppe Zapp [Github](https://github.com/mrzapp) - Unity tools and utilities.
+* Mix & Jam [Github](https://github.com/mixandjam) - Unity video tutorials on Youtube.
 
 # :question: Frequently Asked Questions (FAQ) <a name="faq"></a>
 
