@@ -1052,6 +1052,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) - Unity editor helper for auto saving scene & minimizing lost work.
 * [EnumDispatcher](https://github.com/5argon/EnumDispatcher) - ECS backed C# enums as Flux/Redux action in Unity.
 * [UnityHelpers](https://github.com/jeffvella/UnityHelpers) - A collection of random scripts related to Unity.
+* [UndoPro](https://github.com/Seneral/UndoPro) - UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
 
 #### Gizmos
 
@@ -1607,6 +1608,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CameraProjector](https://github.com/fuqunaga/CameraProjector "") - Project the image captured by the camera onto the object. (#CAMERA)
 * [ProjectionMapping Unity](https://github.com/sugi-cho/ProjectionMapping-unity "") - Simple Projection-Mapping tool for Unity (WIP).
 * [RDSystem](https://github.com/keijiro/RDSystem "") - Reaction-diffusion system with CustomRenderTexture.
+* [HDRP ReactionDiffusionSystem](https://github.com/alelievr/HDRP_ReactionDiffusionSystem "") - Reaction diffusion system using HDRP and custom render textures.
 * [Unity Voxel](https://github.com/mattatz/unity-voxel "") - Mesh voxelization for Unity.
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation "")
 * [Deform Prototype](https://github.com/keenanwoodall/Deform-Prototype "") - My second attempt at a framework for deforming meshes in the editor and at runtime in Unity. (Not in development)
@@ -2256,6 +2258,7 @@ screen.
 * [Unity3D Experiments](https://github.com/papaboo/Unity3D-experiments "") - A unity project containing several subprojects with experiments. They have been stuffed into one project to easily share resources across experiments.
 * [Unity3D.CharacterCreator](https://github.com/Shogan/Unity3D.CharacterCreator "") - A character creator project utilising DynamoDB for character configuration storage.
 * [Pepper's Cone Unity](https://github.com/gucheng0712/Pepper-s-Cone-Unity "") - Pepper's Cone with Unity.
+* [Sample AfterEffectsToUnity](https://github.com/hiryma/Sample-AfterEffectsToUnity "") - Example of exporting after effects animations to Unity.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2438,7 +2441,8 @@ screen.
 * [Fruit Ninja Replica](https://github.com/Brackeys/Fruit-Ninja-Replica "") - Source code for a Fruit Ninja replica created during a Twitch Livestream.
 * [Cut the Rope Replica](https://github.com/Brackeys/Cut-the-Rope-Replica "") - Source code for a Cut the Rope replica created during a Twitch Livestream.
 * [CatBox MultiPlayerAR](https://github.com/gucheng0712/CatBox-MultiPlayerAR "") - A Multiplayer AR Game Based on the Unity, Vuforia and Node.js -- Marker Based Pokemon Go Style Game. (#AUGMENTED-REALITY)
-* [AR BasketballMachine](https://github.com/gucheng0712/AR-BasketballMachine "") -An AR- Vuforia Project about the basketball machine. Shoot method include swap screen, Voice Command. (#AUGMENTED-REALITY)
+* [AR BasketballMachine](https://github.com/gucheng0712/AR-BasketballMachine "") - An AR- Vuforia Project about the basketball machine. Shoot method include swap screen, Voice Command. (#AUGMENTED-REALITY)
+* [Sudoku Unity](https://github.com/Umar-Eh/Sudoku-Unity "") - A sudoku game built using the Unity framework and written in C#
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
