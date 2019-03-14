@@ -588,6 +588,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity.
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller.
 * [UNet Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A Character Controller based controller for Unity's new Networking system. (#NETWORKING)
+* [SuperCharacterController](https://github.com/gucheng0712/SuperCharacterController) - Unity custom character controller. (#ARCHIVED)
 
 ## Input <a name="input"></a>
 
@@ -733,12 +734,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [Unity Teddy](https://github.com/mattatz/unity-teddy "") - Teddy algorithm implementation in Unity.
 * [Hull Delaunay Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi "") - Hull, Delaunay and Voronoi algorithms in Unity.
+* [csDelaunayUnity](https://github.com/nothke/csDelaunayUnity "") - GC free (non alloc) voronoi diagram for Unity.
 * [LinHowe GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm "") - Based on Unity to simply implement algorithms commonly used in game program development.
 * [LinHowe GameAlgorithm](https://github.com/jesta88/Unity-Voronoi "") - Port of [Javascript Voronoi](https://github.com/gorhill/Javascript-Voronoi) by Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
 * [Unity Metaballs 2D](https://github.com/luke161/Unity-Metaballs-2D "") - Implementation of 2D Metaballs with marching squares in Unity. (#2D)
 * [Metaball Sample](https://github.com/Butadiene/Metaball-sample "") - Metaball sample.
 * [Catmull Rom Splines](https://github.com/JPBotelho/Catmull-Rom-Splines "") - Catmull-Rom spline implementation in Unity.
 * [Marching Cubes On The GPU](https://github.com/Scrawk/Marching-Cubes-On-The-GPU "") - A implementation of the marching cubes algorithm on the GPU in Unity.
+* [PathFindingStudy](https://github.com/gucheng0712/PathFindingStudy "") - A study of different Graph Search(Pathfinding) techniques in unity, includes: Breadth-First Search, Dijkstra Search, Greedy-Best-Frist Search, A*. (#AI)
 * [Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms "") - 100+ algorithms & data structures generically implemented in C#.
 * [Unity Delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect. (#LIBRARIES)
 * [UnityOctree (Official)](https://github.com/Unity-Technologies/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#.
@@ -763,6 +766,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityGetComponentAutoInjector](https://github.com/jinnin0105/UnityGetComponentAutoInjector) - Unity GetComponent Auto Injector.
 * [UnityNonNull](https://github.com/ulrikdamm/UnityNonNull) - [NonNull] attribute to fields and classes in Unity.
 * [UnityCompactFieldAttribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) - Lets each property label have their own width, to prevent the labels from getting cut off.
+* [SetProperty](https://github.com/gucheng0712/SetProperty) - A PropertyAttribute/PropertyDrawer combination that allows for properties in Unity.
 
 ### Frameworks <a name="frameworks"></a>
 
@@ -775,6 +779,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
+* [URSA](https://github.com/pointcache/URSA "") - Integrated ECS framework for Unity.
+* [JECSu](https://github.com/pointcache/JECSu "") - Just another ECS for unity.
 * [ECS](https://github.com/adizhavo/ECS "") - An entity component system framework that uses generics to achieve composition without having the need to write new code in the entity class.
 * [ECS and DoD In Unity](https://github.com/LifeIsGoodMI/ECS-And-DoD-In-Unity "") - Entity Component Systems & Data Oriented Design In Unity.
 * [ECS FAQ](https://github.com/SanderMertens/ecs-faq "") - Frequently asked questions about ECS.
@@ -928,6 +934,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CODA](https://github.com/kcers/coda "") - Burst Compiler Static Code Analysis.
 * [DebugPlus](https://github.com/benoit-dumas/DebugPlus "") - Unity asset to draw all built-in gizmos in the Unity Debug way.
 * [Apkd.UnityDemystifier](https://github.com/apkd/Apkd.UnityDemystifier "") - Improved stack trace display for Unity.
+* [UnityGendarmerie](https://github.com/maluoi/UnityGendarmerie "") - Simple hooks for using [Gendarme](https://github.com/spouliot/gendarme) from inside the Unity editor.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -1003,6 +1010,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [BurstImageProcessing](https://github.com/stella3d/BurstImageProcessing "") - Fast parallel image processing on the CPU, using Unity C# jobs and Burst compilation (Experimental). 
 * [Curl Unity](https://github.com/91Act/curl-unity "") - This is a C# wrapper for Unity to use libcurl with http2/openssl enabled.
 * [WolfboyDispatcher](https://github.com/sassembla/WolfboyDispatcher "") - Small messaging system for Unity.
+* [Glader.Essentials](https://github.com/HelloKitty/Glader.Essentials "") - Essential development libraries for C#/.NET and Unity3D.
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
@@ -1211,6 +1219,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Cyber Dogs Toolbox](https://github.com/Harley-Torrisi/Cyber-Dogs-Toolbox "") - A default asset used to help in the development of games using C# in Unity.
 * [UnityCommon](https://github.com/brihernandez/UnityCommon "") - Assortment of commonly re-used tools and code for my Unity projects.
 * [BlendShapeBuilder](https://github.com/unity3d-jp/BlendShapeBuilder "") - Tweak vertices and generate blend shapes in Unity.
+* [Ferr Tools](https://ferrlib.com/ "") - Different tools for common tasks in Unity (Terrain, Vertex painter, Level Design...)
+* [FerrCommon](https://github.com/maluoi/FerrCommon "") - Common code for the Ferr tools.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1844,6 +1854,7 @@ screen.
 * [Modern UI Pack](https://github.com/Michsky/muip "") - Modern UI Pack for Unity engine.
 * [Lomenui](https://github.com/Michsky/lomenui "") - Stylish UI package for Unity engine.
 * [Unity LoMenu](https://github.com/paulgswanson/Unity_LoMenu) - Stylish UI package for Unity engine.
+* [Imgui Unity](https://github.com/ProgC/imgui_unity) - Integration dear imgui to Unity.
 
 ### Testing <a name="ui-testing"></a>
 
@@ -1911,6 +1922,7 @@ screen.
 ## :art: Textures <a name="textures"></a>
 
 * [VertexPaint](https://github.com/slipster216/VertexPaint "") - Unity 5.3 Vertex Painter.
+* [NormalPainter](https://github.com/gucheng0712/NormalPainter "") - Vertex normal editor for Unity.
 * [InkPainter](https://github.com/EsProgram/InkPainter "") - Texture-Paint on Unity. 
 * [Texture Array Unity](https://github.com/DmtDenisov/Texture-Array-Unity "") - A small tool for creating texture arrays in Unity. (#UTILITIES)
 * [Unity Texture Packer](https://github.com/andydbc/unity-texture-packer) - Utility to combine color channels from different textures into a single output.
@@ -2243,6 +2255,7 @@ screen.
 * [Eflatun.ReflectiveECS](https://github.com/starikcetin/Eflatun.ReflectiveECS "") - A proof of concept for a reflection-based ECS system for C#.
 * [Unity3D Experiments](https://github.com/papaboo/Unity3D-experiments "") - A unity project containing several subprojects with experiments. They have been stuffed into one project to easily share resources across experiments.
 * [Unity3D.CharacterCreator](https://github.com/Shogan/Unity3D.CharacterCreator "") - A character creator project utilising DynamoDB for character configuration storage.
+* [Pepper's Cone Unity](https://github.com/gucheng0712/Pepper-s-Cone-Unity "") - Pepper's Cone with Unity.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2391,6 +2404,7 @@ screen.
 ## :video_game: Games <a name="games"></a>
 
 * [AngryBots2](https://github.com/UnityTechnologies/AngryBots2) - An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
+* [BoatAttack](https://github.com/Verasl/BoatAttack) - Demo Project using the Lightweight Render Pipeline from Unity3D.
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts) - Hogwarts (Harry Potter) open sandbox game made in Unity.
 * [Unitystation](https://github.com/unitystation/unitystation) - Remake of the simulator Space Station 13.
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - We're porting GTA: San Andreas to Unity!
@@ -2398,7 +2412,7 @@ screen.
 * [GuitarHeroUnity](https://github.com/caffeine239/GuitarHeroUnity) -  Guitar Hero fan game made in Unity.
 * [UnityTetris](https://github.com/Mukarillo/UnityTetris) - Tetris clone written in C# and using Unity engine to render.
 * [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
-* [Phaserbeak](https://github.com/DarrenTsung/laserbeak) - Fast-paced, local-multiplayer party game. Controls are simple to pick-up, but hard to master and every round features a different mechanic.
+* [Phaserbeak](https://github.com/DarrenTsung/laserbeak) - Fasecst-paced, local-multiplayer party game. Controls are simple to pick-up, but hard to master and every round features a different mechanic.
 * [Pacman](https://github.com/vilbeyli/Pacman) - A Pacman clone with original AI made using Unity.
 * [Minesweeper](https://github.com/vilbeyli/Minesweeper) - Tile based Minesweeper game with highschores made in Unity.
 * [Colorus](https://github.com/nicloay/colorus) - Coloring book game for Web/iOS made with Unity.
@@ -2421,7 +2435,10 @@ screen.
 * [Project Skylines](https://github.com/Zaphyk/project-skylines "") - Procedural retro 3d game for the GitHub Gameoff 2017 .
 * [Deer](https://github.com/zrdumped/Deer "") - A low-poly digital game about family and finding himself.
 * [Virus Alpha](https://github.com/dave95b/Virus-Alpha "") - Game made in Unity for the needs of university classes in the group of four.
-* [Fruit Ninja Replica](https://github.com/Brackeys/Fruit-Ninja-Replica "") - This is the source code for a Fruit Ninja replica created during a Twitch Livestream.
+* [Fruit Ninja Replica](https://github.com/Brackeys/Fruit-Ninja-Replica "") - Source code for a Fruit Ninja replica created during a Twitch Livestream.
+* [Cut the Rope Replica](https://github.com/Brackeys/Cut-the-Rope-Replica "") - Source code for a Cut the Rope replica created during a Twitch Livestream.
+* [CatBox MultiPlayerAR](https://github.com/gucheng0712/CatBox-MultiPlayerAR "") - A Multiplayer AR Game Based on the Unity, Vuforia and Node.js -- Marker Based Pokemon Go Style Game. (#AUGMENTED-REALITY)
+* [AR BasketballMachine](https://github.com/gucheng0712/AR-BasketballMachine "") -An AR- Vuforia Project about the basketball machine. Shoot method include swap screen, Voice Command. (#AUGMENTED-REALITY)
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
