@@ -296,6 +296,7 @@ Interesting resource: :cool:
 * [AirSim](https://github.com/Microsoft/AirSim "") - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 * [Ngx](https://github.com/keijiro/Ngx "") - Neural network based visual generator and mixer.
 * [Unity Formation Movement](https://github.com/Goodgulf281/Unity-Formation-Movement "") - Formation movement for Unity3D using standard Navmesh or A* Pathfinding. (#NAVMESH)
+* [BT Framework](https://github.com/f15gdsy/BT-Framework "") - A behavior tree framework that can be used to create game AI.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -303,8 +304,10 @@ Interesting resource: :cool:
 * [PPOL](https://github.com/A7ocin/PPOL) - A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
 * [UnityTensorflowKeras](https://github.com/tcmxx/UnityTensorflowKeras "") - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed.
 * [Unity Reinforcement Learning](https://github.com/eProw/Unity-reinforcement-learning "") - Reinforcement Learning project based on genetic algorithms.
+* [Unity TensorRT](https://github.com/aman-tiwari/Unity-TensorRT "") - Unity + TensorRT integration.
 * [TFClassify Unity](https://github.com/Syn-McJ/TFClassify-Unity "") - An example of using Tensorflow with Unity for image classification and object detection.
 * [Pix2Pix](https://github.com/keijiro/Pix2Pix "") - Real-time pix2pix implementation with Unity.
+* [ML Game](https://github.com/aman-tiwari/ml-game "") - Experiments with Unity and Pix2Pix.
 * [Angry AI](https://github.com/mbaske/angry-ai "") - Unity Machine Learning Battle Robots.
 * [Unity Neural Network Tanks AI](https://github.com/trulyspinach/Unity-Neural-Network-Tanks-AI "") - A simple tank battle game but it's controlled by Neural Network.
 * [ML Explorer Drone](https://github.com/mbaske/ml-explorer-drone "") - Unity Machine Learning Controlled Explorer Drone.
@@ -1699,6 +1702,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity SRP VXGI](https://github.com/Looooong/Unity-SRP-VXGI "") - Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
 * [ShadowVolume](https://github.com/chengkehan/ShadowVolume "") - Shadow Volume for Static-Scene-Object of Unity.
 * [Brunetons Improved Atmospheric Scattering](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering "") -  Unity port of Brunetons improved atmospheric scattering.
+* [PointCloudLoader](https://github.com/rctheriot/PointCloudLoader "") -  A Point Cloud loading utility for Unity.
 
 ### Raymarching <a name="raymarching"></a>
 
@@ -1721,6 +1725,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UIElementsExamples](https://github.com/Unity-Technologies/UIElementsExamples "") - Unity project containing examples to use UIElements in the Editor.
 * [Unity_UI_Samples](https://github.com/tsubaki/Unity_UI_Samples "")
 * [Rec-Ex](https://github.com/slavniyteo/rect-ex "") - Unity3D Rect Extensions.
+* [UnityUI StarMap](https://github.com/SimonDarksideJ/UnityUI-StarMap "") - Elite Dangerous star viewer using the Unity UI System.
 
 #### Minimap <a name="ui-controls-minimap"></a>
 
@@ -2049,6 +2054,7 @@ screen.
 * [UnityDebugger](https://github.com/joexi/UnityDebugger "") - Lite tool helping check runtime status of unity application in Editor.
 * [ReferenceVisualizerUnity3D](https://github.com/Sebastian-Schuchmann/ReferenceVisualizerUnity3D "") - An Editor Window that lets you see and edit all references of your Scene Objects.
 * [ShaderInspector](https://github.com/myacat/ShaderInspector "") - Hide parameters in Unity Shader Inspector Window. (#SHADERS)
+* [EditorGenerator](https://github.com/keenanwoodall/EditorGenerator "") - A tool that generates custom editors in Unity.
 
 ### Timeline <a name="timeline"></a>
 
