@@ -429,7 +429,7 @@ Interesting resource: :cool:
 * [Unity VR IK Mecanim](https://github.com/createthis/unity_vr_ik_mecanim "") - VR IK using native Unity Mecanim IK.
 * [VR180MeshProjection](https://github.com/aosoft/VR180MeshProjection "") - VR180 Mesh Projection Box Parser.
 * [VRMSpringBone-Optimize](https://github.com/mao-test-h/VRMSpringBone-Optimize "") - (#ANIMATION)
-* [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format.
+* [UniVRM](https://github.com/dwango/UniVRM "") - Unity package that can import and export VRM format. See also [LoadVRM](https://github.com/MrSlip777/LoadVRM)
 * [DesktopMascot4VRM](https://github.com/keel-210/DesktopMascot4VRM "")
 * [User Reporting VR](https://github.com/UnityTech/user-reporting-vr "") - A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
 * [Unity Chemical Engine](https://github.com/zrdumped/Unity-Chemical-Engine "") - A VR Chemical Reaction & Experiments Simulation Application Developed by Unity3D.
@@ -704,6 +704,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Firestorm](https://github.com/5argon/Firestorm) - Makeshift Cloud Firestore C# API that works with Unity via REST API. Contains only basic functions.
 * [Unity Timeline Sync](https://github.com/asus4/unity-timeline-sync) - Synchronize multiple Unity Timeline via UDP.
 * [Chanquo](https://github.com/sassembla/Chanquo) - Golang-channel partial implementation for Unity.
+* [Dissonance](https://github.com/Placeholder-Software/Dissonance) - Unity Voice Chat Asset
 
 ### REST
 
