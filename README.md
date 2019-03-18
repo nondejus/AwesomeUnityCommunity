@@ -265,6 +265,7 @@ Interesting resource: :cool:
 * [Pathfinding](https://github.com/antonpantev/pathfinding "") - Find paths in Unity Tilemaps with A* Search.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "") - A Unity library for common movement AI.
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
+* [A* Sharp](https://github.com/davecusatis/A-Star-Sharp) - A small, easy to understand C# implementation of the A Star pathfinding algorithm for 2D grid based applications.
 * [Astar Pathfinding](https://github.com/wawethewaras/Astar-Pathfinding) - 2D pathfinding for Unity.
 * [UnityAStarNavigation](https://github.com/jeffvella/UnityAStarNavigation) - An A* navigation system for Unity using burst compiled jobs for performance.
 * [Apex Path](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles. :moneybag:
@@ -435,6 +436,9 @@ Interesting resource: :cool:
 * [LilyRender360](https://github.com/eliemichel/LilyRender360 "") - Lily Render 360 is a tool for rendering a Unity scene into stitch-free equirectangular images.
 * [UnityVR Interaction](https://github.com/RandolphM/UnityVR-Interaction "") - Any VR (Virtual Reality) headset can work.
 * [CWVRGUI](https://github.com/chilton/CWVRGUI "") - Simple toolkit for interacting with the Unity GUI system via a hand controller in VR. (#UI)
+* [360 Video Heatmaps](https://github.com/Unity-Technologies/360-Video-Heatmaps "") - Heatmaps for 360 Video.
+* [Useful Scripts for VR Development](https://github.com/yutokun/Useful-Scripts-for-VR-Development "") - Collection of scripts to help virtual reality application development.
+* [VMagicMirror](https://github.com/malaybaku/VMagicMirror "") - VRM based avatar software for Windows with minimal devices. See also [VMagicMirrorConfig](https://github.com/malaybaku/VMagicMirrorConfig).
 
 ### HTC Vive <a name="virtual-reality-htcvive"></a>
 
@@ -699,6 +703,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unet HLAPI Manager](https://github.com/insthync/unet-hlapi-manager) - The simple network manager based on Unity's NetworkManager without players, scenes stuffs focus on network messages callback handles. Intenly made for multiple server purposes.
 * [Firestorm](https://github.com/5argon/Firestorm) - Makeshift Cloud Firestore C# API that works with Unity via REST API. Contains only basic functions.
 * [Unity Timeline Sync](https://github.com/asus4/unity-timeline-sync) - Synchronize multiple Unity Timeline via UDP.
+* [Chanquo](https://github.com/sassembla/Chanquo) - Golang-channel partial implementation for Unity.
 
 ### REST
 
@@ -875,6 +880,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D Prefab Pool](https://github.com/TarasOsiris/unity3d-prefab-pool) - Simple Prefab Pool for Unity3D.
 * [Starfall Pool Manager](https://github.com/starfallproduction/starfall-pool-manager) - Gameobject pool manager that Starfall Production use while making game.
 * [UnityObjectPooler](https://github.com/imxzjv/UnityObjectPooler) - Simple object pool for Unity.
+* [QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine.
 
 ### Serialization <a name="serialization"></a>
 
@@ -907,7 +913,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Common.Logging.Unity3D](https://github.com/SaladLab/Common.Logging.Unity3D "") - Common Logging (A portable logging abstraction for .NET) for Unity3D.
 * [NLog Unity3D](https://github.com/AqlaSolutions/NLog-Unity3D "") - Advanced .NET and Silverlight Logging.
 * [log4net.unity](https://github.com/HolyShovelSoft/log4net.unity) - Some log4net helper classes and UnityEngine.Debug appender for Unity.
-* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from 'Debug.Log'.
+* [Command Terminal](https://github.com/stillwwater/command_terminal) - Unity Command Terminal: In-Game Console.
 * [Lunar Unity Console](https://github.com/SpaceMadness/lunar-unity-console "") - High-performance Unity iOS/Android logger built with native platform UI.
 * [SDConsole](https://github.com/gabrielevierti/SDConsole) - An in-game developer console for Unity.
 * [UnityConsole](https://github.com/Wenzil/UnityConsole "") - Easy-to-use developer console for Unity 5.
@@ -945,6 +952,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [DebugPlus](https://github.com/benoit-dumas/DebugPlus "") - Unity asset to draw all built-in gizmos in the Unity Debug way.
 * [Apkd.UnityDemystifier](https://github.com/apkd/Apkd.UnityDemystifier "") - Improved stack trace display for Unity.
 * [UnityGendarmerie](https://github.com/maluoi/UnityGendarmerie "") - Simple hooks for using [Gendarme](https://github.com/spouliot/gendarme) from inside the Unity editor.
+* [Uni Debug Menu](https://github.com/baba-s/uni-debug-menu "") - Customizable debug menu for games.
 
 ### Coroutines / Threading  <a name="coroutines-threading"></a>
 
@@ -1415,6 +1423,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [UnityToonShader](https://github.com/IronWarrior/UnityToonShader "") - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [UnityChanToonShaderVer2 Project](https://github.com/ACIIL/UnityChanToonShaderVer2_Project "") - UTS2-AC - UnityChanToonShaderVer2 Project / v.2.0.4+ - different vrchat support and lighting manipulation and style.
 * [UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll "") - UnityChanToonShaderVer2 with EmissiveScroll.
 * [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders "") - A re-write and restructure of XSToon.
 * [MToon](https://github.com/Santarh/MToon "") - Toon Shader with Unity Global Illumination.
@@ -1528,6 +1537,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D Lightning Shader](https://github.com/ya7gisa0/Unity3D-Lightning-Shader "") - Procedural Lightning Shader for Unity3D.
 * [Unity HDRP SpeedTree Materials](https://github.com/flamacore/UnityHDRPSpeedTreeMaterials "") - Material replacements for getting SpeedTree models to work on HDRP Terrain. Highly experimental.
 * [Noise Texture Particles](https://github.com/Dafirex/Noise-Texture-Particles "") - Shader for Unity particles that use noise textures as inputs to create different patterns.
+* [Analytical Normals 3D](https://github.com/ya7gisa0/Analytical-Normals-3D "")
 
 #### Collections
 
@@ -1644,6 +1654,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Koch's Fractals](https://github.com/hww/koch_fractals) - Koch Fractals Demo for Unity.
 * [SDF Gen Unity](https://github.com/mmerchante/sdf-gen-unity) - A signed distance function generator running inside Unity.
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) - Convert a mesh to an SDF for the Visual Effect Graph in realtime.
+* [UnitySlitScan](https://github.com/kitasenjudesign/UnitySlitScan) - Simple time-displacement filter (slit-scan) on Unity.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
@@ -2055,6 +2066,7 @@ screen.
 * [ReferenceVisualizerUnity3D](https://github.com/Sebastian-Schuchmann/ReferenceVisualizerUnity3D "") - An Editor Window that lets you see and edit all references of your Scene Objects.
 * [ShaderInspector](https://github.com/myacat/ShaderInspector "") - Hide parameters in Unity Shader Inspector Window. (#SHADERS)
 * [EditorGenerator](https://github.com/keenanwoodall/EditorGenerator "") - A tool that generates custom editors in Unity.
+* [ToDoManager](https://github.com/densylkin/ToDoManager "") - Simple tool for managing todo's in your code.
 
 ### Timeline <a name="timeline"></a>
 
@@ -2189,6 +2201,7 @@ screen.
 * [UnityPacker](https://github.com/FatihBAKIR/UnityPacker "") - Create unitypackages without unity, from command line.
 * [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
 * [RotateMe](https://github.com/mob-sakai/RotateMe "") - A tutorial for "How to develop a package for UnityPackageManager".
+* [Unitypackage Extractor](https://github.com/Cobertos/unitypackage_extractor "") - Extract a .unitypackage.
 
 ### Asset Bundles <a name="assets-management-bundles"></a>
 
