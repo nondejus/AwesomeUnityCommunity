@@ -255,6 +255,7 @@ Interesting resource: :cool:
 * [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "") - Simple solution for cutting sprites in runtime.
 * [PixelSpriteGenerator Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "") - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
 * [ST2U TileProperties](https://github.com/Seanba/ST2U_TileProperties "") - SuperTiled2Unity Example of Retrieving Custom Properties from Tiles.
+* [PixelRenderUnity3D](https://github.com/kode80/PixelRenderUnity3D "") - PixelRender is a complete system for realtime rendering of 3D scenes as 2D pixel art in Unity3D.
 
 ## Vector Graphics <a name="vector-graphics"></a>
 
@@ -344,6 +345,7 @@ Interesting resource: :cool:
 * [UniIosAudioService](https://github.com/sanukin39/UniIosAudioService) - Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
 * [KlakLasp](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
 * [AudioRecorder](https://github.com/alternator/AudioRecorder) - Audio recorder component for Unity.
+* [UnityAbletonLink](https://github.com/comoc/UnityAbletonLink) - An Ableton Link plugin for Unity. (#PLUGINS)
 
 ## :runner: Animation <a name="animation"></a>
 
@@ -513,6 +515,7 @@ Interesting resource: :cool:
 * [UnityCloudVision](https://github.com/comoc/UnityCloudVision "") - Google Cloud Vision API client for Unity.
 * [TensorFlowUnity ObjectDetection](https://github.com/MatthewHallberg/TensorFlowUnity-ObjectDetection "") - Object detection test project with Tensorflow and Unity.
 * [KinectSDK Unity3D Interface Plugin](https://github.com/adevine1618/KinectSDK-Unity3D_Interface_Plugin "") - This is a wrapper that allows the user to access Microsoft's Kinect SDK v.1.7 data from inside the free Unity3D game engine.
+* [Kinect-VFX-Graph](https://github.com/roelkok/Kinect-VFX-Graph "") - Use Kinect's depth feed with Unity's VFX Graph. (#SHADERS)
 * [Deepdive](https://github.com/asymingt/deepdive "") - Rigid body tracking with HTC Vive trackers. (#VIRTUAL-REALITY)
 * [Rsvfx](https://github.com/keijiro/Rsvfx "") - Visual effects by Keijiro using Intel Realsense camera.
 * [Dkvfx](https://github.com/keijiro/Dkvfx "") - An example that shows how to use recorded Depthkit footage with Unity VFX Graph.
@@ -769,6 +772,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [IK Solvers](https://github.com/NoxWings/IK-Solvers "") - Basic IK Experiments.
 * [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "")
 * [CCD](https://github.com/akanarika/CCD "") - CCD Inverse Kinematics Implemented by Unity3D.
+* [Dithering Unity3D](https://github.com/mcraiha/Dithering-Unity3d "") - Dithering algorithms for Unity3D.
 
 ### Attributes <a name="attributes"></a>
 
@@ -1424,6 +1428,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [UnityToonShader](https://github.com/IronWarrior/UnityToonShader "") - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
 * [ToonShading](https://github.com/Kink3d/ToonShading "") - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [LiliumToonGraph](https://github.com/you-ri/LiliumToonGraph "") - LWRP ShaderGraph Toon Shader.
 * [UnityChanToonShaderVer2 Project](https://github.com/ACIIL/UnityChanToonShaderVer2_Project "") - UTS2-AC - UnityChanToonShaderVer2 Project / v.2.0.4+ - different vrchat support and lighting manipulation and style.
 * [UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll "") - UnityChanToonShaderVer2 with EmissiveScroll.
 * [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders "") - A re-write and restructure of XSToon.
@@ -1539,6 +1544,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity HDRP SpeedTree Materials](https://github.com/flamacore/UnityHDRPSpeedTreeMaterials "") - Material replacements for getting SpeedTree models to work on HDRP Terrain. Highly experimental.
 * [Noise Texture Particles](https://github.com/Dafirex/Noise-Texture-Particles "") - Shader for Unity particles that use noise textures as inputs to create different patterns.
 * [Analytical Normals 3D](https://github.com/ya7gisa0/Analytical-Normals-3D "")
+* [UnityComputeShaderTest](https://github.com/kitasenjudesign/UnityComputeShaderTest "") - Compute shader example.
 
 #### Collections
 
@@ -1557,6 +1563,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Shader Sketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 * [Unity3D CG Programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming "") - Various shaders.
+* [Shaders](https://github.com/ewersp/Shaders "") - A collection of shaders written in CG/ShaderLab for Unity.
 
 #### Utilities
 
@@ -2286,6 +2293,8 @@ screen.
 * [Unity3D.CharacterCreator](https://github.com/Shogan/Unity3D.CharacterCreator "") - A character creator project utilising DynamoDB for character configuration storage.
 * [Pepper's Cone Unity](https://github.com/gucheng0712/Pepper-s-Cone-Unity "") - Pepper's Cone with Unity.
 * [Sample AfterEffectsToUnity](https://github.com/hiryma/Sample-AfterEffectsToUnity "") - Example of exporting after effects animations to Unity.
+* [Galaxia Runtime](https://github.com/simeonradivoev/Galaxia-Runtime "") - Galaxy generator for Unity 3D, with Custom Particle Distributors, DirectX 11 Particles and Highly customization, curve driven Generation.
+* [Galaxia Editor](https://github.com/simeonradivoev/Galaxia-Editor "") - The editor scripts for Galaxia.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
