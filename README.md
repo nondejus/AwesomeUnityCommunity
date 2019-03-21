@@ -1627,6 +1627,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity ProjectionSpray v2](https://github.com/sugi-cho/Unity-ProjectionSpray-v2 "")
 * [Unity Screen Space Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection "") - Clearly Screen Space Reflection!
 * [kDecals](https://github.com/Kink3d/kDecals "") - A forward projector Decal system for Unity.
+* [SkinnedDecals](https://github.com/lhlvieira/SkinnedDecals "") - A simple un-optimized skinned decal system for Unity.
 * [ComputeStochasticReflections](https://github.com/simeonradivoev/ComputeStochasticReflections "") - Compute Stochastic Screen Space Reflections for unity post processing.
 * [NoiseRings](https://github.com/kaelb/NoiseRings "") - NoiseRings is a noisy emanating ring effect for Unity adapted with permission from the VR music video experience Chorus.
 * [UnityEffects](https://github.com/vivekhnz/UnityEffects "") - A collection of video game effects recreated in Unity.
@@ -1668,6 +1669,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SDF Gen Unity](https://github.com/mmerchante/sdf-gen-unity) - A signed distance function generator running inside Unity.
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) - Convert a mesh to an SDF for the Visual Effect Graph in realtime.
 * [UnitySlitScan](https://github.com/kitasenjudesign/UnitySlitScan) - Simple time-displacement filter (slit-scan) on Unity.
+* [Crystal Caustics](https://github.com/CJT-Jackton/Crystal-Caustics) - Approximated crystal caustics effect in real-time.
 
 ### Particle Systems (VFX) <a name="particle-systems"></a>
 
