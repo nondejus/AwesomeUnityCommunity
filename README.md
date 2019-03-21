@@ -874,6 +874,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Message Bus Pattern](https://github.com/franciscotufro/message-bus-pattern) - A Unity pattern to avoid object coupling.
 * [Unity Game Programming Patterns](https://github.com/TarasOsiris/unity-game-programming-patterns) - Game Programming Pattern Examples in Unity3D.
 * [Unity Singleton MonoBehavior](https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour) - An implementation of Singleton pattern for Unity MonoBehaviours.
+* [Prototype](https://github.com/inkle/prototype) - Prototype component pattern for Unity.
 
 ### Pooling Systems <a name="pooling"></a>
 
@@ -1076,6 +1077,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [EnumDispatcher](https://github.com/5argon/EnumDispatcher) - ECS backed C# enums as Flux/Redux action in Unity.
 * [UnityHelpers](https://github.com/jeffvella/UnityHelpers) - A collection of random scripts related to Unity.
 * [UndoPro](https://github.com/Seneral/UndoPro) - UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
+* [Ink Unity Integration](https://github.com/inkle/ink-unity-integration) - Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
 
 #### Gizmos
 
@@ -1203,6 +1205,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Piranha](https://github.com/keenanwoodall/Piranha "") - A simple tool to make rigidbodies swarm a mesh in Unity.
 * [SmoothingTest](https://github.com/keijiro/SmoothingTest "") - Critically damped spring smoothing.
 * [Grapple Effect](https://github.com/keenanwoodall/Grapple-Effect "") - An example of a simple grapple effect in Unity.
+* [LinkedListUpdateManager](https://github.com/Xerios/LinkedListUpdateManager "") - A simple script to manage updates for Unity.
 
 ### :wrench: Tools <a name="tools"></a>
 
@@ -1264,7 +1267,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [CO2](https://github.com/sassembla/CO2) - Android plugin generator for Unity.
 * [Unity Webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
 * [iOS Unity5](https://github.com/blitzagency/ios-unity5 "") - How to integrate Unity with an Native iOS Application using Swift.
-* [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3d.
+* [iMessageStickerUnity](https://github.com/agens-no/iMessageStickerUnity "") - An iMessage Sticker plugin for Unity3d that adds a Sticker extension target to an xCode project created by Unity3D.
+* [Peuck](https://github.com/fcarucci/peuck "") - Android utilities for Unity.
 
 ### Services
 
@@ -1287,7 +1291,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
 * [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) - Unity 4.x version of the Reign plugins.
 * [Unity Wakatime](https://github.com/vladfaust/unity-wakatime "") - [WakaTime](https://wakatime.com/) plugin for Unity.
-* [Line SDK Unity](https://github.com/line/line-sdk-unity "") - Provides a modern way of implementing LINE APIs in Unity games, for iOS and Android. 
+* [Line SDK Unity](https://github.com/line/line-sdk-unity "") - Provides a modern way of implementing LINE APIs in Unity games, for iOS and Android.
+* [Mastodon Unity](https://github.com/Santarh/mastodon-unity "")
 
 ### Languages
 
