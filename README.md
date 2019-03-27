@@ -464,6 +464,7 @@ Interesting resource: :cool:
 * [SteamVR Unity Toolkit](https://github.com/n1ckfg/SteamVR_Unity_Toolkit "") - Predecessor of @thestonefox's VRTK, organized as submodule.
 * [SteamVR Unity Plugin](https://github.com/ValveSoftware/steamvr_unity_plugin "") - Steam VR plugin for Unity.
 * [SteamVR Enabler](https://github.com/demonixis/SteamVREnabler "") - A tool to enable or disable the SteamVR runtime.
+* [PictureWindow](https://github.com/deprecatedcoder/PictureWindow "") - Allows the user (outside of HMD) to view into the virtual world by turning the display into a window.
 
 ### Google VR <a name="virtual-reality-googlevr"></a>
 
@@ -487,6 +488,7 @@ Interesting resource: :cool:
 
 * [Microsoft Hololens 2](https://www.microsoft.com/en-us/hololens "") - Second generation mixed reality device developed by Microsoft. See its [guides](https://azure.microsoft.com/es-es/topic/mixed-reality/).
 * [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "") - Microsoft Mixed Reality Toolkit.
+* [Azure Spatial Anchors Samples](https://github.com/Azure/azure-spatial-anchors-samples "") - Azure Spatial Anchors is a managed cloud service and platform that enables multi-user, spatially aware mixed reality and augmented reality (MR/AR) apps for HoloLens, iOS devices with ARKit, and Android devices with ARCore. 
 * [Ong Sharing Drag n Drop](https://github.com/mr0ng/Ong-Sharing-Drag-n-Drop "") - Ong's Drag and Drop Sharing Solution.
 * [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "") - The Mixed Reality Framework's core interface contracts, services, and utilities.
 * [Visual Profiler Unity)](https://github.com/Microsoft/VisualProfiler-Unity "") - The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
@@ -566,6 +568,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D PhysicsGun](https://github.com/Laumania/Unity3d-PhysicsGun "") - Unity3D sample implementation of a Half-life 2 / Garry's mod/ Gmod Physics Gun.
 * [2D Deformable Body in Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity "") - A 2D Deformable body simulation in Unity using FEM. (#2D)
 * [Clothing System 3D](https://github.com/keawstudio/Clothing-System-3D "") - Asset for Unity 3D to allows character customization.
+* [GPU Cloth Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation "") - GPU Mass-Spring Simulation Cloth in Unity.
 * [OpenRelativity](https://github.com/MITGameLab/OpenRelativity "") - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games.
 * [Fusion](https://github.com/Ninjajie/Fusion "") - Unity Physics on GPU.
 * [Qu3e Sharp](https://github.com/willnode/Qu3e-Sharp "") - Lightweight and Simple 3D Open Source Physics Engine ported to C#.
@@ -969,6 +972,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityMainThreadDispatcher](https://github.com/ashikns/UnityMainThreadDispatcher) - Fork of previous UnityMainThreadDispatcher.
 * [Asyncoroutine](https://github.com/zsaladin/Asyncoroutine "") - Asyncoroutine is a unity asset that allows you to use Coroutine and async/await together.
 * [TeaTime](https://github.com/alvivar/TeaTime "") -  A fast & simple queue for timed callbacks, focused on solving common coroutines patterns in Unity games.
+* [OneShotCoroutine](https://github.com/Cippman/Unity-OneShotCoroutine "") -  A plug 'n' play solution to run coroutines of inactive gameObjects.
 
 ### :orange_book: Libraries <a name="libraries"></a>
 
@@ -1389,6 +1393,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SRPBatcherBenchmark](https://github.com/Unity-Technologies/SRPBatcherBenchmark "") - Various benchmark scenes for SRP batcher (both LWRP & HDRP).
 * [UnityLWRPEssentials](https://github.com/dilmerv/UnityLWRPEssentials "") - Unity Lightweight Render Pipeline with a variety of shader examples built in Shader Graph.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained). [Asset Store Link](https://www.assetstore.unity3d.com/en/#!/content/14147)
+* [ShaderLabLab](https://github.com/rambutan2000/ShaderLabLab) - A system using T4 Templates to generate Unity ShaderLab code in the Editor.
 
 #### Ocean
 
@@ -1829,6 +1834,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [NotchSolution](https://github.com/5argon/NotchSolution "") - A set of tools to fight with notched/cutout phones for Unity uGUI.
 * [iPhoneX Overlay](https://github.com/ianwaldrop/iPhoneX-overlay "Unity Editor utility which masks the game view with the shape of an iPhone X.") - Unity Editor utility which masks the game view with the shape of an iPhone X.
 * [UnityIPhoneXSupport](https://github.com/tkyaji/UnityIPhoneXSupport "") - Support iPhoneX by changing the drawing area of Unity.
+* [iPhoneXSafeAreaDrawer](https://github.com/baba-s/iPhoneXSafeAreaDrawer "")
 
 #### Gizmo <a name="ui-controls-gizmo"></a>
 
@@ -1937,6 +1943,7 @@ screen.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
+* [TerrainToolSamples](https://github.com/Unity-Technologies/TerrainToolSamples) - New Terrain Tools and Brush Assets for the Unity Terrain system.
 * [Microsplat](https://assetstore.unity.com/packages/tools/terrain/microsplat-96478) - A modular free terrain shading system focused on performance and ease of use. MicroSplat is described as a replacement shader system for Unity Terrains.
 * [Terrain Topology Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms "") - Terrain topology algorithms in Unity.
 * [Unity DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
@@ -2082,6 +2089,7 @@ screen.
 * [ShaderInspector](https://github.com/myacat/ShaderInspector "") - Hide parameters in Unity Shader Inspector Window. (#SHADERS)
 * [EditorGenerator](https://github.com/keenanwoodall/EditorGenerator "") - A tool that generates custom editors in Unity.
 * [ToDoManager](https://github.com/densylkin/ToDoManager "") - Simple tool for managing todo's in your code.
+* [UnityPickers](https://github.com/vasyab/UnityPickers "") - Value selection controls for Unity game engine editor. 
 
 ### Timeline <a name="timeline"></a>
 
@@ -2302,6 +2310,7 @@ screen.
 * [Sample AfterEffectsToUnity](https://github.com/hiryma/Sample-AfterEffectsToUnity "") - Example of exporting after effects animations to Unity.
 * [Galaxia Runtime](https://github.com/simeonradivoev/Galaxia-Runtime "") - Galaxy generator for Unity 3D, with Custom Particle Distributors, DirectX 11 Particles and Highly customization, curve driven Generation.
 * [Galaxia Editor](https://github.com/simeonradivoev/Galaxia-Editor "") - The editor scripts for Galaxia.
+* [UnityHDROutputPlugin](https://github.com/aosoft/UnityHDROutputPlugin "") - Unity HDR Display Output plugin for Windows 10.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2488,6 +2497,8 @@ screen.
 * [AR BasketballMachine](https://github.com/gucheng0712/AR-BasketballMachine "") - An AR- Vuforia Project about the basketball machine. Shoot method include swap screen, Voice Command. (#AUGMENTED-REALITY)
 * [Sudoku Unity](https://github.com/Umar-Eh/Sudoku-Unity "") - A sudoku game built using the Unity framework and written in C#.
 * [ECS2048](https://github.com/Prastiwar/ECS2048 "") - 2048 like game using Unity's ECS.
+* [Sugar Warrior](https://github.com/Brackeys/Sugar-Warrior "") - A game created for the first Brackeys Game Jam!
+* [UnityTD](https://github.com/wildex999/unitytd "") - Tower Defense Game with online Multiplayer.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
