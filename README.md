@@ -582,6 +582,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Custom 2D Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders for Unity. (#2D)
 * [Custom Primitive Colliders](https://github.com/WestHillApps/Custom-Primitive-Colliders "") - Custom primitive colliders for Unity.
 * [Unity3D QuadTree Collision Detection](https://github.com/Chabinka/Unity3d-QuadTree-Collision-Detection "") - QuadTree and Collision Detection Systems for Unity3d.
+* [DynamicRagdoll](https://github.com/tiredamage42/DynamicRagdoll "") - Runtime customizable ragdolls in Unity. With transitions to and from animated states.
 * [Quickfracture](https://github.com/OskarSigvardsson/quickfracture) - A unity destruction effect.
 * [Cable Component](https://github.com/NoxWings/Cable-Component "") - Unity cable component implementation similar to the Unreal Engine one based on verlet integration.
 * [StandardizeBows](https://github.com/ahmetahaydemir/StandardizeBows "") - Standardize Bows is a Unity ( C# ) project that is created in order to setup bow models that will simulate the physics of a bow without having any animation or animator component.
@@ -590,6 +591,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityFluidDynamics](https://github.com/IceLanguage/UnityFluidDynamics "") - This code is translated from the code provided in Jos Stam's GDC2003 paper.
 * [2DFluidSim](https://github.com/candycat1992/2DFluidSim "") - Port 2D fluid simulation to Unity. (#2D)
 * [UnityFluidExperiments](https://github.com/MaxSigma/UnityFluidExperiments "") - Collection of Fluid Simulation Experiments in Unity.
+* [Warthog](https://github.com/brihernandez/Warthog "") - WheelCollider driven fun little vehicle like Halo's Warthog.
 
 ## Character Controllers <a name="character-controllers"></a>
 
@@ -753,6 +755,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Physics CSP](https://github.com/spectre1989/unity_physics_csp) - Basic implementation of client-side prediction in Unity, so real networking happens, all network traffic is simulated in a single Unity instance.
 * [uTextureSendReceive](https://github.com/BarakChamo/uTextureSendReceive) - Unity network texture sender and receiver for video and frame streaming.
 * [UnityReplaySystem](https://github.com/IronWarrior/UnityReplaySystem) - Project demonstrating how to use input logging to create a replay system, where the replay is viewed by replaying the inputs with a deterministic fixed timestep.
+* [CppUnityTCPClientServer](https://github.com/Willtl/CppUnityTCPClientServer) - Test project Unity client, C++ (with boost) server (TCP).
 
 ## :pencil2: Scripting <a name="scripting"></a>
 
@@ -1088,6 +1091,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityHelpers](https://github.com/jeffvella/UnityHelpers) - A collection of random scripts related to Unity.
 * [UndoPro](https://github.com/Seneral/UndoPro) - UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
 * [Ink Unity Integration](https://github.com/inkle/ink-unity-integration) - Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
+* [Unity Auth Manager](https://github.com/zklinger2000/unity-auth-manager) - An example of using a Javascript Web Token (JWT) based authentication system for an app built with Unity.
 
 #### Gizmos
 
@@ -1510,6 +1514,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Hair Shader](https://github.com/AdamFrisby/UnityHairShader "") - A hair shader for Unity 5 originally built for the sine.space virtual world.
 * [NVIDIAHairWorksIntegration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - NVIDIA Hair Works Integration for Unity.
 * [Stanford Bunny Fur With Unity](https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity) - Using the Geometry Shader to generate fur on GPU.
+* [Marschner Hair Unity](https://github.com/maajor/Marschner-Hair-Unity) - Implement Marschner Shading Model In Unity.
 
 #### Triplanar Mapping
 
@@ -1567,6 +1572,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Analytical Normals 3D](https://github.com/ya7gisa0/Analytical-Normals-3D "")
 * [UnityComputeShaderTest](https://github.com/kitasenjudesign/UnityComputeShaderTest "") - Compute shader example.
 * [OpaqueActiveCamo](https://github.com/SquirrelyJones/OpaqueActiveCamo "") - Unity 3D project showing opaque active camouflage rendering technique.
+* [Zagara](https://github.com/justalittlefat/Zagara "") - A tiny softrendering engine based on Unity3D. See [more](https://github.com/yqlizeao/UnitySoftRender).
 
 #### Collections
 
@@ -1586,6 +1592,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 * [Unity3D CG Programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming "") - Various shaders.
 * [Shaders](https://github.com/ewersp/Shaders "") - A collection of shaders written in CG/ShaderLab for Unity.
+* [Shaders for Unity](https://github.com/wolf96/shader_for_unity "") - Some shaders for unity,such as Post processing, brdf, rendering and so on.
 
 #### Utilities
 
@@ -2522,6 +2529,8 @@ screen.
 * [ECS2048](https://github.com/Prastiwar/ECS2048 "") - 2048 like game using Unity's ECS.
 * [Sugar Warrior](https://github.com/Brackeys/Sugar-Warrior "") - A game created for the first Brackeys Game Jam!
 * [UnityTD](https://github.com/wildex999/unitytd "") - Tower Defense Game with online Multiplayer.
+* [BrightSouls](https://github.com/leotgo/BrightSouls "") - An indie "Dark Souls" clone in Unity with Adaptive Game Technology.
+* [Combat Cars](https://github.com/keatonmay/Combat_cars "") - A multiplayer racing game made in Unity.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
