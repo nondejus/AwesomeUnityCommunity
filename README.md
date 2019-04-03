@@ -301,6 +301,7 @@ Interesting resource: :cool:
 * [BT Framework](https://github.com/f15gdsy/BT-Framework "") - A behavior tree framework that can be used to create game AI.
 * [Unity CogBot](https://github.com/THeK3nger/unity-cogbot "") - NPC AI framework for the popular Unity 3D game engine.
 * [Gridworld](https://github.com/THeK3nger/gridworld "") - An 3D enviroment for testing AIs powered by Unity3D.
+* [Unity BehaviourTree](https://github.com/nickkorta/Unity_BehaviourTree "")
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -1611,7 +1612,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LSky Dynamic Skydome Unity](https://github.com/Rallec/LSky-Dynamic-Skydome-Unity "") - Dynamic skydome for Unity3D.
 * [Celeste Sky Core Unity](https://github.com/Rallec/Celeste-Sky-Core-Unity "") - Dynamic Sky for Unity.
 * [CloudSkybox](https://github.com/AsehesL/CloudSkybox "") - Skybox shader with volumetric clouds.
-* [CloudSkybox](https://github.com/SquirrelyJones/DarkAndStormy "") - Overcast clouds with crazy colors skybox shader for Unity3D
+* [DarkAndStormy](https://github.com/SquirrelyJones/DarkAndStormy "") - Overcast clouds with crazy colors skybox shader for Unity3D.
+* [LSky Unity](https://github.com/Rallec/LSky-Unity "") - Dynamic Skydome for unity (built in render).
 
 ### Effects <a name="effects"></a>
 
@@ -1764,6 +1766,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Raytracer](https://github.com/SIZMW/unity-raytracer) -  This project demonstrates ray tracing in Unity, which is a real time rendering engine.
 * [Unity Compute Shader Ray Tracing Practice](https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice) -  Raytracing shader tutorial for Unity.
 * [Raymarching On Unity 5](https://github.com/i-saint/RaymarchingOnUnity5) - Raymarcher in Unity 5.
+* [Ray Marching](https://github.com/SebLague/Ray-Marching) - Experimenting with using ray marching to render signed distance functions in Unity.
 
 ## Voxel <a name="voxel"></a>
 
@@ -1889,6 +1892,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D using native UI tools.
 * [uGUI Effect Tool](https://github.com/WestHillApps/uGUI-Effect-Tool "") - Vertex color UI Effect for Unity UI (uGUI).
 * [MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI "") - A simple mirror reflection effect for a uGUI without reflection probes or shaders.
+* [BluredUGUI](https://github.com/edom18/BluredUGUI "") - Blured uGUI background sample.
 
 ### Frameworks <a name="ui-frameworks"></a>
 
@@ -2269,6 +2273,7 @@ screen.
 * [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker "")
 * [XAsset](https://github.com/fengjiyuan/xasset "")
 * [Zcode AssetBundlePacker](https://github.com/xtqqksszml/zcode-AssetBundlePacker "") - Create, build and manage Asset Bundles packages. Supports version control and more.
+* [Asset Bundle Analyzer](https://github.com/faelenor/asset-bundle-analyzer "") - This tool extracts useful information from Unity asset bundles and stores the information in an SQLite database.
 
 ### Asset Store <a name="assets-management-store"></a>
 
@@ -2341,6 +2346,7 @@ screen.
 * [UnityHDROutputPlugin](https://github.com/aosoft/UnityHDROutputPlugin "") - Unity HDR Display Output plugin for Windows 10.
 * [GodofWar AxeThrow](https://github.com/mixandjam/GodofWar-AxeThrow "") - Recreating the Axe Throw mechanic from God of War.
 * [MiraikomachiUnity](https://github.com/Miraikomachi/MiraikomachiUnity "") - Anime character for Unity.
+* [ECS Phyllotaxis](https://github.com/jeffvella/ECS-Phyllotaxis "") - Learning ECS - 100k Cubes in Phyllotaxis pattern.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
