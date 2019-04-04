@@ -1093,6 +1093,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UndoPro](https://github.com/Seneral/UndoPro) - UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
 * [Ink Unity Integration](https://github.com/inkle/ink-unity-integration) - Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
 * [Unity Auth Manager](https://github.com/zklinger2000/unity-auth-manager) - An example of using a Javascript Web Token (JWT) based authentication system for an app built with Unity.
+* [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
+* [Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D)
 
 #### Gizmos
 
@@ -1765,12 +1767,14 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Raymarching Collision](https://github.com/hecomi/UnityRaymarchingCollision) -  Raymarching x Rigidbody interaction example.
 * [Unity Raytracer](https://github.com/SIZMW/unity-raytracer) -  This project demonstrates ray tracing in Unity, which is a real time rendering engine.
 * [Unity Compute Shader Ray Tracing Practice](https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice) -  Raytracing shader tutorial for Unity.
+* [unity Experimental DXR](https://github.com/Unity-Technologies/Unity-Experimental-DXR) -  Experimental Direct X Raytracing in Unity.
 * [Raymarching On Unity 5](https://github.com/i-saint/RaymarchingOnUnity5) - Raymarcher in Unity 5.
 * [Ray Marching](https://github.com/SebLague/Ray-Marching) - Experimenting with using ray marching to render signed distance functions in Unity.
 
 ## Voxel <a name="voxel"></a>
 
 * [VoxelWorld](https://github.com/SidiaDevelopment/VoxelWorld) - Training Unity on a Voxel World.
+* [VoxelMeshGenerator](https://github.com/chulini/VoxelMeshGenerator) - Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
 
 ## :bar_chart: UI <a name="ui"></a>
 
