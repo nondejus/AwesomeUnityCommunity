@@ -1408,7 +1408,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### Shaders <a name="shaders"></a>
 
-* [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph "") - Unity ShaderGraph project.
+* [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph "") - Unity ShaderGraph project. ![Official](UnityResource16x16.png)
 * [ShaderGraph Example Library](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary "") - A library of Shaders created using Unity's Shader Graph.
 * [ShaderGraph Examples (Keijiro)](https://github.com/keijiro/ShaderGraphExamples "") - Simple examples of Unity shader graphs. 
 * [ShaderGraph Examples](https://github.com/RubenCUR/ShaderGraph-Examples "") - ShaderGraph Examples for Unity 2018.1.
