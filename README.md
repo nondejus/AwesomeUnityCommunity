@@ -256,6 +256,7 @@ Interesting resource: :cool:
 * [PixelSpriteGenerator Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "") - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
 * [ST2U TileProperties](https://github.com/Seanba/ST2U_TileProperties "") - SuperTiled2Unity Example of Retrieving Custom Properties from Tiles.
 * [PixelRenderUnity3D](https://github.com/kode80/PixelRenderUnity3D "") - PixelRender is a complete system for realtime rendering of 3D scenes as 2D pixel art in Unity3D.
+* [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity "") - Auto 9 slice sprite generator.
 
 ## Vector Graphics <a name="vector-graphics"></a>
 
@@ -697,6 +698,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LiteNetLibManager DarkRift2](https://github.com/insthync/LiteNetLibManager_DarkRift2) - DarkRift2 transport layer for LiteNetLibManager project.
 * [Barebones Masterserver](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity.
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players.
+* [IonNetworking](https://github.com/andrewsc2001/IonNetworking) - A dedicated server setup for Unity. 
 
 ### Libraries
 
@@ -744,6 +746,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 ### VoIP
 
 * [UniVoice](https://github.com/adrenak/UniVoice) - P2P VoIP in Unity.
+* [uNetVoice](https://github.com/hecomi/uNetVoice) - Tiny voice chat implementation for Unity. 
 
 ### Examples
 
@@ -872,6 +875,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)
 * [Lockstep Framework](https://github.com/SnpM/LockstepFramework) - A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system, and more. LSF is integrated with Unity.
 * [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) - Akka.Net 1.3.0 Running in Unity3D.
+* [SpacePuppy Unity Framework 3.0](https://github.com/lordofduct/spacepuppy-unity-framework-3.0) - A framework of various tools to facilitate making games in Unity 2017.
 
 ### :straight_ruler: Patterns <a name="patterns"></a>
 
@@ -925,6 +929,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [TinyJSON](https://github.com/pbhogan/TinyJSON) - TinyJSON is a simple JSON library for C# that strives for ease of use.
 * [JSONFX for Unity3D](https://bitbucket.org/TowerOfBricks/jsonfx-for-unity3d)
 * [BitpackingTools](https://github.com/emotitron/BitpackingTools) - Bitpacking/serialization libraries used interally for Unity Store NetworkSyncTransform and TransformCrusher Assets.
+* [Knight Windjson](https://github.com/winddyhe/knight-windjson) - A Json Parser used in Unity3D engine.
 
 ### Logging <a name="logging"></a>
 
@@ -1095,6 +1100,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Auth Manager](https://github.com/zklinger2000/unity-auth-manager) - An example of using a Javascript Web Token (JWT) based authentication system for an app built with Unity.
 * [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
 * [Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D)
+* [EasingCore](https://github.com/setchi/EasingCore) - Simple easing implementation for Unity.
 
 #### Gizmos
 
@@ -1252,6 +1258,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Psd2UnityImporter](https://github.com/SubjectNerd-Unity/Psd2UnityImporter) - An advanced PSD importer tool for Unity.
 * [GSLS Optimizer](https://github.com/aras-p/glsl-optimizer) - GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
 * [Memory Profiler](https://bitbucket.org/Unity-Technologies/memoryprofiler) - Unity 5.3a4 has a new very lowlevel memory profiler API. It can tell you which objects got blamed for how much C++ memory allocations.
+* [Uni Simple Profiler](https://github.com/baba-s/uni-simple-profiler)
 * [Support for Unity Memory Profiler](https://github.com/robertoardila/support-unity-memoryprofiler "") - Extension for the existing Unity memory profiler project.
 * [DekosTools](https://github.com/rafaelhipercg/DekosTools "") - Tools to make work easier on Unity3D.
 * [PPTech Build Tools](https://github.com/quatmo/pptech-build-tools "") - Build Tools for Unity 3D that we use for Braveland game.
@@ -1316,6 +1323,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 ### Languages
 
+* [UnityJS](https://github.com/SimHacker/UnityJS "") - Unity3D C# / JavaScript Bridge.
 * [Unity Python](https://github.com/exodrifter/unity-python "") - Python plugin for Unity3D.
 * [Unity Swift](https://github.com/miyabi/unity-swift "") - Native plugin to write native code in Swift for Unity.
 * [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) - An example showing how to write a Unity native plugin in Rust.
@@ -1355,6 +1363,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [BepInEx](https://github.com/BepInEx/BepInEx) - Unity game patcher and plugin framework.
 * [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - A plugin that plays elevator music while Unity compiles your code. :cool:
 * [myS7ProSimLib](https://github.com/kodaman2/myS7ProSimLib) - Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
+* [UnityOptixPlugin](https://github.com/Alexander-Scott/UnityOptixPlugin) - An example of a Unity plugin that allows you to leverage the power of NVIDIA Optix.
 
 ### :eyes: Visual Scripting <a name="visual-scripting"></a>
 
@@ -1537,6 +1546,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 #### Others
 
+* [Dota2 Shader for Unity](https://github.com/JamesDante/Dota2-Shader-For-Unity "") - Dota2 Shader for Unity Engine.
 * [StandardGeometryShader](https://github.com/keijiro/StandardGeometryShader "") - An example of a geometry shader with Unity's standard lighting model support.
 * [Procedural Stochastic Texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) - Modified Unity Standard shader implementing Procedural Stochastic Texturing.
 * [NoiseBall](https://github.com/keijiro/NoiseBall "") - Mesh deforming shader example (Unity).
@@ -1576,6 +1586,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [UnityComputeShaderTest](https://github.com/kitasenjudesign/UnityComputeShaderTest "") - Compute shader example.
 * [OpaqueActiveCamo](https://github.com/SquirrelyJones/OpaqueActiveCamo "") - Unity 3D project showing opaque active camouflage rendering technique.
 * [Zagara](https://github.com/justalittlefat/Zagara "") - A tiny softrendering engine based on Unity3D. See [more](https://github.com/yqlizeao/UnitySoftRender).
+* [HSVA Unity](https://github.com/greggman/hsva-unity "") - A Hue Saturation Value adjustment shader for Unity. Useful for making lots of character colors.
 
 #### Collections
 
@@ -1630,6 +1641,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [KinoContour](https://github.com/keijiro/KinoContour "") - Contour line filter for Unity.
 * [Page curl effect for Unity3D](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D Github Page
 * [Outline Effect](https://github.com/cakeslice/Outline-Effect "") - Outline Image Effect for Unity.
+* [Outline Effect (fork)](https://github.com/lordofduct/Outline-Effect "") - Outline Image Effect for Unity.
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [KinoFringe](https://github.com/keijiro/KinoFringe "") - Chromatic aberration image effect for Unity.
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab "") - Order-independent Transparent in Unity.
@@ -1696,6 +1708,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.
 * [Koch's Fractals](https://github.com/hww/koch_fractals) - Koch Fractals Demo for Unity.
 * [SDF Gen Unity](https://github.com/mmerchante/sdf-gen-unity) - A signed distance function generator running inside Unity.
+* [SDFr](https://github.com/xraxra/SDFr) - A signed distance field baker for Unity 
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) - Convert a mesh to an SDF for the Visual Effect Graph in realtime.
 * [UnitySlitScan](https://github.com/kitasenjudesign/UnitySlitScan) - Simple time-displacement filter (slit-scan) on Unity.
 * [Crystal Caustics](https://github.com/CJT-Jackton/Crystal-Caustics) - Approximated crystal caustics effect in real-time.
@@ -1760,6 +1773,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ShadowVolume](https://github.com/chengkehan/ShadowVolume "") - Shadow Volume for Static-Scene-Object of Unity.
 * [Brunetons Improved Atmospheric Scattering](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering "") -  Unity port of Brunetons improved atmospheric scattering.
 * [PointCloudLoader](https://github.com/rctheriot/PointCloudLoader "") -  A Point Cloud loading utility for Unity.
+* [PlannarShadowForUnity](https://github.com/ozlael/PlannarShadowForUnity "") - Planar Shadow is very cheap and useful for mobile games.
+* [CascadedShadowMapping](https://github.com/chenyong2github/CascadedShadowMapping "")
+* [Cornell Box Photon Mapping](https://github.com/cvryn7/Cornell-Box-Photon-Mapping "") - Used photon mapping to render photo realistic cornell box.
 
 ### Raymarching <a name="raymarching"></a>
 
@@ -1775,6 +1791,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 
 * [VoxelWorld](https://github.com/SidiaDevelopment/VoxelWorld) - Training Unity on a Voxel World.
 * [VoxelMeshGenerator](https://github.com/chulini/VoxelMeshGenerator) - Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
+* [Warfest Voxel Unity](https://github.com/ArnaudValensi/warfest-voxel-unity) - A voxel game prototype made with Unity.
+
 
 ## :bar_chart: UI <a name="ui"></a>
 
@@ -2351,6 +2369,8 @@ screen.
 * [GodofWar AxeThrow](https://github.com/mixandjam/GodofWar-AxeThrow "") - Recreating the Axe Throw mechanic from God of War.
 * [MiraikomachiUnity](https://github.com/Miraikomachi/MiraikomachiUnity "") - Anime character for Unity.
 * [ECS Phyllotaxis](https://github.com/jeffvella/ECS-Phyllotaxis "") - Learning ECS - 100k Cubes in Phyllotaxis pattern.
+* [CustomWorldBootstrap](https://github.com/Sibz/CustomWorldBootstrap "")
+* [UnitySamples](https://github.com/hiryma/UnitySamples "")
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2541,7 +2561,9 @@ screen.
 * [UnityTD](https://github.com/wildex999/unitytd "") - Tower Defense Game with online Multiplayer.
 * [BrightSouls](https://github.com/leotgo/BrightSouls "") - An indie "Dark Souls" clone in Unity with Adaptive Game Technology.
 * [Combat Cars](https://github.com/keatonmay/Combat_cars "") - A multiplayer racing game made in Unity.
-
+* [Bright Souls](https://github.com/leotgo/BrightSouls "") - An indie "Dark Souls" clone in Unity with Adaptive Game Technology. 
+* [I Just Want to Play Minigolf](https://github.com/alexismorin/I-Just-Want-to-Play-Minigolf "") - Open Source Procedural VR Minigolf.
+* [Hydrogen Bomb Test Dummy](https://github.com/alexismorin/Hydrogen-Bomb-Test-Dummy "") - Lighthearted Physics-Based Survival.
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
 ## :speech_balloon: Chat Servers <a name="chat-servers"></a>
