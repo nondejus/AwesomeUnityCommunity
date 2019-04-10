@@ -558,6 +558,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D PerlinCameraShake](https://github.com/baratgabor/Unity3D-PerlinCameraShake) - Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
 * [Unity Jobs View Frustum Culling](https://github.com/MPozek/Unity-Jobs-View-Frustum-Culling) - A simple collection of jobs used for view frustum culling
 * [UnityCameraShake](https://github.com/IronWarrior/UnityCameraShake) - Generates pseudo-random camera shake using Perlin noise.
+* [UnitySceneCameraController](https://github.com/XJINE/Unity_SceneCameraController) - Control a camera or any other object like SceneView camera.
 
 ## Physics <a name="physics"></a>
 
@@ -1644,6 +1645,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LookingGlassRenderPipeline](https://github.com/wotakuro/LookingGlassRenderPipeline "") - Sample of LookingGlassRenderPipeline.
 * [Post-Processing Stack](https://github.com/Unity-Technologies/PostProcessing "") - Components for camera and other effects. ![Official](UnityResource16x16.png)
 * [Skinner](https://github.com/keijiro/Skinner "") - Special Effects with Skinned Mesh in Unity.
+* [SkinnedMeshCombiner](https://github.com/joshcamas/skinnedmeshcombiner "") - A Skinned Mesh Combiner that doesn't require actual skinned meshes as inputs.
 * [KinoBokeh](https://github.com/keijiro/KinoBokeh "") - Depth of field effect for Unity
 * [Kinoglitch](https://github.com/keijiro/KinoGlitch "") - Video glitch effects for Unity.
 * [KinoContour](https://github.com/keijiro/KinoContour "") - Contour line filter for Unity.
@@ -2006,16 +2008,17 @@ screen.
 * [TerrainToolSamples](https://github.com/Unity-Technologies/TerrainToolSamples) - New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
 * [Microsplat](https://assetstore.unity.com/packages/tools/terrain/microsplat-96478) - A modular free terrain shading system focused on performance and ease of use. MicroSplat is described as a replacement shader system for Unity Terrains.
 * [Terrain Topology Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms "") - Terrain topology algorithms in Unity.
-* [Unity DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
-* [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") -  A toolbox for procedural generation, dedicated to Unity. (#Procedural)
-* [Unity Interactive Erosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") -  Interactive erosion in Unity.
-* [Terrain Tool Customized](https://github.com/AncientMagikaTechnologies/TerrainToolCustomized "") -  This is our own custom Version of Unity Technologies "Terrain Tool Samples".
-* [PathPaintTool](https://github.com/Roland09/PathPaintTool "") -  A free and open source path painter tool for painting paths on terrain in Unity.
-* [Thalatta](https://github.com/JustGamingLTD/Thalatta "") -  An open source terrain generation suite.
-* [TerrainGeneration](https://github.com/guotata1996/TerrainGeneration "") -  Terrain generation based on nature of river flow.
-* [Lowpoly Terrain Editor](https://github.com/MCrafterzz/lowpolyterraineditor "") -  Free Low Poly terrain editor for Unity.
+* [Unity DryadeErosion](https://github.com/paulgswanson/Unity_DryadeErosion "") - A toolbox for procedural generation, dedicated to Unity. (#Procedural)
+* [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion "") - A toolbox for procedural generation, dedicated to Unity. (#Procedural)
+* [Unity Interactive Erosion](https://github.com/paulgswanson/Unity_InteractiveErosion "") - Interactive erosion in Unity.
+* [Terrain Tool Customized](https://github.com/AncientMagikaTechnologies/TerrainToolCustomized "") - This is our own custom Version of Unity Technologies "Terrain Tool Samples".
+* [PathPaintTool](https://github.com/Roland09/PathPaintTool "") - A free and open source path painter tool for painting paths on terrain in Unity.
+* [Thalatta](https://github.com/JustGamingLTD/Thalatta "") - An open source terrain generation suite.
+* [TerrainGeneration](https://github.com/guotata1996/TerrainGeneration "") - Terrain generation based on nature of river flow.
+* [Lowpoly Terrain Editor](https://github.com/MCrafterzz/lowpolyterraineditor "") - Free Low Poly terrain editor for Unity.
 * [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions "") -  Custom tools for use with [Vegetation Studio Pro](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835). 
-* [Hydraulic Erosion](https://github.com/SebLague/Hydraulic-Erosion "") -  Simulating erosion to try make procedural terrains look a little more natural.
+* [Hydraulic Erosion](https://github.com/SebLague/Hydraulic-Erosion "") - Simulating erosion to try make procedural terrains look a little more natural.
+* [Worldsmith](https://github.com/worldsmithdev/Worldsmith "") - Worldsmith Community Build.
 
 ## Navigation Mesh (NavMesh) <a name="navmesh"></a>
 
@@ -2219,6 +2222,7 @@ screen.
 * [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) - Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
 * [Bona Data Editor](https://github.com/bonahona/BonaDataEditor) - Unity plugin editor for easier manipulation of assets of certain types. (#ATTRIBUTES)
 * [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed UnityEditor WebView API.
+* [UnityMeshCounter](https://github.com/raimis001/unityMeshCounter) - Shows counters for mesh data.
 
 ### Search <a name="search"></a>
 
