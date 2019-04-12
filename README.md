@@ -305,6 +305,7 @@ Official resource: ![Official](UnityResource16x16.png)
 * [Unity CogBot](https://github.com/THeK3nger/unity-cogbot "") - NPC AI framework for the popular Unity 3D game engine.
 * [Gridworld](https://github.com/THeK3nger/gridworld "") - An 3D enviroment for testing AIs powered by Unity3D.
 * [Unity BehaviourTree](https://github.com/nickkorta/Unity_BehaviourTree "")
+* [Artificial Intelligence](https://github.com/marcelochaves95/artificial-intelligence "") - Artificial intelligence in Unity using graphs and the pathfinding RTA* algorithm.
 
 ## :computer: Machine Learning <a name="machine-learning"></a>
 
@@ -663,6 +664,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Simple Firebase Unity](https://github.com/dkrprasetya/simple-firebase-unity "") - Firebase Realtime-Database's REST API Wrapper for Unity in C#.
 * [Azure Services For Unity](https://github.com/dgkanatsios/AzureServicesForUnity "") - Accessing Azure services (App Service, Table Storage, CosmosDB with Table API, Event Hubs) from a Unity game.
 * [Build & Release Unity Games with Azure DevOps](https://alexknowles.info/unity/build-release-unity-games-with-azure-devops/ "") - Tutorial on how to build Unity games with Azure DevOps.
+* [MapsSDK Unity](https://github.com/Microsoft/MapsSDK-Unity "") - This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.
 
 ## :us: :uk: Internationalization & Localization (I18n & L10n) <a name="internationalization-localization"></a>
 
@@ -818,6 +820,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [ECS Unity](https://github.com/dimmpixeye/ecs.unity "") - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors.
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
+* [NanoECS](https://github.com/SinyavtsevIlya/NanoECS "") - C#-Unity ECS framework.
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
 * [URSA](https://github.com/pointcache/URSA "") - Integrated ECS framework for Unity.
 * [JECSu](https://github.com/pointcache/JECSu "") - Just another ECS for unity.
@@ -1107,6 +1110,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
 * [Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D) ![Official](UnityResource16x16.png)
 * [EasingCore](https://github.com/setchi/EasingCore) - Simple easing implementation for Unity.
+* [Unity SemVer](https://github.com/jeffcampbellmakesgames/unity-semver) - A SemVer 2.0.0 implementation for Unity.
 
 #### Gizmos
 
@@ -1280,6 +1284,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [FerrCommon](https://github.com/maluoi/FerrCommon "") - Common code for the Ferr tools.
 * [LayerManager](https://github.com/YondernautsGames/LayerManager "") - A simple tool for reordering, merging and modifying unity layers. Updates game objects, components and assets to match.
 * [RectTransformEditor](https://github.com/Syy9/RectTransformEditor "") - Custom RectTransform Editor.
+* [BGC Tools](https://github.com/UCRBrainGameCenter/BGC_Tools "") - A collection of useful Unity Tools and scripts developed at the UC Riverside Brain Game Center.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1750,6 +1755,8 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [GPUPTrail](https://github.com/Butadiene/GPUPTrail "")
 * [TrailBoids](https://github.com/keijiro/TrailBoids "") - Just tried making boids with particle trails.
 * [KvantSwarm](https://github.com/keijiro/KvantSwarm "") - Flowing line renderer for Unity.
+* [OutLine Geometry](https://github.com/yuyujunjun/OutLine_Geometry "") - VFX using Outline And Geometry.
+* [LaspVfx](https://github.com/keijiro/LaspVfx "") - Audio reactive Unity VFX with LASP.
 
 ### Lightning / Points of Clouds <a name="lightning-points-clouds"></a>
 
@@ -1804,7 +1811,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [VoxelMeshGenerator](https://github.com/chulini/VoxelMeshGenerator) - Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
 * [Warfest Voxel Unity](https://github.com/ArnaudValensi/warfest-voxel-unity) - A voxel game prototype made with Unity.
 
-
 ## :bar_chart: UI <a name="ui"></a>
 
 ### Control Components <a name="ui-controls-components"></a>
@@ -1842,6 +1848,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 #### Sprite Atlas <a name="ui-controls-spriteatlas"></a>
 
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
+* [Unity2017AutoCreateSpriteAtlas](https://github.com/hanbim520/Unity2017AutoCreateSpriteAtlas)
 
 #### Scroll View <a name="ui-controls-scroll-view"></a>
 
@@ -1853,6 +1860,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [FancyScrollView](https://github.com/setchi/FancyScrollView "") - A scrollview component that can implement highly flexible animation.
 * [UnityDynamicScrollRect](https://github.com/Mukarillo/UnityDynamicScrollRect "") - An optimized approach to lists with dozens of elements and a Pooling system.
 * [UnityDynamicScrollView](https://github.com/aillieo/UnityDynamicScrollView) - Dynamic scrollView based on UGUI.
+* [Unity Scrolly](https://github.com/alhaddado/unity-scrolly) - A Touch/Drag scroll list implementation using Unity GUI (4.6+).
+* [ReuseScroller](https://github.com/midnightSuyama/ReuseScroller) - Reuse cell for uGUI ScrollView.
+* [Variable Infinite Scroll](https://github.com/ToshikiImagawa/Variable-infinite-scroll) - Variable infinite scroll in Unity UI.
 
 #### Page View <a name="ui-controls-page-view"></a>
 
@@ -2385,6 +2395,7 @@ screen.
 * [ECS Phyllotaxis](https://github.com/jeffvella/ECS-Phyllotaxis "") - Learning ECS - 100k Cubes in Phyllotaxis pattern.
 * [CustomWorldBootstrap](https://github.com/Sibz/CustomWorldBootstrap "")
 * [UnitySamples](https://github.com/hiryma/UnitySamples "")
+* [Unity 3D Lessons](https://github.com/Winchy/Unity3d-Lessons "")
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2579,6 +2590,8 @@ screen.
 * [I Just Want to Play Minigolf](https://github.com/alexismorin/I-Just-Want-to-Play-Minigolf "") - Open Source Procedural VR Minigolf.
 * [Hydrogen Bomb Test Dummy](https://github.com/alexismorin/Hydrogen-Bomb-Test-Dummy "") - Lighthearted Physics-Based Survival.
 * [Morgan Travels Through Time](https://github.com/AArtlone/Morgan-Travels-Through-Time "") - A game series about a child from 2019 who accidentally ends up in 1672 as they followed the neighbor's kid. Morgan needs to find their way back to their own time.
+* [Race Game](https://github.com/BenjaminViranin/Race-Game "") - 3D Race Game on Unity.
+* [FantasyTrip](https://github.com/Guznat/FantasyTrip "") - Mobile 2D platform game created with Unity and C#.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
