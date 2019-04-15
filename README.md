@@ -819,7 +819,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Entitas Lite](https://github.com/rocwood/Entitas-Lite "") - Entitas-Lite is a No-CodeGenerator branch of Entitas, and also a fast & easy ECS framework for C#/Unity. 
 * [ECS Unity](https://github.com/dimmpixeye/ecs.unity "") - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors.
 * [Entitas](https://github.com/Leopotam/ecs "") - C# Entity Component System with optional integration to Unity game engine.
-* [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC).
+* [Svelto.ECS](https://github.com/sebas77/Svelto.ECS "") - C# Lightweight Data Oriented Entity Component System Framework. See legacy attemps [here](https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D) and [here](https://github.com/sebas77/-Deprecated-Svelto.IoC). Also [Svelto.SignalChain](https://github.com/sebas77/Svelto.SignalChain).
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS "") - C#-Unity ECS framework.
 * [ECSTest](https://github.com/keijiro/ECSTest "") - Some small tests for Unity ECS.
 * [URSA](https://github.com/pointcache/URSA "") - Integrated ECS framework for Unity.
@@ -1111,6 +1111,9 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D) ![Official](UnityResource16x16.png)
 * [EasingCore](https://github.com/setchi/EasingCore) - Simple easing implementation for Unity.
 * [Unity SemVer](https://github.com/jeffcampbellmakesgames/unity-semver) - A SemVer 2.0.0 implementation for Unity.
+* [MasterUnityHandles](https://github.com/alelievr/MasterUnityHandles) - Unity custom handles examples.
+* [Unity Mesh Triangulator](https://github.com/joshcamas/unity-mesh-triangulator) - A modified version of alexmuab's unity-mesh-triangulator.
+* [Unity Rulers](https://github.com/geekrelief/unityrulers) - A ruler editor to measure distances between game objects in the Scene view.
 
 #### Gizmos
 
@@ -1657,6 +1660,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Page curl effect for Unity3D](https://github.com/Dandarawy/Unity3DBookPageCurl "") - Page curl effect for Unity3D Github Page
 * [Outline Effect](https://github.com/cakeslice/Outline-Effect "") - Outline Image Effect for Unity.
 * [Outline Effect (fork)](https://github.com/lordofduct/Outline-Effect "") - Outline Image Effect for Unity.
+* [Outline Effect but its faster](https://github.com/JimmyCushnie/Outline-Effect-but-its-faster "") - A fork of Outline Effect with improved performance.
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [KinoFringe](https://github.com/keijiro/KinoFringe "") - Chromatic aberration image effect for Unity.
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab "") - Order-independent Transparent in Unity.
@@ -1897,6 +1901,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI "") - Soft masking for uGUI elements in Unity.
 * [UnmaskForUGUI](https://github.com/mob-sakai/UnmaskForUGUI "") - Reverse mask for uGUI element in Unity.
 * [UISoftMask](https://github.com/aillieo/UISoftMask) - Soft mask based on UGUI.
+* [GuideMask](https://github.com/asyncrun/GuideMask)
 
 #### Mobile Area Mask <a name="ui-controls-mobile-area-mask"></a>
 
@@ -2029,6 +2034,8 @@ screen.
 * [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions "") -  Custom tools for use with [Vegetation Studio Pro](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835). 
 * [Hydraulic Erosion](https://github.com/SebLague/Hydraulic-Erosion "") - Simulating erosion to try make procedural terrains look a little more natural.
 * [Worldsmith](https://github.com/worldsmithdev/Worldsmith "") - Worldsmith Community Build.
+* [Terrain Stamps](https://github.com/Roland09/Terrain-Stamps "") - Stamps for the Unity Terrain Stamp Tool.
+* [StampToolExtended](https://github.com/Roland09/StampToolExtended "") - Extended version of the Unity Terrain Stamp Tool.
 
 ## Navigation Mesh (NavMesh) <a name="navmesh"></a>
 
@@ -2233,6 +2240,7 @@ screen.
 * [Bona Data Editor](https://github.com/bonahona/BonaDataEditor) - Unity plugin editor for easier manipulation of assets of certain types. (#ATTRIBUTES)
 * [WebViewHook](https://github.com/willnode/WebViewHook) - Exposed UnityEditor WebView API.
 * [UnityMeshCounter](https://github.com/raimis001/unityMeshCounter) - Shows counters for mesh data.
+* [Unity Editor Icons](https://github.com/halak/unity-editor-icons) - Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.
 
 ### Search <a name="search"></a>
 
@@ -2303,6 +2311,7 @@ screen.
 * [AssetMessenger](https://github.com/wataru-ito/AssetMessenger "") - Unofficial Issuetracker for the Unity Asset Store.
 * [RotateMe](https://github.com/mob-sakai/RotateMe "") - A tutorial for "How to develop a package for UnityPackageManager".
 * [Unitypackage Extractor](https://github.com/Cobertos/unitypackage_extractor "") - Extract a .unitypackage.
+* [Unity Package Tools](https://github.com/jeffcampbellmakesgames/unity-package-tools "") - A set of developer tools to make it easier to create and distribute packages for the native Unity Package Manager.
 
 ### Asset Bundles <a name="assets-management-bundles"></a>
 
@@ -2396,6 +2405,8 @@ screen.
 * [CustomWorldBootstrap](https://github.com/Sibz/CustomWorldBootstrap "")
 * [UnitySamples](https://github.com/hiryma/UnitySamples "")
 * [Unity 3D Lessons](https://github.com/Winchy/Unity3d-Lessons "")
+* [SimpleIncremental](https://github.com/ErikOverflow/SimpleIncremental "") - A simple Unity project that introduces many of Unity's cooler advanced concepts.
+* [Physarum](https://github.com/DenizBicer/Physarum "") - This project implements the algorithm presented in the paper "Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks" by Jeff Jones.
 
 # :mortar_board: Learning Resources <a name="learning-resources"></a>
 
@@ -2592,6 +2603,8 @@ screen.
 * [Morgan Travels Through Time](https://github.com/AArtlone/Morgan-Travels-Through-Time "") - A game series about a child from 2019 who accidentally ends up in 1672 as they followed the neighbor's kid. Morgan needs to find their way back to their own time.
 * [Race Game](https://github.com/BenjaminViranin/Race-Game "") - 3D Race Game on Unity.
 * [FantasyTrip](https://github.com/Guznat/FantasyTrip "") - Mobile 2D platform game created with Unity and C#.
+* [Voice Controlled Unity Game](https://github.com/gesture-based-ui-development/voice-controlled-unity-game "") - Repository containing the source code and development of a gesture based unity game using speech recognition.
+* [HoloMagnet3](https://github.com/feel-physics/HoloMagnet3) - Science (Physics) education app for HoloLens.
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
