@@ -371,6 +371,7 @@ Official resource: ![Official](UnityResource16x16.png)
 * [Unity Animator Helpers](https://github.com/ashblue/unity-animator-helpers "") - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects.
 * [SpritedowAnimator](https://github.com/Elendow/SpritedowAnimator "") - A plugin to do simple sprite animations avoiding the big and tedious Unity's Mechanim system. (#2D)
 * [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation "") - Unity animation object with gpu instancing.
+* [UnityGpuInstancing](https://github.com/kitasenjudesign/UnityGpuInstancing "") - GPU Instancing + Boids + Animation Texture Baker.
 * [Unity Animation Instancing](https://github.com/bmjoy/Unity-Animation-Instancing "")
 * [FACSvatar](https://github.com/NumesSanguis/FACSvatar "") - An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender).
 * [UrMotion](https://github.com/beinteractive/UrMotion "") - Flexible motion engine for non time-based animation in Unity.
@@ -386,7 +387,8 @@ Official resource: ![Official](UnityResource16x16.png)
 * [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 * [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
 * [iTween Expansion](https://github.com/jtothebell/iTween) - An expansion of Bob Berkebile's Unity 3D tweening plugin.
-* [XTween](https://github.com/Toki-Labs/XTween "Tweener for Unity")
+* [XTween](https://github.com/Toki-Labs/XTween "") - Tweener for Unity.
+* [PlasticTween](https://github.com/PlasticApps/PlasticTween "") - Tween Library for Unity3D (ECS+JOBS).
 * [ReMotion](https://github.com/neuecc/ReMotion "Hyper Fast Reactive Tween Engine for Unity") - Hyper Fast Reactive Tween Engine for Unity.
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 * [AutoMotion](https://github.com/UnityPatterns/AutoMotion "") - A simple yet powerful set of functions for creating smooth motion, tweens, and bouncy effects.
@@ -1288,6 +1290,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [LayerManager](https://github.com/YondernautsGames/LayerManager "") - A simple tool for reordering, merging and modifying unity layers. Updates game objects, components and assets to match.
 * [RectTransformEditor](https://github.com/Syy9/RectTransformEditor "") - Custom RectTransform Editor.
 * [BGC Tools](https://github.com/UCRBrainGameCenter/BGC_Tools "") - A collection of useful Unity Tools and scripts developed at the UC Riverside Brain Game Center.
+* [Unity3DTiles](https://github.com/NASA-AMMOS/Unity3DTiles "") - A 3D Tiles implementation in Unity.
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -1334,6 +1337,7 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity Wakatime](https://github.com/vladfaust/unity-wakatime "") - [WakaTime](https://wakatime.com/) plugin for Unity.
 * [Line SDK Unity](https://github.com/line/line-sdk-unity "") - Provides a modern way of implementing LINE APIs in Unity games, for iOS and Android.
 * [Mastodon Unity](https://github.com/Santarh/mastodon-unity "")
+* [PlayFab Unity SDK](https://github.com/PlayFab/UnitySDK "") - Unity C# SDKs for PlayFab. See also its [extensions](https://github.com/PlayFab/UnityEditorExtensions).
 
 ### Languages
 
@@ -2017,6 +2021,7 @@ screen.
 * [Shapes](https://github.com/olange/shapes) - Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
 * [Unity.ProceduralContentGeneration Terrain](https://github.com/ErikMoczi/Unity.ProceduralContentGeneration-Terrain) - (#TERRAIN)
 * [Procedural Level Generator Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation.
+* [LSystemsInUnity](https://github.com/pboechat/LSystemsInUnity) - L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
