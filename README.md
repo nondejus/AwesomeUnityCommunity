@@ -6,7 +6,7 @@
 	</div>
   <br>
 	<div>
-		<h1>Awesome Unity</h1>		
+		<h1>Awesome Unity Community</h1>		
 		<a href="https://github.com/sindresorhus/awesome"> 
 			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
 		</a>					
