@@ -1,8 +1,8 @@
 <div align="center">
 	<div>
-		<a href="https://github.com/agarcialeon/awesome-unity/">
+		<!--<a href="https://github.com/agarcialeon/awesome-unity/">
 			<img width="500" src="awesome-unity.png" alt="Awesome Unity">
-		</a>
+		</a>-->
 	</div>
   <br>
 	<div>
