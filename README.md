@@ -2660,7 +2660,7 @@ screen.
 
 # :clap: :tada: Contributors to this repository <a name="contributors"></a>
 
-:guardsman: [@agarcialeon](https://github.com/agarcialeon) -  Owner of the repository
+:guardsman: [@agarcialeon](https://github.com/agarcialeon) - Creator
 
 # Contributing <a name="contributing"></a>
 
