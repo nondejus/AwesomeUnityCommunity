@@ -23,16 +23,12 @@ html, body
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: space-around;
 }
 
 .header-title
 {
   margin-left: 2%;
-}
-
-.navbar
-{
-  align-self: flex-end;
 }
 
 nav .navbar-nav li a
