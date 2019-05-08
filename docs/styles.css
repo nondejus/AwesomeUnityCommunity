@@ -25,6 +25,11 @@ html, body
   align-items: center;
 }
 
+.header-title
+{
+  margin-left: 2%;
+}
+
 nav .navbar-nav li a
 {
   color: #232931 !important;
