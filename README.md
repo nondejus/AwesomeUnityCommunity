@@ -2677,6 +2677,6 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-unity/blob/master/C
 
 # :memo: To be done <a name="to-do"></a>
 
-See the state of the project in the [kanban board](https://github.com/agarcialeon/awesome-unity/projects/1).
+See the state of the project in the [kanban board](https://github.com/UnityCommunity/AwesomeUnityCommunity/projects/1).
 
 [:top: Back to Top](#awesome-unity)
