@@ -30,6 +30,11 @@ html, body
   margin-left: 2%;
 }
 
+.navbar
+{
+  align-self: flex-end;
+}
+
 nav .navbar-nav li a
 {
   color: #232931 !important;
