@@ -241,13 +241,10 @@ Official resource: ![Official](UnityResource16x16.png)
 * [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
 * [2DTileMapLevelEditor](https://github.com/GracesGames/2DTileMapLevelEditor) - 2D Tile Map Level Editor for Unity.
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Make mesh like line, polygon, etc in Unity3D.
-* [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - SVG and Vector Graphics Sample Project. ![Official](UnityResource16x16.png)
 * [Cat2DAnimation](https://github.com/cinight/Cat2DAnimation) - 2D Animation Tool.
-* [NanoSVG CSharp](https://github.com/thinksquirrel/nanosvg-csharp) - NanoSVG for C#.
 * [Live2D with Unity](https://github.com/sera0506/Live-2D-with-Unity) - Import Live2D and read mtn file In Unity3D.
 * [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing) - Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
 * [Futile](https://github.com/MattRix/Futile) - A super simple Unity 2D framework.
-* [UnitySVG](https://github.com/MrJoy/UnitySVG) - SVG renderer for Unity3D.
 * [BulletPatternEditorUnity](https://github.com/unitycoder/BulletPatternEditorUnity) - Easily create shoot em up bullet patterns.
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - Create 2D shapes in an instant with the PolyMesh editor.
 * [2D Demos](https://bitbucket.org/Unity-Technologies/2ddemos) - 2D Experimental Preview Demo projects. ![Official](UnityResource16x16.png)
@@ -262,7 +259,9 @@ Official resource: ![Official](UnityResource16x16.png)
 
 ## Vector Graphics <a name="vector-graphics"></a>
 
-:construction:
+* [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - SVG and Vector Graphics Sample Project. ![Official](UnityResource16x16.png)
+* [NanoSVG CSharp](https://github.com/thinksquirrel/nanosvg-csharp) - NanoSVG for C#.
+* [UnitySVG](https://github.com/MrJoy/UnitySVG) - SVG renderer for Unity3D.
 
 ## :bulb: AI <a name="ai"></a>
 
