@@ -2576,7 +2576,7 @@ screen.
 
 ## :triangular_ruler: Style Guide <a name="style-guide"></a>
 
-:construction:
+* [Unity Styl eGuide](https://github.com/stillwwater/UnityStyleGuide) - The Ramen Unity Style Guide: For file structure, naming conventions and other things.
 
 ## :key: Shortcuts <a name="shortcuts"></a>
 
